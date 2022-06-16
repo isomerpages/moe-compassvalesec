@@ -18,3 +18,7 @@ Our culture and ethos for all students and staff are:
 **Care for One Another** - Encourage and support one another at all times; and
 
 **Diversity in Harmony** - Embrace diversity and celebrate our differences
+
+## North Star’s Pledge
+
+![](/images/Pledge.jpg)
