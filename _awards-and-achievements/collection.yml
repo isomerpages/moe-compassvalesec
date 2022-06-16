@@ -2,5 +2,6 @@ collections:
   awards-and-achievements:
     output: true
     order:
+      - O levels/2021.md
       - O levels/.keep
       - Awards and Achievements.md
