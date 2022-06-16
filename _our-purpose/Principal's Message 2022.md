@@ -4,7 +4,7 @@ permalink: /our-purpose/principals-message-2022
 description: ""
 ---
 <body>
-<p><img src="/images/Principals%20Message%202022%20March.jpg" style="width:183px;height:240px;margin-left:15px;">
+<p><img src="/images/Principals%20Message%202022%20March.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
 	
 <strong>Reflections on 2021 </strong>
 
@@ -25,18 +25,7 @@ Nevertheless, although there were many lost opportunities of learning experience
 As for the staff, I am grateful that all our teachers have continued their best efforts in ensuring quality teaching and learning and providing our students as many opportunities as possible for holistic development and a quality school learning experience despite the various restrictions and disruptions due to Covid.  To help our staff cope with the additional teaching/work demands and administrative tasks, we have spent much effort in ensuring adequate staffing, optimising staff deployment/workload, prioritising school programmes, and organising staff developmental and well-being programmes.
 </p>
 
-</body>
-</html>
 
-<html>
-<head>
-<style>
-img {
-  float: right;
-}
-</style>
-</head>
-<body>
 	
 **Focus Areas in 2022**
 
@@ -109,3 +98,6 @@ Our students recite the North Stars’ Pledge every Monday during flag-raising c
 **Mr Chia Chor Yann**
 
 **March 2022**
+	
+# 2021
+<p><img src="/images/pPIC.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
