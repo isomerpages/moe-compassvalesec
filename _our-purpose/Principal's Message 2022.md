@@ -66,14 +66,12 @@ Our school programmes are aligned to MOE’s focus areas of learn for life, embr
 
 * Developing Cognitive, Social and Emotional Skills – Teaching students skills such as adaptability, problem-solving and emotional regulation explicitly through STAR Programme, CCE lessons, Peer Support & Relationships Programme, CCA etc. 
 
-• Providing a Caring & Enabling Environment – To develop positive Teacher-Student Relationship and strengthen teacher-student bonding, we have instituted regular one-on-one Teacher-Student Chat (TSC) for Form/Co-Form teachers to know their students better    where every student will be engaged at least twice a year.  From 2022, we have set aside “Tender Tuesday” for this purpose. We hope students will feel valued, cared for and supported by their teachers. We have also implemented Peer Support & Relationships (TSR) Programme since 2017, with 2 Peer Support Leaders (PSLs) in each class to build positive student-student relationship, and have shared our best practices at MOE’s platforms. In 2022, we will provide broader and deeper training for all PSLs and enhance the roles    of Peer Support Student Mentors.
+* Providing a Caring & Enabling Environment – To develop positive Teacher-Student Relationship and strengthen teacher-student bonding, we have instituted regular one-on-one Teacher-Student Chat (TSC) for Form/Co-Form teachers to know their students better    where every student will be engaged at least twice a year.  From 2022, we have set aside “Tender Tuesday” for this purpose. We hope students will feel valued, cared for and supported by their teachers. We have also implemented Peer Support & Relationships (TSR) Programme since 2017, with 2 Peer Support Leaders (PSLs) in each class to build positive student-student relationship, and have shared our best practices at MOE’s platforms. In 2022, we will provide broader and deeper training for all PSLs and enhance the roles    of Peer Support Student Mentors.
 
   
 
-**Looking Ahead**
-
-  
-
+<strong>Looking Ahead</strong><br>
+	
 Covid-19 has disrupted many of our key school events/programmes in the past 2 years. We hope we could resume our annual cross- country race/sports carnival, Anniversary & Awards Day, Graduation Night and our many overseas trips (China Suzhou twinning schools exchange/performing arts/cultural immersion, Japan aeronautics learning journeys, Indonesia Bandung adventure and leadership development, Vietnam service-learning community projects, Thailand Boys Brigade Exchange) soon.  We have also cancelled our 20th school anniversary celebrations in 2020 due to Covid and eagerly look forward to our silver jubilee in 2025. 
 
   
@@ -88,9 +86,8 @@ A school is only as good as its teachers.  We place a strong emphasis on contin
 
 Our students recite the North Stars’ Pledge every Monday during flag-raising ceremony: “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star!”  At the end of the week, students will reflect on what they have learnt and achieved, and how have they lived and shined like a North Star in the course of the week. Being and becoming a North Star is an ongoing journey of personal growth for all our students to find their compass and realise the star within, and all our teachers are committed to help our students realise this goal and bring out the best in everyone.   
 
-**Mr Chia Chor Yann**
-
-**March 2022**
+<strong>Mr Chia Chor Yann</strong><br>
+<strong>March 2022</strong>
 	
 # 2021
 <p><img src="/images/pPIC.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
