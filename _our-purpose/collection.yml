@@ -2,7 +2,6 @@ collections:
   our-purpose:
     output: true
     order:
-      - Awards & Achievements/.keep
       - Principal's Message 2022 WIP.md
       - School Philosophy, Culture and Ethos.md
       - School Vision, Mission, Motto.md
