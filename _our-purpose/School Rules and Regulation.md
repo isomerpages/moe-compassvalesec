@@ -160,3 +160,17 @@ Discipline is an integral part of schooling in Compassvale Secondary School. We 
 *   Piercings on any other part of the body are not allowed.
 *   Name tag should be sewn on the left-hand side of the school uniform.
 *   Name tag should not be sewn on the PE t-shirt.
+
+### Hairstyle - Boys
+![](/images/hairstyle%20boys.png)
+*   Fringe should not touch the eyebrow when combed down. Sideburns should not cross the upper mark of the ear.
+*   Hair at the back should be straight, sloped and at least 2cm above the collar. Hair around the ears should be sloped and should not touch the ears.
+*   No spiky, punk, uneven or outlandish hairstyles
+
+### Hairstyle - Girls
+![](/images/hairstyle%20girls.png)
+*   Hair should be neat and tidy at all times.
+*   There should not be any hair touching the eyebrow. Fringes/bangs should be neatly pinned up.
+*   Hair should be kept away from the side of the face at all times by using only black hair accessories if required.
+*   Long hair should be tied up neatly with only black hair accessories.
+*   Hair should be tied up if it touches the bottom of the collar.
