@@ -1,4 +1,5 @@
 collections:
   our-purpose:
     output: true
-    order: []
+    order:
+      - Principal's Message 2022.md
