@@ -151,3 +151,12 @@ Discipline is an integral part of schooling in Compassvale Secondary School. We 
 ### Girls
 <img src="/images/girls%20uniform.png" 
      style="width:80%">
+		 
+*   School uniform must be buttoned up and worn neatly at all times.
+*   School dress should cover half the knee cap.
+*   Girls are allowed to wear hair accessories such as hair bands or hair clips, which must be only black.
+*   Only transparent ear sticks are allowed.
+*   Girls may wear simple, round earrings that do not attract undue attention, and are only permitted to have one piercing per earlobe.
+*   Piercings on any other part of the body are not allowed.
+*   Name tag should be sewn on the left-hand side of the school uniform.
+*   Name tag should not be sewn on the PE t-shirt.
