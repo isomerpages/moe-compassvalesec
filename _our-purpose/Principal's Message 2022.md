@@ -255,7 +255,7 @@ Our students and staff have once again achieved many breakthroughs and sustained
 	
 # 2018
 <img src="/images/tnP%20Message_photo.jpg" 
-     style="width:50%" align = left>
+     style="width:40%" align = left>
 Our school vision is for our students to become ‘_World Ready Youth’_ \- Innovative contributors and upright citizens with a global outlook, with a passion for living and life-long learning.  We believe there is a star in all our students and help them _Realise the Star Within_, which is our school motto.  We call our students “North Stars” and endeavour to develop them into a North Star, shining brightly with impeccable character and achieving excellence in both academic and non-academic domains, and acting as a guiding light for the community and the world.  We help our students find their own compasses in life and achieve success in their own ways – doing what they find meaningful and living a life of purpose.  Our teachers are committed to bringing out the best in each and every student.  Our culture and ethos are Achieve our Best; Believe in Every Child; Care for Every Child and Determined to Learn.  To further ingrain our school ethos in our students, we have come up with the North Star’s Pledge – “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star !”  
 
   
