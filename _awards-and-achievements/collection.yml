@@ -1,4 +1,5 @@
 collections:
   awards-and-achievements:
     output: true
-    order: []
+    order:
+      - Awards and Achievements.md
