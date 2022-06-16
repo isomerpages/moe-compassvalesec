@@ -6,7 +6,7 @@ description: ""
 <body>
 <p><img src="/images/Principals%20Message%202022%20March.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
 	
-<strong>Reflections on 2021 </strong>
+<strong>Reflections on 2021 </strong><br>
 
 2021 has been another year of living with Covid-19 and adapting our school programmes in alignment with the prevailing safe management/ring fencing measures and MOE guidelines for school activities. I am heartened that our students have coped well with the “new normal” of learning such as personalised digital learning programme with personal learning devices and blended learning with home-based online learning and student-initiated learning.There was greater reliance on technology and self-directed independent learning, and students needed to acquire new study skills and learn new media literacies. On the other hand, there were fewer social interactions due to limitations of class-based/cohortised activities and social distancing. The missed opportunities of making friends and learning beyond class/level/school and social events in school had impacted on the social skills development of our students.
 
