@@ -2,6 +2,7 @@ collections:
   our-purpose:
     output: true
     order:
+      - School Brochure.md
       - School Song.md
       - School Values.md
       - School Vision, Mission, Motto.md
