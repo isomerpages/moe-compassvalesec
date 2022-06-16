@@ -101,3 +101,119 @@ Our students recite the North Stars’ Pledge every Monday during flag-raising c
 	
 # 2021
 <p><img src="/images/pPIC.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
+
+2020 has been a difficult year for all schools in Singapore as we grappled with the Covid-19 pandemic and had to react to the evolving situation constantly. We had to implement various operational measures and adjust our school programmes in relation to safety and well-being of all students and staff, school closure and Full Home-based Learning during circuit breaker, back to school transition plan for graduating students, support plan for high-needs students, and the gradual return to school for different levels. The focus was on ensuring effective learning and curriculum continuity as well as working with and gaining the trust of parents to overcome the various challenges. I am proud that our staff and students had risen to the challenges and adapted to the situation very well. Instructional programmes went on smoothly with new ways of teaching and learning despite the steep learning curves for teachers and students. Our teachers had also strived to continue with providing a holistic education to all students as far as possible through new ways of organising school programmes and activities, and our students had responded well with appreciation and gratitude. All our CCAs had also managed to offer e-CCA to their students in some form while physical activities were suspended, even though it is not mandated by MOE.
+
+  
+
+In addition, Covid-19 has disrupted many of our key school events/programmes in 2020, including special programmes/new initiatives planned for the year. These include 20th school anniversary celebrations, NDP combined school choir performance, MOE’s One School One Country programme under ASEAN World Skills competition, MOE’s pilot project on performing arts based learning experiences for lower secondary music curriculum, hosting of AST Outstanding Educator in Residence Programme etc. However, although there were many lost opportunities of learning for students and staff, there were also many lessons and teachable moments for all. These include personal and social responsibilities for the common good, graciousness and empathy for the vulnerable, appreciation and gratitude for health care and frontline workers, resilience and adaptability to the new normal, respect for planet earth and reckoning of humanity, trust and unity in overcoming the pandemic together etc.
+
+  
+
+Moving forward in 2021, while we continue to be vigilant against Covid-19 and observe safe management measures, our focus this year has been implementation of the various new MOE initiatives. These include refreshed Character & Citizenship Education (CCE) 2021 curriculum starting with lower secondary from Term 1, Blended Learning (BL) and Personalised Digital Learning Programme (PDLP) from Term 3, and preparation for the roll out of Full Subject-Based Banding (FSBB) by 2023. CCE2021 will equip students with stronger sense of values, resilience and skills with greater emphasis on mental health, contemporary issues and peer support. BL and PDLP will accelerate learning through digital tools and prepare students to thrive in a digital and technology-driven future. FSBB customises learning to students’ subject-specific strengths and interests and will reduce stigmatisation associated with stream labelling, increase porosity in post-secondary education pathways and cultivate a growth mindset in students.
+
+  
+
+Besides these new MOE initiatives, we will continue with our best efforts to provide a quality education and school experience for all our students. We will forge ahead to realise our school vision of developing our students to be ‘World Ready Youth’ (and future ready for a constantly changing world) through a forward looking balanced and holistic education, a vibrant learning community with a caring culture, close collaborations with our parents, stakeholders and partners, and continuous staff professional development.
+
+  
+
+To encourage our students to learn for life, we guide all students to set life goals and work towards their aspirational targets through a personalised education and career plan. To instil joy of learning, we aim to provide at least one enrichment programme for each level/stream by each academic department. To achieve value-added academic results, we have our PRIME (PRoaction, Intervention, Motivation & Empowerment) framework for academic excellence. To nurture self-confident students, we adopt positive education/growth mindset in student development. To develop self-directed learners, we leverage on ICT-enabled learning and flipped learning. To produce problem identifiers and solvers, we develop collaborative problem-solving/critical & inventive thinking skills through curricular
+
+  
+
+To develop students of good character as well as active and global citizens, we place a strong emphasis on Character & Citizenship Education/National Education, Values-in-Action and Learning for Life Programme on Community & Youth Leadership. To develop our students holistically, we anchor on our signature STAR Programme for all levels – Seek out your strength, Take responsibility, Adopt an enterprising spirit and Ready for the world. To provide holistic care for all our students, we have a full complement of the Year Heads team and pastoral care staff and Gear-Up Programme/After School Centre for high needs students.  
+
+  
+
+To establish a niche of excellence in teaching and learning, we continue to develop our strengths in STEM (Science, Technology, Engineering and Math), infusing design thinking, maker space and computational thinking in relevant subjects. Key programmes include our Aeronautics Applied Learning Programme, inter-disciplinary Project Work with a scientific focus on environment education/sustainable living, Science Outdoor Learning Experience (SOLE), ‘O’ level Electronics, ICT Digital Maker Programme, Fun with Math Programme, and participation in STEM competitions etc.
+
+  
+
+Our Staff Professional Development Committee, led by our School Staff Developer and supported by a Lead Teacher and seven Senior Teachers for various subject disciplines, promotes a strong professional learning and innovative culture among all teachers and our teachers regularly share their expertise at various platforms beyond the school such as MOE Teachers Conference & ExCEL Fest and AST Teacher-Led Workshops. We have consistently achieved MOE Innergy Awards for innovations in teaching and learning. Our teachers have also won several national recognition in the past few years such as finalists in Outstanding Youth in Education Awards, NIE Caring Teacher Award (national level), Association of AST Awards and appointments to the Teachers Council chaired by Director-General of Education.
+
+  
+
+At the start of this year, we have crafted the “Expectations of a CVSS Student” to spell out more explicitly what we expect of a CVSS student, viz.
+
+*   Be proud of the school - Knows the school identity and history, and upholds the school reputation and image
+*    Preserves and promotes the school culture and ethos - Upholds school values and exemplifies the values in thoughts, behaviour and actions at all times
+*    Being and becoming a North Star - Abides by the North Star’s Pledge and commits to living out the pledge every day
+*    Takes ownership of one’s holistic development and well-being - Takes part actively in school life to co-create a vibrant learning community
+*    Be a respectful, respectable and responsible member of the school community - Observes school rules and civic-mindedness. Be a peer supporter and community builder
+*   Leads a meaningful and purposeful life - Serves the school and the larger community with humility and gratitude
+
+  
+
+Trenyce Teo (Sec 4N2/2019) is a fine example of the kind of students we aim to nurture. Although from the Normal (Academic) course, Trenyce has performed well academically and shown exemplary character and leadership in her role as the President of the Student Council. She received the 2020 Lee Kuan Yew Award for All-Round Excellence (Secondary) upon completion of her N levels, which is a pinnacle MOE national award that recognises well-rounded students who have excelled in both academic and non-academic spheres and exemplified the MOE Desired Outcomes of Education. Trenyce was among only 12 recipients of the award from all secondary schools and our second recipient in the history of our school. We are very proud of her achievements.
+
+  
+
+Our students recite the North Star’s Pledge every Monday during flag-raising ceremony: “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star!” Being and becoming a North Star is the daily mission for all our students. Our teachers are committed to bringing out the best in every student, and help our students find their own compasses in life and achieve success in their own ways. We will continue to establish our culture and ethos of “ABCD - Achieve our best; Believe in ourselves; Care for one another and Diversity in harmony”, with our shared school values of “G2 R3 I T – Graciousness, Gratitude, Respect, Responsibility, Resilience, Integrity and Teamwork”.
+
+  
+
+With optimism, we look forward to a good year ahead and embrace all the challenges with confidence, steadfastness and fortitude. An optimist sees the opportunity in every difficulty but a pessimist sees the difficulty in every opportunity. There is a “North Star” in each of us.
+
+  
+
+**Mr Chia Chor Yann**
+
+**April, 2021**
+	
+# 2020
+	
+<img src="/images/P_foreword1.jpg" 
+     style="width:80%">
+Our school vision and mission have remained the same since the founding of the school in 2000 and that is to develop our students to be _‘World Ready Youth’_ through a balanced and holistic education.  We call our students North Stars and our school motto has also remained the same - _Realise the Star Within_ – as we believe there is a star in every one of our students.  This encompasses being and becoming a North Star and students recite the North Star’s Pledge every Monday during flag-raising ceremony: 
+
+_"I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star__!”_  We continue to build on our school culture and ethos: “_Achieve our best; Believe in ourselves; Care for one another; Diversity in harmony_” and live out our school values of _G2R3IT – Graciousness, Gratitude, Respect, Responsibility, Resilience, Integrity and Teamwork -_ which is what we need to achieve success.  
+
+  
+
+Our _North Star Education Programme_ delivers a total curriculum that covers all five domains of student development (cognitive/social/moral/physical/aesthetics) and develops our students to be world and future-ready, anchored on the right values and equipped with 21st century competencies.  We aim to foster a vibrant learning community with a positive school culture and nurturing school climate through diverse and engaging school programmes, and with ample opportunities for student participation and student voice.  We actively seek and continuously strengthen strategic partnerships with our stakeholders and partners to enrich the learning experience for our students and enlarge the capacity of our staff.  
+
+  
+
+Our instructional programme anchors on our _i-TEACH_ framework for integrated, engaged and assessed learning, with teachers as curriculum innovators, collaborative learners and holistic educators. We have introduced 5 new upper secondary subjects this year (Electronics, Geography, History, Literature Elective in Humanities for Express course and Art for NT course) to give our students a wider range of subject choices to pursue their interests and passion. We have managed to secure various Advanced Elective Modules (AEM) with the polytechnics for all Sec 3 Express students for the first time this year, in addition to AEMs for all NA students and Elective Modules for all NT students to provide better Education and Career Guidance.  We have also revised our school-based assessment structure and done away with Sec 1 Mid-Year Exam this year and Sec 3 Mid-Year Exam next year. The school is also planning to start on Full Subject-Based Banding in 2021.
+
+  
+
+Our school-wide pedagogies include Inquiry-Based Learning, Thinking Routines, ICT-enabled Active Learning and Self-Directed & Collaborative Learning.  We aim to achieve value-added results in both ‘O’ and ‘N’ level examinations through our PrIME (Pro-action, Intervention, Motivation & Empowerment) framework driven by our Academic Excellence (ACE) Committee.  Strategies include Personal Education & Career (PEC) Plan for all students, ASPIRE motivational programme for graduating students, and After School Study Programme/Start Right Programme/Teacher Mentors for students who need additional learning support.  
+
+  
+
+To produce future problem identifiers and solvers, we have continued to develop our strengths in STEM (Science, Technology, Engineering and Math) teaching and learning. This is done through inter-disciplinary Project Work for all lower secondary Express/NA students (with infusion of design thinking/use of tinkering toolkits and a scientific focus on environment education/sustainable living, Science Outdoor Learning Experience (SOLE), ‘O’ level Electronics, ICT Digital Maker Programme and Fun with Math Programme. Our students have done well in many STEM competitions such as Shell STEM Challenge, Science and Math Olympiads and Singapore Polytechnic National Earthquake Competition. Our Aeronautics Applied Learning Programme implemented since 2016 received additional funding of $150,000 over 3 years through the CAAS Aviation in Schools Programme.  This has enhanced student learning through enabling the organising of programmes such as the Aeronautics learning journey to Japan.  The Aeronautics Club CCA continues to do well and again swept a total of 8 awards in this year’s Singapore Amazing Flying Machine competition organised by Singapore Science Centre and DSO National Laboratories.
+
+  
+
+We also place a strong emphasis on values education through the Character & Citizenship Education (CCE) programme. Weekly structured reading at morning assembly was introduced to promote school values.  The Cyber wellness programme was placed under CCE to focus more on appropriate behaviour in cyberspace.  The Student Management department was further resourced with 2 level managers for each level and all teachers attended two one-day workshops on conscious classroom management and motivating reluctant learners to build a more positive classroom environment. The school has also embarked on the Gear-Up programme this year to help at-risk students and students with attendance issues.
+
+  
+
+Our Learning for Life Programme (LLP) is in Community and Youth Leadership - 'Inspired North Stars Inspire Actions'.  Our LLP aims to inspire students to make a difference to the community through pro-active actions with a vision of “Serve to Lead, Lead to Inspire”.  Under our ‘CVSS CAReS’ (Care in Action, Ready to Serve) Values-in-Action framework, all our students embark on various level-wide VIA projects every year to serve the community.  These include community projects with Sengkang Central Community Centre/North East CDC, environmental projects under our Green Compass Programme for all Sec 1 and 2 students, student-led service learning projects for all Sec 3/4/5 students in partnership with elderly homes and annual Overseas Service Learning Programme (OSLP) trip to Vietnam for student leaders.  The Community & Youth Leadership Club was set up as a new CCA this year to provide more opportunities for students who are passionate in community service. We also have a new strategic partner this year with the newly opened Sengkang General and Community Hospitals.  Our students have performed a lunchtime concert and done up a wall mural in one of the hospital wards and we will continue to build on our partnership to serve the Sengkang community.
+
+  
+
+We have revamped the structure of the Student Development Team this year with each Year Head or Assistant Year Head helming one level each, with biennial rotation, to better focus on developmental needs and provide better support for pastoral care and case management. The highlight of our student development programmes continue to be our signature _STAR Programme_ for all levels – _Seek out your strength, Take responsibility, Adopt an enterprising spirit and Ready for the world_ \- while Positive Education/Growth Mindset were introduced to enhance student development. 
+
+  
+
+Our Staff Professional Development Committee, led by our School Staff Developer and supported by 1 Lead Teacher and 7 Senior Teachers, promotes a strong professional learning and innovative culture among all teachers. Our teachers regularly share their expertise at various platforms beyond the school such as local and international conferences, AST Teacher-Led Workshops and N3 cluster ICT symposium.
+
+  
+
+The school has gone through customised validation by the MOE’s Centre of School Excellence in April this year as part of the self-evaluation process, and will leverage the CV team’s findings and feedback on school leadership/strategic planning and staff development/well-being for continual school improvement, to provide a quality education and school experience for all our students and to develop staff.  To this end, we have formulated a new three-year strategic plan for 2020-2022 to bring the school further forward along the following three thrusts:
+
+1. Develop all round students through a holistic, student-centric, values-driven education  
+
+2. Build staff capacity through staff learning and development, good staff management and care for staff
+
+3. Foster strong and sustained partnerships with key stakeholders
+
+  
+
+Our students and staff have again achieved much success this year as reflected in the compilation of our 2019 school achievements.  With a committed staff, determined students and supportive parents and stakeholders, we are confident that CVSS will continue to thrive and mould the future of our nation!
+
+**Mr Chia Chor Yann, Principal  
+January, 2020**
