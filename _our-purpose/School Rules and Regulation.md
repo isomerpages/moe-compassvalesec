@@ -137,3 +137,17 @@ Discipline is an integral part of schooling in Compassvale Secondary School. We 
 *   High cut shoes are not allowed.
 *   Only white socks are allowed.
 *   Only trimmings as shown are allowed.
+
+### Boys
+![](/images/boys%20uniform.png)
+*   School uniform is to be worn neatly at all times, shirt must be buttoned up.
+*   Bermudas and long pants should sit neatly at the waist. They should not be baggy or too tight.
+*   Bermudas and long pants should not be tapered.
+*   Male students should not have any piercing at all.
+*   Ear sticks/straws/fillers are not allowed.
+*   Name tag should be sewn above the pocket of the school uniform.
+*   Name tag should not be sewn on the PE t-shirt.
+
+### Girls
+<img src="/images/girls%20uniform.png" 
+     style="width:80%">
