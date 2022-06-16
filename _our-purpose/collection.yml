@@ -2,6 +2,7 @@ collections:
   our-purpose:
     output: true
     order:
+      - School Rules and Regulation.md
       - School Brochure.md
       - School Song.md
       - School Values.md
