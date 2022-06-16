@@ -2,11 +2,11 @@ collections:
   our-purpose:
     output: true
     order:
-      - School Videos.md
-      - School Rules and Regulation.md
-      - School Brochure.md
-      - School Song.md
-      - School Values.md
-      - School Vision, Mission, Motto.md
-      - School Philosophy, Culture and Ethos.md
       - Principal's Message 2022 WIP.md
+      - School Philosophy, Culture and Ethos.md
+      - School Vision, Mission, Motto.md
+      - School Values.md
+      - School Song.md
+      - School Brochure.md
+      - School Rules and Regulation.md
+      - School Videos.md
