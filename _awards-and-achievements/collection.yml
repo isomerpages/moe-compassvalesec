@@ -2,5 +2,5 @@ collections:
   awards-and-achievements:
     output: true
     order:
-      - O level/.keep
+      - O levels/.keep
       - Awards and Achievements.md
