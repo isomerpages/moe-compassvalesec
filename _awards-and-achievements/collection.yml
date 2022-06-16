@@ -2,6 +2,7 @@ collections:
   awards-and-achievements:
     output: true
     order:
+      - O levels/2018.md
       - O levels/2019.md
       - O levels/2020.md
       - O levels/2021.md
