@@ -2,6 +2,7 @@ collections:
   our-purpose:
     output: true
     order:
+      - School Values.md
       - School Vision, Mission, Motto.md
       - School Philosophy, Culture and Ethos.md
       - Principal's Message 2022 WIP.md
