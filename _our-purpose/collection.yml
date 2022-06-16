@@ -2,4 +2,5 @@ collections:
   our-purpose:
     output: true
     order:
+      - School Philosophy, Culture and Ethos.md
       - Principal's Message 2022 WIP.md
