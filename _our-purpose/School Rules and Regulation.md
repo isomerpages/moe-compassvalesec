@@ -127,3 +127,13 @@ Discipline is an integral part of schooling in Compassvale Secondary School. We 
 * Name tag must be clearly displayed on the school uniform and not on the PE t-shirt.
 
 * Outlandish and fanciful spectacle frames are not allowed.
+
+### Footwear
+
+<img src="/images/footwear.png" 
+     style="width:60%">
+*   Only all white or all blackshoes are allowed
+*   Shoe laces must match the colour of the shoes.
+*   High cut shoes are not allowed.
+*   Only white socks are allowed.
+*   Only trimmings as shown are allowed.
