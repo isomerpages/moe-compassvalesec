@@ -3,7 +3,9 @@ title: School Values
 permalink: /our-purpose/school-values
 description: ""
 ---
-## G2R3IT
+<img src="/images/G2R3IT.png" 
+     style="width:50%">
+
 
 **GRACIOUSNESS** – Be kind in thoughts, words and deeds
 
