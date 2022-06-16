@@ -1,0 +1,4 @@
+collections:
+  our-purpose:
+    output: true
+    order: []
