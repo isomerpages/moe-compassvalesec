@@ -4,7 +4,7 @@ permalink: /our-purpose/school-values
 description: ""
 ---
 <img src="/images/G2R3IT.png" 
-     style="width:50%">
+     style="width:40%">
 
 
 **GRACIOUSNESS** – Be kind in thoughts, words and deeds
