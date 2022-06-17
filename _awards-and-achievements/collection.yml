@@ -2,18 +2,6 @@ collections:
   awards-and-achievements:
     output: true
     order:
-      - Accolades from the Public.md
-      - Well Rounded Achievers/.keep
-      - Well Rounded Achievers/2021.md
-      - Well Rounded Achievers/2020.md
-      - Well Rounded Achievers/2019.md
-      - Well Rounded Achievers/2018.md
-      - Well Rounded Achievers/2017.md
-      - Well Rounded Achievers/2016.md
-      - Well Rounded Achievers/2015.md
-      - Well Rounded Achievers/2014.md
-      - Well Rounded Achievers/2013.md
-      - Well Rounded Achievers/2012.md
       - Awards and Achievements.md
       - O levels/.keep
       - O levels/2021.md
@@ -55,3 +43,15 @@ collections:
       - N Levels/2005.md
       - N Levels/2004.md
       - N Levels/2003.md
+      - Well Rounded Achievers/.keep
+      - Well Rounded Achievers/2021.md
+      - Well Rounded Achievers/2020.md
+      - Well Rounded Achievers/2019.md
+      - Well Rounded Achievers/2018.md
+      - Well Rounded Achievers/2017.md
+      - Well Rounded Achievers/2016.md
+      - Well Rounded Achievers/2015.md
+      - Well Rounded Achievers/2014.md
+      - Well Rounded Achievers/2013.md
+      - Well Rounded Achievers/2012.md
+      - Accolades from the Public.md
