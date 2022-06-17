@@ -2,26 +2,7 @@ collections:
   awards-and-achievements:
     output: true
     order:
-      - N Levels/.keep
-      - N Levels/2021.md
-      - N Levels/2020.md
-      - N Levels/2019.md
-      - N Levels/2018.md
-      - N Levels/2017.md
-      - N Levels/2016.md
-      - N Levels/2015.md
-      - N Levels/2014.md
-      - N Levels/2013.md
-      - N Levels/2012.md
-      - N Levels/2011.md
-      - N Levels/2010.md
-      - N Levels/2009.md
-      - N Levels/2008.md
-      - N Levels/2007.md
-      - N Levels/2006.md
-      - N Levels/2005.md
-      - N Levels/2004.md
-      - N Levels/2003.md
+      - Awards and Achievements.md
       - O levels/.keep
       - O levels/2021.md
       - O levels/2020.md
@@ -42,4 +23,23 @@ collections:
       - O levels/2005.md
       - O levels/2004.md
       - O levels/2003.md
-      - Awards and Achievements.md
+      - N Levels/.keep
+      - N Levels/2021.md
+      - N Levels/2020.md
+      - N Levels/2019.md
+      - N Levels/2018.md
+      - N Levels/2017.md
+      - N Levels/2016.md
+      - N Levels/2015.md
+      - N Levels/2014.md
+      - N Levels/2013.md
+      - N Levels/2012.md
+      - N Levels/2011.md
+      - N Levels/2010.md
+      - N Levels/2009.md
+      - N Levels/2008.md
+      - N Levels/2007.md
+      - N Levels/2006.md
+      - N Levels/2005.md
+      - N Levels/2004.md
+      - N Levels/2003.md
