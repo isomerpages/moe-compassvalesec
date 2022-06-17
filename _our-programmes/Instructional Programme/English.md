@@ -72,3 +72,69 @@ Although not all students went home with awards in these competitions, a key tak
 
 
 Our team of teachers are committed to continually enhancing our pedagogy and deepening our subject mastery. In 2021, our subject-based EL Professional Learning Team (PLT) embarked on a project to develop a lesson package for the teaching of grammar using an inquiry-based approach, and incorporating multi-literacies, an important focus area in the EL Syllabus 2020. The Literature PLT also worked closely together to enhance the design of alternative assessment tasks and explored strategies to scaffold meaning-making and to enhance learner engagement with the literary texts. The study will be continued next year with both teams also looking into the effective adoption of e-pedagogy for more effective teaching and learning.
+
+# 2020
+![](/images/EL.jpg)
+### English Language Department
+
+
+In an increasingly-dynamic world characterised by fluid exchange of information and discourse, it is critical that our North Stars develop vital 21st century competencies which include being able to think critically, and communicate effectively and creatively for a variety of purposes, audiences, contexts and cultures. The English Language and Literature curricula and programmes at CVSS are designed to hone these skills to mould our students to become future-ready, resilient and responsible citizens. Using the thematic approach, our instructional programme develops essential attitudes, dispositions and skills in our students progressively over four to five years.
+
+#### Signature Programme in Oracy Skills
+
+Oracy refers to the ability to express oneself fluently and grammatically in speech. It involves the life skills of active listening and effective communication, and is vital to helping students succeed in the workplace and in life. Recognising the importance of oracy, the department has developed a signature programme in oracy skills, which seeks to develop students’ competencies in oral communications progressively over four to five years. Integrated into the English Language and Literature curricula, different aspects of oracy skills are emphasised in each level of study to help students build their confidence and competence in these areas. Varied and engaging activities such as drama and public speaking via podcasts are used to motivate students and enliven learning.
+
+![](/images/EL1.png)
+![](/images/EL2.png)
+
+### EL Structured Reading Programme  
+
+Piloted in 2018, the EL Structured Reading Programme (SRP) is ongoing to help keep students up-to-date with global current affairs and further hone their reading skills. Alternating with CCE SRP, department teachers specially curated news articles fortnightly and created post-reading activities to enhance students’ reading experience, making it more meaningful and purposeful. It is certainly heartening to witness students and teachers engaged in rich classroom discussions centred on the articles.
+![](/images/EL3.png)
+
+### CVSS Language and Literary Appreciation Programme
+
+To extend students’ learning beyond the classroom, the department organised programmes and activities to expose students to a variety of literary experiences and art forms.  
+
+#### Assembly Programmes
+
+In March 2019, as part of the NAC Words Go Round Programme, Upper Secondary students were treated to a talk by American author Eliot Schrefer on his experiences in the African continent and how they inspired the writing of his novels which featured African apes as focal characters. The talk was well-received and many students made a beeline to purchase his books thereafter.
+![](/images/EL%204.png)<br>
+As part of the year-end post-exam programme, local Singlit authors Dave Chua and Koh Hong Teng also visited the school to share their experiences on writing and illustrating for a graphic novel with the Secondary One and Three students.
+
+The lower secondary students came together to celebrate the achievements and progress that they made in the learning of English Language and Literature in the academic year. Outstanding works of students were affirmed and showcased — the NSLF performances were reprised to enthral the audience. Student achievers in the department’s special programmes — Reading Star! Challenge and 15-word Story Challenge — were also acknowledged.
+![](/images/EL%205.png)
+### **Literary Exposure: External Performances**
+
+North Stars are given opportunities to view external performances by professional production companies to provide exposure and hone their interest and appreciation of the literary arts. This year, selected Secondary Two and Secondary Three students had the opportunity to watch ‘Matilda the Musical’, a production from the London West End, which was staged at the Marina Bay Sands Theatre in March 2019. For some students, it was a truly eye-opening experience as it was their first time experiencing a professional musical production.  
+
+
+On Youth Day in July, selected Secondary Two Literature students were also treated to a viewing of ‘Don’t Know, Don’t Care’, a production by The Necessary Stage, at the Esplanade Theatre Studio. Written by Haresh Sharma, this is one of the plays which the students studied as part of the Secondary Two Literature curriculum. Viewing the play and participating in the post-show interactive forum certainly made their learning come alive, and excited many of them to delve deeper into the text.
+![](/images/EL6.png)
+
+### Student Achievements
+
+
+#### National Schools Literature Festival 2019
+
+Our North Stars did the school proud at the 2019 National Schools Literature Festival (NSLF) by clinching 1st place in the Book Trailer segment. The Book Trailer segment of the competition requires teams to interpret and craft a trailer for a chosen text, giving enough information about the plot, main characters and its themes such that the audience would be enticed to read the book after the performance.
+
+![](/images/EL%207.png)
+
+This year, our school also took part in the Choral Speaking segment. This involves an ensemble using various voice combinations and contrasts to bring out the meaning and tonal beauty of a passage of poetry or prose. We also trained a team of students to participate in the Flash Fiction competition for the first time. Students had to write a provocative, original story that was no longer than 100 words. 
+
+#### National Public Speaking Competition
+
+This year, we took part in the competition for the first time. Five students were trained to take part in this competition organised by the Public Speaking Academy. In the qualifying round held at YMCA, each student had to present a prepared speech on a topic of their choice. 
+
+Our students were up against around 200 participants from other schools. Alfred Lim of 2E4 advanced to the finals round, and finally attained Overall 16th Place. Alfred captivated the audience with his wit and conviction when he spoke on the topic of ‘Fear’ and ‘The Time is Now’ in the qualifying rounds and finals respectively. 
+
+While the experience was certainly unnerving at parts, it was a good platform for students to gain experience in public speaking, and to interact and learn from other students from schools all over Singapore.
+![](/images/EL%208.png)
+
+Although not all students went home with awards in these competitions, a key takeaway was seeing many of them emerge from the experience feeling enriched, inspired and more confident about their abilities.
+
+### Teacher Development
+
+
+Our team of teachers are committed to continually enhancing our pedagogy and deepen our subject mastery. This year, our subject-based EL Professional Learning Team (PLT) embarked on a project to develop a lesson package for the teaching of visual text comprehension, which incorporated multi-literacies and collaborative inquiry. The team had the opportunity to share their project and findings at the year-end Staff Professional Development Day with colleagues from other departments. The Literature PLT also worked closely together to explore the infusion of various activities to promote active learning and enhance learner engagement with the literary texts. The study will be continued next year with a specific focus on strengthening reading-writing and dialogue-writing connections.
