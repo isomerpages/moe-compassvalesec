@@ -2,24 +2,24 @@ collections:
   awards-and-achievements:
     output: true
     order:
-      - O levels/2003.md
-      - O levels/2004.md
-      - O levels/2005.md
-      - O levels/2006.md
-      - O levels/2007.md
-      - O levels/2008.md
-      - O levels/2009.md
-      - O levels/2010.md
-      - O levels/2011.md
-      - O levels/2012.md
-      - O levels/2013.md
-      - O levels/2014.md
-      - O levels/2015.md
-      - O levels/2016.md
-      - O levels/2017.md
-      - O levels/2018.md
-      - O levels/2019.md
-      - O levels/2020.md
-      - O levels/2021.md
       - O levels/.keep
+      - O levels/2021.md
+      - O levels/2020.md
+      - O levels/2019.md
+      - O levels/2018.md
+      - O levels/2017.md
+      - O levels/2016.md
+      - O levels/2015.md
+      - O levels/2014.md
+      - O levels/2013.md
+      - O levels/2012.md
+      - O levels/2011.md
+      - O levels/2010.md
+      - O levels/2009.md
+      - O levels/2008.md
+      - O levels/2007.md
+      - O levels/2006.md
+      - O levels/2005.md
+      - O levels/2004.md
+      - O levels/2003.md
       - Awards and Achievements.md
