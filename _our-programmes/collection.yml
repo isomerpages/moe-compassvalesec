@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Instructional Programme/English.md
       - Instructional Programme/Full Subject Based Banding (FSBB).md
       - Instructional Programme/Interdisciplinary Project Work (PW).md
       - Instructional Programme/.keep
