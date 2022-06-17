@@ -2,9 +2,9 @@ collections:
   awards-and-achievements:
     output: true
     order:
-      - Well Rounded Achievers/2020.md
-      - Well Rounded Achievers/2021.md
       - Well Rounded Achievers/.keep
+      - Well Rounded Achievers/2021.md
+      - Well Rounded Achievers/2020.md
       - Awards and Achievements.md
       - O levels/.keep
       - O levels/2021.md
