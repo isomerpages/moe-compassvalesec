@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Instructional Programme/.keep
       - 2022 Direct School Admission (DSA).md
       - North Star Education Programme.md
