@@ -2,6 +2,7 @@ collections:
   awards-and-achievements:
     output: true
     order:
+      - N Levels/2006.md
       - N Levels/2007.md
       - N Levels/2008.md
       - N Levels/2009.md
