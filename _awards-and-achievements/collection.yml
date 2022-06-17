@@ -2,6 +2,7 @@ collections:
   awards-and-achievements:
     output: true
     order:
+      - Well Rounded Achievers/2016.md
       - Well Rounded Achievers/2017.md
       - Well Rounded Achievers/.keep
       - Well Rounded Achievers/2021.md
