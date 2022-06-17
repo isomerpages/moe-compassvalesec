@@ -2,8 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Instructional Programme/Personalised Digital Learning Programme.md
-      - Instructional Programme/Blended Learning & Home Based Learning Days.md
       - Instructional Programme/.keep
+      - Instructional Programme/Blended Learning & Home Based Learning Days.md
+      - Instructional Programme/Personalised Digital Learning Programme.md
       - 2022 Direct School Admission (DSA).md
       - North Star Education Programme.md
