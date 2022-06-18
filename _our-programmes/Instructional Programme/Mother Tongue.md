@@ -49,3 +49,6 @@ The MT Department conducted enrichment programmes for all our lower secondary st
 <img src="/images/Copy%20of%2014.jpg" 
      style="width:50%">
 *Students practising Jawi Calligraphy by writing their names*
+
+![](/images/Copy%20of%2015.jpg)
+*Students designed their own personalized Jawi Calligraphy canvas pouch*
