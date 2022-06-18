@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 ![](/images/MOTHER%20TONGUE.jpg)
+# 2021
 # Mother Tongue Department
 
 
@@ -86,3 +87,50 @@ Below are some of the achievements by the MT Department: 
 #### MOE Innergy Awards 2021 
 
 This biennial award recognises innovative and best practices in teaching & learning as well as work processes among schools. Out of 561 applications for the awards nationwide this year, our school has won two commendation awards – “Using Analogue Card Games in CL lessons” from Ms Koh Bee Choo, Mdm Liew Feng Lin, Mdm Low E Soon and Mr Chong Jee Keong (CL Department), and “Developing Vocabulary through Folklore and Critical Thinking” from Mdm Noranika Murni and Dr Fawziyah (ML Department).
+
+# 2020
+![](/images/MT.jpg)
+# Mother Tongue Department
+
+
+CVSS Mother Tongue Department aims to provide interesting learning experiences so that our North Stars get to experience and discover a whole realm of new knowledge, and appreciate their own culture and roots. In addition, we hope to provide learning opportunities where our North Stars get to hone their language skills so that they become effective and competent users of their Mother Tongue languages.
+
+#### Chinese New Year
+
+The school specially invited Dance Ensemble Singapore to stage a dance performance as part of Chinese New Year celebration this year. Both teachers and students were in awe and mesmerised by the spectacular dance items put up by the performers. There was good energy and vibrancy in the hall as some of our students were invited to learn some dance techniques from the performers. Other entertaining items included performances by our band, choir and dance, as well as special performances by our teachers and alumni!
+
+![](/images/1-1.jpg)
+*There was good energy and vibrancy in the hall as students and teachers were treated to spectacular dance performance by the Dance Ensemble Singapore*
+![](/images/2-1.jpg)
+*Students from the Performing Arts group put up a wonderful concert during CNY celebrations*
+![](/images/3-1.jpg)
+*Students participated enthusiastically during the CNY quiz segment*
+
+#### Mother Tongue Fortnight
+
+To develop an appreciation of our Mother Tongue cultures, a series of activities was introduced to our North Stars this year. Internal competitions such as the Chinese Cultural Quiz using ‘Kahoot!’, Chinese Characters Building Competition and Poster Design Competition were planned for our students in Secondary One through Secondary Three. In addition, students were engaged in a paper cutting activity. In conjunction with Mid-autumn festival, a special activity was also planned for the students to appreciate the Chinese ethnic tradition even more. Moreover, they also get to try a small piece of the mooncake!  
+
+Our theme for the Mother Tongue Fortnight (Malay) this year is Traditional Culinary. The Malay students were introduced to traditional Malay delicacies and spices. They are involved in a series of engaging activities that allows authentic application of and exposure to Malay language and culture such as advertisement and key chain making competition of Malay delicacies. In addition, our North Stars participated in our Malay Cultural Quiz using ‘Kahoot!’ and created their own pomander using oranges and cloves.
+![](/images/MT6.jpg)
+*Students learning paper cutting during MT Fortnight event*
+![](/images/MT8.jpg)
+*Students having fun in the Chinese Characters Building inter-class competition during MT Fortnight*
+
+#### Chinese Language Oracy Flagship Programme
+
+To level up students’ competencies in their Chinese Language oracy skills, the following enrichment programmes were designed for our lower secondary students in 2020:
+
+*   Sec 1 NA/NT SBB: Developing Oracy Skills through Comics Drawing
+*   Sec 1 EXP/NA SBB: Developing Basic Oratorical Skills through Chinese Speech and Drama Lessons
+*   Sec 2 NA: Mastering Basic Oratorical Skills through “Super Host” Workshop
+*   Sec 2 EXP: Developing Basic Oratorical Skills through Basic Journalism Workshop
+![](/images/MT9.jpg)
+*Secondary 2 Express students taking on the role of journalists in the “Developing Basic Oratorical Skills through Basic Journalism Workshop”*
+![](/images/MT7.jpg)
+*Upper Secondary submission “2020 National Create Your Own Newspaper Competition” – Gold Award (highest accolade for the competition)*
+
+#### Malay Language Enrichment Programme
+
+To level up students’ competencies in their Malay Language oracy skills, enrichment programmes were designed for our lower secondary students in 2020. During the DJ Hosting Workshop, our North Stars were given an introduction and exposure to what deejaying is about. Oracy skills such as techniques and skills of conversing well have helped build their confidence when speaking in Malay Language.
+![](/images/10.jpg)
+*Our DJs in live action!*
