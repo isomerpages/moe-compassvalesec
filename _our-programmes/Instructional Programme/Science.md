@@ -57,3 +57,13 @@ A team of secondary two students also participated in ‘Think Big, Youth Scienc
 
 ![](/images/At%20Youth%20Science%20Ambassador%20Programme-Group%20photo%20at%20the%20Kinetic%20garden.jpg)
 *Youth Science Ambassador Programme - Group photo at the Kinetic Garden*
+![](/images/At%20Youth%20Science%20Ambassador%20Programme-Group%20presenting%20their%20idea%20during%20the%20competition%20finale.png)
+*Youth Science Ambassador Programme - Group presentation during the competition finale*
+
+Our upper secondary students have also had the opportunity to showcase their work and excel at various platforms. This year, our school sent two teams to the ‘21st International Elementz Fair’, where they had the opportunity to conduct investigative science projects and design posters to effectively communicate their findings with the larger scientific community. Our students thought of creative ways to apply their scientific knowledge in investigating the use of fruit peels as an alternative energy source and the efficacy of biosorbents in purifying water. A total of 111 teams across secondary schools, junior colleges and schools from the ASEAN region took part in the fair this year, and both teams achieved the Gold Award for their innovative and outstanding projects. Even when the circuit breaker measures were introduced, our students displayed grit and tenacity to finish their projects and presentation over video-conferencing when the change in judging format was announced.
+![](/images/At%20the%20%2021st%20International%20Elementz%20Fair.jpg)
+*21st International Elementz Fair - Marianne and Yi Jun preparing fruit peel extracts for acid hydrolysis*
+
+Our Secondary 4 students demonstrated their higher-order critical thinking abilities through the ‘Singapore Junior Biology and Physics Olympiads’, where our students were exposed to novel and challenging questions set at the A-level standard. The students showed tenacity as they continued with their training virtually, meeting frequently online during the circuit breaker period to discuss past-year Olympiad questions. Our North Stars grew in their passion and interest for the subjects as they learnt these subjects at a higher level, and five of them received the Certificate of Merit, whilst one received the Honourable mention in the Biology and Physics Olympiads respectively.
+
+Through such rich experiences in both competitions and learning journeys, our department continuously strives to support and develop our students in their appreciation of the value of Science and related skills, in order to enable them to thrive and achieve success in their future work in our innovation-driven future economy.
