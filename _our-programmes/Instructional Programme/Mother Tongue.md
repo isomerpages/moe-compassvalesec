@@ -42,3 +42,10 @@ The MT Department conducted enrichment programmes for all our lower secondary st
      style="width:60%">
 *North Stars wearing their self-folded tanjaks*
 
+<img src="/images/Copy%20of%2013.jpg" 
+     style="width:60%">
+*Students are introduced to Jawi Calligraphy.*
+
+<img src="/images/Copy%20of%2014.jpg" 
+     style="width:50%">
+*Students practising Jawi Calligraphy by writing their names*
