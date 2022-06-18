@@ -52,3 +52,37 @@ The MT Department conducted enrichment programmes for all our lower secondary st
 
 ![](/images/Copy%20of%2015.jpg)
 *Students designed their own personalized Jawi Calligraphy canvas pouch*
+
+#### MT Department Competitions Achievement 
+
+Below are some of the achievements by the MT Department: 
+
+*   19th Singapore Hokkien Huay Kuan Literary Awards - Chinese Creative Writing with Photography Competition 2021: Wee Cadence (1E4), Second Prize for Lower Sec Category
+
+<img src="/images/Copy%20of%208.jpg" 
+     style="width:90%">
+*Wee Cadence (1E4) won the Second Position in the 19th Singapore Hokkien Huay Kuan Literary Awards - Chinese Creative Writing with Photography Competition 2021.*
+
+*   4th Text Recital Competition for Primary and Secondary Schools: Li Weixiao (1E4), Tan Li Ying Deenise (1E4) and Looi Zhi Xuan Derek (1E4), Bronze Award in Lower Sec Team Category. Linda Ng (2N2), Bronze Award in Lower Sec Individual Category.
+*   2021 National Create Your Own Newspaper Competition: Third Position for Lower & Upper Sec Category
+ ![](/images/Copy%20of%209.jpg)
+*Our Upper Secondary Team won the Bronze Award at the 2021 National Create Your Own Newspaper Competition.*
+
+ ![](/images/Copy%20of%2010.jpg)
+ *Our Lower Secondary Team won the Bronze Award at the 2021 National Create Your Own Newspaper Competition.*
+ 
+ *   Essay featured on KEMBARA NUSA Magazine (April edition): Ilham Yusuf Bin Ali (5N2)
+ ![](/images/Copy%20of%2016%20KEMBARA%20NUSA%20Magazine%20April%20edition_%20Ilham%20Yusuf%20Bin%20Ali%205N2.jpg)
+*Essay featured on KEMBARA NUSA Magazine (April edition): Ilham Yusuf Bin Ali (5N2)*
+*   ‘Saya Boleh Mengarang’ Lower Secondary Essay Writing Competition - Gold Award: Muhammad Syazwan Bin Mansor (1E1) & Alya Irdina Binte Muhammad Azalie (2N2); Bronze Award: Naurah Aniqah Binte Muhammad Zainudin (1N3)
+
+<img src="/images/Copy%20of%2017.jpg" 
+     style="width:70%">
+		 *Saya Boleh Mengarang’ Lower Secondary Essay Writing Competition - Gold Award: Muhammad Syazwan Bin Mansor (1E1)*
+
+
+*   ‘Saya Boleh Mengarang’ Upper Secondary Essay Writing Competition - Silver Award: Nur Akid Rayyan Bin Norfarhan (3N2); Bronze Award: Aina Adriana Binte Zahrain (3N2) & Adnan Shah Bin Muhammad (4E4) 
+
+#### MOE Innergy Awards 2021 
+
+This biennial award recognises innovative and best practices in teaching & learning as well as work processes among schools. Out of 561 applications for the awards nationwide this year, our school has won two commendation awards – “Using Analogue Card Games in CL lessons” from Ms Koh Bee Choo, Mdm Liew Feng Lin, Mdm Low E Soon and Mr Chong Jee Keong (CL Department), and “Developing Vocabulary through Folklore and Critical Thinking” from Mdm Noranika Murni and Dr Fawziyah (ML Department).
