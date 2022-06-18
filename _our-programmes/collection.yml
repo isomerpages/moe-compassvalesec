@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Instructional Programme/Maathematics.md
       - Instructional Programme/Mother Tongue.md
       - Instructional Programme/.keep
       - Instructional Programme/Blended Learning & Home Based Learning Days.md
