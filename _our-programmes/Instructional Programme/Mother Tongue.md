@@ -37,3 +37,8 @@ The MT Department conducted enrichment programmes for all our lower secondary st
 
 ![](/images/Copy%20of%2011.jpg)
 *Students experiencing Tanjak Making*
+
+<img src="/images/Copy%20of%2012.jpg" 
+     style="width:60%">
+*North Stars wearing their self-folded tanjaks*
+
