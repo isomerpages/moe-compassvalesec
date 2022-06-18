@@ -18,3 +18,22 @@ In view of the current Covid-19 situation, the Mother Tongue Department put up a
 ![](/images/MT2.png)
 ![](/images/MT3.png)
 ![](/images/MT4.png)
+
+#### MT Enrichment Programme 
+
+The MT Department conducted enrichment programmes for all our lower secondary students in Term 1. To develop our North Stars’ interest in the language through engaging activities and to allow them to develop a greater understanding of Chinese idioms, the students took part in the “Joy of Learning Chinese Language through Chinese Idioms” programme. In conjunction with Chinese New Year, the students also learnt idioms related to the Ox. In addition, our Secondary 1 North Star Malay students participated in Tanjak Making, where they learnt the history behind the tanjak (traditional Malay headgear for men). Students got to deepen their understanding of aspects of the Malay culture involving the tanjak. Each student also learnt the steps to fold their own tanjak and brought the product home. The Secondary 2 Malay students were exposed to traditional Malay calligraphy known as Jawi, which is still widely used in neighbouring countries such as Brunei Darussalam and Malaysia. During the workshop, our North Stars were given an introduction to and explanation of Jawi calligraphy. They, too, brought home an item from the activity: a canvas pouch on which they had designed their names in Jawi.
+
+<img src="/images/Copy%20of%205.jpg" 
+     style="width:60%">
+*Lower secondary students participated in the “Joy of Learning Chinese Language through Chinese Idioms” programme.*
+
+<img src="/images/Copy%20of%206.jpg" 
+     style="width:60%">
+*Students designing their own comics based on the idioms learnt.*
+
+<img src="/images/Copy%20of%207.jpg" 
+     style="width:60%">
+*A sample of one student’s comic after the enrichment.*
+
+![](/images/Copy%20of%2011.jpg)
+*Students experiencing Tanjak Making*
