@@ -32,3 +32,19 @@ Students were thrilled with the experiences that they were offered and especiall
 
 # 2020
 ![](/images/pe2019.jpg)
+# Physical Education Department
+In Compassvale Secondary School, the Physical Education (PE) curriculum aims to enable our students to demonstrate the skills, practices and values to enjoy a lifetime of active and healthy living individually or with others. It is designed to develop in our students the ability to demonstrate their skills and values across a variety of sports and provide them with authentic situations where they can apply what they have learnt so that they can be confident participants in the future.
+
+For 2020, PE lessons were impacted due to the pandemic situation. During the circuit breaker period, students attended lessons through Home Based Learning (HBL) and PE lessons were conducted through Student Learning Space (SLS). Students were tasked to keep themselves physically active by challenging themselves to do fitness conditioning at home periodically. Also, Outdoor Education lessons and game concept applications were conducted through SLS to elicit responses and assess students for understanding. 
+
+After the circuit breaker period, PE lessons continued with safety measures in place. With these restrictions, the objectives of PE lessons were mainly to keep students active and also make purposeful connections between students’ learning experience and what they can relate to in the current situation. PE teachers reinforced Physical Health and Fitness content during this period and the importance of staying active and being socially responsible to the people around them. 
+
+Fitness conditioning with safe distancing and small sided games with safety measures were organised in order to keep students active. Badminton and Volleyball were two sports which the students engaged in and students use this period of time to continue to hone their skills in these two sports.
+![](/images/Badminton%20and%20Volleyball%20in%20the%20field.jpg)
+*Badminton and Volleyball in the field*
+
+![](/images/Badminton%20in%20ISH.jpg)
+*Badminton in ISH*
+
+![](/images/Fitness%20Conditioning%20with%20safety%20measure%20in%20place.jpg)
+*Fitness Conditioning with safety measure in place*
