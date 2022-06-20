@@ -73,4 +73,14 @@ Ultimately, the VIA experiences instil a strong moral compass in our students an
      style="width:60%">
 ![](/images/Copy%20of%20VIA%20-%203N3%20Quick%20Pitch%20Presentation%20to%20panel.jpg)
 *Students presented their preliminary ideas of their service learning project for a beneficiary of their choice to a panel of teachers.*
+![](/images/Copy%20of%20VIA%20-%203E1%20Pictionary%20game%20over%20Zoom.jpg)
+*Students engaged socially isolated elderly residents through a game of Pictionary over Zoom.*
 
+![](/images/Copy%20of%20VIA%20-%203E1%20Song%20Performance%20over%20Zoom.jpg)
+*Students performed a medley of community songs to elderly residents over Zoom to reminisce about the old times.*
+
+![](/images/Copy%20of%204E6%20Video%20filming.jpg)
+*Students infused TikTok trends as they recorded and edited entertainment videos to bring about joy and laughter.*
+
+![](/images/Copy%20of%20VIA%20-%20Annual%20Design%20For%20Change%20Challenge.png)
+*Student delegates presented their service learning projects in the 13th Annual Design For Change Challenge to other youths across Singapore. Students attained Top 3 positions in the Secondary School category with over 90 entries.*
