@@ -57,3 +57,33 @@ All Secondary 2 students participated in an integrated Humanities and CCE Learni
 
 ![](/images/Copy%20of%20Secondary%202%20students%20learning%20about%20life%20in%20schools%20in%20early%20Singapore.jpg)
 *Secondary 2 students learning about life in schools in early Singapore*
+
+#### Secondary 1 Virtual Rainforest Tour
+
+On 17th May 2021, the Secondary 1 Express and Normal (Academic) students participated in a Tropical Rainforest Virtual Field Trip. During the session, students were engaged through a series of 360° virtual tours and video narrations about tropical rainforests in Singapore at three locations -  Singapore Quarry, Bukit Timah Nature Reserve and the Singapore Botanic Gardens. By completing various tasks in their activity booklets and a quiz, this authentic and immersive learning experience enabled students to apply the Geographical Investigation skills they have acquired during Geography lessons and draw linkages between theoretical knowledge and the real-world physical environment.
+
+![](/images/students%20engaged%20in%20completing%20their%20worksheets%20based%20on%20their%20Geography%20Virtual%20LJ.jpg)
+ *Students completing their tasks as part of the Geography Virtual Learning Journey*
+![](/images/Secondary%201%20students%20engaged%20in%20learning%20about%20water%20resources%20and%20the%20rainforest.jpg)
+*Students learning about water resources and the rainforest*
+
+### Humanities Department Activities (Term 4, 2021)
+
+#### Secondary 1NT Social Studies Virtual Learning Journey
+
+As part of the year-end post-examination  programme, the Secondary 1 Normal (Technical) students participated in a Social Studies Virtual Learning Journey to learn about the importance of appreciating cultural diversity in Singapore as well as Singapore's historical and cultural heritage.
+
+![](/images/Students%20engaged%20in%20playing%20the%20traditional%20game%20of%20Pick-Up%20Sticks%201.jpg)
+![](/images/Students%20playing%20the%20traditional%20game%20of%20Five%20Stones.jpg)
+*Students engaged in playing traditional games*
+
+#### Historical Scene Investigation (HSI) Challenge  
+
+4 students from a Secondary 1 Express Class won the Silver Award in the Historical Scene Investigation (HSI) Challenge jointly organised by MOE CPPD and NLB. Based on the theme  “Popularisation of Wildlife Trade in Singapore from 1819-1945”, the team submitted a video-clip based on online research and analysis of the issue.
+
+![](/images/Screenshot%20of%20the%20video%20entry%20for%20Historical%20Scene%20Investigation%20Challenge%202021.jpg)
+*Screenshot of video entry for Historical Scene Investigation*
+
+### Staff Development
+
+3 of our Humanities  teachers conducted a Teacher-led Workshop titled ‘Deepening Understanding in the Humanities through Card Games’ via video conferencing on 25 March 2021.
