@@ -84,3 +84,19 @@ Ultimately, the VIA experiences instil a strong moral compass in our students an
 
 ![](/images/Copy%20of%20VIA%20-%20Annual%20Design%20For%20Change%20Challenge.png)
 *Student delegates presented their service learning projects in the 13th Annual Design For Change Challenge to other youths across Singapore. Students attained Top 3 positions in the Secondary School category with over 90 entries.*
+
+# 2020
+#### – “Inspired North Stars Inspire Actions”
+
+*   The programme aims to develop our students in community & youth leadership and inspire them into action to create positive impact to the community through active community service and environment outreach. 
+*   Students will put into practice school values, 21st century and SEL competencies; develop effective leadership skills and the attributes of an inspiring youth; acquire knowledge and skills for examining community and environmental issues; and apply the knowledge and skills and put it into action.  
+    
+
+#### Student Leadership Development Programme
+
+*   Enables every student to be an exemplary leader to self and others with a strong moral compass in them and the vision of “Serve to Lead, Lead to Inspire”.
+*   Based on the Student Leadership Challenge (TLC) model (an established leadership framework developed by Jim Kouzes and Barry Pozner) which provides the learning experiences for students to increase their self-awareness, strengthen their people skill, find the purpose and meaning in life, and develop leadership skills to make a difference to others.
+*   Students develop and discover their leadership potential through various leadership roles available in school (Class Leaders, CCA Leaders, Student Councillors) and beyond, and service to their family, friends, classmates, school, and local and overseas communities.
+
+<img src="/images/llp-1.jpg" 
+     style="width:60%">
