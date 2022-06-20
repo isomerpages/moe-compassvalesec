@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Instructional Programme/Normal Course Programme.md
       - Instructional Programme/.keep
       - Instructional Programme/Blended Learning & Home Based Learning Days.md
       - Instructional Programme/Personalised Digital Learning Programme.md
@@ -16,5 +15,6 @@ collections:
       - Instructional Programme/Craft & Technology , Aesthetics.md
       - Instructional Programme/Physical Education.md
       - Instructional Programme/Info Communication Technology Department.md
+      - Instructional Programme/Normal Course Programme.md
       - 2022 Direct School Admission (DSA).md
       - North Star Education Programme.md
