@@ -87,3 +87,47 @@ As part of the year-end post-examination  programme, the Secondary 1 Normal (Te
 ### Staff Development
 
 3 of our Humanities  teachers conducted a Teacher-led Workshop titled ‘Deepening Understanding in the Humanities through Card Games’ via video conferencing on 25 March 2021.
+
+# 2020 
+![](/images/Humanities%20.jpg)
+# Humanities Department
+
+
+The Humanities Department explores the use of Source-based learning, Inquiry-based learning and Assessment for Learning as important teaching tools to engage students in independent learning. Students are engaged in a range of field-based assignments and innovative performance tasks that exploit various ICT platforms such as google docs, titanpad, popplet, toondoo, nearpod and online games to support their learning and research projects. 
+
+  
+
+Through the programme Humanities Connect!, every North Star will understand and explore how the Humanities connects him/her to the community, nation and the world. Through activities such as the Humanities and Elements of Business Skills (EBS) Challenge, classroom discussions on contemporary issues, investigations on local social and geographical issues and exploration of the past through local learning journeys, students will be able to see the connection between the past and the present and appreciate the importance of living in an interdependent community with increasing global connections. 
+
+  
+
+The following are various authentic learning experiences that have helped our North Stars extend their learning beyond the classroom.
+
+  
+
+### Humanities Department Activities (Term 1, 2020)
+
+#### EBS Challenge
+
+The EBS Challenge, which was held on 3rd March, is an annual event where our Secondary 3 Normal (Technical) students are given the opportunity to plan and organise meaningful and engaging activities at various game stations to enable the Secondary 2 Normal (Technical) students to understand more about EBS. The Secondary 2 students learn about some prominent Singaporean entrepreneurs through interactive games and quizzes as well as gain knowledge about local tourist attractions and financial concepts. Additionally, the students also leverage on the SLS online platform to provide answers to quiz questions as they move from one game station to the next. The experience has also allowed our students to develop critical problem solving skills as well as sharpen their communication skills.
+
+<img src="/images/Photo%201.jpg" 
+     style="width:60%">
+*A student preparing a life-sized game board for the EBS Challenge*
+
+![](/images/Photo%202.jpg)
+*Our Secondary 2 Normal (Technical) students visiting the different booths helmed by their seniors*
+
+![](/images/Photo%203.jpg)
+*For this task, students had to match famous Singapore businesses to their founders*
+
+![](/images/Photo%204.jpg)
+*Laptops and iPads were used at different stations to complement students’ learning, with their reflections done on the SLS portal*
+
+### Humanities Department Activities (Term 2, 2020)
+
+#### NUS Geography Challenge
+
+This year, the whole cohort of Secondary 1 Express and Normal (Academic) students took part in the Lower Secondary Humanities Challenge via the SLS platform. Through this activity, students were engaged in authentic tasks and activities such as answering quiz questions and solving riddles related to key historical landmarks and geographical features of ASEAN countries. This made learning relevant and authentic as it provided the students an opportunity to apply their learning across different contexts. 
+
+A team selected from our inaugural batch of Pure Geography students took part in the National University (NUS) Geography Challenge that was jointly organised by the NUS Department of Geography and the NUS Geographical Society, with support from the Ministry Of Education (MOE). Based on the theme ‘Operation Climate Change: Time for Action’, the team created a poster to highlight how individuals could play a part in combating climate change through adopting a sustainable lifestyle as well as came up with a quiz on Geography topics curated from the International Geography Olympiad syllabus. Two members of the team from Secondary 4E4 attained the Silver and Bronze medals respectively, with one of them being invited to take part in the 2021 Geography Talent Development Programme (TDP).
