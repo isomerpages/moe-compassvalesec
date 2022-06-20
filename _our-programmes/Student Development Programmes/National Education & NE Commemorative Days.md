@@ -138,3 +138,29 @@ In line with the theme \`Together We Keep Singapore Strong ‘, the CCE Departme
 #### International Students’ Bonding Programme  
 
 As part of the school’s efforts to enhance students’ understanding and appreciation of the diverse cultures of Singapore, a bonding session was organised to welcome the Sec 1 International Students who had just joined the school. During the session, in view of the coming Chinese New Year, students learned about the Chinese zodiacs, and worked on designing their own Chinese couplets. They also had the opportunity to taste local beverages, local Malay food as well Chinese New Year snacks and goodies. International students, together with local students were also brought to the ‘48th Chingay Parade’ to watch Singapore’s uniquely multicultural street and floats extravaganza based on the theme ‘Colours in Harmony’, that ended with a stunning display of pyrotechnics and fireworks which enthralled the students.
+
+![](/images/International%20Students%20Welcome%20Session%20-%20Students%20at%20work%20during%20the%20Chinese%20Calligraphy%20Session.jpg)
+*International Students Welcome Session 2020 - students forging friendships through learning calligraphy*
+
+![](/images/Group%20photo%20of%20the%20International%20students%20and%20teachers.jpg)
+*Group photo of international students with the teachers*
+
+#### Chingay Assembly Programme  
+
+As a way to mark 60 years of community building by the People's Association in 2020, this year’s Chingay Assembly programme featured in a fun and engaging manner modern and traditional art forms co-existing peacefully and bonding different generations of people together. Through this programme, all students understood how different generations of practitioners of the traditional and modern art forms could work well together, and the need to embrace such diversity in culture. 
+
+  
+
+#### International Friendship Day
+
+In line with the theme ‘Beyond Borders’, a series of activities were organised to help students understand that while the COVID-19 pandemic has forced many countries to shut their borders to reduce the risk of citizens being infected by the novel coronavirus, countries have also made efforts to collaborate with one another during this difficult period. Through presentation slides, static display, video clip of interview with International Students from China, Indonesia, the Philippines, Japan and India. The slides highlighted their countries’ responses to the global health crisis. Students appreciate the significance of the need for all countries to cooperate to manage the impact of this pandemic.
+
+  
+
+Racial Harmony Day  
+
+Based on the theme ‘Multicultural Singapore’, Racial Harmony Day was commemorated through a series of activities that included viewing a thought-provoking video clip on perspectives about race and religion in Singapore, appreciation of multi-cultural songs played over the PA system, and a static display featuring wedding customs of our major races in the canteen.  Reading of the Straits Times articles promotes positive experiences in our interactions with others by being more sensitive in our interactions with others. 
+
+  
+
+During CCE lessons, students were given the opportunity to discuss prejudices and discrimination and how such negative sentiments could be reduced. Secondary 1 students were given the opportunity to listen to traditional music, participate in dances of different ethnic groups in Singapore while Secondary 2 students were brought through an online game to understand more about the different traditional games of different ethnic groups in Singapore. The Secondary 3 students were engaged in producing henna designs and making Malay wedding gifts while the Secondary 4s and 5s were tasked to design fusion costumes. The winners were pleasantly surprised when they were awarded traditional games which they could bring home to enjoy with their own family members.
