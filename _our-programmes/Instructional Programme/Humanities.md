@@ -149,3 +149,18 @@ Several teams from the Secondary 3 Pure Geography class took part in the SG75: O
 #### Historical Scene Investigation Challenge
 
 A team of four Secondary 2 students took part in the Historical Scene Investigation Challenge 2020 jointly organised by National Library Board and MOE CPDD Humanities branch. The circuit breaker measures also meant that the teacher mentors could only host a few face-to-face sessions with the students. Despite this, our students were able to work independently on their research project based on data collected over one and a half months and creatively produced a poster that enabled the team to clinch the Overall Champion award.
+
+![](/images/Students%20%20teacher-mentors%20for%20HSI%20Challenge.jpg)
+*Students and teacher-mentors for HSI Challenge*
+
+![](/images/Vice-Principal%20Mr%20Sukhdev%20Singh%20receiving%20the%20HSI%20National%20Champion%20Trophy%20from%20the%20organiser.jpg)
+*Vice-Principal, Mr Sukhdev Singh, receiving the HSI National Champion Trophy from the organiser*
+
+![](/images/The%20team%20with%20their%20certificates%20and%20vouchers.jpg)
+*The team with their certificates and vouchers*
+
+### Staff Development
+
+In light of COVID-19, an in-house sharing session was conducted for the Humanities Department teachers on the design of home-based learning lessons.  With the support of the Geography Unit from CPPD, our Geography teachers shared assessment feedback strategies specifically for our graduating cohort. 
+
+The department’s Social Studies and Geography teams also won the Commendation Award in the MOE Innergy (Schools) Award 2020 for their project entitled \`Deepening Conceptual Understanding in the Humanities through Card Games’. Additionally, our EBS team also attained the Commendation Award for their project entitled \`Enhancing Learning of Concepts and Values in EBS the Authentic Way’.
