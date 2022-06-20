@@ -167,3 +167,24 @@ During CCE lessons, students were given the opportunity to discuss prejudices an
 
 <img src="/images/Students%20folding%20boxes%20to%20make%20favours%20for%20Malay%20Wedding.jpg" 
      style="width:70%">
+*Students learning to fold boxes to make favours for a Malay wedding*
+
+#### National Day
+
+The National Day Celebration started with a live streaming via zoom of the ‘National Day Observance Ceremony’ by representatives from the various uniformed groups. Based on the theme \`Together A Stronger Singapore’, students were taught to be \`stronger together’ which was the key focus of their CCE lesson that followed. The lesson activities, which comprised a skit performed by the Drama Club, a Virtual Choir performance, a quiz which was the Classroom version of ‘Guess the Lyrics’ and Community Singing, helped to enhance students’ pride in the nation’s achievements and their commitment to stay united as a people. Students then penned down their hopes and aspirations for the future of Singapore in their reflection journals.
+
+![](/images/Our%20students%20observing%20the%20raising%20of%20the%20National%20Flag%20and%20singing%20the%20National%20Anthem.jpg)
+*Our students observing the raising of the national flag and singing of the national anthem*
+
+![](/images/The%20Observance%20Ceremony%20was%20carried%20out%20by%20members%20of%20our%20Uniform%20Group%20CCAs.jpg)
+*The Observance Ceremony was carried out by members of the Uniformed Group CCAs and live-streamed in all classrooms*
+
+#### National Service Singapore Engagement Session  
+
+Educating our students on the importance of National Service is a key component of Character and Citizenship Education (CCE). As such, an engagement session was organised for graduating Secondary 4 and 5 students as part of the National Day programme to help them appreciate the importance of National Service (NS) and prepare male students for NS. Our own alumni students Tan Jia Yuan, Brandon Choo Zhi Xuan and Loh Yang Xian were invited to share their experiences through a recorded zoom session of the ‘Engagement Session’ facilitated by our National Education Committee teacher.
+
+  
+
+#### National Registration Identity Card Presentation Ceremony
+
+The ceremony for all Secondary 3 students was conducted as part of National Day programme this year. It began with an introduction on what it means to be a citizen of Singapore, followed by video clips and sharings on what it means to be \`stateless’ as well as interesting facts about the Singapore NRIC and how to handle it with care. Selected students were then presented with certificates from their respective Form teachers to symbolise their attainment of citizenship. Four teacher representatives then led the cohort to recite the National Pledge in four different languages. Finally, students were encouraged to reflect on what it means to be Singaporean and their roles and responsibilities as a citizen. This was certainly a milestone citizenship experience for all Secondary 3 students.
