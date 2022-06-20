@@ -26,3 +26,5 @@ Our students will learn and apply the 5 practices of exemplary leadership of The
 Our students will develop and discover their leadership potential through various leadership opportunities in school (Class Committee, CCA Executive Committee and Student Council Board).
 
 Through serving others, such as their friends, families and the community, our student leaders will find their purpose and meaning in life and make a difference in the lives of others.
+<img src="/images/LLP.jpg" 
+     style="width:75%">
