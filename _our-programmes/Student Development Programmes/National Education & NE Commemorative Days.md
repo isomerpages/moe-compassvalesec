@@ -164,3 +164,6 @@ Based on the theme ‘Multicultural Singapore’, Racial Harmony Day was commemo
   
 
 During CCE lessons, students were given the opportunity to discuss prejudices and discrimination and how such negative sentiments could be reduced. Secondary 1 students were given the opportunity to listen to traditional music, participate in dances of different ethnic groups in Singapore while Secondary 2 students were brought through an online game to understand more about the different traditional games of different ethnic groups in Singapore. The Secondary 3 students were engaged in producing henna designs and making Malay wedding gifts while the Secondary 4s and 5s were tasked to design fusion costumes. The winners were pleasantly surprised when they were awarded traditional games which they could bring home to enjoy with their own family members.
+
+<img src="/images/Students%20folding%20boxes%20to%20make%20favours%20for%20Malay%20Wedding.jpg" 
+     style="width:70%">
