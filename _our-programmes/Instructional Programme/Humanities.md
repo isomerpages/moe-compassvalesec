@@ -134,3 +134,18 @@ A team selected from our inaugural batch of Pure Geography students took part in
 
 ![](/images/Photo%201%201.jpg)
 *A photo of the team -from left: Wee Kai Jie, Bryan (4E4), Nur Azimah Binte Mohamad Idrus (4E4),Tee Hong Xun (4E4),and Teo Wen Xuan Nicole (4E4)*
+
+### Missing Pic
+*In clockwise direction: Azimah restyled an old pair of denim jeans into a fashionable tote bag for school; Hong Xun attended a reunion dinner with a set of clothing that he swapped with a schoolmate; Nicole turned an empty milk carton into a petite coin purse for her sister; Nicole shopped for a pencil case that had been repurposed from a pair of sneakers; Bryan stitched his dad’s unwanted shirt into a trendy book cover to protect his classmate’s exercise book from daily wear and tear*
+
+Several teams from the Secondary 3 Pure Geography class took part in the SG75: Our Singapore Competition with the theme ‘Sustainability: Fighting Climate Crisis as a Community’. Marcus from 3E2 came in second place for his innovative video on the fight against climate crisis in the Dynamic Presentation Category (Animation & Video).
+
+<img src="/images/Photo%202%201.jpg" 
+     style="width:60%">
+*Marcus posing with his medal, certificate and gift voucher*
+
+### Humanities Department Activities (Term 4, 2020)
+
+#### Historical Scene Investigation Challenge
+
+A team of four Secondary 2 students took part in the Historical Scene Investigation Challenge 2020 jointly organised by National Library Board and MOE CPDD Humanities branch. The circuit breaker measures also meant that the teacher mentors could only host a few face-to-face sessions with the students. Despite this, our students were able to work independently on their research project based on data collected over one and a half months and creatively produced a poster that enabled the team to clinch the Overall Champion award.
