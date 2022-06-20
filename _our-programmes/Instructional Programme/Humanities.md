@@ -32,3 +32,15 @@ Two Secondary 4 Full Geography students took part in the NUS Geography Challenge
 
 ![](/images/The%20team%20working%20on%20their%20team%20component%20round%20in%20the%20computer%20lab.jpg)
 *The team working on their team component round in the computer lab*
+
+### Humanities Department Activities (Term 2, 2021)
+
+#### Humanities Challenge
+
+The Humanities Challenge was carried out on 29th March, with selected teams comprising Lower Secondary students being tasked to complete Kahoot! quizzes, riddles, Mindquest and Pyramid games at various stations on key historical landmarks or geographical features of ASEAN countries. These learning experiences provided opportunities for students to collaborate whilst applying their skills and content knowledge  across various Humanities subjects.
+
+![](/images/Lower%20Secondary%20students%20accessing%20websites%20to%20research%20for%20answers%20on%20ASEAN%20countries.jpg)
+*Lower Secondary students accessing websites to research for answers on ASEAN countries*
+
+![](/images/Lower%20Secondary%20students%20receiving%20quiz%20instructions.jpg)
+*Lower Secondary students receiving quiz instructions*
