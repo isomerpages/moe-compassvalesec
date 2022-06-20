@@ -44,3 +44,16 @@ The Humanities Challenge was carried out on 29th March, with selected teams comp
 
 ![](/images/Lower%20Secondary%20students%20receiving%20quiz%20instructions.jpg)
 *Lower Secondary students receiving quiz instructions*
+
+#### Secondary 2 Cohort Learning Journey (LJ) to the National Museum of Singapore and Kranji War Memorial   
+
+All Secondary 2 students participated in an integrated Humanities and CCE Learning Journey to the National Museum of Singapore in March and April. Their learning experiences on the use of artefacts to understand the history and culture of Singapore were enhanced through the pre-LJ and post-LJ segments that were conducted as part of the CCE lesson package. The journey ended with a ceremony at the Kranji War Memorial where students had a memorable experience in commemorating the war heroes who had sacrificed their lives during World War II.
+
+![](/images/Copy%20of%20Laying%20a%20wreath%20of%20poppies%20in%20honour%20of%20those%20who%20died%20in%20World%20War%20II.jpg)
+*Laying a wreath of poppies in honour of those who died in World War II*
+
+![](/images/Secondary%202%20students%20in%20front%20of%20exhibit%20of%20tank%20used%20during%20the%20Japanese%20Invasion%20of%20Singapore.jpg)
+*Secondary 2 students in front of exhibit of tank used during the Japanese Invasion of Singapore*
+
+![](/images/Copy%20of%20Secondary%202%20students%20learning%20about%20life%20in%20schools%20in%20early%20Singapore.jpg)
+*Secondary 2 students learning about life in schools in early Singapore*
