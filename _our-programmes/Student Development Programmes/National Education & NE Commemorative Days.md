@@ -43,8 +43,11 @@ As part of the CCE programme, the NE programme acts as a platform for the achiev
 
 In line with the theme \`Together We Keep Singapore Strong ‘, a series of activities were organised to commemorate Total Defence this year. These included a CCE lesson that started with a TDD 2021 video Message by Minister of Defence, Dr Ng Eng Hen on his Facebook page. Two reading articles - \`Better workplaces with National Service-friendly policies’ and \`Singaporeans to join forces to battle online radicalisation of young people’ - were prepared to engage the Lower Secondary and Upper Secondary students respectively on security issues.  Through a video Board Game designed by the Singapore Discovery Centre, students realised the importance of resilience as they witnessed the challenges faced by the various characters in the stories of hope and optimism during the Covid-19 pandemic. The CCE Department also worked with the various uniformed group CCAs to set up booths featuring the pillars of Total Defence and the Secondary Three students had the opportunity to learn first aid, play team bonding games and quizzes on work of the various defence forces as they visited the various stations.  A static display on the 6 Pillars of Total Defence and how Singapore fell to the Japanese on the first day of Chinese New Year were put up as this year’s TDD took place during the period of Chinese New Year Celebrations.
 
-![](/images/TDD1%20-%20BB%20Cadets%20facilitating%20a%20game%20segment%20for%20Social%20Defence.jpg)
+<img src="/images/TDD1%20-%20BB%20Cadets%20facilitating%20a%20game%20segment%20for%20Social%20Defence.jpg" 
+     style="width:70%">
 *BB Cadets facilitating a game segment for Social Defence*
+
+
 
 ![](/images/TDD2%20BB%20cadets%20sharing%20on%20Social%20Defence%20during%20Total%20Defence%20Day%20.jpg)
 *BB Cadets Sharing on Social Defence*
