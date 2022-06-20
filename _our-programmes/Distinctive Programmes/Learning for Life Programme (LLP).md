@@ -30,3 +30,44 @@ Through serving others, such as their friends, families and the community, our s
      style="width:75%">
 ![](/images/Copy%20of%20%20%20SLD%20-%20SC%20Envisioning%20Meeting.jpg)
 *Our Student Councillors inspire a shared vision which they work towards, together as a team.*
+
+![](/images/Copy%20of%20SLD%20-%20Filming%20for%20Teachers%20Day.jpg)
+*Our student leaders interviewed different staff in the school for the Teachers’ Day celebration video.*
+
+![](/images/Copy%20of%20SLD%20-%20Flag%20Raising%20at%20Parade%20Square.jpg)
+*Our student leaders take the responsibility to ensure the flags are raised every morning during morning assembly.*
+
+![](/images/Copy%20of%20SLD%20-%20Well%20Wishes%20for%20Graduating%20Seniors.jpg)
+*Our student leaders collected well wishes from the whole school and put them up to appreciate and encourage the graduating seniors.*
+
+### Values in Action (VIA) Experiences
+
+The VIA experiences develop our students to be responsible citizens who are concerned about social and environmental issues and are compelled to contribute meaningfully to the community.
+
+Through the Head, Heart and Hands approach, students acquire knowledge and skills through workshops and experiential learning opportunities (Learn to Care) to initiate projects to serve the school and the community to create positive impacts (Care to Serve) with the aim to groom them as youth leaders of the community who create a sustainable impact.
+
+With a focus on providing platforms for Youth Voice, opportunities for Social Innovation and maintaining Sustained Partnerships within the community, students co-create service projects to address concerns, exercise ownership and initiate ways to serve the community and nation.
+
+***Tier 1 Programme (CVSS CARES: Care in Action, REady to Serve)***
+
+![](/images/VIA%20T1.png)
+
+
+***Tier 2 Programme***
+
+Students who demonstrate aptitude and interest in community service, are developed and nurtured through other opportunities including:
+
+▪ Community Youth Leaders Club
+
+▪ Project Fire Starters (Ground-Up Initiatives)
+
+▪ Mentoring sessions & learning journeys with VIA Champions
+
+▪ Overseas Service-Learning Programme
+
+  
+
+Ultimately, the VIA experiences instil a strong moral compass in our students and nurture them to be World-Ready Youths who are innovative contributors and upright citizens with a global outlook.
+
+<img src="/images/LLP_VIA_framework.png" 
+     style="width:60%">
