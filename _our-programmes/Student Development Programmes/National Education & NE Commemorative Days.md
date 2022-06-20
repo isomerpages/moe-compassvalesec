@@ -58,3 +58,8 @@ In line with the theme \`Together We Keep Singapore Strong ‘, a series of acti
 #### International Students’ Bonding Programme
 
 As part of the school’s efforts to integrate and build mutual understanding between local and international students, the International Students’ Bonding Programme was organised to welcome the Secondary One International Students as well as Permanent Residents who had just joined the school, and to enhance their understanding and appreciation of the diverse cultures of Singapore. This year, on 29 January, these student participants joined the local student buddies to celebrate the inscription of Singapore’s hawker culture on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity through a sharing on Hawker Culture in Singapore, partaking of ethnic food and playing of the virtual Hawker Culture Game. The session ended with the playing of traditional games such as Chapteh, Five stones, Pick up Sticks and Marbles.
+
+<img src="/images/IS1-%20NE%20Coordinator%20Mrs%20Lee%20addressing%20the%20International%20Students%20and%20PRs.jpg" 
+     style="width:60%">
+		 ![](/images/IS2%20Students%20engaging%20in%20a%20game%20of%20pick-up%20sticks.jpg)
+		 ![](/images/1S3%20Students%20learning%20to%20play%20the%20traditional%20game%20of%20kuti%20kutii.jpg)
