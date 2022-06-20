@@ -25,3 +25,6 @@ At the beginning stage of the gradual resumption of CCA, e-CCA sessions were con
 Besides fitness training guided by the coach during e-CCA sessions, the students were enthusiastic about and appreciative of the creative activities planned by team members, such as team bonding games that allowed all to know one annother better, values sharing by coach using famous athletes as examples, and reflection and feedback sessions on team and training matters. Netball CCA has resumed long-awaited physical CCA sessions since then with safe-distance management measures in place.
 
 For the year 2021, the netball team hopes to be able to better previous years’ results in competitions. The team is also committed to treasuring the opportunities during the CCA sessions to lead by example, share with and learn from another.
+
+<img src="/images/03%20Student%20practising%20shooting%20during%20netball%20training%204%20Nov%202020.jpg" 
+     style="width:60%">
