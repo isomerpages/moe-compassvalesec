@@ -100,3 +100,8 @@ Ultimately, the VIA experiences instil a strong moral compass in our students an
 
 <img src="/images/llp-1.jpg" 
      style="width:60%">
+		 
+#### CVSS Values-in-Action Programme – “CVSS CAReS” (CVSS Care in Action, Ready to Serve)
+
+<img src="/images/LLP_VIA_framework-1.png" 
+     style="width:60%">
