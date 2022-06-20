@@ -146,3 +146,68 @@ In line with our school’s Learning for Life Programme, ‘Inspired North Stars
 #### Rallying together in midst of COVID-19 pandemic
 
 With the onset of the COVID-19 pandemic and the negative sentiments towards healthcare workers in February, classes came forward to show their gratitude by doing up boards with notes of appreciation and support. These boards were then delivered to Sengkang General and Community Hospitals, and Tan Tock Seng Hospital. During the circuit breaker period with spikes in cases among dormitories, students from 2E4 and 3E4, together with their Form Teachers, produced an appreciation video to thank and cheer up migrant workers who were in quarantine and frontliners for their commitment and dedication.
+
+![](/images/Rallying%20together-1.jpg)
+*Students putting together notes of gratitude and support for the frontline workers*
+
+<img src="/images/Rallying%20Together-2.jpg" 
+     style="width:60%">
+*Mathilda (3E6) folded hearts and rallied her class to write encouragement letters for the frontline workers*
+
+![](/images/Rallying%20Together-3.jpg)
+*Notes of gratitude received by a representative from Sengkang General and Community Hospitals*
+
+![](/images/Rallying%20Together-4.jpg)
+*Notes of encouragement displayed on a wall of Sengkang Community Hospital*
+
+#### Green Compass Programme 2020
+
+In land scarce Singapore, there is an increasing need to reduce the volume of waste to conserve our landfills. The Green Compass Programme is our annual signature programme to engage and empower our Lower Secondary students to champion environmental ownership by leading, organising and participating in green initiatives to show their passion and commitment towards global and local environmental issues.
+
+  
+
+Secondary 1 students attended a talk on Waste Minimisation in Singapore organised National Environment Agency in January. Secondary 1 VIA Champions conducted a lesson on good recycling practices to their classmates and led them in a campus-wide Recyclable and Reusable collection drive. Students sorted the collected items into paper waste, plastic waste and donatable items namely, clothing, stationeries and school textbooks. Class 1N2 was crowned as the ‘Green Champions 2020’ for their active contribution and enthusiastic participation.
+
+  
+
+Secondary 2 students participated in a virtual tour of the Sustainable Singapore Gallery and created upcycled products such as mask holders, pencil cases and cardholders from milk cartons and plastic banners through live workshops facilitated by TERRA Singapore. Using design thinking, classes created artefacts for use at the canteen, toilets, Art studio and outside the General Office. These were assessed based on their functionality, aesthetics and durability. The aretfacts were displayed in an exhibition as part of the ‘Project Work Learning Festival 2020’.    
+
+  
+
+Besides acquiring knowledge in recycling and upcycling, students have the opportunity to take action and do their part in reducing waste.
+
+![](/images/Sec%201%20GCP-1.jpg)
+*VIA Champions conducting a lesson on good recycling practices to their classmates*
+
+![](/images/Sec%202%20GCP-1.jpg)
+*Sec 2 students participating in an upcycling workshop that was conducted virtually by TERRA SG*
+
+![](/images/Sec%202%20GCP-2.jpg)
+*Sec 2 students presenting their upcycled artefact to their classmates*
+
+![](/images/Sec%202%20GCP-5.jpg)
+*Sec 2 students discussing about the artefacts displayed at the Green Compass Programme Exhibition*
+
+#### Service-Learning Projects 2020
+
+In line with our Learning for Life Programme (Community & Youth Leadership), our Secondary 3 students embarked on their class service-learning project with the intention to evoke empathy for the elderly and people with special needs whilst interacting with them meaningfully. Classes were given the autonomy to pick one of our four long term partners, namely SunLove Home, Bright Hill Evergreen Home, Bethesda C.A.R.E Senior Activity Centre and Sengkang Community Hospital and design an engagement activity that addressed the real need that they had identified.
+
+  
+
+With the suspension of volunteers visiting homes, day-care centres and hospitals, students had to modify their plans innovatively to engage their beneficiaries remotely. They, hence, harnessed the power of ICT as a means to carry on their service-learning projects. With the support of the Form Teachers and guidance from mentors from TOUCH Leadership & Mentoring, classes executed a varied range of projects, including virtual performances, interactions through video conferencing platforms, producing tutorial videos and delivering the required logistics. As a means of documenting the learning experience, the Sec 3 Cyberwellness Ambassadors captured snippets of photographs and video clips throughout their service-learning projects and produced vlogs. Shortlisted vlogs were uploaded on the ‘Design For Change Global’ website to inspire and encourage other internet users to participate in voluntary work despite the limitation on suspending physical engagements during this COVID-19 pandemic. Click here to check our stories and many others around the world.
+
+![](/images/Sec_3_SL-1.jpg)
+*Sec 3 VIA Champion facilitating discussion with his classmates*
+
+![](/images/Sec%203%20SL-2.jpg)
+*Sec 3 VIA Champion rallying his classmates as they discuss with their mentors from Touch Leadership and Mentoring virtually*
+
+![](/images/Sec_3_SL-3.jpg)
+*Sec 3 students filming a tutorial video for batik painting for the seniors at Betheda CARE Senior Activity Centre*
+
+### Achievements in 2020
+
+1.   **National Day Postcard Design and Video Contest** – 1 Top 3 placing, 2 6th – 10th placings
+2.   **National Youth Upcycling Movement** – over 130 students participated and successfully completed their upcycled products
+3.   **11th Annual Design For Change Challenge Singapore 2020** – 6 video stories featured on Design For Change World website, 1 video story shortlisted to be presented at the Global Be the Change Festival 2020
+4.   **A ONEderful World by Design (Global Be the Change Festival 2020)** \-  students presented their project to an international audience
