@@ -71,3 +71,6 @@ Ultimately, the VIA experiences instil a strong moral compass in our students an
 
 <img src="/images/LLP_VIA_framework.png" 
      style="width:60%">
+![](/images/Copy%20of%20VIA%20-%203N3%20Quick%20Pitch%20Presentation%20to%20panel.jpg)
+*Students presented their preliminary ideas of their service learning project for a beneficiary of their choice to a panel of teachers.*
+
