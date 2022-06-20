@@ -129,3 +129,20 @@ The CVSS Kindness Movement aims to encourage students to demonstrate acts of kin
 
 ![](/images/Project%20GStudents%20taking%20time%20to%20pen%20their%20words%20of%20encouragement%20to%20their%20friends.jpg)
 *Project G - Students taking time to pen their words of encouragement to their friends*
+
+### Values-in-Action (VIA) Experiences  
+
+#### CVSS Care in Action, Ready to Serve (CVSS CAReS)
+
+VIA experiences focus on the students’ development as socially responsible citizens who care about and contribute meaningfully to their community and nation. VIA experiences nurture in students a commitment to address concerns, exercise ownership and initiate ways to serve community and nation.
+
+In line with our school’s Learning for Life Programme, ‘Inspired North Stars Inspire Actions’ our students are taught values, equipped with knowledge and skills and are given various platforms to take action. Through these experiential learning opportunities, our students are groomed into youth leaders of the community who create a sustainable impact in school and the community. All in all, CVSS CAReS aims to instill a strong moral compass in our students and nurture them to be World-Ready Youths – innovative contributors, upright citizens with a global outlook.
+
+  
+
+### Signature Programmes
+
+
+#### Rallying together in midst of COVID-19 pandemic
+
+With the onset of the COVID-19 pandemic and the negative sentiments towards healthcare workers in February, classes came forward to show their gratitude by doing up boards with notes of appreciation and support. These boards were then delivered to Sengkang General and Community Hospitals, and Tan Tock Seng Hospital. During the circuit breaker period with spikes in cases among dormitories, students from 2E4 and 3E4, together with their Form Teachers, produced an appreciation video to thank and cheer up migrant workers who were in quarantine and frontliners for their commitment and dedication.
