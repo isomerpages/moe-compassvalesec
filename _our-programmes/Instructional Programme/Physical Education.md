@@ -29,3 +29,6 @@ The school conducted a non-residential Outdoor Adventure Learning (OAL) programm
 *Ready to cycle during Sec 2 Outdoor Adventure Camp*
 
 Students were thrilled with the experiences that they were offered and especially during this pandemic period, the lessons learnt were invaluable.
+
+# 2020
+![](/images/pe2019.jpg)
