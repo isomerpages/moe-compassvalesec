@@ -61,5 +61,9 @@ As part of the school’s efforts to integrate and build mutual understanding be
 
 <img src="/images/IS1-%20NE%20Coordinator%20Mrs%20Lee%20addressing%20the%20International%20Students%20and%20PRs.jpg" 
      style="width:60%">
-		 ![](/images/IS2%20Students%20engaging%20in%20a%20game%20of%20pick-up%20sticks.jpg)
-		 ![](/images/1S3%20Students%20learning%20to%20play%20the%20traditional%20game%20of%20kuti%20kutii.jpg)
+*NE Coordinator Mrs Lee addressing the International Students and PRs*
+<img src="/images/IS2%20Students%20engaging%20in%20a%20game%20of%20pick-up%20sticks.jpg" 
+     style="width:60%">
+*Students engaging in a game of pick-up sticks.*
+![](/images/1S3%20Students%20learning%20to%20play%20the%20traditional%20game%20of%20kuti%20kutii.jpg)
+*Students learning to play the traditional game of \`kuti kuti'.*
