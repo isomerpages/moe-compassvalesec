@@ -123,3 +123,9 @@ Structured Reading Programme was helmed by EL and CCE departments in alternate w
 ### CVSS Kindness Movement (Project G)
 
 The CVSS Kindness Movement aims to encourage students to demonstrate acts of kindness to the people around them. Due to the pandemic, Singapore has seen many challenges, changes and uncertainties. The department recognises that while many of our students may be affected by Covid-19 pandemic, there are silver linings in their lives which they should seek and learn to appreciate about. The CVSS Kindness Movement, through Project G, aims to encourage our North Stars to be gracious and grateful to their loved ones such as their parents, grandparents, and guardians who have supported them in various stages of their lives. Through this project, students folded paper cranes and penned words of gratitude to their loved ones as well as words of hope and well-wishes for the community and Singapore.
+
+![](/images/Project%20G%20Lesson%20on%20Crane%20folding.jpg)
+*Project G - Lesson on crane folding*
+
+![](/images/Project%20GStudents%20taking%20time%20to%20pen%20their%20words%20of%20encouragement%20to%20their%20friends.jpg)
+*Project G - Students taking time to pen their words of encouragement to their friends*
