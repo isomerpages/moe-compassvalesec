@@ -16,3 +16,18 @@ An appointment can be made with the ECG Counsellor [here](https://moeecg.appoin
 In addition, the MySkillsFuture.sg is a web-based portal designed to facilitate education and career development among students in Singapore. It is premised on the ECG Development Model and contains features that facilitate identity development while bringing students through the process of career awareness, exploration and planning.  
   
 Start your exploration on MySkillsFuture.sg Portal, click [here](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html).
+
+![](/images/skill1.jpg)
+
+## POST SECONDARY PATHWAYS
+![](/images/ecg1.png)
+![](/images/ecg2.png)
+
+To find out more about the admission criteria for the different post-secondary institution, login to [Ecareers.sg](https://ecareers.sg/) Portal or the respective institutions for more information.  
+  
+
+* Ngee Ann Polytechnic – [www.np.edu.sg](https://www.np.edu.sg/)
+* Singapore Polytechnic – [www.sp.edu.sg](https://www.sp.edu.sg/)
+*  Republic Polytechnic – [www.rp.edu.sg](https://www.rp.edu.sg/) 
+*  Temasek Polytechnic – [www.tp.edu.sg](https://www.tp.edu.sg/)
+*  Nanyang Polytechnic – [www.nyp.edu.sg](https://www.nyp.edu.sg/)
