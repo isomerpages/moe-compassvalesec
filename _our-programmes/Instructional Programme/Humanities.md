@@ -25,3 +25,10 @@ The following are various authentic learning experiences that have helped them e
 #### NUS Geography Challenge
 
 Two Secondary 4 Full Geography students took part in the NUS Geography Challenge and both won the Silver medal. This placed them within the top 20% of all participants in terms of performance, and one of them was selected to attend the Geography Talent Development Programme as a result of his excellent performance in the Individual Component of the NUS Geography Challenge 2021.
+
+<img src="/images/The%20NUS%20Geography%20Challenge%20team%202021.jpg" 
+     style="width:80%">
+*The NUS Geography Challenge team 2021*
+
+![](/images/The%20team%20working%20on%20their%20team%20component%20round%20in%20the%20computer%20lab.jpg)
+*The team working on their team component round in the computer lab*
