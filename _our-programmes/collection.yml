@@ -2,10 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Facilities.md
-      - Distinctive Programmes/.keep
-      - Distinctive Programmes/Aeronautics Applied Learning Programme (ALP).md
-      - Distinctive Programmes/Learning for Life Programme (LLP).md
       - Student Development Programmes/.keep
       - Student Development Programmes/Student Development.md
       - Student Development Programmes/Student Leadership Development.md
@@ -31,3 +27,7 @@ collections:
       - Instructional Programme/Normal Course Programme.md
       - 2022 Direct School Admission (DSA).md
       - North Star Education Programme.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Aeronautics Applied Learning Programme (ALP).md
+      - Distinctive Programmes/Learning for Life Programme (LLP).md
+      - Facilities.md
