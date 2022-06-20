@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Student Development Programmes/Student Management.md
       - Student Development Programmes/National Education & NE Commemorative
         Days.md
       - Student Development Programmes/Education and Career Guidance (ECG).md
