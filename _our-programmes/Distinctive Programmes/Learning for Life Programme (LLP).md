@@ -28,3 +28,5 @@ Our students will develop and discover their leadership potential through variou
 Through serving others, such as their friends, families and the community, our student leaders will find their purpose and meaning in life and make a difference in the lives of others.
 <img src="/images/LLP.jpg" 
      style="width:75%">
+![](/images/Copy%20of%20%20%20SLD%20-%20SC%20Envisioning%20Meeting.jpg)
+*Our Student Councillors inspire a shared vision which they work towards, together as a team.*
