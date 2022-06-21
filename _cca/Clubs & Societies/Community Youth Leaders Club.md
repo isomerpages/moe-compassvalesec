@@ -18,6 +18,6 @@ Last year, the CYL Club was able to identify and serve diverse groups in our com
 ![](/images/CYL1.jpg)
 ![](/images/CYL3.png)
 
-1. **Chinese New Year Celebration via Zoom with Sengkang Community Hospital and Bethesda  C.A.R.E Senior Activity Centre** 
+1. Chinese New Year Celebration via Zoom with Sengkang Community Hospital and Bethesda  C.A.R.E Senior Activity Centre
 
 Members delivered some festive cheer to the patients and elderly by engaging them in conversation and activities such as folding origami, a sing-along session and dance. They also prepared a video to send their new year greetings to the beneficiaries to warm their hearts.
