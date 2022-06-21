@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Infocomm Club (PA AVA & Videography).md
       - Clubs & Societies/Media Resource Library.md
       - Clubs & Societies/Environment Club.md
       - Clubs & Societies/Community Youth Leaders Club.md
