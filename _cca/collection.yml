@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Videography Club.md
-      - Clubs & Societies/Infocomm Club (PA AVA & Videography).md
-      - Clubs & Societies/Media Resource Library.md
-      - Clubs & Societies/Environment Club.md
-      - Clubs & Societies/Community Youth Leaders Club.md
-      - Clubs & Societies/Aeronautics Club.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Aeronautics Club.md
+      - Clubs & Societies/Community Youth Leaders Club.md
+      - Clubs & Societies/Environment Club.md
+      - Clubs & Societies/Media Resource Library.md
+      - Clubs & Societies/Infocomm Club (PA AVA & Videography).md
+      - Clubs & Societies/Videography Club.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Basketball.md
