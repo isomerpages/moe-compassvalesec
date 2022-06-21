@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Drama.md
       - Performing Arts/.keep
       - Performing Arts/Band.md
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
+      - Performing Arts/Drama.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girl Guides.md
