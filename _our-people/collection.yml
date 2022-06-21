@@ -2,10 +2,10 @@ collections:
   our-people:
     output: true
     order:
-      - Alumni/CVSS Alumni Homecoming Day.md
-      - Alumni/Shining Alumni.md
-      - Alumni/Alumni.md
       - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Shining Alumni.md
+      - Alumni/CVSS Alumni Homecoming Day.md
       - School Management Committee.md
       - Form & Co Form Teachers 2022.md
       - Executive and Administration Staff 2022.md
