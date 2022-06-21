@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Alumni/CVSS Alumni Homecoming Day.md
       - Alumni/Shining Alumni.md
       - Alumni/Alumni.md
       - Alumni/.keep
