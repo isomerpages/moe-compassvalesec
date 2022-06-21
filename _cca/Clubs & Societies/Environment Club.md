@@ -25,3 +25,6 @@ This year, our Environment Champions displayed much grit and tenacity through co
 *G!nnovation Challenge 2020*
 
 Furthermore, our key community outreach programmes such as the International Coastal Clean-Up and the North East Clean & Green Carnival provide our Environment Champions with a platform to actively organise and participate in environmental activities which promote environmental awareness amongst members of the wider community. Through these valuable learning experiences, our Environment Champions have developed into worthy advocates of environmental sustainability.
+
+<img src="/images/North%20East%20Clean%20%20Green%20Carnival.jpg" 
+     style="width:60%">
