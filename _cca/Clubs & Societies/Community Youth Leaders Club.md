@@ -74,3 +74,37 @@ Members delivered some festive cheer to the patients by engaging them in convers
 2.     **Project Encourage**
 
 Members championed the ‘Do Good, Feel Good, Spread Good’ movement by encouraging Secondary 1 students to express compliments to their classmates and loved ones through writing notes. This project is featured in the Design For Change World website. Click [here](https://stories.dfcworld.com/STORY/previewstory?entry_code=SIN-ENG-302391820-2020)* to visit.
+
+![](/images/Picture%203.jpg)
+*CYL club members briefing their classmates about Project Encourage.*
+
+![](/images/Picture%204.jpg)
+*Students participating in the Project Encourage by writing notes of encouragement for their classmates and loved ones*
+
+3.     **Appreciating non-teaching staff**
+
+In collaboration with the Videography Club, members packed and distributed care packages for all non-teaching staff and school’s contract staff and produced an appreciation video for teaching staff.
+![](/images/Picture%205.jpg)
+*CYL club members preparing care packages for non-teaching staff with safe management measures in place*
+
+4.     **Design for Good Youth Competition**
+
+Members designed posters to create awareness for the Media Literacy Council’s Better Internet Campaign. From among 500 submissions, Ong Zheng Xi (1E3) and Kaelan Wong (1E3)’s entry was shortlisted as one of the winning posters.
+
+5.     **Birthday cards for Bethesda C.A.R.E Senior Activities Centre**
+
+Members created birthday cards for the seniors which will be distributed to them by the Centre in the coming months.
+
+![](/images/Picture%206.jpg)
+*Birthday cards for the seniors at Bethesda C.A.R.E Senior Activity Centre designed by CYL club members*
+
+ 6.     **Social Entrepreneurship Programme**
+ 
+ Members attended a series of workshops organised by Christel Goh, an alumnus from the class of 2010 and the co-founder of PlayHuaHee, which introduced the social enterprise landscape in Singapore and developed an action plan for social causes that resonated with the members. The students will continue to refine their plan and put it into action in 2021. 
+
+7.     **FairPrice Share-a-Textbook Project**
+
+Members volunteered to sort donated textbooks by level and stream at Our Tampines Hub. These textbooks were made available to students from low-income households and the public.
+
+
+Moving forward into 2021, the CYL Club hopes to establish the executive committee and student leadership structure, strengthen partnerships with identified beneficiaries, delve deeper into social entrepreneurship, as well as initiate opportunities to collaborate with other CCA groups to serve our Sengkang community in various ways.
