@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/National Police Cadet Corps.md
-      - Uniformed Groups/National Cadet Corps (Air).md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps (Air).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Basketball.md
