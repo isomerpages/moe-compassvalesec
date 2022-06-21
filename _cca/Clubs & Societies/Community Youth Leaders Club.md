@@ -43,3 +43,30 @@ Our Secondary 1 and 2 members participated in the Design to Enrich Lives - Socia
 Moving forward into 2022, the CYL Club hopes to strengthen the executive committee and leadership structure, sustain partnerships with identified beneficiaries, delve deeper into social entrepreneurship, as well as initiate more opportunities to collaborate with other CCA groups to serve our Sengkang community in various ways. 
 
 Our first batch of pioneering members will be stepping down and handing over the legacy to the next batch of students. We believe that every student is a champion for change!
+
+# 2020
+![](/images/communityyouthleaders2019.jpg)
+# Community Youth Leaders club
+
+
+The Community Youth Leaders (CYL) Club was set up in 2019 as an extension of the school’s Learning for Life Programme in Community & Youth Leadership. Its mission is to propel its members to inspire and encourage their fellow North Stars to serve others by instilling civic-mindedness and igniting their passion for serving.
+
+### What We Do
+
+Members undergo a variety of professional development workshops and plan as well as execute projects to address the needs of beneficiaries. Through these platforms, members cultivate empathy and compassion for people in need while developing organisational skills, social-emotional competencies, and reflective practices. These learning experiences nurture our youth leaders to discover their voice and advocate for social causes within and beyond our school.
+
+Last year, the CL Club was able to identify and serve diverse groups in our community where we could help make a positive impact, namely the elderly, people with intellectual-impairment, people with physical-impairment, and low-income families. This year, the club continued to strengthen partnership with beneficiaries and ventured into social entrepreneurship.  
+
+### What we accomplished in 2020
+
+
+
+ 1.     **Chinese New Year Celebration at Sengkang Community Hospital**
+
+Members delivered some festive cheer to the patients by engaging them in conversation and activities such as folding origami and writing calligraphy.
+
+![](/images/Picture%201.jpg)
+*CYL club members engaging a patient at Sengkang Community Hospital in conversation*
+
+![](/images/Picture%202.jpg)
+*CYL club members guiding the patients at Sengkang Community Hospital in folding origami fishes with red packets*
