@@ -15,4 +15,11 @@ Last year the Drama Club members were especially proud to have attained the Cert
 *SYF Goes Online*
 
 ![](/images/DRAMA2.jpg)
+*Singapore Youth Festival Arts Presentation 2021 (Drama)*
+
 ![](/images/DRAMA3.jpg)
+*Singapore Youth Festival Arts Presentation 2021 (Drama)*
+
+The Drama Club aims not only to continue delivering engaging and thought-provoking performances for events and competitions, but also to expose its members to world-class theatrical performances of multiple genres.  
+
+Empowering the drama members to understand and influence their world through exploring roles and situations, the Drama Club will continue to seize more opportunities to showcase their talents and passion for theatrical arts both in school and beyond. Any student who wishes to hone his/her communicative skills in a creative environment is welcome to join the Drama Club – it is where you can explore and be dramatic!
