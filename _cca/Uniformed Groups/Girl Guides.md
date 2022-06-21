@@ -19,3 +19,9 @@ Our Guides faced this year with resilience and demonstrated their ability to ada
 <img src="/images/GUIDES%203.png" 
      style="width:60%">
 *Sec 1 Guides with their pledge for Free Being Me session conducted by Sec 3 Guides*
+
+In recognition of our efforts, our Company has been awarded the Puan Noor Aisha Gold Award in 2017, 2018 and 2019. This award is an affirmation of our hard work and dedication in the various events, initiatives and programmes that we have planned and participated in in recent years. 
+
+#### Aspirations
+
+CVSS Girl Guides aspire to empower girls to realise their potential by providing opportunities in leading themselves and others. The girls would learn life skills – such as personal goal-setting, decision-making and team-building in a safe and supported environment. Guides build and strengthen their leadership skills by taking the lead in Unit and Patrol activities, learning to organise events, and teaching each other and younger girls new skills.
