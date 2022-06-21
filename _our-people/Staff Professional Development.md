@@ -68,3 +68,24 @@ Since 2010, the school has established itself as a Professional Learning Communi
 ### Professional Sharing on External Platforms
 
 The school encourages teachers to take part in professional learning opportunities on external platforms so as to improve their pedagogical practices, deepen their craft and hone their teaching skills.  This year, 12 teachers conducted sharing at various platforms such as teacher-led workshops, iMTL networked learning community e-Symposium, the Crescent Academy for Digital Age Learning (CrADLe), Academy of Singapore Teachers, OPAL2.0 and other platforms.  These sharing efforts are win-win opportunities for our teachers and their audiences alike as all sides benefit from the experience.  For example, our MTL teachers worked with Master Teachers (MTT) from the Singapore Centre for Chinese Language (SCCL) as they shared their good practices with other teachers in the fraternity.  Through close collaboration with the MTT, our teachers sharpened their teaching pedagogies as well.
+
+<img src="/images/Ms%20Deng%20Li%20in%20collaboration%20with%20iMTL%20CPDD.png" 
+     style="width:60%">
+*Ms Deng Li in collaboration with iMTL CPDD*
+
+### Other PD Work by SPD Committee
+
+
+There are numerous structures and processes that enable the SPD committee to value-add to the professional growth of teachers in our school.  The instructional mentoring programme provides guidance to beginning teachers in their first few years in teaching service.  Instructional Mentors (IM) meet their mentees on a regular basis to sharpen their teaching practice.  In October, our IM also met with MTT from AST who provided consultancy to value-add to our mentoring programme. The feedback from MTT was very positive and our school will continue to work with them next year to enhance our methods and processes.  Our committee also organised induction programmes for new staff posted to our school.  This programme enables our new staff to hit the ground running and perform their duties well.
+
+The SPD committee members contribute to the professional growth of teachers in their respective IP departments through sharing, informal coaching and serving as resource persons for their colleagues.  For example, a few TL shared with their department colleagues differentiated instruction strategies in semester 2 this year.
+
+### Spirit of Professionalism and Excellence
+
+In a year filled with uncertainties, abrupt changes and unexpected challenges, teachers have risen to the occasion and ensured that teaching and learning was not compromised.  They exercised initiative and adaptability in learning and applying new blended learning approaches.  They constantly sought to improve their practices through hard work and active collaboration.  The teachers have indeed displayed a true spirit of lifelong learning, professionalism and excellence.
+
+![](/images/New%20teachers%20going%20through%20Induction%20Programme.png)
+*New teachers going through Induction Programme*
+
+![](/images/Mdm%20Ellyna%20sharing%20during%20PD.png)
+*Mdm Ellyna sharing during Professional Development*
