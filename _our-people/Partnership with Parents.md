@@ -86,3 +86,13 @@ As part of the school’s orientation programme for Sec 1 students, a Parents’
 
 **2. PSG Co-Hosting of Elderly Guests at Chinese New Year (CNY) Celebration**
 ![](/images/PSG%20gathering%20for%20festive%20bag%20packing.jpg)
+*PSG gathering to pack festive goodie bags to be give to invited beneficiaries at our school's CNY celebrations 2020*
+
+  
+
+Our PSG has always been passionate about co-hosting elderly guests at our annual CNY celebration and members generously volunteer to prepare festive bags for our elderly guests. Preparation for these festive bags would begin early in the year whereby PSG EXCOs would activate the donation drive in kinds only and parents of students from all levels would either contribute items or volunteer their time on a Saturday morning to pack these festive bags together with their children. On the actual day of CNY celebration, our PSG members even came to school to mingle with and take care of these elderly guests.
+
+### 2019
+
+**1. Sec 1 Parents’ Talk**
+![](/images/Sec%201%20PSG%20talks.png)
