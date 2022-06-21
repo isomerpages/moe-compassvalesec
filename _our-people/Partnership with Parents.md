@@ -65,3 +65,24 @@ For more information or queries, please email us at **cvss@moe.edu.sg**
 * [Developing your child to be a positive peer influence online](/files/(2)%20DEVELOPING%20YOUR%20CHILD%20TO%20BE%20A%20POSITIVE%20PEER%20INFLUENCE%20ONLINE_2019.pdf)
 * [Helping your child handle online content](/files/(3)%20HELPING%20YOUR%20CHILD%20HANDLE%20ONLINE%20CONTENT_2019.pdf)
 * [Helping Your Children to Be Discerning About Online Information](/files/2019%20T2_Parents%20Tipsheet.pdf)
+
+### Parent Support Group Events
+
+### 2021
+### PSG Meeting:
+
+Even though PSG engagements were reduced greatly during the pandemic, PSG tried to innovate and continued to conduct meetings online via platforms like Zoom . In April this year, the PSG meet-up provided an opportunity for parents to interact and share their experiences with one another on how they managed working from home and monitoring their children’s learning. School Leaders joined in the session and our Vice-Principal, Ms Jacelyn Kee took the chance to share further information about the school’s plans for Blended Learning (BL) and Personalised Digital Learning Programme (PDLP) as students from Secondary 1 to 3 would be getting their personalised learning device (PLD) by the end of the year. Feedback was gathered from the parents, which enabled the school to enhance its communication and support in this area.
+
+  
+
+### 2020
+**1. Sec 1 Parents’ Talk - Helping your child transit to secondary school life**
+![](/images/PSG%20Chairperson%20sharing%20during%20Sec%201%20Parents%20Talk.jpg)
+*PSG Chairperson conducts a sharing for parents during the Sec 1 Parents' Talk 2020*
+
+As part of the school’s orientation programme for Sec 1 students, a Parents’ Talk was conducted to enable parents to gain an overview of secondary school life in CVSS, in both curricular and co-curricular aspect, and also provide them with an understanding on how they can support their children in the transition. Our Parent Support Group (PSG) Chairperson, Mr Christopher Lian, also shared how parents can guide and interact with their children during this transition. Subsequently, our parents proceeded to their children’s form classroom to interact with their children’s form teachers as well as get to know fellow parents of the same class.
+
+  
+
+**2. PSG Co-Hosting of Elderly Guests at Chinese New Year (CNY) Celebration**
+![](/images/PSG%20gathering%20for%20festive%20bag%20packing.jpg)
