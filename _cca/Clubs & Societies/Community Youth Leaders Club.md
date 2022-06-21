@@ -70,3 +70,7 @@ Members delivered some festive cheer to the patients by engaging them in convers
 
 ![](/images/Picture%202.jpg)
 *CYL club members guiding the patients at Sengkang Community Hospital in folding origami fishes with red packets*
+
+2.     **Project Encourage**
+
+Members championed the ‘Do Good, Feel Good, Spread Good’ movement by encouraging Secondary 1 students to express compliments to their classmates and loved ones through writing notes. This project is featured in the Design For Change World website. Click [here](https://stories.dfcworld.com/STORY/previewstory?entry_code=SIN-ENG-302391820-2020)* to visit.
