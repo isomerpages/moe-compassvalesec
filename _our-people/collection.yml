@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Executive and Administration Staff 2022.md
       - Form & Co Form Teachers 2022.md
       - School Management Committee.md
