@@ -43,3 +43,8 @@ This year, our Drama members devised and scripted an original play for “The In
 We also took part in SYFgoesOnline - The Young Playwright Presents, and Drama On Air. Online alternatives to the annual “SYF celebrations – Play!” where students presented improvised scripts and monologues individually.
 
 The Drama Club aims to not only continue delivering engaging and thought-provoking performances for events and competitions, but also expose its members to world-class theatrical performances of multiple genres.
+
+![](/images/Brainstorming%20and%20devising%20scripts.jpg)
+*Brainstorming and devising scripts*
+
+Empowering the drama members to understand and influence their world through exploring roles and situations, the Drama Club will continue to seize more opportunities to showcase their talents and passion for theatrical arts both in school and beyond.
