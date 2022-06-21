@@ -100,4 +100,5 @@ Our PSG has always been passionate about co-hosting elderly guests at our annual
 **2.&nbsp;Chinese New Year Celebration**
 ![](/images/PSG%20CNY.png)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAQoQTszvnzjI9kxaU-B6rYXw-_JOdH_3t8b59zXdzUVCbwIU4c5FGDqN1E_xjgy4mCy5g7jWQMpor/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+**3. Sec 1 Parents’ Welcome Brunch**
+<iframe allowfullscreen="true" height="500" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAQoQTszvnzjI9kxaU-B6rYXw-_JOdH_3t8b59zXdzUVCbwIU4c5FGDqN1E_xjgy4mCy5g7jWQMpor/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
