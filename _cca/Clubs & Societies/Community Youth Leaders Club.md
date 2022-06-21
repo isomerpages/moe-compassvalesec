@@ -26,3 +26,20 @@ Members delivered some festive cheer to the patients and elderly by engaging the
 2. **Teens Conference 2021**   
 
 Selected Secondary 2 members attended the Teens Conference 2021 organised by Holy Innocents' High School. The theme for this year's conference is "Shine: From Shadow to Light". Through this conference, our members developed a sense of empathy that would motivate them to spearhead efforts within the school and community, especially during this COVID-19 pandemic.
+
+![](/images/CYL4.jpg)
+3. **National Day Celebration via Zoom with Bethesda C.A.R.E Senior Activity Centre**  
+
+Members collaborated with the Dance and Choir members to celebrate National Day with seniors from  Bethesda C.A.R.E Senior Activity Centre via Zoom. Dance members presented the Dance of the Nation which is choreographed based on a remix of this year's National Day song and is a workout that all ages can partake in. CYL members shared some health tips with the seniors for them to lead a healthy and active lifestyle. Choir members pre recorded a video, presenting the National Day song “Tomorrow is here again” for seniors to sing along. 
+
+4. **Appreciating Non-teaching Staff**   
+
+Our members also seek to serve their immediate community in school. This year, they conveyed their appreciation to the non-teaching staff in the school, such as the administrative staff in the General Office, Operational Support Staff in the laboratories and workshops and the security personnel. For this project, our Secondary 3 members took the lead in collaboration with cadets from NCC (Air) and members of the Girl Guides to make paper fans with words of thanks and appreciation creatively written on them. These gifts were distributed in conjunction with Teachers’ Day celebrations in school. Our members hope that through this project, they will inspire their fellow North Stars to show appreciation to all members of our school community through simple yet meaningful acts of kindness.
+
+5. **Social Entrepreneurship Programme**  
+
+Our Secondary 1 and 2 members participated in the Design to Enrich Lives - Social Entrepreneurship Programme in Semester 2. It was a six-session long programme organised by mentors from Design for Change Singapore. Through the programme, our members tried their hands at using the Design Thinking Framework to think critically about the needs of their assigned beneficiaries - Bethesda C.A.R.E Senior Activity Centre, Sengkang Community Hospital and ItsRainingRaincoats, and explored creative solutions to authentic problems faced by these organisations. This project helped to develop in our young members a keen eye towards opportunities for social innovation - to challenge the status quo in current outreach and community efforts, design new solutions towards the process or product and improve the wellbeing of beneficiaries.
+
+Moving forward into 2022, the CYL Club hopes to strengthen the executive committee and leadership structure, sustain partnerships with identified beneficiaries, delve deeper into social entrepreneurship, as well as initiate more opportunities to collaborate with other CCA groups to serve our Sengkang community in various ways. 
+
+Our first batch of pioneering members will be stepping down and handing over the legacy to the next batch of students. We believe that every student is a champion for change!
