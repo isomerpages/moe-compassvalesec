@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Form & Co Form Teachers 2022.md
       - School Management Committee.md
