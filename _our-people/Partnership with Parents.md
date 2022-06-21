@@ -28,3 +28,40 @@ We are parents of CVSS students who are keen to take an active role in shaping t
 
 ![](/images/PSG%20Exco2021_1.png)
 ![](/images/PSG%20Exco2021_2.png)
+
+What is CVSS-PSG’s purpose?  
+
+
+
+----------------------------------
+
+#### CVSS PSG aims to: 
+
+1. Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of students 
+
+2. Provide support to school in the development of students 
+
+3. Encourage social activities and relationship among parents, teachers and students
+
+  
+
+#### Why join PSG?
+
+As parents of CVSS students, you are automatically a member of the PSG.  As a PSG Member, you can get involved by: 
+
+1. Attending training / educational workshops
+
+2. Participating in social and educational programmes for students and other parents 
+
+3. Being part of the feedback unit to build a nurturing, caring school and home environment for your child 
+
+For more information or queries, please email us at **cvss@moe.edu.sg**
+
+  
+
+### Useful Parenting Tips (click titles below to access documents)
+
+* [Building Resilience in Your Child](/files/(1)%20Building%20Resilience%20in%20Your%20Child_2019.pdf)
+* [Developing your child to be a positive peer influence online](/files/(2)%20DEVELOPING%20YOUR%20CHILD%20TO%20BE%20A%20POSITIVE%20PEER%20INFLUENCE%20ONLINE_2019.pdf)
+* [Helping your child handle online content](/files/(3)%20HELPING%20YOUR%20CHILD%20HANDLE%20ONLINE%20CONTENT_2019.pdf)
+* [Helping Your Children to Be Discerning About Online Information](/files/2019%20T2_Parents%20Tipsheet.pdf)
