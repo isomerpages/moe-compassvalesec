@@ -17,14 +17,14 @@ As part of the school’s effort in helping our Secondary One students transit t
 
 **2. Meet The Form Teacher sessions**  
 
-The Covid-19 pandemic did not deter our form teachers from persisting in their efforts to “meet up” with parents to discuss the progress and development of their children. The school tapped on the affordances of technology to engage parents from all levels on 27 & 28 May 2021. These sessions have enabled the form teachers to connect with the parents and strengthen their partnership in supporting the growth and development of each child.
+The Covid-19 pandemic did not deter our form teachers from persisting in their efforts to “meet up” with parents to discuss the progress and development of their children. The school tapped on the affordances of technology to engage parents from all levels on 27 &amp; 28 May 2021. These sessions have enabled the form teachers to connect with the parents and strengthen their partnership in supporting the growth and development of each child.
 
 ### Parent Support Group (PSG)
 ![](/images/PSG_Picture%201.jpg)
 
 #### Who are we?
 
-We are parents of CVSS students who are keen to take an active role in shaping the crucial teenage years of our children. 
+We are parents of CVSS students who are keen to take an active role in shaping the crucial teenage years of our children.&nbsp;
 
 ![](/images/PSG%20Exco2021_1.png)
 ![](/images/PSG%20Exco2021_2.png)
@@ -35,11 +35,11 @@ What is CVSS-PSG’s purpose?
 
 ----------------------------------
 
-#### CVSS PSG aims to: 
+#### CVSS PSG aims to:&nbsp;
 
-1. Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of students 
+1. Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of students&nbsp;
 
-2. Provide support to school in the development of students 
+2. Provide support to school in the development of students&nbsp;
 
 3. Encourage social activities and relationship among parents, teachers and students
 
@@ -47,19 +47,19 @@ What is CVSS-PSG’s purpose?
 
 #### Why join PSG?
 
-As parents of CVSS students, you are automatically a member of the PSG.  As a PSG Member, you can get involved by: 
+As parents of CVSS students, you are automatically a member of the PSG.&nbsp;&nbsp;As a PSG Member, you can get involved by:&nbsp;
 
 1. Attending training / educational workshops
 
-2. Participating in social and educational programmes for students and other parents 
+2. Participating in social and educational programmes for students and other parents&nbsp;
 
-3. Being part of the feedback unit to build a nurturing, caring school and home environment for your child 
+3. Being part of the feedback unit to build a nurturing, caring school and home environment for your child&nbsp;
 
 For more information or queries, please email us at **cvss@moe.edu.sg**
 
   
 
-### Useful Parenting Tips (click titles below to access documents)
+### Useful Parenting Tips&nbsp;(click&nbsp;titles&nbsp;below to access documents)
 
 * [Building Resilience in Your Child](/files/(1)%20Building%20Resilience%20in%20Your%20Child_2019.pdf)
 * [Developing your child to be a positive peer influence online](/files/(2)%20DEVELOPING%20YOUR%20CHILD%20TO%20BE%20A%20POSITIVE%20PEER%20INFLUENCE%20ONLINE_2019.pdf)
@@ -96,3 +96,8 @@ Our PSG has always been passionate about co-hosting elderly guests at our annual
 
 **1. Sec 1 Parents’ Talk**
 ![](/images/Sec%201%20PSG%20talks.png)
+
+**2.&nbsp;Chinese New Year Celebration**
+![](/images/PSG%20CNY.png)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAQoQTszvnzjI9kxaU-B6rYXw-_JOdH_3t8b59zXdzUVCbwIU4c5FGDqN1E_xjgy4mCy5g7jWQMpor/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
