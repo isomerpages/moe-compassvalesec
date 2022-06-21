@@ -30,3 +30,6 @@ First-Person-View Drone Racing
 * Advanced Category, 6th Position
 
 Making use of every opportunity available, including e-CCA sessions and school holidays, our members displayed grit and teamwork to hone their skills and acquire aeronautics knowledge for the competition. It was heart-warming to see the North Star spirit in action: the seniors guiding the juniors with enthusiasm, the veterans coaching the novice with patience, and the teachers spurring everyone to press on. Results aside, it was certainly an unforgettable and fruitful learning journey for all who came on board.
+
+![](/images/AERO3.jpg)
+*Clinching the Championship Award for the SAFMC Fixed-Wing RC Plane Category, our team was jubilant as they interacted with the GOH,Senior Minister of State for Defence, Mr Heng Chee How at the Virtual Awards Ceremony*
