@@ -31,3 +31,15 @@ Just as the school motto states, we hope each of our dancers will be able to rea
 "Great dancers are not great because of their technique, they are great because they dance from the heart and let their passion shine through."_  That holds true for CVSS Dance CCA – our dancers exude passion and commitment. Under the guidance of dance instructor Ms Quek Shirlyn, CVSS Dance CCA incorporates modern dance techniques and contemporary arts into their dance pieces.  
 
 This year has been a special year as dancers had to embark on eCCA due to the COVID crisis. Although it has been tough as spaces for physical movements were limited, our dancers demonstrated perseverance and resilience. They turned up for each eCCA session diligently and followed through with each session.
+
+![](/images/Dancers%20at%20the%20end%20of%20an%20eCCA%20session.jpg)
+*Dancers at the end of an eCCA session*
+
+When physical sessions started, dancers had to follow strict SMM measures during training sessions. However, our dancers showed enthusiasm and eagerness as they could now train together with their peers. Our dancers were also grateful that they were given the opportunity to be part of the CCA Open House and took part in the Chinese New Year celebration before Circuit Breaker kicked in.
+
+![](/images/Open%20House%202020.jpg)
+*Open House 2020*
+
+These platforms have instilled the school values of resilience, graciousness and respect as well as develop high levels of responsibility and commitment in the dancers. Through their experiences in dance, the CCA hopes to develop in every dancer, good values and sound character, along with a lifelong passion for this performing art.
+
+As expressed by the school motto, we hope all dancers will be able to realise the star within them and continue to be that twinkling star that lights up the stage, doing what they love – dance!
