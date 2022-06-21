@@ -2,8 +2,8 @@ collections:
   our-people:
     output: true
     order:
-      - Staff Well Being.md
-      - Staff Professional Development.md
-      - Executive and Administration Staff 2022.md
-      - Form & Co Form Teachers 2022.md
       - School Management Committee.md
+      - Form & Co Form Teachers 2022.md
+      - Executive and Administration Staff 2022.md
+      - Staff Professional Development.md
+      - Staff Well Being.md
