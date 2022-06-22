@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2022/February.md
       - 2022/April.md
       - 2022/.keep
       - Highlights.md
