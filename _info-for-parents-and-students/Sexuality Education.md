@@ -69,3 +69,43 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education/
   </tr>
 </tbody>
 </table>
+
+**Secondary 2**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-px6y">UNIT</th>
+    <th class="tg-px6y">LESSONS / DURATION</th>
+    <th class="tg-px6y">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-7yig">1<br>(60  mins)</td>
+    <td class="tg-ktyi">·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails</td>
+    <td class="tg-7yig">Term 3 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2A<br>(60 mins)</td>
+    <td class="tg-ktyi">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-7yig">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2B<br>(60 mins)</td>
+    <td class="tg-ktyi">·    Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·    Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-7yig">Term 3 Week 4</td>
+  </tr>
+</tbody>
+</table>
