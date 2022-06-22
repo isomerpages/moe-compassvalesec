@@ -19,7 +19,7 @@ When MOE has released the S1 posting results on Tuesday 22nd December 2020, pare
 
   
 
-For parents who are not on Parents Gateway yet, you can onboard by following the instructions [**here**]
+For parents who are not on Parents Gateway yet, you can onboard by following the instructions [here](/files/2021%20Parents%20Gateway%20Letter%20for%20Parents.pdf)
 
 For parents who have not received any information via Parents Gateway by Wednesday, 23 Dec 2020, you can email the following details to [**cvss@moe.edu.sg**](mailto:cvss@moe.edu.sg) using the email header “Request for S1 Registration Details”:
 
