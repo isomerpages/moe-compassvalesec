@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 School Timetable Semester 1 (wef 31 Dec 2021).md
       - Subject Based Banding(SBB) 2022 Secondary 1.md
       - CVSS Outreach Video for 2021 P6 Pupils & Parents.md
       - 2021 Semester 2 Class Timetable (wef 29 June).md
