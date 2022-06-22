@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2021 Sec 2 & 4 Mid Year Exams.md
       - 2021 Semester1 Timetable.md
       - S1 Appeal to Transfer to CVSS.md
       - CVSS S1 Registration for 2021.md
