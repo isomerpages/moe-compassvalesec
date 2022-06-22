@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Subject Based Banding(SBB) 2022 Secondary 1.md
       - CVSS Outreach Video for 2021 P6 Pupils & Parents.md
       - 2021 Semester 2 Class Timetable (wef 29 June).md
       - 2021 Sec 2 & 4 Mid Year Exams.md
