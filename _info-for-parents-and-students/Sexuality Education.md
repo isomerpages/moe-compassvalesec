@@ -150,3 +150,81 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education/
   </tr>
 </tbody>
 </table>
+
+**Secondary 4**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r16i{background-color:#FFF;color:#16165C;text-align:left;vertical-align:top}
+.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-px6y">UNIT</th>
+    <th class="tg-px6y">LESSONS / DURATION</th>
+    <th class="tg-px6y">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-7yig">1<br>(60 mins)</td>
+    <td class="tg-r16i">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-7yig">Term 1 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2<br>(60 mins)</td>
+    <td class="tg-ktyi">·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>·       Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>·       Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>·       Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-7yig">Term 1 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">3<br>(60 mins)</td>
+    <td class="tg-r16i">·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·   Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td class="tg-7yig">Term 2 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> </td>
+    <td class="tg-7yig">4<br>(60 mins)</td>
+    <td class="tg-ktyi">·     Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-7yig">Term 2 Week 4</td>
+  </tr>
+</tbody>
+</table>
+
+**Secondary 5**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-px6y">UNIT</th>
+    <th class="tg-px6y">LESSONS / DURATION</th>
+    <th class="tg-px6y">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">Respectful Relationships &amp; Safety</td>
+    <td class="tg-7yig">1<br>(60 mins)</td>
+    <td class="tg-ktyi">·      <span style="background-color:initial">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity</span><br>·      <span style="background-color:initial">Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</span><br>·      <span style="background-color:initial">Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
+    <td class="tg-zr06">Term 1 Week 6</td>
+  </tr>
+</tbody>
+</table>
