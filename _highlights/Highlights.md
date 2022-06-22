@@ -32,3 +32,16 @@ Our school hosted a visit by Ms Sun Xueling on 18 Jan 2022 morning as part of MO
 </html>
 
 ______
+
+<html>
+<body>
+
+
+<p><strong>Environment Education in CVSS</strong></p>
+<p>
+<img src="/images/highlight%203.jpeg" style="float:left;width:100px;height:180px;">
+Our school hosted a visit by Ms Sun Xueling on 18 Jan 2022 morning as part of MOE’s Political Office Holder School Engagement Programme. The visit focused on the refreshed...
+</p>
+
+</body>
+</html>
