@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2021 Semester1 Sec4 & 5 Timetables.md
       - S1 Appeal to Transfer to CVSS.md
       - CVSS S1 Registration for 2021.md
       - CVSS Outreach Video for 2020 P6 Pupils & Parents.md
