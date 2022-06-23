@@ -27,3 +27,19 @@ The showcase revealed the many talents of our North Stars as well as their grit 
 ![](/images/North%20Star%20Sparkle%20photos%202.jpg)
 
 [https://drive.google.com/file/d/1redJZ3WxuNwFpURNcPCg93A19Tjo\_dNL/view](https://drive.google.com/file/d/1redJZ3WxuNwFpURNcPCg93A19Tjo_dNL/view)
+
+# Elementz and Youth Science Fortnight 2021
+
+  
+
+### Singapore Youth Science Fair 2021 and 19th Elementz Science Competition 2021
+
+Our school has again done well in the annual **Singapore Youth Science Fair 2021** co-organized by Science Teachers’ Association of Singapore and the Science Centre Board. Held in August 2021, the fair aims to promote science education in Singapore.
+
+There were a total of 58 projects submitted for the lower secondary category. Our students did a research project in which they carried out literature research and a series of experiments. They then presented their findings and analyses through a virtual poster that was submitted to the organisers for judging.
+
+Despite the many restrictions due to Covid-19, our teams did their best and managed to clinch an **Accomplishment and Commendation award**!
+
+Our two teams also submitted their research projects and virtual posters for the annual **19th Elementz Science Competition** organized by Anderson Secondary School earlier in July 2021. This competition aims to generate interest in scientific study through participation in investigative-type projects.
+
+A total of 35 projects were submitted in the lower secondary category.  Our teams achieved a **Gold** and a **Silver** **award**! In addition, our Gold award team was the only team in the lower secondary category that was invited to share about their project via a pre-recorded presentation.
