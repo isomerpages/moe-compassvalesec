@@ -52,4 +52,12 @@ As in the past years, our school did not forget to invite senior citizens to joi
 
 # China Suzhou School Exchange and Cultural Immersion Trip 2016
 38 North Stars, 5 teachers and our Principal went on our school’s China Suzhou School Exchange and Cultural Immersion programme in Nov 2016.  The students and teachers had a meaningful two days of school exchange with our twinning school - Suzhou Industrial Park Xinggang School. After a simple welcoming ceremony and introduction to Suzhou, the students attended lessons with their Xinggang buddies, including two specially-planned lessons in Music and Geography. During the music lesson, they learnt a traditional song in the Suzhou dialect (ping tan) and tried their hands at playing a traditional musical instrument (san xuan). During the geography lesson, they worked in groups to plan an itinerary to visit places of attraction in Suzhou.  Our students not only experienced a different learning environment but also built friendships with their China buddies through these activities.
+
 ![](/images/china.jpeg)
+_From L to R: Our principal exchanging souvenirs with the VP of SIP Xinggang School; Our students trying out traditional Chinese musical instruments (san xuan) during a music lesson; Our students discussing and presenting a travel itinerary for local places of attraction during a Geography Lesson._
+
+Our students also visited numerous places of historical and cultural significance in Hangzhou, Suzhou, Nanjing, Wuxi and Shanghai. They were exposed to Chinese History, Literature and the Arts as they learnt about stories of heroism, loyalty and piety. In addition, they learnt to appreciate the strong bilateral ties between China and Singapore as they explored the exhibits at Suzhou-Singapore Industrial Park Museum. The students were also taken in on the close similarity between the mix of colonial heritage and modern skyline in Shanghai and our downtown CBD. Additionally, the exhibits at the Nanjing Massacre Memorial Hall deepened their appreciation of the horrors of war and the importance of regional peace and stability.  
+  
+Indeed, the entire trip was filled with numerous opportunities to gain new knowledge and forge good friendships and our students captured many moments of learning and camaraderie.
+![](/images/china1.jpeg)
+_A group photo taken at Tiger Hill, Suzhou_
