@@ -75,3 +75,16 @@ The hosting ended with a sumptuous farewell lunch for all the students and teach
 ![](/images/sept%202019%2016.jpg)
 All in all, the hosting was a fruitful and memorable experience for our North Stars. We look forward to future exchanges with SIP Xinggang School!
 ![](/images/sept%202019%2017.jpg)
+
+# ANNUAL HOSTING OF CHANGSHU FOREIGN LANGUAGE MIDDLE SCHOOL 2019
+  
+
+Our school hosted 28 students and 3 teachers from Changshu Foreign Language Middle School on 7 & 8 Aug 2019.
+
+28 Sec 2 student buddies hosted the Chinese students with much warmth and graciousness.  On the first day, the Chinese students attended specially arranged Art and NFS lessons conducted and enjoyed the engaging hands-on learning activities. They were then treated to an interactive artwork display at the ArtScience Museum together with our student buddies.
+![](/images/sept%202019%2018.jpg)
+On the second day, a farewell party was organised by our student buddies, which included talent show by our students and Changshu students, sharing of learning points and exchanging of little personal gifts by both sides. The highlight of the party was a general quiz where our CVSS and Changshu buddies worked together to compete in a Kahoots! game about Singapore and China.
+![](/images/sept%202019%2019.jpg)
+The school also coincided the hosting with our National Day Celebrations. Our guests joined in the celebrations by sportingly dressing in red on that day. They attended the assembly programme and enjoyed the performances by our students. Through the Singapore Bicentennial video prepared by our students, our guests got to know more about Singapore’s history and understand the journey Singapore has taken to evolve into a modern and vibrant city.  They also joined us in the singalong session and were impressed by the good energy and vibrancy in the hall.
+
+All in all, the hosting has been a wonderful experience for our North Stars as they get to make new friends from China and know more about the Chinese education and culture. It is also another year of renewing and strengthening the close ties between CVSS and Changshu Foreign Language Middle School. We look forward to more visits by them!
