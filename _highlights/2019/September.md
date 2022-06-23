@@ -25,3 +25,18 @@ In this project, students were tasked as a class to identify the key needs of Su
 
 Students braved myriad obstacles and demonstrated grit to overcome these hurdles. They seized opportunities to exercise social responsibility and contribute meaningfully to their chosen community.  The service learning project culminated in students sharing their experiences and reflections with their peers from other classes and inspiring the next batch of students who will be embarking on their projects next year.
 ![](/images/sept%202019%207.jpg)
+
+# SchoolARTS@SKGH 2019
+
+As part of the SchoolARTS@SKGH initiative undertaken by several schools, our North Stars did CVSS proud by tapping on their talent to show care for the patients and appreciation for the staff at Sengkang General Hospital and Sengkang Community Hospital.
+
+Our Sec 1 NCC Air cadets did a wall mural to liven up the ambience of the hospital wards while our choir, band and dance CCA members put up an entertaining lunch time concert on 24 May to cheer up the patients and staff.
+![](/images/sept%202019%208.jpg)
+
+# Secondary 1 & 2 Green Compass Programme 2019
+
+
+As climate change becomes a central issue in the world today, it is important that students are exposed to ways of reducing consumption of new products by making new use of everyday items that are discarded. This is part of the UNESCO Sustainable Development Goals.
+
+As part of our school’s Green Compass Programme, all Sec 1 students attended a talk on Waste Management by NEA and embarked on a recyclables collection drive from 36 HDB blocks near our school.  They also helped spread awareness on environmental issues and waste management by giving out NEA pamphlets to all the residents. All Sec 2 students went through a series of upcycling workshops and talks by TERRA Organisation, which include workshops on creating juice carton wallets, upholstery tissue paper holder and pencil cases made of recycled plastic bottles. Besides acquiring the skills of upcycling, students were given insight into the extent of environmental pollution and how their little actions could impact climate change in a big way.
+![](/images/sept%202019%209.jpg)
