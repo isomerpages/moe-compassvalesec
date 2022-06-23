@@ -12,3 +12,5 @@ L to R:  <br>
 Line Tracing (First placing): Yeo Zhi Hui (4E5), Dion Soh Jing Jie (3E5), Koh Zhi Rong (3E5), Chong Wei Heng (3E4) <br> 
 Line Tracing (Merit): Chan Kangwei, Clement (4E5), Ong Ching Keong, Felix (4E1), Lo Ho Tin (3E5), Tarakeshwar s/o Segaran (2N1)  <br>
 Obstacle Challenge (2nd runner up): Tan Jun Hao (4E4), Aaron Lim Si Jie (4E3), Loh Ye Kai Joseph (3E3), Aw Jin Rong (3E2)
+<img src="/images/iterob17.jpeg" 
+     style="width:80%">
