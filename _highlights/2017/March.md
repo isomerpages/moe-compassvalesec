@@ -26,3 +26,12 @@ As part of the 2017 Mother Tongue (MT) Fortnight programme, the MT department co
 
 <img src="/images/nathan.png" 
      style="width:70%">
+_From L to R: Mr Chia Chor Yann/Principal, Nathan Hartono, Mr Wong Jia Wang/Vice-Principal,  
+Mrs Maureen Thang (HOD/MTL)_
+
+There was good energy and vibrancy in the hall as the local crooner performed the Chinese pop favourites “有没有” - the song that catapulted him to fame in Sing! China (中国新声音) where he came in second at the finals in October 2016.  He also gave his own rendition of the famous song, “我不难过” originally sung by local singer Sun Yan Zi.
+
+![](/images/nathan1.jpeg)
+![](/images/nathan2.jpeg)
+_L: Nathan Hartono urges all North Stars to master the Mother Tongue languages well as it is an important life skill._ <br>
+_R: North Stars and teachers played the game “Link Up the Words” （文字接龙）with Hartono._
