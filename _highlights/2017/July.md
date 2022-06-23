@@ -62,3 +62,7 @@ Our North Stars took part in the annual Singapore Amazing Flying Machines Compet
 2\. The **Theory of Flight Award**, **First Runners Up** in Category B - Unpowered Gliders.  
   
 In the Paper Planes category, our team from 3N1 managed to design, fold and fly their paper plane accurately through the most number of hoops (5) in two attempts to clinch the Precision Award. In the Unpowered Gliders category, our teams competed against more than 130 teams from NUS High, Dunman High, Hwa Chong Institution, River Valley High etc. Our team from 2E4 did extremely well in their presentation, demonstrating a sound understanding and appropriate applications of aerodynamic design principles in the construction of their glider, to clinch the Theory of Flight Award, First Runners Up.
+
+![](/images/safmc1.jpeg)
+_L: **Precision Award**, Cat A (Open) – Paper Planes:  Muhamad Mahadi and Ariffin Faharis from 3N1__<br>
+R: **Theory of Flight Award** 1st Runners Up in Cat B – Unpowered Gliders:_  _Lim Yu Sheng, Yu Yong Yi, Valerie Lee and Chan Wan Ian_
