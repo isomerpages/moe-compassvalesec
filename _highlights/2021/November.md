@@ -43,3 +43,5 @@ Despite the many restrictions due to Covid-19, our teams did their best and mana
 Our two teams also submitted their research projects and virtual posters for the annual **19th Elementz Science Competition** organized by Anderson Secondary School earlier in July 2021. This competition aims to generate interest in scientific study through participation in investigative-type projects.
 
 A total of 35 projects were submitted in the lower secondary category.  Our teams achieved a **Gold** and a **Silver** **award**! In addition, our Gold award team was the only team in the lower secondary category that was invited to share about their project via a pre-recorded presentation.
+
+![](/images/Singapore%20youth%20science%20fair%20photos%201.jpg)
