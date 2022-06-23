@@ -2,7 +2,7 @@ collections:
   highlights:
     output: true
     order:
-      - 2021/Julu.md
+      - 2021/July.md
       - 2021/November.md
       - 2021/.keep
       - 2022/.keep
