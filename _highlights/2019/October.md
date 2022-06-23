@@ -23,3 +23,13 @@ Our school sent a total of 10 teams with 3 members each - 5 teams for Category B
 ![](/images/october%202019.jpg)
 Two of our teams achieved **Merit Awards** in the presentation segment of the competition. Team 4, comprising Damian Soon (3E1), Keane Tan (2E1) and Killian Sen (1N3), won the Category B1 Best Learning Journey Merit Award. Team 10 comprising Raven Ho (3E3), Foo Siao Rou (3E3) and Chen Xuanyin (3E1), won the Category B2 Best Presentation Merit Award. Each of the 2 teams took home a prize of $300 Cash, Merit Award Medals and sponsored products.
 ![](/images/oct%202019%202.jpg)
+
+# Republic Polytechnic (RP) Renesas Grand Prix Competition 2019
+
+The RP Renesas Grand Prix Competition 2019 is an event organised by Republic Polytechnic, supported by Renesas Electronics (Singapore) Pte Ltd for secondary school and tertiary institution to develop their passion for electronics. The competition was held on 10-13 September at Republic Polytechnic. Despite being their first attempt and inexperience, our students demonstrated resilience, strong analytical skills and teamwork over 4 days andclinched **second placing** in this competition!
+![](/images/oct%202019%203.jpg)
+In this competition, students were required to programme a microcontroller racing car to race on an  
+F1-style racing track with many sharp turns, twisty sections and ramps. To complete the race course in the fastest time possible, the car has to decelerate to negotiate the bends and turns and accelerate quickly thereafter.
+
+To prepare for the competition, our students attended a 3-day training workshop at Republic Polytechnic to tune their cars and learn C-programming. They also spent several afternoons to test and fine-tune their racing cars at the track. Throughout the entire process, our students demonstrated critical and inventive thinking. They also showed great resilience and strong teamwork as they weathered repeated failures of unsuccessful test runs and collaborated to devise solutions. All of these indeed exemplify the indomitable North Star spirit expected of all our students!
+![](/images/oct%202019%204.jpg)
