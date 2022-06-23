@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2021/March.md
       - 2021/May.md
       - 2021/June.md
       - 2021/July.md
