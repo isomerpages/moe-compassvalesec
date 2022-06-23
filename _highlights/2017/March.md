@@ -41,3 +41,11 @@ _L&R: North Stars and teachers played the game of charades (guessing of Chinese 
 Coming from an English-speaking family, Hartono struggled with the learning of Chinese Language since primary school days when he took Higher Chinese in Primary 3 and was failing the subject continuously until secondary school. It was not until Junior College when he realised that mastering a second language would open up a lot of opportunities for him and started learning the language seriously.  To prepare for the Sing! Chinese contest, Hartono spent four months in China and improved from barely able to string together a proper sentence in Chinese to speaking complete sentences in Mandarin without pausing or inserting English words. He attributed his success to confidence in speaking proactively and constant practice.  
   
 It is hoped that through the programme, our North Stars will be inspired to learn the Mother Tongue languages well and experience the joy of mastering it.
+
+# Chinese New Year Celebration 2017
+Our school celebrated the first and most excited festival of the year on 27 Jan, the eve of Chinese New Year.   To kick start the celebration, the lower secondary students took part in an inter-class rooster mascot competition, where each class designed a costume for their mascot using recycled materials, dressed up and paraded their mascot on stage.  This was followed by band and dance performances, a talent show where students showcased their vocal talents, alumni performances, a skit by our drama club about Chinese New Year customs and festive singing by our choir.  
+  
+As in the past years, our school did not forget to invite senior citizens to join in the celebrations.  This year we invited 5 residents from the Bright Hill Evergreen Home for the elderly and 20 elderly Residents’ Committee members from neighbouring Compassvale Lodge.  Our SAC Chairman, Mr Lee Kang Hwa continued his tradition of giving out hong baos to our elderly guests and our Parent Support Group also specially prepared hampers for all of them.   Our students also gave the elderly and our teachers mandarin oranges, showing respect for the elders and gratitude for the teachers.
+![](/images/cny17.jpeg)
+![](/images/cny17a.jpeg)
+![](/images/cny17b.jpeg)
