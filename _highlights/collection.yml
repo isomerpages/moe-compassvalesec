@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2017/August.md
       - 2017/October.md
       - 2017/November.md
       - 2017/December.md
