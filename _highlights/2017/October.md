@@ -55,3 +55,7 @@ At Beacon RC, our students helped man the community toy library and learnt how t
 
 <img src="/images/necdc1.jpeg" 
      style="width:70%">
+		 
+At Workspace@Sengkang CC, our students helped digitise the signing in process and attend to users of the private meeting rooms and work stations.  They learnt about simple workflows and computer literacy skills.
+![](/images/necdc2.jpeg)
+Through this community learning journey, our students learnt how to interact with members of the public and had the opportunity to serve the residents in an authentic setting and contribute to the community meaningfully.
