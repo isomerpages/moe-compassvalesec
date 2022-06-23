@@ -20,3 +20,9 @@ The Robotics Challenge seeks to cultivate students' interest in the area of engi
 
 ![](/images/iterob17b.jpeg)
 _Our students in action during the competition_
+
+# Nathan Hartono visits CVSS to Promote the Learning of Chinese Language
+As part of the 2017 Mother Tongue (MT) Fortnight programme, the MT department collaborated with CPDD and the Committee to Promote Chinese Language Learning (推广华文学习委员会) to organise a special assembly programme on 13 Feb 2017 where Nathan Hartono appeared as the ambassador for the campaign “爱上华文” (loosely translated as ‘Falling in love with Chinese’).
+
+<img src="/images/nathan.png" 
+     style="width:70%">
