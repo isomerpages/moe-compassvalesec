@@ -44,3 +44,14 @@ As part of our school’s flagship environmental education programme – ‘Gree
 Besides making a positive impact within CVSS, some of the students were also given opportunities to exhibit their upcycled artefacts and conduct paper recycling workshops for members of the public through outreach platforms such as ‘G!innovation’ and ‘Just One Earth Day’ co-organised by the North East CDC and NEA. By reaching out to the community, our green advocates hope to raise awareness on environmental issues and share their insights on green values and practices.
 ![](/images/green3.jpeg)
 _Students conducting recycled paper making interactive booths and showcasing their upcycled artefacts at NECDC/NEA’s G!innovation at Kovan Hub for the public and ‘Just One Earth Day’ at Serangoon CC for PCF Kindergarten pupils and their parents_
+
+# NORTH EAST CDC COMMUNITY LEARNING JOURNEY 2017
+
+Our school collaborated with the North East Community Development Council to facilitate a Community Learning Journey for our students as an extension of the NECDC’s Community Employment Programme (CEP) to provide students a better understanding of the various NECDC programmes available in the North East district, the social experience of involving in community work, and educate them on good citizenry and social responsibility.  
+  
+Student volunteers were matched to one CEP beneficiary to understand the NECDC community programme which the CEP beneficiary is working for, to learn about the job scope and to assist in their work.  Over the course of four weeks in July this year, 12 student volunteers from Badminton, Drama Club and Aeronautics Club helped out with the community services at Beacon Residents’ Committee and Workspace@Sengkang CC.  
+  
+At Beacon RC, our students helped man the community toy library and learnt how to do simple administration work such as tagging library items and managing the loan and return of board games and books. They also learnt about organisational skills and the importance of accountability.
+
+<img src="/images/necdc1.jpeg" 
+     style="width:70%">
