@@ -16,3 +16,12 @@ To learn more about the history and culture of Vietnam, students visited the Cu 
 ![](/images/sept%202019%205.jpg)
 Hard and heart-work was key to the success of this trip as our North Stars gained new perspectives and appreciate the peace and comfort that they enjoy back here in Singapore. The bonds forged and valuable lessons learnt would always be unforgettable and meaningful for all involved.
 ![](/images/sept%202019%206.jpg)
+
+# Secondary 3 Service Learning Projects 2019
+
+As part of our Learning for Life Programme on Community & Youth Leadership, all our Sec 3 students embarked on a semester long service learning project with the objectives to inculcate good character values and develop life skills while nurturing a greater empathy for people in need.
+
+In this project, students were tasked as a class to identify the key needs of SunLove Home, Bright Hill Evergreen Home, Bethesda C.A.R.E Senior Activity Centre or Sengkang Community Hospital. They were then challenged to think of opportunities to serve these needs and then plan, develop and fine tune their projects under the guidance and support of their form teachers and mentors from Social Change in Action. They then carried out the projects with the various beneficiaries on CVSS CAReS Day (29 May).  The projects completed include interacting with the elderly residents at the two homes with arts & craft and games, bringing the residents from SunLove Home to Gardens by the Bay and the eldely guests from Bethesda CARE SAC to Malay Heritage Centre, cheering up patients through performances at Sengkang Community Hospital wards and hosting a visit to our school for elderly residents who live near our school.
+
+Students braved myriad obstacles and demonstrated grit to overcome these hurdles. They seized opportunities to exercise social responsibility and contribute meaningfully to their chosen community.  The service learning project culminated in students sharing their experiences and reflections with their peers from other classes and inspiring the next batch of students who will be embarking on their projects next year.
+![](/images/sept%202019%207.jpg)
