@@ -21,3 +21,15 @@ As part of our school exchange, the students also visited our twinning schools i
 For cultural immersion, the students visited numerous places of historical and cultural significance in Hangzhou, Suzhou and Shanghai such as the West Lake, Grand Canal, Mausoleum of General Yue Fei, Nanxun old watertown, Shanghai Municipal History Museum etc. They were exposed to Chinese History, Literature and the Arts as they learnt about stories of heroism, loyalty and piety. The students also got to visit many interesting places such as Zhongshuge (the most beautiful bookstore in Shanghai), Meiji Dairies Co. Ltd, Yushan Scenic Area where they had wild mushroom noodles for lunch and Shanghai Science & Technology Museum.
 ![](/images/perchina.jpeg)
 Indeed, the entire trip was an eye-opening one filled with numerous opportunities to gain new knowledge and forge new friends beyond our shores and our students captured many moments of learning and camaraderie.
+
+# LOWER SECONDARY PROJECT WORK ON SUSTAINABLE LIVING 2017
+
+Our school reintroduced the interdisciplinary Project Work for all lower secondary Express and Normal (Academic) students this year.  The Project Work curriculum aims to provide students with the opportunity to synthesise knowledge from various subject areas such as science and humanities and critically and creatively apply it to real life situations.   It also aims to develop in our students 21st Century Competencies and skills such as collaboration, research, communication and independent learning.  
+  
+The theme for the Project Work is “Sustainable Living” as part of the school’s environment education.  In Semester 1, Sec 1 students worked on topics such as ‘Management of Food Wastage’ and \`Effective Use of Recreation Spaces’. They visited the ENVision Gallery to learn about Singapore’s environment story through the interactive exhibits as they looked for innovative ways to advocate the reduction in food wastage in their communities. Some groups analysed how Singapore’s limited recreational spaces could be managed sustainably and cater to the diverse needs of the community.
+![](/images/lower.jpeg)
+*Sec 1 students advocating the reduction in food wastage through posters and games*
+
+In Semester 2, Sec 2 students took on the topics of ‘Biodiversity Conservation’ and \`Energy Sustainability’ as they looked at future challenges to sustainability. Some groups researched on how to promote environmental sustainability by designing informative biodiversity trails in their neighbourhoods. These students went through a trail in Hort Park to understand how to design a biodiversity trail. Other groups learnt about the use of solar energy in a workshop conducted by Temasek Polytechnic. They went on to design household devices which worked on renewable sources of energy. The projects were then showcased during the Post-Examination period at the Project Work Carnival.
+![](/images/lower1.jpeg)
+_Sec 2 students with their prototypes and sharing their projects at PW Carnival_
