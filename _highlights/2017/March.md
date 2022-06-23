@@ -35,3 +35,9 @@ There was good energy and vibrancy in the hall as the local crooner performed th
 ![](/images/nathan2.jpeg)
 _L: Nathan Hartono urges all North Stars to master the Mother Tongue languages well as it is an important life skill._ <br>
 _R: North Stars and teachers played the game “Link Up the Words” （文字接龙）with Hartono._
+![](/images/nathan3.jpeg)
+_L&R: North Stars and teachers played the game of charades (guessing of Chinese words) with Nathan Hartono._
+
+Coming from an English-speaking family, Hartono struggled with the learning of Chinese Language since primary school days when he took Higher Chinese in Primary 3 and was failing the subject continuously until secondary school. It was not until Junior College when he realised that mastering a second language would open up a lot of opportunities for him and started learning the language seriously.  To prepare for the Sing! Chinese contest, Hartono spent four months in China and improved from barely able to string together a proper sentence in Chinese to speaking complete sentences in Mandarin without pausing or inserting English words. He attributed his success to confidence in speaking proactively and constant practice.  
+  
+It is hoped that through the programme, our North Stars will be inspired to learn the Mother Tongue languages well and experience the joy of mastering it.
