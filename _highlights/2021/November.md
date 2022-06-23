@@ -45,3 +45,33 @@ Our two teams also submitted their research projects and virtual posters for the
 A total of 35 projects were submitted in the lower secondary category.  Our teams achieved a **Gold** and a **Silver** **award**! In addition, our Gold award team was the only team in the lower secondary category that was invited to share about their project via a pre-recorded presentation.
 
 ![](/images/Singapore%20youth%20science%20fair%20photos%201.jpg)
+
+# SchoolARTS@SKCH 2019-2021
+  
+
+### SchoolARTS @ Sengkang Community Hospital
+
+Our school has partnered Sengkang Community Hospital on various Values-in-Action (VIA) projects since its official opening in 2019. These include Upper Secondary Service Learning Projects, Community Youth Leaders Club’s Regular Service Projects, #SYFStrongerTogether project and most recently, the SchoolARTS @ SKCH.
+
+The SchoolARTS programme is a concerted effort across 34 North Zone schools that aims to bring about positivity amongst the patients at all 3 SingHealth Community Hospitals (Bright Vision Hospital, Sengkang Community Hospital and Outram Community Hospital) through artworks and performances. In 2019, our school band, choir and dance put together a lunchtime concert at SKCH and brought cheer to the patients, staff and visitors. In the same year, our Secondary 1 NCC (Air) cadets painted a serene and calming wall mural at one of the wards, which creates a livelier hospital environment. With the restrictions of the COVID-19 pandemic, the physical activities of SchoolARTS programme has been suspended since 2020. In spite of the limitations, our school has continued to serve the patients at the hospital remotely via Zoom, in events such as National Day Celebrations. SingHealth Community Hospitals has featured quotes and photographs of our students and their contributions in the SchoolARTS programme in their recent publication, ‘Bridges” - Issue 2/2021’.
+
+![](/images/SchoolARTS%20%20SKCH%202019-2021%201.jpg)
+
+# Sec 3 Service Learning Projects 2021
+
+As part of our Learning for Life Programme (LLP) on Community & Youth Leadership, all Sec 3 students embarked on various service learning projects over six months with the objectives to inculcate good character values and develop life skills while nurturing a greater empathy for communities-in-need. This year, the LLP also focused on giving our students a greater voice and platforms to exercise social innovation and sustain partnerships with our school’s four long-standing community partners - SunLove Home, Bright Hill Evergreen Home, Bethesda C.A.R.E Senior Activity Centre and Sengkang Community Hospital.
+
+### Empowering our students with greater Youth Voice
+
+At the start of their projects, students were tasked as a class to prepare a quick pitch. Students pitched two beneficiaries of their choice to work with, instead of being assigned with one. In addition, one of their proposed beneficiaries could be a new one which our school has not worked with before. Through this, the Sec 3 students took greater ownership of their projects and the school also started a new partnership with Chen Su Lan Methodist Children’s Home.
+
+![](/images/Sec3%20Service%20Learning%20prjector%201.jpg)
+### Providing students an opportunity to exercise Social Innovation
+
+With the suspension of face-to-face activities due to safe-management measures, students were constantly challenged to plan and adapt their plans to serve the needs of the beneficiary through either live virtual engagement or asynchronous use of pre-recorded resources. Under the guidance and support of their Form Teachers and mentors from TOUCH Leadership & Mentoring, students implemented their projects as part of the school’s STAR 2 programme at the end of Term 2.  Some examples of projects completed include 3E1 students facilitating virtual games for the elderly from Bethesda CARE SAC, 3N3 students redesigning the Jenga game with gamification element to promote interaction between the seniors, and 3E2 students encouraging healthy living for seniors at the Sengkang Community Hospital with recorded Zumba-exercise grooved to their favourite songs.
+
+### Sustained Partnerships with Community Partners
+
+To ensure that our service learning projects meet the long term needs of the beneficiaries, our student leaders had an informative, in-depth discussion with representatives from the various beneficiaries instead of the usual on-site recce in the past.
+![](/images/Sec3%20Service%20Learning%20prjector%202.jpg)
+The service learning projects culminated in a celebration and reflection session through a SLS package administered during one of the school’s regular home-based learning days. In that session, students reviewed their service learning journey, affirmed and appreciated their classmates, brainstormed ideas to further their projects next year and gained a greater awareness of other service learning opportunities beyond what the school offers. The experience has certainly taught all our students a valuable life lesson to work around the various Covid-19 restrictions and yet still be able to contribute meaningfully and make a difference to the communities-in-need. 
