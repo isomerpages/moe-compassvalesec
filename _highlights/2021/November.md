@@ -21,3 +21,9 @@ The programme culminated in the North Stars Sparkle Showcase on the last day of 
 **Refresh Knowledge** - Many of our students are also interested in playing musical instruments such as the violin, guitar and piano. Ethan James Poh has always been interested in playing the guitar but lost the drive to learn the instrument over time. The SIL sessions allowed him to set aside time to rekindle his interest and stay motivated.
 
 **Learn and Explore** - As a food lover, Ooi Jun Jia pursued his interest in cooking. The dining restrictions due to COVID-19 safe management measures had led to fewer opportunities for him and his family to dine out. As such, he used the SIL sessions as opportunities to hone his culinary skills.
+
+![](/images/North%20Star%20Sparkle%20photos%201.jpg)
+The showcase revealed the many talents of our North Stars as well as their grit in pursuing their passion and persevering despite many challenges faced.  The North Star Sparkle programme for the year concluded with the presentation of specially designed tokens of appreciation to the presenters. The students had learnt much from the programme and expressed that they look forward to another year of self-exploration and learning in 2022.
+![](/images/North%20Star%20Sparkle%20photos%202.jpg)
+
+[https://drive.google.com/file/d/1redJZ3WxuNwFpURNcPCg93A19Tjo\_dNL/view](https://drive.google.com/file/d/1redJZ3WxuNwFpURNcPCg93A19Tjo_dNL/view)
