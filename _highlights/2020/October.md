@@ -58,3 +58,18 @@ The G!nnovation Challenge is an annual competition organized by NEA for schools 
 This year, two teams from our school took part in the challenge which revolved around the theme ‘Towards Zero Waste: The Game Changer’. Our students tackled environmental issues by coming up with game-changing solutions and incorporating elements of STEM in their project. To prepare for this challenge, our students created Apps by learning how to use the MIT App inventor software during the September school holidays and collaborated online to prepare their presentation and poster.
 ![](/images/pic3-4.jpg)
 Despite the many challenges faced by our students in learning the software, troubleshooting problems in app design and managing their time to meet project deadlines, one of the teams comprising Seck Jian Ling, Heng Ngee Siang, Gordon Tan and Kaelan Wong (all from 1E3) emerged as the **Best G!nnovation Team**. The team conceptualized and created an App to reduce plastic waste in the community and received $300 worth of Popular vouchers and a Goodie bag from the organisers.
+
+# Winner and 2nd Runner Up in 2020 Crea8 Sustainability Youth Eco-Reporter Competition
+
+Our Environment Club students took part in the Crea8 Sustainability Youth Eco-Reporter Competition this year and emerged the **Winner in the upper secondary category and 2nd Runner-Up in the lower secondary category** among more than 120 participants from local and international schools!
+
+The competition is an annual event organised by PacificLight  which aims to encourage young Singaporeans to step up to the challenge of tackling environmental issues by reducing their carbon footprint and leading a more sustainable lifestyle.  Students were tasked to put forth their thoughts through photo or video-journalism on the theme ‘Be The Change Catalyst’ in relation to the actions our nations and individuals can take to meet the UN Sustainable Development Goals (SDG). All winning entries will be displayed at the Sustainable Gallery Singapore at the Marina Barrage from 23 September 2020 to 12 October 2020.
+
+Despite the circuit breaker measures that were introduced in the midst of the competition, our students displayed much determination to complete their projects.  Our winners in the upper secondary category were Zeus Ki’ern Ong (3E6), Charlotte Sonia Lim Qi Jin (3N2) and Atikah Wahyuni Binte Mohd Arifin (3N2).   They took on the role of photo-journalists and wrote an article titled ‘Preserving Ecosystems in Singapore’ based on a photo of Sengkang Riverside Park (see below). In the article, they highlighted the importance of preserving our existing ecosystems in tandem with urban and industrial development.
+
+<img src="/images/Pic1-7.jpg" 
+     style="width:60%">
+		 
+Our 2nd Runner-Up in the lower secondary category was Lim Jun Keat, Shawn (1E1).  He took on the role as a video-journalist and created a video titled ‘Water: Our Precious Resource’. In his video, he depicted Singapore’s journey in water sustainability and emphasised the importance of conserving water in Singapore.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTgOASzYmx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
