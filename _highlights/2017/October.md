@@ -59,3 +59,15 @@ At Beacon RC, our students helped man the community toy library and learnt how t
 At Workspace@Sengkang CC, our students helped digitise the signing in process and attend to users of the private meeting rooms and work stations.  They learnt about simple workflows and computer literacy skills.
 ![](/images/necdc2.jpeg)
 Through this community learning journey, our students learnt how to interact with members of the public and had the opportunity to serve the residents in an authentic setting and contribute to the community meaningfully.
+
+# INTERNATIONAL COASTAL CLEAN-UP SINGAPORE (ICCS) 2017
+As part of our school’s commitment in advocating environmental sustainability, 120 students from various CCAs, teachers and parent volunteers took part in our annual participation of the International Coastal Clean-up Singapore (ICCS) in September 2017 at Changi Beach Site 3.  The effort was jointly organised by our school and Lee Kong Chian Natural History Museum.  
+  
+ICCS is an international event which aims to collect data on the shoreline debris as well as encourage communities to come together to do their part in keeping their shorelines clean by removing the debris. The information gathered serves to educate the public on marine debris issues and to encourage positive change by submitting the data collated to governmental and international organisations that will reduce debris along the shorelines and enhance aquatic environments.  
+  
+Our Environment Club student leaders and members led the efforts by helping to organise the logistics for the event. They also took up roles during the actual ICCS such as collating the data and weighing the mass of the trash collected.  
+  
+Through this meaningful event, our school did our part to raise awareness on anti-littering and protection of our marine environment and our students learnt about the importance of keeping our shorelines clean. For detailed results, please visit [http://coastalcleanup.nus.edu.sg/results/2017/cn-cn3-compassvale.htm](http://coastalcleanup.nus.edu.sg/results/2017/cn-cn3-compassvale.htm).
+
+![](/images/intclean.jpeg)
+![](/images/intclean1.jpeg)
