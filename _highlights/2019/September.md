@@ -51,3 +51,14 @@ Our students designed a communicative poster that advocates for better internet 
 ![](/images/sept%202019%2010.jpg)
 <img src="/images/sept%202019%2011.jpg" 
      style="width:75%">
+		 
+# Bronze Awards in National Youth Upcycling Movement 2019
+  
+Two teams of students from our Environment Club took part in the National Youth Upcycling Movement on 11 Nov 2019, organised by Crescent Girls’ School, with the support of the Ministry of Education and S2 Cluster Schools. The theme for this year’s movement is “Sustainable Singapore Model”. Through its ‘By Youths, For All’ approach, the NYUM empowers each team to design and create upcycled household items using waste materials, with guidance from experts and consultants in the industry.
+
+Both teams achieved the Bronze Award for their innovative design and practical product.
+
+Team CVSS 1, consisting of Pee Yuan Yun Felicia from 3E2, Amberly Tan Jin Wei from 3E5, Joshua Tee Zun Rong from 2E3, Zeus Ki'Ern Ong from 2E4 and Yeo Qiao Xuan from 2N2, saw the high usage of one-time use plastic bottles in school, and decided to upcycle these waste materials into functional nightlights and mobile phone holders.
+
+Team CVSS 2, consisting of Lau Hou Ying Angelina from 2N2, Koh Hui Xin from 3T1, Lim Xin Ying, Renee from 3T1, Sharon Afny Binte Junaidy from 3T1 and Atikah Wahyuni Binte Mohd Arifin from 2N1, sewed fabric from old clothing to make into customised pillowcases and aprons.
+![](/images/sept%202019%2012.jpg)
