@@ -43,3 +43,17 @@ On 4th Sep, a team of Aeronautics Club members with the help of a parent volunte
 
  Working with a given set of materials and a time limit of 4 hours, our North Stars proved that they were able to work collaboratively under pressure to produce a unique prototype, as ours was the best aesthetically-designed plane, and the only one with the canard wing design, which is an aeronautical arrangement where a small forewing is placed in front of the main wings, typically seen on fighter planes, that contributes to upward lift and reduces overall drag.  Our team were also able to think out of the box and attached the propeller provided to the back of the plane in reverse orientation so that it produced a push force rather than the conventional pull force that is exerted when it is located at the front of the plane.
 ![](/images/oct%202018%208.jpg)
+
+# National Chinese Mobile App Development by Student for Student Competition 2018–Two Excellence Award
+
+Two teams of our students participated in the 2018 National Chinese Mobile App Development by Student for Student Competition 2018 （全国学生华文手机应用程序制作比赛）and won two Excellence Awards. The competition was organised by the Singapore Centre for Chinese Language and sponsored by Lee Kuan Yew Fund for Bilingualism, and was the first Chinese Language App programming competition for students across the country from all secondary schools, ITE and Junior Colleges. More than 400 students in 94 teams participated in this competition where they were required to develop apps for pre-school children and lower primary students.
+
+Despite facing stiff competitions from schools with strong computing background like HCI, NUS High School of Mathematics and Science and SAP schools like Dunman High School, both our Lower and Upper Secondary teams have done our school proud by clinching two spots in the Top 20.  The teams started planning and designing the app from November 2017 and submitted the final mock-up app in April this year.  As our students have no prior experience in coding using the app Thunkable, all of them had to learn coding from scratch and explored how to code and design the games with the assistance of the professionals. Both of their apps will be further developed by the professionals into a full app downloadable from Apple Store and Google Play.  The apps could be downloadable from the link: [https://appcompetition.tk.sg/download/](https://appcompetition.tk.sg/download/)
+
+![](/images/oct%202018%209.jpg)
+![](/images/oct%202018%2010.jpg)
+![](/images/oct%202018%2011.jpg)
+
+In addition, our North Stars were also invited to showcase their apps at the **5th International Conference on Teaching and Learning of Chinese as a Second Language organised by SCCL** in September 2018. Some of the renowned scholars and educators from Singapore and overseas who were introduced to our apps include Prof Tse Shek Kam, Faculty of Education, Project Director, Centre for Advancement of Chinese Language Education and Research, The University of Hong Kong and Master Teachers Mdm Min Yu and Ms Sim Lucy from SCCL.
+
+![](/images/oct%202018%2012.jpg)
