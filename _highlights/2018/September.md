@@ -46,3 +46,32 @@ clean. For more detailed results, please visit 
 
 ![](/images/coastal%20clean1.jpg)
 ![](/images/coastal%20clean2.jpg)
+
+# Elective Modules (EM) & Advanced Elective Modules (AEM) - Secondary Three Students
+
+
+Our school offers Elective Modules (EM) to all our Sec 3 NT students and Advanced Elective Modules (AEM) to Sec 3 Express and NA students every year in collaboration with ITE and various polytechnics respectively.  Each cohort of students get to choose from a range of EMs and AEMs available depending on their interests and the courses will be confirmed once there is sufficient demand.  The modules extend and build on the learning of existing school subjects, enrich our school curriculum with more applied learning options and expose our students to possible courses in ITE/polytechnics and career paths.
+
+**Elective Module for 3NT:**
+
+In March this year, 18 students attended the EM on Laser Show at ITE College East where they learnt the basic knowledge and skills, and apply the techniques of synchronisation to music, to produce a laser show with a laser projection system.  They also applied their CPA knowledge together with learning a new software to complete a 1-2 minute laser show.  The EM culminated in an annual Laser Show Competition for students to showcase their final projects. Two of our students won the first prize and a consolation prize respectively in the secondary school category. [https://tinyurl.com/qiara2018](https://tinyurl.com/qiara2018) , [https://tinyurl.com/ain2018](https://tinyurl.com/ain2018)
+
+![Elective Modules (EM) & Advanced Elective Modules (AEM)]
+
+In addition, another 18 students attended the EM on Video Production at ITE College East.
+
+![Elective Modules (EM) & Advanced Elective Modules (AEM)]
+
+The students will be attending another EM in October 2018 on Hospitality, Culinary and Pastry & Baking.
+
+**Advanced Elective Module for Sec 3 Express / Normal Academic**
+
+ A group of our Sec 3 Express & 5 NA students attended the Introduction to Aviation and Aerospace AEM at Temasek Polytechnic. There were many hands-on learning opportunities as TP has its own hanger with various parts of an aircraft for our students to experiment.
+
+![Elective Modules (EM) & Advanced Elective Modules (AEM)]
+
+All Sec 3 NA students were enrolled in the 30-hour AEMs at Nanyang Polytechnic where they were exposed to hands-on, practice-oriented learning. The students got to choose from a list of AEMs options and the AEMs help them discover their strengths and interests in the various fields.
+
+![Elective Modules (EM) & Advanced Elective Modules (AEM)]
+
+![Elective Modules (EM) & Advanced Elective Modules (AEM)]
