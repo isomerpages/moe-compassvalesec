@@ -39,3 +39,8 @@ As part of our school’s flagship environmental education programme – ‘Gree
      style="width:50%" align = left>
 <img src="/images/green1.jpeg" 
      style="width:50%" align = right>
+
+![](/images/green2.jpeg)
+Besides making a positive impact within CVSS, some of the students were also given opportunities to exhibit their upcycled artefacts and conduct paper recycling workshops for members of the public through outreach platforms such as ‘G!innovation’ and ‘Just One Earth Day’ co-organised by the North East CDC and NEA. By reaching out to the community, our green advocates hope to raise awareness on environmental issues and share their insights on green values and practices.
+![](/images/green3.jpeg)
+_Students conducting recycled paper making interactive booths and showcasing their upcycled artefacts at NECDC/NEA’s G!innovation at Kovan Hub for the public and ‘Just One Earth Day’ at Serangoon CC for PCF Kindergarten pupils and their parents_
