@@ -36,3 +36,25 @@ To appreciate Vietnamese Arts and Aesthetics, students watched a water puppet sh
 To remember the trip and the lessons that they have learnt, our students wrote a postcard to themselves and mail it to Singapore at the Saigon Central Post Office.  Everyone returned to Singapore with fresh perspectives, a stronger heart for the less fortunate, deeper appreciation for the comfort, peace and orderliness in Singapore, a closer and special bond with one another in the team as well as many stories to share with their schoolmates and families.  It was no doubt a most meaningful and fruitful trip for all students and teachers.
 
 ![Overseas Learning Journey Ho Chi Minh City 2018]
+
+# STAR Programme
+
+Our school’s signature holistic development STAR Programme saw students from all levels engaging in a wide variety of activities for their respective levels in the last week of Term 1.
+
+Guided by the theme **_‘Seek Out Your Strengths’_**, the Sec 1s explored and learnt about their personal strengths, leadership styles and social-emotional competencies through personal profiling, social skills workshops, team-bonding exercise, discussions and round table sharing over 3 days.
+
+![]
+
+Focusing on the theme of **_‘Take Responsibility’_,** the Sec 2s visited the Energy Efficiency Centre and Shell Singapore ‘Make the Future Festival’ under our Science Outdoor Learning Experience (SOLE) programme to learn about energy conservation. They also attended talks and worked on various upcycling projects to demonstrate how they can act responsibly towards the community and the environment. In addition, the students also visited the Old Ford Factory, Changi Museum and Kranji Memorial to better appreciate Singapore’s history during the Japanese Occupation and their responsibility for our nation defence.
+
+![]
+With the theme of **_‘Adopting An Enterprising Spirit’_**, the Sec 3s went through a 3 day 2 night outdoor adventure camp at the PA-Water Venture (Sembawang) campsite. The students developed resilience and ruggedness through various challenging activities such as kayaking, raft-building, navigation and a night walk.
+
+![]
+
+**_‘Ready For The World’_** was the theme for our Sec 4s and 5s as they took part in activities designed to help them understand their strengths and learning styles, develop their personal brands and hone their interview skills to prepare them for life after secondary school. They also visited post-secondary institutions to learn more about their courses and options. The programme culminated in a learning carnival known as _The Ninja Warriors_ where they piqued their skills with their peers by tapping on their strengths, problem solving skills and teamwork.
+
+![]
+
+
+
