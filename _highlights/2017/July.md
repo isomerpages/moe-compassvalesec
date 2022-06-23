@@ -54,3 +54,11 @@ Day 2 provided our North Stars with opportunities to explore options for post-se
 On the final Day 3, the North Stars were led through an exciting structured experience, called “Modern Ninja Warriors”, to strengthen the ‘Entrepreneurial Dare’ in them.  As the scores of the teams were projected “live”, they tried their best to improve their scores continually by changing their mind-sets and leveraging on collaboration and teamwork.
 
 ![](/images/starp4.jpeg)
+
+# Singapore Amazing Flying Machines Competition 2017
+Our North Stars took part in the annual Singapore Amazing Flying Machines Competition (SAFMC) organised by DSO National Laboratories and Singapore Science Centre in March 2017.  The competition aims to promote aero-modelling amongst students through the design and construction of flying machines. Despite facing stiff competition from a record 423 participating teams, our North Stars have done us proud by clinching  
+  
+1\. The **Precision Award** in Category A (Open) - Paper Planes;   
+2\. The **Theory of Flight Award**, **First Runners Up** in Category B - Unpowered Gliders.  
+  
+In the Paper Planes category, our team from 3N1 managed to design, fold and fly their paper plane accurately through the most number of hoops (5) in two attempts to clinch the Precision Award. In the Unpowered Gliders category, our teams competed against more than 130 teams from NUS High, Dunman High, Hwa Chong Institution, River Valley High etc. Our team from 2E4 did extremely well in their presentation, demonstrating a sound understanding and appropriate applications of aerodynamic design principles in the construction of their glider, to clinch the Theory of Flight Award, First Runners Up.
