@@ -88,3 +88,11 @@ On the second day, a farewell party was organised by our student buddies, which 
 The school also coincided the hosting with our National Day Celebrations. Our guests joined in the celebrations by sportingly dressing in red on that day. They attended the assembly programme and enjoyed the performances by our students. Through the Singapore Bicentennial video prepared by our students, our guests got to know more about Singapore’s history and understand the journey Singapore has taken to evolve into a modern and vibrant city.  They also joined us in the singalong session and were impressed by the good energy and vibrancy in the hall.
 
 All in all, the hosting has been a wonderful experience for our North Stars as they get to make new friends from China and know more about the Chinese education and culture. It is also another year of renewing and strengthening the close ties between CVSS and Changshu Foreign Language Middle School. We look forward to more visits by them!
+
+# CVSS ALUMNI HOMECOMING DAY 2019 – REJOICE!
+
+
+Our third annual CVSS Alumni Homecoming Day themed “Rejoice!” was successfully held on 6 Jul 2019. Alumni across 18 batches gathered to reminisce their school days as they participated in various activities planned by the CVSS Alumni EXCO.  The highlight of the event was the Captain’s Ball friendly matches, where all top 3 positions were clinched by alumni from the Class of 2016!
+![](/images/sept%202019%2020.jpg)
+The Alumni EXCO is grateful for the strong support from the school, as well as all alumni members, helpers and performers for their effort in making the third Homecoming a success!
+![](/images/sept%202019%2021.jpg)
