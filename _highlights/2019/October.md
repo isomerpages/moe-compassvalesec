@@ -62,3 +62,23 @@ Our North Stars took part in the annual N3 Cluster Inter-Schools Malay Scrabble 
 As part of the Malay Language Unit’s efforts in making Malay Language learning attractive, fun and purposeful, teachers organised regular ‘Games’ Days’ where students engaged in playing games such as the Malay Scrabble. In this adaptation of the classic board game, students build as many words as they can from a pile of tiles within the allocated time. In addition to having a reasonable knowledge of vocabulary, students also honed their confidence, calmness and the ability to strategize their game-play by purposeful interceptions and quick thinking. The students’ competitive spirit were further piqued when the best students were selected to represent their classes at the inter-class Malay Scrabble competition where the winners were chosen to represent the school at the above inter-schools competition.  Indeed, as fun as it was, the game was challenging and we faced stiff competition from our counterparts in the cluster.
 
 The ML Unit hopes that our students’ joy of learning the language through these games and activities was ignited, as there is much they can gain from learning the Malay language. Just as the renowned psycholinguist Frank Smith would say, “One language sets you in a corridor for life. Two languages open every door along the way.”
+
+# 2019 National Stamp Collecting Competition and Four-Nation (ASEAN) Stamp Contest
+In August, 12 of our North Stars took part in the 2019 National Stamp Collecting Competition and the Draw my Stamp Story Competition, organised by the Singapore Philatelic Museum and brought home one **Silver Award** and one **Gold Award with Special Prize,** among a total of 44 teams and 176 students.  Our exhibit that won the Gold Award with Special Prize has also been selected to represent Singapore at next year’s **NZ2020** **Stamp Exhibition in Auckland, New Zealand.**
+![](/images/oct%202019%2011.jpg)
+In addition, in April, our 2018 team that won a Gold Award with Special Prize last year took part in the ASEAN Four-Nation Stamp Exhibition held in Malaysia, and won a **Bronze Award** for their entry entitled _12 Things You May Not Know about Queen Elizabeth II_.  The entry was shortlisted for SINGPEX2019 which was held from 31 Jul – 4 Aug, under the competitive exhibit category.
+
+Our school has been doing very well in the competition since 2016 and have won 6 Gold Awards with Special Prize since 2010, the year we joined the competition. Below are the past two year’s results:
+
+**2018 National Stamp Collecting Competition Achievements:**
+
+*   **Gold Award with Special Prize** for the entry entitled _12 Things You May Not Know About Queen Elizabeth II_  – Lo Xinyan Emelda (1T1), Samantha Seak Hui Lin (1T1), Ng Wern Ting Clarisse (1E5), and Ooi Le You (1E5).  This entry also represented Singapore and won a **Bronze Award** under Youth Category in the FourNation Stamp Exhibition held in Malaysia.
+*   **Silver Award** for the entry entitled _The Land of Smiles - Thailand_ – Brian Davidson Fok Zhendao(2E4), Nur Adlina Binte Adam (2E4), Tee Hong Xun (2E4), and Teo Wen Xuan Nicole (2E4)
+
+**2017 National Stamp Collecting Competition Achievements:**
+
+*   **Gold Award with Special Prize** for the entry entitled _Father of Modern China - Dr Sun Yat Sen_  – Johan Fadli B Jailani (3E5), Aqil B Kusaini (3E5), Claudia Heng (3E5), and Wang Yiling (3E5).  This entry also represented Singapore and won a **Bronze Award** under Youth Category in the FourNation Stamp Exhibition in Thailand.
+*   **Silver Award with Special Prize** for the entry entitled _The Quest for Glory_ – Alex Low Hao Han (3E5), Aw Man Ling Joachim (3E5), Ghumaysa Asif (3E4), and Ng Wai Meng (3E5)
+*   **Bronze Award** for the entry entitled _Guardians of Our Singapore Galaxy - Total Defence_ – Ng Xin Xiu (3N2), Lau De-En, Andrew (3N2), Hidayah Bte Roslan (3N2), and Gan Miao Zhen (3N2)
+
+The National Stamp Collecting Competition aims to promote the use of postage stamps and philatelic materials to learn more about Singapore and the world.  In this competition, students worked in groups of 4 to submit philatelic exhibits using stamp products and narratives based on a theme of their choice such as nature, culture, technology etc.  Our students have shown resilience as they persevered in researching on information over many months and poring through the information on transport system, food of other countries and impact of music in life.  In the process, they have developed learning and thinking skills such as language development, writing, research, organisation and creativity.
