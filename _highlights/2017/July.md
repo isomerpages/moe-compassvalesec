@@ -66,3 +66,16 @@ In the Paper Planes category, our team from 3N1 managed to design, fold and fly 
 ![](/images/safmc1.jpeg)
 _L: **Precision Award**, Cat A (Open) – Paper Planes:  Muhamad Mahadi and Ariffin Faharis from 3N1__<br>
 R: **Theory of Flight Award** 1st Runners Up in Cat B – Unpowered Gliders:_  _Lim Yu Sheng, Yu Yong Yi, Valerie Lee and Chan Wan Ian_
+
+During the competition, each team was required to give a presentation on their flying machines and explain how they applied flight theories in their design. In the Flight Challenge phase, participating teams competed in various categories to fulfil specific challenges such as precision, furthest flight distance, longest time aloft and obstacles clearing etc. Our students demonstrated strong critical thinking and communication skills through constructing and presenting their designs, and great teamwork and composure as they motivated and supported each other to perform to the best of their abilities.  
+  
+Mahadi and Ariffin (3N1): “The competition was an eye-opening experience for us. Through research and numerous trials, we managed to come up with a paper plane that can consistently fly far and straight. We are so happy that our resilience and hard work have paid off.”  
+  
+Yu Sheng and Valerie (2E4): “From zero knowledge to being able to explain flight principles in front of the judges, our team has come a long way within a short period of time, thanks to the school’s Aeronautics Applied Learning Programme and the guidance of the teachers. The competition is not just about making gliders, it is also about teamwork, striving for excellence and applying our learning to explain and improve real life situations.”
+![](/images/safmc2.jpeg)
+_L to R:  
+_Wan Ian, Valerie and others working hard on their gliders and presentation_ <br> *Muhd Mahadi with his winning throw that helped his team clinch the Precision Award for Paper Planes* <br>
+*Teams busy with their preparations under the supervision of ALP teachers*  
+  
+_Video link 1 (Muhd Mahadi’s winning throw for Precision Award):_  _[https://youtu.be/dG6lqOPi4jA  
+](https://youtu.be/dG6lqOPi4jA) <br>_Video link 2 (Muhd Mahadi and Ariffin’s attempt for the Range Award):_   [_https://youtu.be/L8CsFXcWKY4_](https://youtu.be/L8CsFXcWKY4)
