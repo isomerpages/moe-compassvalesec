@@ -81,3 +81,14 @@ On 2nd and 3rd June, 15 of our Sec 4/5 Malay Language students took part in the 
 
 On 5 Aug, selected Uniformed Group CCA members formed the marching contingent for SKCC’s annual National Day Observance Ceremony. Our students put up a disciplined and scintillating performance to add on to the joyous mood and joined members of the public in wishing our Nation a Happy Birthday!
 ![](/images/oct%202018%2017.png)
+
+# LLP – Sec 3 Service Learning Projects 2018
+  
+As part of our “Learning for Life Programme” (LLP) on Community and Youth Leadership, all Sec 3 students had to plan and execute a class–initiated VIA service learning project in partnership with Ling Kwang Home, Brighthill Evergreen Home and Sunlove Home.
+
+To empower the students to take ownership and carry out their projects to meet the needs of the homes, all the students attended a Service Learning Workshop to equip them with the necessary knowledge, competencies and leadership skills. Students carried out personal reflections after each training session to better understand the importance of being a socially responsible member of the community.  
+
+ The projects were successfully carried out and brought warmth and smiles to each and every of the residents at the homes. Our students engaged the residents with activities and games such as bingo, “a minute to win it” and collaborative art and craft projects. Some classes came up with sing-along sessions and dance performances while others chose to accompany the residents on an outing to places like Gardens by the Bay. At the end of their projects, student representatives from each class shared with their peers and juniors (Sec 3 and 2 students), on their experience and learning points.
+ 
+ ![](/images/oct%202018%2017.jpg)
+ ![](/images/oct%202018%2018.jpg)
