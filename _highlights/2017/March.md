@@ -14,3 +14,9 @@ Line Tracing (Merit): Chan Kangwei, Clement (4E5), Ong Ching Keong, Felix (4E1),
 Obstacle Challenge (2nd runner up): Tan Jun Hao (4E4), Aaron Lim Si Jie (4E3), Loh Ye Kai Joseph (3E3), Aw Jin Rong (3E2)
 <img src="/images/iterob17.jpeg" 
      style="width:80%">
+_Our students with their trophies and medals at the competition_
+
+The Robotics Challenge seeks to cultivate students' interest in the area of engineering and also provides an excellent opportunity for them to gain first-hand experience in robot programming and interfacing. The event is an ideal platform for students to apply their technical skills and knowledge in robotics in a fun and competitive setting.  Our students had to build a robot that must avoid any collisions in an obstacles course in order to reach the final destination. They also had to program a robot that navigate along a designated track (i.e. black line on a white surface), where the track consists of straight lines, circular arcs and other obstacles such as bottles and humps which their robot must clear successfully.  It is indeed a challenging task for their robots to make it to the finishing point. Our students have worked hard to train for the competition and demonstrated their use of critical and creative thinking in building and programming of their robots. Our students also showed great resilience and displayed admirable sportsmanship throughout the competition. Their good behaviour, attitude and values indeed exemplify the North Star spirit.
+
+![](/images/iterob17b.jpeg)
+_Our students in action during the competition_
