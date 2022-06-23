@@ -96,3 +96,27 @@ Our Community Youth Leaders held a virtual celebration with the seniors at a Sen
 To bring warmth, cheer and the National Day spirit to Sengkang residents, including those from nursing homes and boys’ hostel, Sengkang Central Youth Network (SKCYN) organised the annual People's Association Youth Movement (PAYM) Loves Red National Day event entitled, ‘Keep Your Red Alive!’  Our Choir and NCC (Air) Free Style Drill team took part in the Video Performance Contest where our Choir entry came in 4th place in the group category and was live-streamed on SKCYN’s Facebook among other top entries..  Our Community Youth Leaders and Art students participated in theTote Bag Design Contest and one of our 23 entries by Damien Du (3E2) came in 7th place in the 15 years old and above category.  His design was printed on tote bags distributed to the contest participants and Sengkang Central residents.
 
 ![](/images/National%20day%20Celebrations%203.jpg)
+
+# CVSS GREEN COMPASS PROGRAMME 2021
+
+The annual Green Compass Programme for all lower secondary students is a key component of our environment education and part of our Learning for Life Programme in Community & Youth Leadership. The programme aims to nurture interest and commitment in students to protect our environment, practice sustainable living and advocate green values and practices to others.
+
+Students are given opportunities to exercise ‘Youth Voice’ by co-designing the green activities, explore ‘Social Innovation’ and sustain partnerships with environmental agencies and communities.
+
+### Secondary 1 Green Compass Programme
+
+At the start of the year, all Sec 1 students attended a talk on ‘Waste Minimisation in Singapore’ by staff from National Environment Agency (NEA), and gained a better understanding of the gravity of the waste problem in Singapore and around the world. They also learnt how Singapore is taking steps to work towards becoming a ‘Zero Waste’ nation and how they too could play their part to collectively achieve this target. The students went on to embark on tasks in their weekly project work lessons on sustainable living through waste minimisation.
+
+In term 3, the class VIA Champions delivered a lesson on ‘Recycling Practices’ to their classmates which they had co-created. A food donation drive was launched during the lesson where students were encouraged to contribute dried or canned food items for the needy families. Classes rallied together to set up a donation drive corner in their classrooms and brought food items generously over a course of 4 weeks. These food items were sorted, packed and handed over to the staff from Food Bank Singapore in September, which were then added to their inventory and distributed to the beneficiaries under their care.
+![](/images/Photo%20L-RVIA%20CVSS%20Green%20Compass%20Programme.jpg)
+In the “Advocacy Challenge”, students were tasked to create a poster or video to advocate the message of ‘Reduce, Reuse, and Recycle’. 10 winning entries were selected based on the content, aesthetics and creativity and shared with all students. To wrap up the Green Compass Programme for the year, all students were challenged to make a commitment to take actionable steps for sustainable living in 2022, as a class both in school and at home.
+![](/images/L-R.jpg)
+
+### Sec 2 Green Compass Programme 2021
+
+As climate change becomes a central issue in the world today, all sec 2 students embarked on an upcycling workshop to bring new life to waste materials. They were introduced to as many ways as possible to reduce the consumption of new products by making use of everyday things that are discarded and tossed away. To enhance youth voice and ownership, students as a class were given a choice for their preferred workshop such as making coin pouches from juice cartons, wallets from banners and pencil cases from snack bags. Over the next two months, students intentionally saved some of these waste materials, cleaned and kept them in preparation for the workshop.
+
+The fascination with upcycling saw the creation of many new products from used and old materials. With guidance from teachers and VIA Champions, students completed the various upcycling activities and acquired upcycling skills that would help in reducing waste in the environment. They also gain valuable insight into the intensity of environmental pollution and how their small actions can impact climate change in a big way.
+
+![](/images/L-R%20Students%20working.jpg)
+To wrap up the Green Compass Programme for the year, all students reflected on what they had learnt from the programme, and how they could continue to make an impact on others in the community.
