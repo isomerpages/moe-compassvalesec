@@ -92,3 +92,16 @@ To empower the students to take ownership and carry out their projects to meet t
  
  ![](/images/oct%202018%2017.jpg)
  ![](/images/oct%202018%2018.jpg)
+ 
+# CVSS Green Compass Programme
+
+Our Green Compass Programme is a level wide programme for all Sec 1 and 2 students to learn about environmental conservation and play an active part in our nation’s drive towards creating a greener environment for everyone.
+
+In partnership with the National Environment Agency (NEA), Sec 1 students learn about the various ways that our country handles waste management such as the Semakau Landfill & the 3Rs and the importance of food waste management as well.  The highlight of the programme is our annual recyclables collection drive in collaboration with Sembcorp. This year, our Sec 1s covered 37 HDB blocks in the neighbourhood. Prior to the collection, they distributed leaflets and talked to residents about the purpose of this collection drive and encouraged them to adopt green values and habits in their daily lives.
+
+![](/images/oct%202018%2019.jpg)
+The Sec 2s learn about upcycling and pressing environmental issues.  This year, they attended a series of upcycling workshops and environmental talks by Terra Organisation, NEA, Singapore Environment Council and social enterprise, Agy Textile. Each class went through the design thinking process and created useful items made out of old or unused materials for school or homeuse.  Some of the upcycling projects included tote bag making, wallets made with juice cartons, upholstery tissue holder and bottle holder made with old T-shirts etc. The classes presented their ideas and artefacts at our Green Ideas Carnival to spread the message of sustainable living to the rest of the students. Selected students had the opportunity to shared about the importance of upcycling and how we can save the environment with a group of primary school students of Joy Connection Student Care Centre (under Bethesda Care Services).
+![](/images/oct%202018%2020.jpg)
+
+A handful of Sec 2 students also had the opportunity to take part in the annual G!innovation Challenge which is an initiative by NEA to raise students’ awareness of environmental problems and promote environmental stewardship among students. Students were encouraged to come up with innovative solutions to achieve high standards of public health and environmental sustainability.  This fosters collaboration with peers and partners in the 3P sectors to co-develop solutions and bring about impact in the community. Through the Pre-G!innovation workshop, the students learnt about design thinking skills and came up with solutions to their identified problems. Their projects were displayed at the G!innovation carnival where they had the opportunity to present their ideas to Mr Desmond Choo, the Major of North East District and spread the message of environmental sustainability to the community.
+![](/images/oct%202018%2021.jpg)
