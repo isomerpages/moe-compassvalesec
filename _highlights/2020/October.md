@@ -73,3 +73,41 @@ Despite the circuit breaker measures that were introduced in the midst of the co
 Our 2nd Runner-Up in the lower secondary category was Lim Jun Keat, Shawn (1E1).  He took on the role as a video-journalist and created a video titled ‘Water: Our Precious Resource’. In his video, he depicted Singapore’s journey in water sustainability and emphasised the importance of conserving water in Singapore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NTgOASzYmx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# 2nd Place in SG75 Challenge 2020
+
+The SG75: Our Singapore Competition is an annual competition organised by Tanjong Pagar – Tiong Bahru Citizens’ Consultative Committee that aims to capture the pioneering spirit of Singapore’s founding fathers by encouraging Singaporeans to (re)imagine the progressive possibilities open to _Our Singapore_ as we celebrate SG75 in the near future.
+
+The theme for this year’s competition was ‘Sustainability: Fighting Climate Crisis as a Community’, which invited participants to express their ideas, innovation and passion in the fight against the Climate Crisis through words, photographs and digital media.
+
+Our school sent several teams from our 2nd batch of Geography students in three different categories:
+
+1.  Static Presentation – Written Essay
+2.  Static Presentation – Illustration, Graphic design & Photo submission
+3.  Dynamic Presentation – Animation and Video submission
+
+Despite the challenges brought about by the circuit breaker measures, our students rose to the occasion, and have done well, with Loo Pei Fern, Marcus from 3E2, clinching **2nd place out of 26 entries** for **the Dynamic Presentation Category (animation & video)**.
+
+His entry, entitled ‘Why we need to take action now’, is an informative animation that analyses Singapore's carbon emissions and explains why and how Singaporeans can act to reduce our impacts on the environment. The video may be viewed here ([https://tinyurl.com/SG75cvss](https://tinyurl.com/SG75cvss)).
+
+Marcus’s attainment is noteworthy because he competed in an open category, potentially pitting himself against other adult professionals with many more years of experience. He received $300 worth of Popular bookstore and Fairprice vouchers from the organisers.
+![](/images/Pic1-8.jpg)
+
+# National Day celebrations at St Andrew Nursing Home 2020
+
+To add joy to the National Day Celebrations for the St. Andrew Nursing Home (Buangkok), our North Stars participated in the ‘PAYM Love Red’ event organised by the Sengkang Central Youth Network (SKCYN). To support this worthy cause, members from the **CVSS School Choir** performed and recorded National Day songs in a ‘Video Performance’ contest. Choir members, Cheryl Lian Wan Lyn (3E4) and Chloe Tan Xin Kai (3E3) performed the classic, “We Will Get There” by local singer, Stefanie Sun. The girls were delighted when their entry was selected as one of the top 3 performances in the Individual/Duet category. Both North Stars expressed that participating in the contest allowed them to step out of their comfort zone and try something new. They were both grateful for the opportunity and experienced gain from this competition.
+![](/images/Pic1-9.jpg)
+In addition, members from our **Community Youth Leaders Club and Art students** participated in the ‘Postcard Design’ contest as part of the event. Our North Stars demonstrated their artistic talents and compassion by producing artworks along with heartfelt messages for the residents and staff of the home. Our North Stars, Anne Kirsten Trinidad Diano (2E5) and Muhammad Isa Bin Zurairi (3E1) attained 6th\-10th placing for their individual designs. Both students were happy to be able to bring cheers and joy to the residents and staff through their artworks.
+![](/images/Pic2-6.jpg)
+The series of activities culminated in the finale on the 9th of August in which video performances by our North Stars were screened to the residents of the home. Goodies bags along with postcards designed by the students were also distributed to boost the residents’ morale and bring warmth to them during the pandemic. All in all, our North Stars were pleased and thankful for being a part of this meaningful project.
+
+# Teachers’ Day Celebrations 2020: HBL - Heroes Behind Learners
+
+Our school celebrated Teachers’ Day on 3 September this year with the theme ‘Heroes Behind Learners’ – a play on the acronym HBL for Home-Based Learning. The event was organised in tandem with the national movement to acknowledge teachers for their roles in fighting COVID-19. Hence, the celebrations focused on recognising and celebrating the tireless efforts of our teachers to ensure their students continued learning, felt safe and received mental and emotional support in this difficult year.
+
+With safe management measures in place, the celebrations was brought from the traditional hall concert to the classroom and teachers joined their form classes to enjoy the programme from their respective classrooms through google meet. Key personnel also joined the classes they teach. The celebrations started with an opening address by our Vice-Principal, Ms Jacelyn Kee on behalf of our school leaders and the Teachers Day message from our Minister for Education, Mr Lawrence Wong.  The address and message conveyed thanks accorded to the teachers for overcoming adversity and ensuring our learners continued to learn.
+
+This was followed by a virtual concert which began on a cheerful and thankful note with videos of student performances, interspersed with dedications from MOE HQ, parents and students, and several interactive elements like a Kahoot Game where students were tested on the knowledge of their teachers’ childhood, interests and family. The Student Councillors also wrote, performed and edited a video skit which reflected the efforts and challenges faced by our CVSS teachers during the Circuit breaker.
+
+The councilors also creatively utilized various online platforms to prepare dedications and cards for the teachers in place of the traditional handwritten notes. As the student population sent in their dedications through google forms, the councilors collated, organized and placed them on digital canvases with scrapbooking apps like Canva and Graphionica before printing them. Class leaders also led their classes to organize a mini live dedication to their FTs in their classrooms when they gave out the cards. The day ended on a high and meaningful note and will be remembered as a unique and unusual Teachers Day celebrations in the history of the school.
+![](/images/Pic3-5.jpg)
