@@ -33,3 +33,17 @@ F1-style racing track with many sharp turns, twisty sections and ramps. To compl
 
 To prepare for the competition, our students attended a 3-day training workshop at Republic Polytechnic to tune their cars and learn C-programming. They also spent several afternoons to test and fine-tune their racing cars at the track. Throughout the entire process, our students demonstrated critical and inventive thinking. They also showed great resilience and strong teamwork as they weathered repeated failures of unsuccessful test runs and collaborated to devise solutions. All of these indeed exemplify the indomitable North Star spirit expected of all our students!
 ![](/images/oct%202019%204.jpg)
+
+# NATIONAL SCHOOLS LITERATURE FESTIVAL 2019
+
+On 20 July, a team of North Stars did the school proud at the **2019 National Schools Literature Festival (NSLF)** by clinching **1st place in the Book Trailer segment**, **for the second year running.**  Organised annually by a committee of Literature teachers with support from NIE, CPDD and the National Arts Council, the NSLF provides a platform to enthuse and inspire students in the learning of Literature. 112 schools participated in the festival, competing in a range of activities demonstrating understanding and appreciation of literary texts including novels, poems and drama texts. CVSS took part in 3 segments this year: Book Trailer, Choral Speaking & Flash Fiction.
+
+The **Book Trailer segment** requires teams to interpret and craft a trailer for a chosen text, giving enough information about the plot, main characters and its themes such that the audience would be enticed to read the book after the performance. Our Book Trailer team comprised the following Sec 2 students:  
+Choo Xing Tong Mathilda (2E1), Jessica Tan, Sneha Menon, Syeda Aliza Nadir, Yeow Xin Hui Angeline, Lam Kit Ian, Jaylen, Lutfil Hadi bin Ridzuan Suhaimi (all from 2E2), Ng Yong Cheng Kenrich, Soh En Xin Amantha (both from 2E4) and Tong Kar Yue Abigail (2E5).
+![](/images/oct%202019%205.jpg)
+The **Choral Speaking segment** involves an ensemble using various voice combinations and contrasts to bring out the meaning and tonal beauty of a passage of poetry or prose. Our Sec 1 team representatives were: Chan Ai Xuan Micialla, Chin Li On, Fei Weijie, Gavin, Sania Chaurasia (all from 1E1), Tang Ni, Mohamad Aqil Bin Mohamad Hairil (both from 1E4), Anne Kirsten Trinidad Diano, Severo Elysia Denise Pampola, Sng Ming Wei and Zavier Ng Yu Ze (all from 1E5).
+
+The **Flash Fiction segment** requires each entry of fiction to be 100 words long, lively, entertaining and one which could be read on the go.  Possible genres include fantasy, science fiction, dystopian literature and horror. For the first time, our school submitted 2 entries from Alfred Lim Wei Xiang (2E4) and Rabia Praveen D/O Syed Mawla (3E2).
+
+Although our teams for the choral speaking and flash fiction segments did not win any prizes, their teachers are proud of the progress they had attained over a few months of intense training. Their performance and entries will be showcased to their peers via the EL Department’s Language and Literary Appreciation programme.All our student representatives certainly emerged from the experience feeling enriched, inspired and heartened that their months of training had borne fruit. Throughout the event, they also displayed a great amount of resilience, teamwork and sportsmanship. Their exemplary attitude and values indeed exemplify our North Star spirit.
+![](/images/oct%202019%206.jpg)
