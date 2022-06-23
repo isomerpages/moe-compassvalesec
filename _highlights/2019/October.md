@@ -4,8 +4,7 @@ permalink: /highlights/2019/october
 description: ""
 third_nav_title: "2019"
 ---
-# EAST ZONE A\*STAR SCIENCE FAIR AND 18TH ELEMENTZ SCIENCE RESEARCH COMPETITION 2019
-  
+# EAST ZONE A*STAR SCIENCE FAIR AND 18TH ELEMENTZ SCIENCE RESEARCH COMPETITION 2019
 
 The **East Zone A*Star Science Fair** is an annual event organised by Victoria Junior College to give secondary school students the experience of conducting an investigative Science project and exhibit and share their findings with others.
 
@@ -55,3 +54,11 @@ The annual **Chinese Creative Writing with Photography Competition** **（新�
 ![](/images/oct%202019%208.jpg)
 **The 2nd National Chinese Text Recital Competition****（第二届全国课文朗诵比赛）** organised by CPCLL and supported by Anderson Primary School and the Singapore Chinese Teachers Literary Recital Society, aims to raise students’ reading proficiency, ignite students’ love for the Chinese Language, and deepen their understanding of the Chinese texts found in their textbooks.  More than 900 students from about 110 schools took part in the competition this year, in which they are required to select a text from the textbook and narrate it. Our team of 3 students comprising Pham Yi Xin, Chezanne (1E1), Song Yu (1E3) and Shen Xinyi (1E5) chose to narrate the text “领路人” which talks about a blind boy going to school daily, assisted by a mute boy.They have done the school proud by clinching a **Bronze Award!**
 ![](/images/oct%202019%209.jpg)
+
+# Champions in N3 Cluster Inter-Schools Malay Scrabble Competition 2019
+
+Our North Stars took part in the annual N3 Cluster Inter-Schools Malay Scrabble Competition organised by Pei Hwa Secondary School on 19 September 2019 and did our school proud by coming in **1st and 3rd in the Upper and Lower Secondary Categories (Team)** respectively**.**  Our Upper Secondary team was helmed by Muhammad Qayyum (3N1), Ilham Yusuf (3N2), Nur Insyirah (3E2) and Nur’Ain Ayuni (3E2) while our Lower Secondary team was represented by Musheera (2E1), Nurul ‘Arifah (2E1), Nur Syakirah (2E2) and Zikry Mirza (2N2).  In addition, they also did well in the Individual Categories.  Zikry Mirza Bin Soherdy (2N2) won **2nd Placing in the Lower Secondary Category** while Nur’Ain Ayuni Binte Sulaiman and Nur Insyirah Binte Mohammed Suhairin (both from 3E2) came in **1st and 2nd respectively in the Upper Secondary Category.**
+![](/images/oct%202019%2010.jpg)
+As part of the Malay Language Unit’s efforts in making Malay Language learning attractive, fun and purposeful, teachers organised regular ‘Games’ Days’ where students engaged in playing games such as the Malay Scrabble. In this adaptation of the classic board game, students build as many words as they can from a pile of tiles within the allocated time. In addition to having a reasonable knowledge of vocabulary, students also honed their confidence, calmness and the ability to strategize their game-play by purposeful interceptions and quick thinking. The students’ competitive spirit were further piqued when the best students were selected to represent their classes at the inter-class Malay Scrabble competition where the winners were chosen to represent the school at the above inter-schools competition.  Indeed, as fun as it was, the game was challenging and we faced stiff competition from our counterparts in the cluster.
+
+The ML Unit hopes that our students’ joy of learning the language through these games and activities was ignited, as there is much they can gain from learning the Malay language. Just as the renowned psycholinguist Frank Smith would say, “One language sets you in a corridor for life. Two languages open every door along the way.”
