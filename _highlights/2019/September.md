@@ -62,3 +62,16 @@ Team CVSS 1, consisting of Pee Yuan Yun Felicia from 3E2, Amberly Tan Jin Wei fr
 
 Team CVSS 2, consisting of Lau Hou Ying Angelina from 2N2, Koh Hui Xin from 3T1, Lim Xin Ying, Renee from 3T1, Sharon Afny Binte Junaidy from 3T1 and Atikah Wahyuni Binte Mohd Arifin from 2N1, sewed fabric from old clothing to make into customised pillowcases and aprons.
 ![](/images/sept%202019%2012.jpg)
+
+# ANNUAL HOSTING OF SIP XINGGANG SCHOOL
+ 
+Our school hosted 38 students and 4 teachers from SIP Xinggang School from Suzhou, China on 19 Jul. This year marks the 25th anniversary of the establishment of Singapore-China Suzhou Industrial Park and the 15th anniversary of the organisation of twinning programmes by Suzhou Education International Exchange Association. Our school has hosted SIP Xinggang School yearly since establishing ties with them in 2006 and has forged strong relationships over the years.
+![](/images/sept%202019%2013.jpg)
+Our Sec 3 student buddies hosted Xinggang students with much warmth and hospitality. The Xinggang students attended a special Design & Technology (D&T) lesson where they tried polishing acrylic using sand paper.  They also attended a special Art lesson on Paper Quilling where they learnt how to roll narrow strips of paper into unique 3D shapes.
+![](/images/sept%202019%2014.jpg)
+The Xinggang students also joined in the Racial Harmony Day Celebrations by trying out our local games and traditional food at the Racial Harmony Day Booths. It was an eye-opener for them as they had the opportunity to understand the multi-racial and multi-religious nature of our society and why racial and religious harmony is important for Singapore.
+![](/images/sept%202019%2015.jpg)
+The hosting ended with a sumptuous farewell lunch for all the students and teachers from Xinggang and our student buddies and teachers accompanying our guests in a visit to the Arts Science Museum. Everyone had an exciting time experiencing three high-tech interactive artworks and exhibitions: Future World – Where Art Meets Science, Floating Utopias and Wonderland, where they explored and experienced Lewis Carroll's timeless tale of Alice's adventures.
+![](/images/sept%202019%2016.jpg)
+All in all, the hosting was a fruitful and memorable experience for our North Stars. We look forward to future exchanges with SIP Xinggang School!
+![](/images/sept%202019%2017.jpg)
