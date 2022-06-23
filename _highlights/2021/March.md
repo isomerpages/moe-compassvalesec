@@ -64,3 +64,19 @@ Our students also stepped out of their comfort zones with brand new activities l
 ![](/images/StarSec2_Pic1.jpg)
 ![](/images/StarSec2_Pic2.jpg)
 All in all, our North Stars had many memorable and enriching experiential learning experiences during the entire STAR 1 programme, where many made personal discoveries and stepped out of their comfort zones to embrace new challenges. Over and above, these experiences will take them one step closer to finding their compass in life!
+
+# Sec 1 STAR 1 Programme 2021
+
+In the last week of Term 1, the entire school and all our North Stars went through our signature STAR programme for student development: **S**eek Out Our Strengths; **T**ake Responsibility; **A**dopt an Enterprising Spirit; **R**eady For The World.  The programme comprises a series of varied and out-of-classroom experiences for each level to develop students’ character, social-emotional competencies and the 21st Century Competencies.  
+  
+
+To help our Sec 1s seek out their strengths, they went through the TetraMap profiling, where they discovered their personal and inter-personal strengths. This helped them identify the element that best describes them and their classmates, enabling them to identify classmates of similar strengths and learn how to interact with classmates with different personalities. The form teachers also led the students through a reflection process to gain better self-awareness by reviewing the results of their Social-Emotional Competencies Inventory survey. Students reflected on how they can further leverage on their personal strengths, while working on improving identified areas of growth.   
+  
+
+As part of the focus to develop positivity in the Sec 1 North Stars, students were led through a structured experience to surface thoughts that stemmed from a fixed mindset and taught them how to change it into one that reflects a growth mindset. They also learnt how to give compliments to others. All these culminated in the class working together to put up a positivity tree in their classrooms, which serves to remind all to always speak words of affirmation to one another.
+![](/images/StarSec1_Pic1.jpg)
+
+In addition, the Sec 1s also learnt to take responsibility as a leader through The Leadership Challenge workshop, where they learnt how to model the way, inspire a shared vision, and challenge the process through games and activities. For example, students exercised their communication skills and learnt the importance of teamwork in order to achieve a shared objective.  
+  
+
+All in all, our North Stars had many memorable and enriching experiential learning experiences during the entire STAR 1 programme, where many made personal discoveries and stepped out of their comfort zones to embrace new challenges. Over and above, these experiences will take them one step closer to finding their compass in life!
