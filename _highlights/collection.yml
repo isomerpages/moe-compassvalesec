@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2017/December.md
       - 2017/.keep
       - 2018/January.md
       - 2018/March.md
