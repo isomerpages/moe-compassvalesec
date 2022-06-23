@@ -49,3 +49,7 @@ As in the past years, our school did not forget to invite senior citizens to joi
 ![](/images/cny17.jpeg)
 ![](/images/cny17a.jpeg)
 ![](/images/cny17b.jpeg)
+
+# China Suzhou School Exchange and Cultural Immersion Trip 2016
+38 North Stars, 5 teachers and our Principal went on our school’s China Suzhou School Exchange and Cultural Immersion programme in Nov 2016.  The students and teachers had a meaningful two days of school exchange with our twinning school - Suzhou Industrial Park Xinggang School. After a simple welcoming ceremony and introduction to Suzhou, the students attended lessons with their Xinggang buddies, including two specially-planned lessons in Music and Geography. During the music lesson, they learnt a traditional song in the Suzhou dialect (ping tan) and tried their hands at playing a traditional musical instrument (san xuan). During the geography lesson, they worked in groups to plan an itinerary to visit places of attraction in Suzhou.  Our students not only experienced a different learning environment but also built friendships with their China buddies through these activities.
+![](/images/china.jpeg)
