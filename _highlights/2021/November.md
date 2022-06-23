@@ -74,4 +74,25 @@ With the suspension of face-to-face activities due to safe-management measures, 
 
 To ensure that our service learning projects meet the long term needs of the beneficiaries, our student leaders had an informative, in-depth discussion with representatives from the various beneficiaries instead of the usual on-site recce in the past.
 ![](/images/Sec3%20Service%20Learning%20prjector%202.jpg)
-The service learning projects culminated in a celebration and reflection session through a SLS package administered during one of the school’s regular home-based learning days. In that session, students reviewed their service learning journey, affirmed and appreciated their classmates, brainstormed ideas to further their projects next year and gained a greater awareness of other service learning opportunities beyond what the school offers. The experience has certainly taught all our students a valuable life lesson to work around the various Covid-19 restrictions and yet still be able to contribute meaningfully and make a difference to the communities-in-need. 
+The service learning projects culminated in a celebration and reflection session through a SLS package administered during one of the school’s regular home-based learning days. In that session, students reviewed their service learning journey, affirmed and appreciated their classmates, brainstormed ideas to further their projects next year and gained a greater awareness of other service learning opportunities beyond what the school offers. The experience has certainly taught all our students a valuable life lesson to work around the various Covid-19 restrictions and yet still be able to contribute meaningfully and make a difference to the communities-in-need.
+
+# National Day Celebrations with Our Community 2021
+
+The theme for this year’s National Day Celebrations was ‘Together, Our Singapore Spirit’. Besides evoking our common Singaporean identity, our students came together and drew new strength from the Singapore “can-do” spirit amidst the challenging circumstances.  Due to Covid-19, our celebrations with the Sengkang community and beyond took a different slant this year. Instead of the usual involvement of our uniformed groups at Sengkang Community Centre, students were involved in simpler yet equally meaningful activities.
+
+### National Day Gratitude Card Project
+
+In support of the ‘SG Together’ movement, our school came on board the “Big at Heart – National Day Gratitude Card Project” during our national day celebrations on 8 August. Students worked individually or in pairs to design and create cards to express appreciation and support to the frontline staff who have been fighting at the forefront against COVID-19 to keep us safe for the last 18 months. In total, more than 500 beautifully designed cards were submitted to the organiser for distribution to healthcare workers, cleaners and workers at hawker centres.
+
+![](/images/National%20day%20Celebrations%201.jpg)
+
+### Virtual Celebrations with Community Partners
+
+Our Community Youth Leaders held a virtual celebration with the seniors at a Senior Activity Centre and their homes on 27 August. The event included a trivia quiz about National Day and leading a healthy lifestyle in their golden years. In the ‘Dance of the Nation’ segment, Dance CCA students led the seniors to carry out dance steps to this year’s NDP song, ‘The Road Ahead’. The session concluded with a sing-a-long session on the classic National Day songs. The SAC staff and seniors were thrilled by the interactions and the time together.
+![](/images/National%20day%20Celebrations%202.jpg)
+
+### Keep Your Red Alive! National Day Video Performance and Tote Bag Design Contest
+
+To bring warmth, cheer and the National Day spirit to Sengkang residents, including those from nursing homes and boys’ hostel, Sengkang Central Youth Network (SKCYN) organised the annual People's Association Youth Movement (PAYM) Loves Red National Day event entitled, ‘Keep Your Red Alive!’  Our Choir and NCC (Air) Free Style Drill team took part in the Video Performance Contest where our Choir entry came in 4th place in the group category and was live-streamed on SKCYN’s Facebook among other top entries..  Our Community Youth Leaders and Art students participated in theTote Bag Design Contest and one of our 23 entries by Damien Du (3E2) came in 7th place in the 15 years old and above category.  His design was printed on tote bags distributed to the contest participants and Sengkang Central residents.
+
+![](/images/National%20day%20Celebrations%203.jpg)
