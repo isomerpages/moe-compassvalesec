@@ -73,3 +73,13 @@ Through this meaningful event, our school did our part to raise awareness on ant
      style="width:70%">
 <img src="/images/intclean1.jpeg" 
      style="width:70%">
+		 
+# SENGKANG CENTRAL PAYM LOVES RED NATIONAL DAY OBSERVANCE CEREMONY 2017
+
+As part of CVSS’s efforts to reach out to the community, 12 NCC (Air) cadets and 24 Band members took part in the annual Sengkang Central PAYM Loves Red National Day Observance Ceremony held at Sengkang Community Centre on 6 August 2017.  Mr Teo Ser Luck, Member of Parliament for Sengkang Central addressed the audience and later presented a plaque of appreciation to our school for our participation.
+<img src="/images/sengkangND.jpeg" 
+     style="width:60%">
+Our NCC cadets put up a combined Freestyle Drill and Precision Drill performance which requires a high level of coordination.  The training requires strong discipline, creativity, teamwork and trust among the squad members.  This signifies that despite our diversity in race, language and religion, we can still come together to play a part in nation building and foster unity as one people, in line with this year's NDP theme of ‘#OneNationTogether’.!
+<img src="/images/sengkangND1.jpeg" 
+     style="width:70%">
+Our Concert Band serenaded the crowd with their melodious rendition of National Songs like ‘Home’ and ‘Stand Up for Singapore’. This capped off a joyful morning of celebrations, lifted everyone’s spirits and renewed the sense of belonging to Singapore for all present.
