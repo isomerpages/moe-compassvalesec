@@ -79,3 +79,15 @@ _Wan Ian, Valerie and others working hard on their gliders and presentation_ <b
   
 _Video link 1 (Muhd Mahadi’s winning throw for Precision Award):_  _[https://youtu.be/dG6lqOPi4jA  
 ](https://youtu.be/dG6lqOPi4jA) <br>_Video link 2 (Muhd Mahadi and Ariffin’s attempt for the Range Award):_   [_https://youtu.be/L8CsFXcWKY4_](https://youtu.be/L8CsFXcWKY4)
+
+# Successes in ML Scrabble Competitions and Berita Harian National Journalism Camp 2017
+_“_**Our culture**, _**our traditions**_, _**our language are the foundations upon which we build our identity**_” Anonymous.  
+
+
+Our Malay Language Unit believes that acquiring a strong foundation in the language is quintessential in building our identity as a global citizen. To achieve this, we adopt “Joy of Learning” as a strategy to ensure students are consistently engaged and challenged. In the excitement, students are encouraged to keep trying despite the difficulties or failures.
+
+One of the activities we have identified is acquiring and strengthening vocabulary learning through games such as Sahibba, the ML equivalent to Scrabble. Our students took part in the annual **North Zone ML Scrabble Challenge** organised by Bishan Park Secondary and supported by the ML Promotion Committee, on 25th February.  **Our team emerged 4th and** **qualified for the Nationals Round** in May where the students will meet contenders from different zones and compete for the Hawazi Daipi Challenge.
+
+![](/images/mlc1.jpeg)
+_North Zone ML Scrabble Challenge 2017 – 4th Placing  
+_L-R: Fatin Insyirah, Fatin Humaira, Daniel, Johan)_
