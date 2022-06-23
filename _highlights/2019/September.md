@@ -40,3 +40,14 @@ As climate change becomes a central issue in the world today, it is important th
 
 As part of our school’s Green Compass Programme, all Sec 1 students attended a talk on Waste Management by NEA and embarked on a recyclables collection drive from 36 HDB blocks near our school.  They also helped spread awareness on environmental issues and waste management by giving out NEA pamphlets to all the residents. All Sec 2 students went through a series of upcycling workshops and talks by TERRA Organisation, which include workshops on creating juice carton wallets, upholstery tissue paper holder and pencil cases made of recycled plastic bottles. Besides acquiring the skills of upcycling, students were given insight into the extent of environmental pollution and how their little actions could impact climate change in a big way.
 ![](/images/sept%202019%209.jpg)
+
+# Commendation Award in Design for Good Youth Competition 2019
+  
+A group of students from our Community Youth Leaders Club took part in the annual Design for Good Youth Competition organized by Make the Change on 1 Nov 2019 and clinched a **Commendation Award** among over 600 entries from 28 secondary school.
+
+The Design for Good Youth Competition, organised by Make The Change (a social enterprise with a marketing, advertising and design school), is a yearly event that encourages secondary school students to use their creativity, arts and design to address a social cause. In collaboration with the Media Literacy Council, this year’s competition was to create awareness of the better use of the internet and promoting the values of ‘Be Kind, Be Smart and Be Safe’.
+
+Our students designed a communicative poster that advocates for better internet use and compels people to take action.
+![](/images/sept%202019%2010.jpg)
+<img src="/images/sept%202019%2011.jpg" 
+     style="width:75%">
