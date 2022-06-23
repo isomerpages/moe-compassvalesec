@@ -91,3 +91,20 @@ One of the activities we have identified is acquiring and strengthening vocabula
 ![](/images/mlc1.jpeg)
 _North Zone ML Scrabble Challenge 2017 – 4th Placing  
 _L-R: Fatin Insyirah, Fatin Humaira, Daniel, Johan)_
+
+Our students also took part in the **North 3 Cluster Scrabble Competition** held at Pei Hwa Secondary School on 22nd March.  For the second year running, our school came in **Champions for both the Lower and Upper Secondary** despite facing stiff competition.   In addition, for the first time, our students (Nadhirah Bte Tawfiq from 2E1 and Fatin Humaira Bte Mohd Ashik from 3E2) also attained **1st placing in the Individual Awards for both the lower and upper secondary levels**
+
+![](/images/mlc2.jpeg)
+
+_N3 Cluster Scrabble Competition – _Lower Sec and Upper Sec Teams – Champions__<br>
+
+_N3 Cluster Competition - Individual Champions_(L-R: Nadhirah and Fatin Humaira)__
+
+Through participating in Sahibba competition, the ML equivalent to Scrabble, we hope that students’ knowledge in the language are not limited to what they learn from the textbooks alone and that we are able to open their world to the beauty of the Malay Language. 
+
+_Aside from Scrabble competitions, the ML unit ventured into new territories this year. Together with the Infocomm (Videography) Club, our team of 3 Normal (Academic) students achieved **2nd place in the National Journalism Camp 2017** organized by Berita Harian during the March Holidays, among more than 100 students from various schools vying for the top awards._
+
+![](/images/mlc3.jpeg)
+_National Journalism Camp 2017 - 2nd place. (L-R: Aqif, Qistina and Irsyad)_
+![](/images/mlc4.jpeg)
+_Our students in Berita Harian 3rd April 2017 Edition_
