@@ -2,13 +2,13 @@ collections:
   highlights:
     output: true
     order:
-      - 2020/January.md
-      - 2020/June.md
-      - 2020/August.md
-      - 2020/October.md
-      - 2020/November.md
-      - 2020/December.md
       - 2020/.keep
+      - 2020/December.md
+      - 2020/November.md
+      - 2020/October.md
+      - 2020/August.md
+      - 2020/June.md
+      - 2020/January.md
       - 2021/.keep
       - 2021/November.md
       - 2021/July.md
