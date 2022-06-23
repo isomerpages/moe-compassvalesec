@@ -57,3 +57,27 @@ Despite facing stiff competitions from schools with strong computing background 
 In addition, our North Stars were also invited to showcase their apps at the **5th International Conference on Teaching and Learning of Chinese as a Second Language organised by SCCL** in September 2018. Some of the renowned scholars and educators from Singapore and overseas who were introduced to our apps include Prof Tse Shek Kam, Faculty of Education, Project Director, Centre for Advancement of Chinese Language Education and Research, The University of Hong Kong and Master Teachers Mdm Min Yu and Ms Sim Lucy from SCCL.
 
 ![](/images/oct%202018%2012.jpg)
+
+# LLP – Partnership with Sengkang Central CC 2018
+  
+As part of our Learning for Life Programme on Community & Youth Leadership, our school had a close partnership with Sengkang Central Community Centre and supported a number of community projects and events such as Canned Food collection drive for needy residents, Large Visual Art Installation – A Ray of Sunshine project, Ramadan Porridge Distribution and PAYM National Day Observance Ceremony.
+
+**Sengkang Central Canned Food Collection Drive 2018**<br>
+In May, 80 Sec 2 and 3 members of our 5 Uniformed Groups (NCC, NPCC, Boys’ Brigade, Girl Guides & Red Cross) went round 68 HDB blocks in the neighbourhood together with grassroots leaders to collect items like canned food, dry food (biscuits, instant noodles etc.) and packet tea / coffee. The initiative aimed to forge a more inclusive community as food items collected were distributed to needy families within the constituency. After collecting the food items door-to-door, our students helped unload and sort the food items for distribution.
+![](/images/oct%202018%2013.jpg)
+![](/images/oct%202018%2014.jpg)
+
+**Large Visual Art Installation – A Ray of Sunshine project**  <br>
+Over 3 weekends from May to June, 11 of our Upper Sec Art students took part in the above initiative by Sengkang  Central Community Arts & Culture Club, which aims to allow our community to inject life and colours into the  
+community through a weaving installation using plastics in different colours or fabric cloth straps. Our artistic North  
+Stars went through a training workshop, sourced for recyclable materials from their peers and put in hard work before completing their mammoth task
+![](/images/oct%202018%2015.jpg)
+
+**Ramadhan Porridge Distribution** <br> 
+On 2nd and 3rd June, 15 of our Sec 4/5 Malay Language students took part in the Sengkang Central CC Ramadhan PorridgeDistribution and helped dishing out porridge, goodie bags and well wishes to members of the public of all races. Their participation had benefitted residents from all walks of life, especially lower-income families.
+![](/images/oct%202018%2016.png)
+
+**PAYM National Day Observance Ceremony 2018 @ Sengkang Community Centre**
+
+On 5 Aug, selected Uniformed Group CCA members formed the marching contingent for SKCC’s annual National Day Observance Ceremony. Our students put up a disciplined and scintillating performance to add on to the joyous mood and joined members of the public in wishing our Nation a Happy Birthday!
+![](/images/oct%202018%2017.png)
