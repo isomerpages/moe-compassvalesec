@@ -27,3 +27,19 @@ Among the 5NA students, Goh Xinyang attained a L1B4 of 9 points and 4 distinctio
 ![](/images/march%202019%202.jpg)
 ![](/images/march%202019%203.jpg)
 We heartily congratulate all our North Stars for their achievements. As they journey ahead in their respective pursuits, may they continue to live life with passion and seek out learning opportunities with dedication and commitment.
+
+# AERONAUTICS CUM CULTURAL IMMERSION LEARNING JOURNEY TO JAPAN 2018
+
+As part of our school’s Aeronautics Applied Learning Programme, a group of 34 students and 5 teachers went to Japan from 28 Nov to 6 Dec 2018 to learn about Japan’s aeronautics industry and latest advancements in the area of STEM (Science, Technology, Engineering and Mathematics).  The trip including cultural immersion covers Tokyo, Mount Fuji, Matsumoto, Kyoto and Osaka. In Tokyo, students visited the Museum of Aeronautical Science, where they saw life-sized aeroplane models and learned about the history of Japan Airlines. They also visited the Japan Aerospace Exploration Agency (JAXA), toured the facilities used for the training and selection of astronauts and had a rare glimpse into the ground operations room for Japan’s International Space Station. In Matsumoto, students visited the Matsumoto Airport, where they had a back-end tour of the airport’s operations, and learnt about the roles and responsibilities of various airport staff, such as the airport police, and the use of rescue helicopters and fire engines.
+![](/images/march%202019%204.jpg)
+
+The science and technology visits included the Miraikan Museum of Natural Science which showcase Japan’s science and technology research through interactive exhibits; Toshiba Science Museum which showcase various Toshiba inventions and how they contributed to Japan’s technology advancement respectively; Rinkai Disaster Prevention Centre where students learnt about earthquake preparedness and navigated through a simulated earthquake disaster zone; Cyberdyne which produced the world’s first Hybrid Assistive Limb (HAL), and  Kyoto Railway Museum which showcase the development of railways in Japan, from the earliest steam engines to the latest high-speed shinkansen.
+![](/images/march%202019%205.jpg)
+
+The group also visited Nagano Technical High School where they toured the workshops, watched demo lessons and interacted with Japanese students where both schools presented each country’s culture. Our visit was even featured on the local TV news, where a few of our North Stars were interviewed on their experiences of the school visit.
+![](/images/march%202019%206.jpg)
+
+To wrap up the trip, the group visited many cultural sites such as Asakusa Temple, Harajuku district and Nakamise Dori cultural street in Tokyo; Ryokan stay at Mount Fuji; Matsumoto Castle, Daio Wasabi Farm and Nawate-Dori cultural street in Matsumoto; Arashimaya scenic train ride, Sagano Bamboo Forest, Kyomizudera Temple and Gion District in Kyoto; Osaka Castle, Shinsekai, Kuromon Market and Samurai Experience in Osaka.
+
+![](/images/march%202019%207.jpg)
+The learning journey was an invaluable and enriching learning experience for our students and teachers. Through developing in our students a greater awareness of Japan’s aeronautics industry and latest science and technology innovations, the school hopes to inspire them to pursue their passion in aeronautics and STEM in future. The cultural immersion has also helped our students develop the 21st century competencies of civic literacy and global awareness as they gained a deeper appreciation of Japanese culture and heritage and make friends with local students.
