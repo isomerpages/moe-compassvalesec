@@ -24,3 +24,25 @@ This year, our school also took part in the **Choral Speaking segment** for th
 
 A key takeaway was seeing the students emerge from the experience feeling enriched, inspired and heartened that their months of training had borne fruit. Throughout the event, they also displayed a great amount of resilience, teamwork and sportsmanship. Their exemplary attitude and values indeed exemplify our North Star spirit.
 ![](/images/Lit2.jpg)
+
+# International Coastal Clean-up, Singapore (ICCS)
+
+ICCS is an international event that aims to collect data on the shoreline debris as well as encourage communities to come together to do their part in keeping their shorelines clean by removing the debris. The information gathered serves to educate the public on marine debris issues and the submission of the collated data to governmental and international organisations is aimed to promote positive actions to reduce shoreline debris and enhance aquatic environments.
+
+As part of our school’s commitment in advocating  
+environmental sustainability, 101 students and teachers  
+carried out our annual ICCS on 15 September at Changi   
+Beach Site 3, jointly organised by our school’s Environment  
+Club and Lee Kong Chian Natural History Museum.  
+Despite the sweltering weather, our North Stars and  
+teachers worked tirelessly and removed nearly 200 kg  
+of trash.  
+  
+Through this meaningful event, our North Stars learnt the  
+importance of waste minimisation to reduce shoreline  
+debris and the importance of keeping our shorelines  
+clean. For more detailed results, please visit   
+[http://coastalcleanup.nus.edu.sg/results/2018/cn2018-cn3-compassvale.htm](http://coastalcleanup.nus.edu.sg/results/2018/cn2018-cn3-compassvale.htm).
+
+![](/images/coastal%20clean1.jpg)
+![](/images/coastal%20clean2.jpg)
