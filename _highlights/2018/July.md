@@ -56,5 +56,55 @@ With the theme of **_‘Adopting An Enterprising Spirit’_**, the Sec 3s went 
 
 ![]
 
+# 18th Anniversary & Awards Day 2018
+
+Our school celebrated our 18th A&A Day on 20 April amidst great zest, vibrancy and elation. It was a joyous occasion as we recognised our student achievements in academic studies and character develop as well as the contributions of our students, staff, stakeholders and partners in their services to the school. 
+
+The Guest-of-Honour was Mr Lim Yeow Khee, _BBM_, President of Singapore Aerospace Engineers.  Mr Lim, who is also an adjunct associate professor at the NTU School of Mechanical and Aeronautical Engineering gave an inspiring speech, relating his life-long pursuit of his passion in aeronautics to how our students can similarly learn and prepare themselves to be “World Ready Youths”.
+
+![]
+![]
+![]
+
+_From L-R: Prof Lim; Top Performers in 2017 GCE ‘O’ Level Exam; Outstanding North Star Award (overall best all round student in academic studies, character development and CCA) – Nur Jasmine Bte Roslan (8 distinctions in GCE ‘O’ Level Exam, MOE Edusave Character Award, Student Council President Award)  
+  
+The school presented plaques for MOE Edusave Character Awardees who have received their monetary awards at community centres earlier in the year to further emphasize the importance of character development.   Service Awards were presented to student leaders who have served in the Student Council or their respective CCA with dedication and distinction.  Mr Lee Kang Hwa, our SAC Chairman, also presented the Lee Kang Hwa Gratitude Award to six recipients this year. This award was instituted by Mr Lee since 2011 to express his gratitude towards society at large for his success in life. It is given to students who have strived for success and made commendable efforts under challenging circumstances. It is hoped that they would in turn pay it forward to society for the help and recognition received when they achieve success in life in future.
+
+![]  
+![]
 
 
+_From L-R: Service Awards; Lee Kang Hwa Gratitude Awards_
+
+The school also presented the Friend of School Awards and Outstanding Friend of School Awards to our valued parents, alumni and partners who have contributed significantly to the school. Mr Leroy Charles Mortimer, Captain of our Boys’ Brigade Unit was presented with the Outstanding Friend of School Awards for his contributions and support towards the school for the past 8 years. In addition, on behalf of MOE, the school presented the MOE Service to Education Award to Mdm Cheryl Fong, our SAC Treasurer, in recognition of her contribution to the school.
+
+ ![]
+ ![]
+
+_From L-R: Outstanding Friend of School Award; MOE Service to Education Award_
+
+Interspersed between the speeches and awards segments were musical interludes performed by our North Stars and CVSS Alumni. Tay Juen Jie (4E3) and Matthew Jamero (4N2) put up a piano performance titled "The Climb" which talks about the importance of never giving up no matter how difficult the challenges are ahead of us.  It also speaks of their struggles in learning the piano on their own since young.  As a tradition, our former students also took part in the performances.  Joseph Rien, Joelle Lee, Sabrina Foo and Yeo Qi performed a clarinet piece of the song, “When You are Old” to remind our North Stars about filial piety and showing care and concern to their aging parents as they grow older.  It was a commendable effort for them to find the time to gather and practise the song together.
+
+![]
+![]
+
+_From L-R: Matthew Jamero and Tay Juen Jie ; Our former students_
+
+The audience were further treated to a concert put up by our Performing Arts CCA groups. The Drama members doubled up as emcees, and told a story, weaved together with the pieces performed by Dance, Choir and Band, including the song “Tegami, Letter to My 15 Year Old Self” sung by our Choir to encourage our students to stay positive. The concert ended with a grand finale involving everyone singing our School Song with pride and sense of belonging.
+
+![]
+![]
+![]
+![]
+
+![]
+
+As part of the Anniversary & Awards Day, we also showcased our school programmes with a mini-exhibition based on our North Star’s Pledge and what our students can expect to go through as they live out the pledge of “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star”.   Our Student Ambassadors confidently brought the GOH and guests through the exhibits.  Aeronautics Club members also showed off what they learnt in our Aeronautics Applied Learning Programme and wowed the VIP entourage and guests with their “flying” skills using the model planes they designed and built. Using a 3D radio-controlled plane, Koh Tze Wang (1E2) demonstrated stunts such as Hover, Harrier and Harrier Roll etc within the confined space in the canteen.
+
+![]
+![]   
+![]
+
+All in all, our annual Anniversary & Awards Day is certainly an unforgettable occasion for all those who were present.   
+
+Happy anniversary, CVSS!
