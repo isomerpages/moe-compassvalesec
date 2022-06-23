@@ -32,3 +32,35 @@ Our Secondary 4 and 5 North Stars participated in a 3-day Ready For The World Pr
 In addition, our North Stars learnt financial literacy skills through a L cube workshop by TP Smart. The L cube board game introduces the world of work to teach concepts such as economic literacy, income tax, investments, retirement funds and lifelong learning. Sec 4 students learnt how to make responsible, informed decisions through HPB Sexuality Education eTeens programme. Last but not least, Sec 5NA students participated in a Pathfinder workshop to chart their education journey and open up more possibilities and options.
 ![](/images/StarSec4_Pic1.jpg)
 All in all, our North Stars had many memorable and enriching experiential learning experiences during the entire STAR 1 programme, where many made personal discoveries and stepped out of their comfort zones to embrace new challenges. Over and above, these experiences will take them one step closer to finding their compass in life
+
+# Sec 3 STAR 1 Programme 2021
+
+In the last week of Term 1/2021, the entire school and all our North Stars went through our signature STAR programme for student development: **S**eek Out Our Strengths; **T**ake Responsibility; **A**dopt an Enterprising Spirit; **R**eady For The World.  The programme comprises a series of varied and out-of-classroom experiences for each level to develop students’ character, social-emotional competencies and the 21st Century Competencies.  
+
+For our Sec 3s, the STAR 1 Programme aims to provide authentic opportunities for students to adopt an enterprising spirit and resilience in overcoming challenges and willingness to try out new things in new environments. It also enabled them to rediscover themselves and their interests and strengths through a variety of courses offered.  
+  
+In this 4-day programme, the Sec 3 NT students attended their Elective Module (EM) conducted by ITE College either at ITE College Central itself or in school, whereas the Sec 3 NA students attended STEM-related EMs conducted by vendors in schools. While the majority of Sec 3 Express students attended Advanced Elective Modules (AEM) at various polytechnics, a small group attended STEM-related enrichment programme.  
+  
+
+The EMs include Fun with Digital Illustration, My First Programmable Robot, Augmented Reality, Virtual Reality, 3D Product Design, Projection Mapping, Drones, F1 Engineering and 4x4 Car Engineering. During these EMs, our 3NT & 3NA students had hands-on learning opportunities on either (i) car modelling, (ii) 3D Product designing and prototype making or (iii) simple software programming. They also went on learning journeys to a variety of venues which served to enhance their understanding of their EMs.
+![](/images/StarSec3_Pic1.jpg)
+As for Sec 3 Express, the AEMs offered include Aerospace Fundamentals with Flight Simulation, Robot Programming, Digital Game Development, Discovering Water Chemistry, Social Etiquette and Business of Hospitality and Power Boating with Leisure. Through these modules, the students were able to experience a taste of tertiary education as they we exposed to hands-on experiments, project planning and presentations, and assessment of their knowledge of the module in a span of 4 days. Albeit it was a steep learning curve for our students, it was a rich learning experience.
+![](/images/StarSec3_Pic2.jpg)
+![](/images/StarSec3_Pic3.jpg)
+All in all, our North Stars had many memorable and enriching experiential learning experiences during the entire STAR 1 programme, where many made personal discoveries and stepped out of their comfort zones to embrace new challenges. Over and above, these experiences will take them one step closer to finding their compass in life!
+
+# Sec 2 STAR 1 Programme 2021
+
+In the last week of Term 1/2021, the entire school and all our North Stars went through our signature STAR programme for student development: **S**eek Out Our Strengths; **T**ake Responsibility; **A**dopt an Enterprising Spirit; **R**eady For The World.  The programme comprises a series of varied and out-of-classroom experiences for each level to develop students’ character, social-emotional competencies and the 21st Century Competencies.  
+  
+
+In an endeavour to take responsibility for themselves and their environment, the Secondary 2 students experienced 3 and half days of activities to learn more about themselves and their role in the larger world. On the first day of STAR 1, the Sec 2 students experienced a series of Upcycling workshops helmed by the Form Teachers and VIA Committee. They learnt to repurpose and make new products like coin pouches, pencil cases, tote bags and banner wallets out of old discarded materials like old juice boxes, banners and old t-shirts. Through the process, the Sec 2s learnt about the impact of our carbon footprint, consumption and waste on the environment and how they can do their part to adopt more sustainable living practices in their lives.  
+  
+
+On top of taking responsibility for the environment, our Sec 2s also ventured into the outdoor spaces and learnt to adopt an enterprising attitude towards new challenges. As they participated in the Outdoors Non-Residential Adventure activities in Sembawang Park and all over the Northern region of Singapore, they challenged themselves to accomplish tasks and solve problems in both land and water activities. They learnt a variety of skills: they picked up camp craft like starting a fire from scratch, orienteering where they navigated hikes with a compass and map, and raft-building where they had to work as a team and use a variety of raw materials to build a floating raft that could carry the entire team.   
+  
+
+Our students also stepped out of their comfort zones with brand new activities like kayaking and stand up paddling, which were mostly novel to them. With a spirit of adventure and teamwork, they encouraged and supported each other to try new experiences enthusiastically. Many students also cycled for 8km to places like Yishun Dam and Springleaf park, whether they learnt the joys of navigating new journeys with a new mode. Students who could not cycle before also learnt how to do so with the coaching of the instructors at the campsite. Whether they were out on expedition or at the campsite learning to to cycle, our Sec 2s displayed a strong enterprising spirit - as they overcame their personal limits and developed confidence. Over the course of three days, our Sec 2 North Stars built strong camaraderie among their peers as they took care of each other in the sun, sand and rain. They have all grown and become stronger, more resilient and more ready for the world as a result of it.
+![](/images/StarSec2_Pic1.jpg)
+![](/images/StarSec2_Pic2.jpg)
+All in all, our North Stars had many memorable and enriching experiential learning experiences during the entire STAR 1 programme, where many made personal discoveries and stepped out of their comfort zones to embrace new challenges. Over and above, these experiences will take them one step closer to finding their compass in life!
