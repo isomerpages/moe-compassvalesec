@@ -20,3 +20,6 @@ Other 4NA students who did well are Xavier Chong Er Wei (8 points, 5 distinction
 Our 4NT students also achieved above national average performance in terms of both percentage passes and distinctions for a number of subjects, including Basic Chinese and Basic Malay. Our students also achieved above national average performance in percentage distinctions for English. 100% of our 4NT students are eligible for admission into ITE.
 
 Among the students who did well are Liu Tian Yu Max (5 distinctions), Vivian Tam (4 distinctions), Thia En Hao Brandon (3 distinctions), Neo Jing Wen (2 distinctions) and Yasmin Bte Azlan (2 distinctions). Max was a member of the Softball team and a recipient of Edusave Scholarship Award and NYAA (Bronze). Vivian served as a Student Councillor and Vice-Chairperson of the Media Resource Library (MRL) CCA, and attained the NYAA (Silver). Brandon was a member of the Softball team. Jing Wen was a Student Councillor and an EXCO member of the MRL CCA. Yasmin was a member of the Dance CCA and attained the Edusave Scholarship Award and NYAA (Bronze).
+![](/images/top4NTstudents2.jpeg)
+*Top NT students - From left to right: Liu Tian Yu Max, Vivian Tam, Yasmin Bte Azlan,  Neo Jing Wen, Mr Chia (Principal)  
+Not in picture: Thia En Hao Brandon*
