@@ -37,3 +37,17 @@ Our Upper Secondary team clinched the **Gold Award** (top award in the competi
 Our Lower Secondary team, clinched the **Second Position, In-depth Report Award** and **Most Popular Award**. The team interviewed Mdm Chua San San Suzanna for their news feature, who has an autistic child and shared about how she faced challenges positively.  The team comprises Toh Jia Hui (2E4), Chow Jun An (2E4), Liu Hui Jun Cherie (2E4), Tang Lai Wan (2E4) and Berline Tan Zhuo En (2E4), and were mentored by CL teacher Mdm Tan Hui Min.
 ![](/images/Pic2-1.jpg)
 Our students have also done well in “**Our Battle with Covid-19, National Essay Writing Competition for Primary & Secondary Schools 2020”** organised by the Singapore Chinese Teachers’ Association & Committee to Promote Chinese Language Learning.   Thien Jia Xuan (1E4) came in among the **Top 33 Awardee** and heressay will be included in a book to be published by the association.
+
+# Overall Champions in Historical Scene Investigation Challenge 2020
+
+In August, NLB and MOE CPDD Humanities branch jointly organised the Historical Scene Investigation (HSI) Challenge 2020 in which a team of 4 Lower Secondary students from each secondary school had to conduct independent research on their own on a selected topic based on a given theme, and to produce a poster based on their research and collected data over one and a half months.
+
+Despite the challenges brought about by the circuit breaker measures with the teacher mentors for our team only managing to have a few face-to-face sessions with them in school, our students were able to work independently and exercise their creativity online to complete their project.
+
+We are delighted that our North Stars came in **1st place as the Overall Champion**, beating close to 80 participating schools including many top schools. 30 schools obtained Bronze, 20 schools obtained Silver and 10 schools obtained Gold awards with 3 schools in the top 3 and we were the champions among the top 3 schools!
+
+Our team comprises Lydia Ye Yan Han, Muhammad Taha Firdaus Bin Askarali Ahammed Thagavi, Pham Yi Xin Chezanne and Fei Weijie Gavin (all from Sec 2E1).  The team will receive $400 worth of Kinokuniya vouchers and a champion trophy.
+
+The poster produced by our students:
+<img src="/images/Pic1-6.jpg" 
+     style="width:70%">
