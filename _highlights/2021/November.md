@@ -11,3 +11,13 @@ As a MOE new initiative, our school started Blended Learning (BL) in 2021 Semest
 
 <img src="/images/North%20Star%20Sparkle%20photo.jpg" 
      style="width:70%">
+		 
+An hour was set aside during the HBL days for students to carry out their SIL activity. Students were encouraged to decide what they wish to learn and plan for their choices of activities. Our North Stars certainly have many varied interests which include foreign languages, culinary arts, performing arts, sports and STEM (Science, Technology, Engineering and Mathematics) such as drone flying and coding. For students who were undecided on their choices, they had the option of choosing from a wide variety of school-curated modules designed by the school.
+
+The programme culminated in the North Stars Sparkle Showcase on the last day of school to celebrate students learning. 125 North Stars across Secondary 1 to 3 classes presented their learning and artefacts with great aplomb. The presenters delighted their peers with dance and musical performances, mini demonstrations and interesting anecdotes highlighting the sweet spots and challenges they faced in their SIL journey.
+
+**Seek Passion** -  The learning of foreign languages is a popular choice among our students. They were interested to learn languages such as Korean and Japanese. In their showcase, some students even conducted practical sessions to teach their peers how to speak simple words in the language that they have learnt. Coding is another popular choice among the students. Jovan Wee ventured into coding and shared about his sense of accomplishment whenever his code worked, his frustrations when his code failed, and how he finally rectified an error by researching for solutions online over a long time through sheer grit and determination.
+
+**Refresh Knowledge** - Many of our students are also interested in playing musical instruments such as the violin, guitar and piano. Ethan James Poh has always been interested in playing the guitar but lost the drive to learn the instrument over time. The SIL sessions allowed him to set aside time to rekindle his interest and stay motivated.
+
+**Learn and Explore** - As a food lover, Ooi Jun Jia pursued his interest in cooking. The dining restrictions due to COVID-19 safe management measures had led to fewer opportunities for him and his family to dine out. As such, he used the SIL sessions as opportunities to hone his culinary skills.
