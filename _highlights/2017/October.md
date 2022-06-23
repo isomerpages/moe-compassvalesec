@@ -69,5 +69,7 @@ Our Environment Club student leaders and members led the efforts by helping to o
   
 Through this meaningful event, our school did our part to raise awareness on anti-littering and protection of our marine environment and our students learnt about the importance of keeping our shorelines clean. For detailed results, please visit [http://coastalcleanup.nus.edu.sg/results/2017/cn-cn3-compassvale.htm](http://coastalcleanup.nus.edu.sg/results/2017/cn-cn3-compassvale.htm).
 
-![](/images/intclean.jpeg)
-![](/images/intclean1.jpeg)
+<img src="/images/intclean.jpeg" 
+     style="width:70%">
+<img src="/images/intclean1.jpeg" 
+     style="width:70%">
