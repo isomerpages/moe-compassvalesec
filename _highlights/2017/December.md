@@ -23,3 +23,10 @@ Among the students who did well are Liu Tian Yu Max (5 distinctions), Vivian Tam
 ![](/images/top4NTstudents2.jpeg)
 *Top NT students - From left to right: Liu Tian Yu Max, Vivian Tam, Yasmin Bte Azlan,  Neo Jing Wen, Mr Chia (Principal)  
 Not in picture: Thia En Hao Brandon*
+
+At the release of the results, the school also affirmed 5 students who have achieved commendable performance in spite of difficult circumstances. Despite poor health condition, Chan Tang Rui of 4N1 remained positive and qualified for the ITE Direct Entry Scheme to Polytechnic Programme (DPP). Toh Xun Wen of 4N2 struggled academically in primary school. However, he persevered in his learning and even encouraged peers around him to do their best. Although he studied Foundational Chinese at PSLE, he managed to achieve a Distinction in Chinese Language at N-levels. A student who initially faced certain learning challenges, Low Yuan Yow of 4N2 showed tremendous improvement in self-management over the years and realised his goal of qualifying for DPP.  Filzah Bte Abdol Aziz of 4T1 overcame health problems and attained an ‘A’ for Elements of Business (EBS) and a pass in all subjects.  Being the eldest among 3 other siblings, Nurul Jannah Binte Roslan of 4T1 had to juggle between taking care of her younger siblings and her studies. She demonstrated grit in managing her time and attained a pass in all subjects.
+
+![](/images/NANT_resiliencestudents3.jpeg)
+*Students who have done well despite difficult circumstances - From left to right: Mr Ryan Wong (Form Teacher of 4T1), Mr Christopher Chong (Form Teacher of 4N2), Toh Xun Wen, Low Yuan Yow, Filzah Bte Abdol Aziz, Nurul Jannah Binte Roslan, Chan Tang Rui, Mr Chua Choon Heong (Form Teacher of 4N1), Mr Chia (Principal)*
+
+We are proud of all our students and hope that all of our North Stars will continue to shine in their respective pursuits as they enter the next stage of their educational journeys and lives.
