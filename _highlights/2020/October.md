@@ -51,3 +51,10 @@ Our team comprises Lydia Ye Yan Han, Muhammad Taha Firdaus Bin Askarali Ahammed 
 The poster produced by our students:
 <img src="/images/Pic1-6.jpg" 
      style="width:70%">
+
+# Best G!nnovation Team in NEA G!nnovation Challenge 2020
+The G!nnovation Challenge is an annual competition organized by NEA for schools to come up with innovative solutions to solve local environmental challenges. This challenge aims to promote environmental ownership through the application of STEM (Science, Technology, Engineering and Mathematics, foster collaboration with peers to develop solutions and bring about positive impact to the community.
+
+This year, two teams from our school took part in the challenge which revolved around the theme ‘Towards Zero Waste: The Game Changer’. Our students tackled environmental issues by coming up with game-changing solutions and incorporating elements of STEM in their project. To prepare for this challenge, our students created Apps by learning how to use the MIT App inventor software during the September school holidays and collaborated online to prepare their presentation and poster.
+![](/images/pic3-4.jpg)
+Despite the many challenges faced by our students in learning the software, troubleshooting problems in app design and managing their time to meet project deadlines, one of the teams comprising Seck Jian Ling, Heng Ngee Siang, Gordon Tan and Kaelan Wong (all from 1E3) emerged as the **Best G!nnovation Team**. The team conceptualized and created an App to reduce plastic waste in the community and received $300 worth of Popular vouchers and a Goodie bag from the organisers.
