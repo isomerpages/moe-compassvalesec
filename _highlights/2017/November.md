@@ -33,3 +33,12 @@ The theme for the Project Work is “Sustainable Living” as part of the school
 In Semester 2, Sec 2 students took on the topics of ‘Biodiversity Conservation’ and \`Energy Sustainability’ as they looked at future challenges to sustainability. Some groups researched on how to promote environmental sustainability by designing informative biodiversity trails in their neighbourhoods. These students went through a trail in Hort Park to understand how to design a biodiversity trail. Other groups learnt about the use of solar energy in a workshop conducted by Temasek Polytechnic. They went on to design household devices which worked on renewable sources of energy. The projects were then showcased during the Post-Examination period at the Project Work Carnival.
 ![](/images/lower1.jpeg)
 _Sec 2 students with their prototypes and sharing their projects at PW Carnival_
+
+# ARTS@KK WOMEN’S AND CHILDREN’S HOSPITAL 2017
+Our school was invited by KK Women’s and Children’s Hospital this year to participate in Arts@KKH, a community outreach programme where performing arts groups perform for patients, visitors and staff at KKH. On 25 Oct 2017, 138 members from our four Performing Arts CCA Groups (Band, Choir, Dance & Drama) put up an enthralling display of songs, dance and a skit at KK Hospital. Their lively and energetic performances captivated the audience and warmed the hearts of patients and their caregivers.  
+  
+Besides contributing to a good cause, Arts@KKH is also a valuable platform for our North Stars to showcase their talents and allow members of the public to have a deeper appreciation of the various performing arts. To mark the partnership between us, KK Hospital presented a certificate and token of appreciation to CVSS at the end of the event. The event was also featured in KKH’s Facebook with 11 photos and the following caption: “It was an exceptional arts fiesta at the Arts@KKH by Compassvale Secondary School, where students from the school’s Band, Choir Group, Drama Club showcased their talents in FOUR dynamic performances!  A big thank you to Compassvale Secondary School and all the young performers for the lively and energetic performances!”
+
+![](/images/arts1.jpeg)
+![](/images/arts2.jpeg)
+![](/images/arts.jpeg)
