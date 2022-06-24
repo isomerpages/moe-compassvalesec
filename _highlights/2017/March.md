@@ -61,3 +61,17 @@ Our students also visited numerous places of historical and cultural significanc
 Indeed, the entire trip was filled with numerous opportunities to gain new knowledge and forge good friendships and our students captured many moments of learning and camaraderie.
 ![](/images/china1.jpeg)
 _A group photo taken at Tiger Hill, Suzhou_
+
+# First Runners-Up in Drone Fiesta Competition @ Republic Polytechnic
+As part of our Aeronautics Applied Learning Programme, our students took part in the annual Drone Fiesta Competition organised by Republic Polytechnic in November 2016, and came in **First Runners-Up in the Obstacle Course Category**.  Despite it being our first time participating, and competing against more than 20 teams from other well-established schools, our students demonstrated great composure, adaptability and team spirit to perform and achieve beyond expectations.  It was indeed a great learning experience exemplifying the spirit of the North Star!
+![](/images/drone1.jpeg)
+_L: A proud moment for our Drones Contingent at the Drone Fiesta._  <br>
+_R:_ _Ryan Mok (4E4), who controlled the drone to the First Runner Up placing in the Obstacle Course, showing confidence and composure before the challenge_
+
+In this competition, teams are required to manoeuvre a drone through a designated path with challenging obstacles and land on an elevated platform in the fastest time possible. To select and prepare students for the competition, a 6-hour Drones Workshop was organised for 90 Sec 2 and 3 students after the end–of-year examination. Students were then selected for the Drones competition and spent many hours during the school holidays to strengthen their knowledge and skills under the guidance of our STEM educator and ALP teachers. Through the process, our students not only displayed resilience and critical thinking, but also exhibited strong teamwork and composure as they motivate and help each other to level-up and perform to the best of their abilities.
+
+![](/images/drone2.jpeg)
+L to R:  <br>
+Close encounter with a drone for the first time at the Drones Workshop  <br>
+Our creative “Obstacle Course” setup in school during training  <br>
+Relishing the moment @ Drone Fiesta: Ariffin Faharis, Chua Jia Jun, Khiew Chang Long and Macasa Danna Angelie (2N2)
