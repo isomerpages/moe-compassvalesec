@@ -64,4 +64,9 @@ _− Reflection written by Isabelle Lim of 3E5 and Rachel Tan of 3E4_
 
 On 7 August 2016, as part of our community outreach, a total of 34 members from our 5 uniformed groups (NCC Air, NPCC, Red Cross, Boys Brigade, Girl Guides) took part in the Sengkang Central PAYM Loves Red National Day Observance Ceremony 2016 held at Sengkang Community Centre.  During the ceremony, 17 of them formed the Guard Of Honour Contingent. The Parade Commander for the ceremony was NCC (Air) SSGT Low Hao Yuan from 3E1, together with the Regimental Sergeant Major, NCC (Air) SSGT Mok Dong Wei Ryan from 3E4.  Our school principal, teachers, students, parents, alumni members were all there to witness the ceremony and support our UG members.
 ![](/images/sk.jpeg)
-_Mr Teo Ser Luck, Minister of State, Ministry of Manpower, Mayor, North East District,and MP for Pasir Ris-Punggol GRC, addressing the members of the public_                                                
+_Mr Teo Ser Luck, Minister of State, Ministry of Manpower, Mayor, North East District,and MP for Pasir Ris-Punggol GRC, addressing the members of the public_
+
+Our NCC (Air) cadets also performed a free style drill entitled ‘Unity as One’.  With music, hand movement and footdrill, a free style drill brings together a higher level of challenge which requires strong discipline, creativity and teamwork among the performers.  In line with this year's National Day theme - "Building our Singapore of Tomorrow" which seeks to galvanise and unite Singaporeans in the next chapter of nation building, the spirit of this performance highlights the importance of being a good team player and how building a nation does not just fall in the hands of one person, but every citizen of Singapore.
+
+![](/images/sk1.jpeg)
+_Our Uniformed Group members wishing Singapore a Happy 51st Birthday!_
