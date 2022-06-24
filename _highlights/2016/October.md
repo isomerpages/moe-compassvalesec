@@ -92,3 +92,14 @@ Our students came up with the storyboard of “From Third World to the First” 
 _\*Automata comes from the Cabaret Mechanical Theatre (CMT), a highly acclaimed travelling exhibition originated from the UK that combines the work of Arts, Science and Technology.  These mechanical toy sculptures showcase the fine art of engineering and are valued highly in the collectors’ circle. They can be brought to life by cranking a handle to move a shaft mounted with a series of machine parts such as cams, gears, linkages, belts and pulleys, ratchets, etc. which are in turn connected to the various parts of the sculptures to produce the desired movement._
 
 # CVSS International Coastal Clean-Up (ICCS) 2016
+
+As part of our school’s commitment in advocating environment sustainability, 132 students from various CCA groups participated in the annual International Coastal Clean-Up (ICCS) on 17 September 2016 at Changi Beach Site 3, organised by our school in partnership with Lee Kong Chian Natural History Museum.  Besides the CCA teachers-in-charge, many other teachers also joined in to play their part, with some teachers bringing their family members along.
+<img src="/images/icc.jpeg" 
+     style="width:70%">
+
+ICCS is an international event which aims to collect data on shoreline debris as well as encourage communities to come together to do their part to keep the shorelines clean by removing debris. The information gathered serves to educate the public on marine debris issues and encourage positive change by submissions of the data collated to governmental and international organisations that will reduce debris along the shorelines and enhance aquatic environments.  
+  
+Through this meaningful event, our school endeavoured to do our part to raise awareness about anti-littering and protect our marine environment. Our North Stars also exemplified our school values such as graciousness and resilience during the activity and learnt more about the importance of keeping our shorelines clean. For detailed results, please visit [https://coastalcleanup.nus.edu.sg/results/2016/cn-cn4-compassvale.htm](https://coastalcleanup.nus.edu.sg/results/2016/cn-cn4-compassvale.htm).
+
+![](/images/icc1.jpeg)
+![](/images/icc2.jpeg)
