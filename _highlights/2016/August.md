@@ -99,3 +99,10 @@ _6 students, 1 teacher and 1 offical from Changshu Foreign Language Middle Schoo
 _Breakfast for students and teachers from Xinggang School & ‘Henna Tattoos’ at the Racial Harmony Mini-Fair_
 ![](/images/host3.jpeg)
  _Science Practical Lesson &Food & Consumer Education lesson._
+ 
+# CHOIR PERFORMANCE AT SYF CELEBRATIONS 2016
+On Sunday 3rd July 2016, our school choir staged a public outdoor performance at the ‘**Melodies in Every Season’** **Programme @ The Esplanade** held in conjunction with Singapore Youth Festival 50th Anniversary Celebrations. A total of 28 schools participated in this showcase of music performances that include chorale, strings ensemble and mini acoustic bands. It was a memorable experience for our 27 Choir members as this was the first time they performed at The Esplanade. Our Choir’s performance was entitled ‘A Little Light Music’ and their repertoire included the ‘Laugh Kookaburra’, ‘Angel’, ‘Ant's Summer’ and ‘Can't Take My Eyes Off You’.  
+
+Ho Pei Yi, our Choir Vice Chairperson shared that “It was an exciting and nerve wrecking day for all of us. After the sound check, we went to the basement to practise and calm ourselves. When it’s our time to perform, we were nervous and anxious. We started off quite softly, but the members gained confidence when we saw our principal and teachers in the crowd. We felt relieved and happy that we did it. In fact one of the audience told us that she enjoyed our last song very much. Everyone worked hard to make this performance happened. I enjoyed myself and it was indeed a fruitful and beneficial experience for all of us.”
+![](/images/choirsyf.jpeg)
+![](/images/choirsyf1.jpeg)
