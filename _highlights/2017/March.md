@@ -81,3 +81,8 @@ Five of our students took part in the annual VOX! (Visual, Originality and X-fa
 
 <img src="/images/vox.jpeg" 
      style="width:70%">
+Despite facing stiff competition from schools like Hwa Chong Institution, Chung Cheng High (Main) and Holy Innocents' High School, our North stars displayed resilience, great team work and resourcefulness and did the school proud by clinching the Best in Creativity award with their vodcast production.
+
+ The winners are Goh Mui Foong Jennifer (3E4), Teng Tze Yun (3E4), Liow Lydia (2E4), Chua Shen Ru (1E1) and Koh Shin En Cynthia (1E1).
+ 
+ Subject matter experts from the Chinese Media Group together with lecturers from Ngee Ann Polytechnic shared their media experiences with our students, which was an eye opener for all of them!  Our students also acquired basic journalism skills, learnt the key characteristics of print and digital media, understood the role of social media in news reporting, experienced how a newscaster delivers a news broadcast and even produced their very own vodcasts!
