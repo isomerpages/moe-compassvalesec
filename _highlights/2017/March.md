@@ -86,3 +86,11 @@ Despite facing stiff competition from schools like Hwa Chong Institution, Chung 
  The winners are Goh Mui Foong Jennifer (3E4), Teng Tze Yun (3E4), Liow Lydia (2E4), Chua Shen Ru (1E1) and Koh Shin En Cynthia (1E1).
  
  Subject matter experts from the Chinese Media Group together with lecturers from Ngee Ann Polytechnic shared their media experiences with our students, which was an eye opener for all of them!  Our students also acquired basic journalism skills, learnt the key characteristics of print and digital media, understood the role of social media in news reporting, experienced how a newscaster delivers a news broadcast and even produced their very own vodcasts!
+ 
+# Champions in 2016 Sengkang NPC Anti-Shop Theft Video Competition
+
+Our Videography Club participated in a video competition on ‘Shoplifting’ organized by the Sengkang Neighbourhood Police Centre in partnership with the National Crime Prevention Council in October/November 2016 and emerged **champions** in the competition.  The objective of the competition was to help create public awareness about shoplifting and its prevention.  The winning video was publicly screened during the ‘Festive Season Crime Prevention Day’ at Rivervale Plaza on 20 Nov 2016. The Guest of Honour was Mr Teo Chee Hean, Deputy Prime Minister & Coordinating Minister for National Security, and Advisor to Pasir Ris-Punggol grassroots organisations, who was there to view our video along with the Police District Commandant and residents of Sengkang.   Our video has also been uploaded on the social media platform of Sengkang Neighbourhood Police Centre.
+<img src="/images/shop.jpeg" 
+     style="width:70%">
+Our students created a 3-minute documentary about shop theft which examines the reasons why youngsters commit shop theft, their psychological state of mind when committing the crime and the legal consequences of shoplifting. The production team includes Valerie, Adora, Ryan, Le Yi (1E2), Shawn, Jun Wei (2N1), Austen (2N2), Francis, Imran, Hua Xuan (2E4) and Isaac (3N1).
+![](/images/shop1.jpeg)
