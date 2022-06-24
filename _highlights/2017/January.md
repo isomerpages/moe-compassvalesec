@@ -13,3 +13,11 @@ third_nav_title: "2017"
 **Top performers - students who scored L1B5 of 7 and 8 points**<br>
 _(Front Row) L-R: Lay Shi Yun Renee (4E3), Bernice Chan Hui Shan (4E3), Lee Jia Xun (4E5) and Chan Zhi Qi (4E5)_ <br>
 _(Back Row) L-R: Choo Li Zhi, Shaun (4E3), Yap Zher Xiang Jason (4E5), Yong Han Ming (4E5), Daryl Ee Wei Jun (4E5), Neo Chee Kiat Glemen (4E5) and Quek Boon Tian (4E5)_
+
+The school also celebrated the accomplishments of our well-rounded achievers.  They performed well not just academically, but have also played leadership roles in their respective CCAs and served the school and the community. Glemen Neo, our top student with 8 distinctions, was a former Student Councillor and Chairperson of the National Cadet Corps (NCC) (Air).  Both Lee Yu Jing and Lim Teng Hong, former President and Vice-President of the Student Council respectively attained 7 distinctions. A recipient of the Edusave Character Award (ECHA), Yu Jing was also Chairperson of Band, while Teng Hong was Chairperson of the National Police Cadet Corps.  Another well-rounder with 7 distinctions was Bernice Chan, also a former Student Councillor, and Company Leader of the Girl Guides.  Quek Boon Tian, Germaine Chua and Lim Wan Ning were Student Councillors who held the position of either Chairperson or Vice-Chairperson in Wushu, Basketball (Girls) and PA/AVA/Robotics Club respectively, attained 6 distinctions each. Among the Sec 5N(A) students, Edward Song, a past recipient of Edusave Character Award and Senior Specialist in the NCC, attained 3 distinctions.
+<img src="/images/GCE%20olevel2017b.jpeg" 
+     style="width:80%">
+
+**Our Well-Rounded Achievers and our School Leaders**<br>
+_(Front Row) L-R: Mr Chia (Principal), Bernice Chan (4E3), Teng Ying Xin (4E5), Germaine Chua (4E5), Yeo Qi (4E5), Lim Wan Ning (4E5) and Teo Cai Ling (4E5)_ <br>
+_(Back Row) L-R: Mr Singh (VP), Edward Song (5N3) , Choo Zhi Xuan (4E4) , Quek Boon Tian (4E5), Aloysius Tan (4E5), Chin Jian Guang (4E4), Tan Wei Zhe (4E5), Lim Teng Hong (4E5) and Mr Wong (VP)_
