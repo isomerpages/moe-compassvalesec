@@ -58,3 +58,10 @@ _To prepare for this performance, the Band has put in hours of practice as we re
 _Through this experience, we have gained greater awareness on the needs of others in the society. We learn to be more grateful for our blessings and empathise with those who are less fortunate than us. We also realise that there are many ways to contribute to the society and that every gesture, no matter how small it may seem, can go a long way. Through this VIA, we were able to put into practice the values that the school has inculcated in us and become more concerned citizens.”_
 
 _− Reflection written by Isabelle Lim of 3E5 and Rachel Tan of 3E4_
+![](/images/metta3.jpeg)
+
+# SENGKANG CENTRAL PAYM LOVES RED NATIONAL DAY OBSERVANCE CEREMONY 2016
+
+On 7 August 2016, as part of our community outreach, a total of 34 members from our 5 uniformed groups (NCC Air, NPCC, Red Cross, Boys Brigade, Girl Guides) took part in the Sengkang Central PAYM Loves Red National Day Observance Ceremony 2016 held at Sengkang Community Centre.  During the ceremony, 17 of them formed the Guard Of Honour Contingent. The Parade Commander for the ceremony was NCC (Air) SSGT Low Hao Yuan from 3E1, together with the Regimental Sergeant Major, NCC (Air) SSGT Mok Dong Wei Ryan from 3E4.  Our school principal, teachers, students, parents, alumni members were all there to witness the ceremony and support our UG members.
+![](/images/sk.jpeg)
+_Mr Teo Ser Luck, Minister of State, Ministry of Manpower, Mayor, North East District,and MP for Pasir Ris-Punggol GRC, addressing the members of the public_                                                
