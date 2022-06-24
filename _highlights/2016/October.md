@@ -24,3 +24,12 @@ The trip also provided a valuable opportunity for our students to learn about th
 ![](/images/oslp5.jpeg)
 ![](/images/oslp6.jpeg)
 ![](/images/oslp7.jpeg)
+
+# Student Achievements in Mother Tongue Competitions 2016
+
+**5th National Create your Own Newspaper Competition**<br>
+In the National Create Your Own Newspaper Competition （全国中学编采比赛）jointly organized by the Committee to Promote Chinese Language Learning（推广华文学习委员会）, SPH Chinese Student Paper Zbcomma and Xinmin Secondary School, our students clinched a **Silver Award in the Upper Secondary Category** and a **Bronze Award in the Lower Secondary Category**.  The competition aims to develop students’ passion in the learning of CL, as well as to strengthen their command and proficiency of CL through practical and interesting applications. Despite facing stiff competition from over 50 schools, our students showed perseverance and confidence in planning the layout and generating two pages of content for a newspaper article.  
+  
+Our Upper Sec team comprised Leow Hui Xuan (3E5), Jennifer Goh Mui Foong (3E4), Gladys Wong Lin Hui (3E5) and Tan Jia Peng (3E5), while our Lower Sec team comprised Joachim Aw Man Ling (2E4), Lim Siang Yee (2E4), Liow Lydia (2E4) and Choon An Wen (2E2).
+
+![](/images/mt.jpeg)
