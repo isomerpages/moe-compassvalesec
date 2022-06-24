@@ -73,7 +73,20 @@ Our team members comprised:
 Our students achieved a **Commendation Award** in the 2016 Toy Design Competition organized by Singapore Polytechnic’s School of Mechanical and Aeronautical Engineering and sponsored by Hewlett-Packard Singapore (Sales) Pte Ltd and Autodesk Asia Pte Ltd.
 
 <img src="/images/toy.jpeg" 
-     style="width:50%" align = left>
+     style="width:50%" >
 <img src="/images/toy1.jpeg" 
-     style="width:50%" align = right>
+     style="width:50%" >
+_The team of students from Sec 3E2: Nur Shabrina Diana Bte Shairul, Megan Lucciana Poh Eng Oon,  
+Felix Ang Jing Yi, Wong Tian Ren_
 
+The competition provided a platform for students to challenge their creativity and skills in designing and creating fascinating animated mechanical toy sculptures called Automata\*.  The competition emphasizes on innovativeness, design element and engineering skills.  Participants sought to generate interesting storyline of their Automata and thought of the most appropriate mechanism(s) that could be used to drive the actions and deliver the story.  The project involved several stages such as conceptualization of the storyline, sketching of the design using computer-aided design (CAD) software such as SolidWorks, printing of the design using a 3D printer, and the building of the Automata using wood materials, plastic, high density foam, kapaline board etc.  A 2D Laser Cutting Machine was used to create their Automata parts.  
+  
+Our students came up with the storyboard of “From Third World to the First” and included key features of the story to animate such as Changi Airport Control Tower, Merlion sculpture and HDB blocks. It was a difficult challenge but our students trained hard for the competition and demonstrated their use of critical and inventive thinking.  They have shown great resilience, strong teamwork and good sportsmanship as they faced more established teams during the competition.
+
+<img src="/images/toy2.jpeg" 
+     style="width:50%" >
+<img src="/images/toy3.jpeg" 
+     style="width:50%" >
+*Students constructing the cam and follower mechanism and applying the finishing touches.*
+
+_\*Automata comes from the Cabaret Mechanical Theatre (CMT), a highly acclaimed travelling exhibition originated from the UK that combines the work of Arts, Science and Technology.  These mechanical toy sculptures showcase the fine art of engineering and are valued highly in the collectors’ circle. They can be brought to life by cranking a handle to move a shaft mounted with a series of machine parts such as cams, gears, linkages, belts and pulleys, ratchets, etc. which are in turn connected to the various parts of the sculptures to produce the desired movement._
