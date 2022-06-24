@@ -22,3 +22,5 @@ _Finding out the needs through a site visit to Bright Hill Evergreen Home_
 _Engaging a resident at the Home & Helping out with the maintenance of BHEG vehicles_
 
 After carrying out the service learning projects, our students reflected on the experiences gained and more importantly, showed their appreciation towards one another. As a way to encourage the heart and celebrate successes and accomplishments, our students were treated to yummy ice cream sponsored by Touch Youth!
+![](/images/sec5.jpeg)
+_After completion of the VIA Projects, celebration of success with ice cream!_
