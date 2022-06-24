@@ -90,3 +90,5 @@ Our students came up with the storyboard of “From Third World to the First” 
 *Students constructing the cam and follower mechanism and applying the finishing touches.*
 
 _\*Automata comes from the Cabaret Mechanical Theatre (CMT), a highly acclaimed travelling exhibition originated from the UK that combines the work of Arts, Science and Technology.  These mechanical toy sculptures showcase the fine art of engineering and are valued highly in the collectors’ circle. They can be brought to life by cranking a handle to move a shaft mounted with a series of machine parts such as cams, gears, linkages, belts and pulleys, ratchets, etc. which are in turn connected to the various parts of the sculptures to produce the desired movement._
+
+# CVSS International Coastal Clean-Up (ICCS) 2016
