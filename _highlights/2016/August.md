@@ -38,3 +38,11 @@ _Students organising their collection on 27 May & A PSG member, hard at work alo
 _Sharing sessions on lessons learnt from student presenters from each class_
 
 # CVSS Volunteers with Metta Welfare Association
+
+In CVSS, every CCA is expected to undertake a Values-in-Action community service project every year.  On 20 March 2016, Sunday, 56 Band members and 14 Librarians, together with 3 parents volunteered their services with Metta Welfare Association during the annual Metta Charity Carnival.  The Librarians set up a bowling game booth and much effort was put in to plan the game and prepare the prizes and handmade gifts for all participants. The Band members performed a series of pop songs and practised for their performance since January, even during the March school vacation.
+
+![](/images/metta.jpeg)
+
+_It was heart-warming to see so many people coming from different backgrounds coming together for a greater cause. There were entire families, elderly couples, and an old lady with her grandson all willing to try out our bowling game. Some were buying goods that were more expensive than the usual price just for charity. Seeing this really made me respect these people as they were setting a good example for their kids and instilling good values in them from young._<br>
+_After the carnival, there were many of us who felt accomplished. All our hard work was worth it. The smiles on the faces of those children who had visited our booth filled us with joy. All of us have found this a worthwhile experience as we got to have fun while doing something good for the society.”_<br>
+_– Reflection written by Tasha Khor Pei Xin and Eugene Chua Yee Shuen of Class 3E5_
