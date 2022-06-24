@@ -67,3 +67,13 @@ Our team members comprised:
 \- Gold Award with Special Prize for the entry entitled “Music – Voice of Soul” - Aqil B Kusaini (2E4), Claudia Heng (2E5), Adinda Fitri Falinka (2E3) and Johan Fadli B Jailani (2E4).  <br>
 \- Silver Award with Special Prize for the entry entitled “A Food Detective on a Hunt – Bon Appetit” - Ghumaysa Asif (2E4), Aw Man Ling Joachim (2E4), Alex Low Hao Han (2E4) and Ng Wai Meng (2E4).  <br>
 \- Silver Award for the entry entitled “Our Singapore Transport – Tales through Ah Seng’s Eyes” - Marcy Nicole Baeza Marasigan (3E4), Nur Jasmine Bte Roslan (3E5), Ho Jun Jie (3E3) and Neo Chung Sheng (3E4).
+
+# Commendation Award for SP Toy Design Competition 2016
+
+Our students achieved a **Commendation Award** in the 2016 Toy Design Competition organized by Singapore Polytechnic’s School of Mechanical and Aeronautical Engineering and sponsored by Hewlett-Packard Singapore (Sales) Pte Ltd and Autodesk Asia Pte Ltd.
+
+<img src="/images/toy.jpeg" 
+     style="width:50%" align = left>
+<img src="/images/toy1.jpeg" 
+     style="width:50%" align = right>
+
