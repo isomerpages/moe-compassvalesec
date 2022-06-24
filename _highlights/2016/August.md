@@ -106,3 +106,19 @@ On Sunday 3rd July 2016, our school choir staged a public outdoor performance a
 Ho Pei Yi, our Choir Vice Chairperson shared that “It was an exciting and nerve wrecking day for all of us. After the sound check, we went to the basement to practise and calm ourselves. When it’s our time to perform, we were nervous and anxious. We started off quite softly, but the members gained confidence when we saw our principal and teachers in the crowd. We felt relieved and happy that we did it. In fact one of the audience told us that she enjoyed our last song very much. Everyone worked hard to make this performance happened. I enjoyed myself and it was indeed a fruitful and beneficial experience for all of us.”
 ![](/images/choirsyf.jpeg)
 ![](/images/choirsyf1.jpeg)
+
+# BAND PERFORMANCE AT SYF CELEBRATIONS 2016
+On Saturday, 2nd July 2016, our school band performed in the **Parade of Bands** organised by the MOE Arts Education Branch, in collaboration with National Youth Council’s Shine Festival, as part of the Singapore Youth Festival 50th Anniversary celebrations. A total of 24 School Bands, including a visiting Band from Janokrong School, Thailand, marched down Orchard Road while performing their music pieces. It was a great privilege to be part of this event as the last time Singapore school bands marched down Orchard Road was in 1992 and our band was also given the honour to play the Fanfare to flag off the event!  Encouraged by the supportive crowd and high adrenaline level, the Band marched from Tangs Plaza to Ngee Ann City with enthusiasm and confidence as they played ‘Born to be Wild’.  A photo of our band performance appeared on MOE Facebook.
+
+It was an exciting and memorable experience for our Band as it was their first public marching performance.  Despite having no marching experience, the students were eager to learn basic marching skills and simple choreography since February. They had two training sessions by two guest clinicians from the Conn-Selmer Institute, USA - Mr. Frank Troyka and Mr Garrett Lindholm. It was a challenging process as they learned to coordinate their marching and playing, while ensuring synchronised movement as a team!  The students felt a great sense of achievement and were much encouraged by members of the public who complimented that they looked smart.  Our Band instructor, Mr Er Wee San also received several congratulatory wishes on our band performance.  The Band truly appreciate the support shown by their family, friends, principal and teachers who came to cheer them on.
+
+![](/images/bandsyf.jpeg)
+![](/images/bandsyf1.jpeg)
+
+# DANCE PERFORMANCE FOR SYF CELEBRATIONS 2016
+
+On 3rd July 2016, our modern dancers staged a public outdoor performance for the **SYF2016 Celebrations@ Esplanade Dance Theatre** held in conjunction with Singapore Youth Festival 50th Anniversary Celebrations.  A total of 43 schools participated in this showcase of Dance Extravaganza of various dance genres.  
+
+Preparation for the performance started in March and a short audition video was sent to Arts Education Branch for selection.  The dancers were overjoyed upon receiving news that our school has been selected to be part of the performance.  Many were excited yet nervous as for many of the secondary one dancers, this was their maiden performance outside school.  One the day of the performance, our school principal, teachers and family members of the performers came to offer their support.  Parents commented that it was a good platform to build confidence and the dancers felt a great sense of accomplishment as they performed confidently in front of a large audience.
+![](/images/dancesyf.jpeg)
+![](/images/dancesyf1.jpeg)
