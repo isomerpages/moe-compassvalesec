@@ -24,3 +24,15 @@ _Engaging a resident at the Home & Helping out with the maintenance of BHEG vehi
 After carrying out the service learning projects, our students reflected on the experiences gained and more importantly, showed their appreciation towards one another. As a way to encourage the heart and celebrate successes and accomplishments, our students were treated to yummy ice cream sponsored by Touch Youth!
 ![](/images/sec5.jpeg)
 _After completion of the VIA Projects, celebration of success with ice cream!_
+
+# CVSS GREEN COMPASS PROGRAMME 2016
+Our school’s annual Secondary 2 community recycling programme – **Green Compass Programme** was held on 25May 2016 for all Sec 2 students to serve the Sengkang community.  This is part of our school’s Learning for Life Programme on Community & Youth Leadership - “Inspired North Stars Inspire Actions”.    Eight Sec 2 classes collected recyclable items such as magazines, books, newspapers and clothes from more than 47 HDB blocks in the vicinity of the school for recycling. Members of our Parent Support Group also helped out in the collection efforts.  
+  
+A week before the collection, all students went to these blocks to inform the residents about the recycling project and our school’s service to the community.  Seizing on the opportunity, they also distributed flyers on dengue prevention in partnership with National Environment Agency (NEA). To prepare for this, the students attended a NEA talk earlier in the year on upcycling and dengue fever, which enabled them to speak with more conviction with the residents on these issues.  Through the programme, our North Stars developed and displayed the values of resilience and graciousness, and also gained valuable soft skills such as communication, teamwork and project management.
+
+![](/images/gcp.jpeg)
+_Our North Stars speaking to the residents about the value of recycling and dengue prevention._
+![](/images/gcp1.jpeg)
+_Students organising their collection on 27 May & A PSG member, hard at work alongside our students_
+![](/images/gcp2.jpeg)
+_Sharing sessions on lessons learnt from student presenters from each class_
