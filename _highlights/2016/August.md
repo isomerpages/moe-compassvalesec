@@ -36,3 +36,5 @@ _Our North Stars speaking to the residents about the value of recycling and deng
 _Students organising their collection on 27 May & A PSG member, hard at work alongside our students_
 ![](/images/gcp2.jpeg)
 _Sharing sessions on lessons learnt from student presenters from each class_
+
+# CVSS Volunteers with Metta Welfare Association
