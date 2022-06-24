@@ -77,3 +77,12 @@ Our school submitted 4 student artworks for this year’s **Singapore Youth Fes
 One of our participating students, Chua Si Wei from Sec 5N3 had his artwork selected for the **on-site exhibition** held at the Arts House and was awarded a **Certificate of Recognition**. Si Wei’s acrylic paint artwork, titled ‘The Hot Seat’, was one of 221 selected artworks out of a total of 533 entries. His artwork expressed his emotions and feelings when commuting daily in public transport, and reflected the metaphor of likening getting a seat on the MRT to everyone striving to succeed in life amidst our hectic society.
 <img src="/images/siwei.jpeg" 
      style="width:60%">
+
+A team of our Secondary 3 NA Art students took part in the **International Youth Floral Art Competition** held on 28 July, titled Floral Harmony @ Nanyang 2016 and won a **Merit Award (Floor Arrangement)**.  
+  
+The objectives of the competition were to promote artistic appreciation and interest in floral art, to provide an international platform for youths to showcase their talents and to contribute to the community through floral art activities.  Participants planned and prepared the structure for the flowers prior to the competition and the given set of flowers were only shown to the participants on competition day.  
+  
+Despite taking part in the competition for the first time and the nature of the competition that is not based on drawing and painting, our team comprising Chia Pei En, Sheryl Yeap, Rachel Yoong, Muhammad Danish and Gavin Goh (all from Sec 3N1) demonstrated resilience, perseverance and teamwork and performed well to win a Merit Award for floor arrangement.  They exercised their creative and critical thinking and created a structure with the theme of “Reaching Up”. The wooden structure has the bigger parts at the bottom and gradually reduces in size as it reaches the top, to emphasise scale and proportion.
+
+<img src="/images/siwei1.jpeg" 
+     style="width:60%">
