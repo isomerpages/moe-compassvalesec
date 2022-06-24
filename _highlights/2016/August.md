@@ -86,3 +86,14 @@ Despite taking part in the competition for the first time and the nature of the 
 
 <img src="/images/siwei1.jpeg" 
      style="width:60%">
+		 
+# Hosting of Schools from Suzhou, China
+For two days on 20 and 21 July 2016, our school hosted 41 students and 4 teachers from Suzhou Industrial Park Xinggang School (苏州工业园星港中学), our twinning school from China since 2007.  On 21 July, we also hosted 6 students and 1 teacher from Changshu Foreign Language Middle School (常熟外语中学) and 1 official from the local district education authority.  
+  
+The China students attended lessons with our North Stars buddies as well as took part in our assembly programme and a mini-fair to commemorate Racial Harmony Day.   Special D&T and FCE lessons were also arranged for the visitors.  Our teachers also conducted demo lessons in Science and PE for the China teachers.  At the farewell ceremony, our North Stars and the Chinese students put up an enjoyable performance and exchanged small gifts.  There was warm interaction and good chemistry among the students as well as the teachers as our North Stars and teachers played a good host and demonstrated our school values of graciousness in making the school attachment a memorable experience for all our guests.
+![](/images/host.jpeg)
+_41 students and 4 teachers from SIP Xinggang School._
+![](/images/host1.jpeg)
+_6 students, 1 teacher and 1 offical from Changshu Foreign Language Middle School._
+![](/images/host2.jpeg)
+_Breakfast for students and teachers from Xinggang School & ‘Henna Tattoos’ at the Racial Harmony Mini-Fair_
