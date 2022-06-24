@@ -29,3 +29,14 @@ Our Principal, Mr Chia, also commended two students for having succeeded against
 _L-R: Mr Chia (Principal), Ms Clarissa Lim (Co-Form Teacher, 4E4), Mrs Alice Anson (Form Teacher, 4E4), Kenrick Seah (4E4), Yazimah Nehar (4E1), Ms Tay Siew Woon (Form Teacher, 4E1), Mr Mohd Shalleh (Co-Form Teacher, 4E1) and Mr Wong (VP)_
 
 We heartily congratulate all our North Stars for their achievements. Another momentous chapter in their lives has concluded. As they embark on their respective pursuits, may they continue to live life with passion and seek out learning opportunities with zeal and commitment!
+
+# Second Placing in Republic Poly Renesas Grand Prix Robotics Competition 2016
+Our students took part in the RP Renesas Grand Prix Competition 2016 organised by Republic Polytechnic for the first time and clinched Second place in the competition!  This competition for secondary and tertiary students was held on 2 November at Republic Polytechnic.  Our students competed against more established teams from many schools including School of Science and Technology, Anderson Secondary School, Hillgrove Second, Woodlands Secondary, Bukit Merah Secondary and Peicai Secondary School etc and achieved unexpectedly good results.
+
+<img src="/images/rp.jpeg" 
+     style="width:80%">
+_2nd Placing: Yeo Zhi Hui (3E5), Toh Xuanxiu Grace (3E4), Daryl Lim (2E5), Ee Zhong Wei Shawn (2E5)_
+
+In this competition, students must build and programme a microcontroller racing car which will then on a F1-style racing track. The racing track consists of many sharp turns, twisty sections and ramps. To complete the track and win the race, the car has to have good design and programming of speed. To prepare for this competition, our students attended a 3-day training workshop at Republic Polytechnic to build their cars and learn C-programming. They also spent several afternoons to test and fine-tune their racing cars at the track. Throughout the entire process, our students demonstrated critical and inventive thinking, resilience, strong teamwork and good sportsmanship as they faced the more established teams during the competition. All of these indeed exemplify the indomitable North Star spirit expected of all our students!
+
+![](/images/rp1.jpeg)
