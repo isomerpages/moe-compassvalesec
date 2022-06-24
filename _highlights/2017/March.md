@@ -75,3 +75,9 @@ L to R:  <br>
 Close encounter with a drone for the first time at the Drones Workshop  <br>
 Our creative “Obstacle Course” setup in school during training  <br>
 Relishing the moment @ Drone Fiesta: Ariffin Faharis, Chua Jia Jun, Khiew Chang Long and Macasa Danna Angelie (2N2)
+
+# Best in Creativity Award in VOX! New Media Workshop Cum Competition 2016
+Five of our students took part in the annual VOX! (Visual, Originality and X-factor) New Media Workshop jointly organised by Lianhe Zaobao, the integrated digital site of SPH’s Chinese Media Group, and Ngee Ann Polytechnic’s School of Humanities & Social Sciences, held from 2nd to 4th November 2016, and walked away with the **Best in Creativity Award**.
+
+<img src="/images/vox.jpeg" 
+     style="width:70%">
