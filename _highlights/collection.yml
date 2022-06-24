@@ -2,14 +2,14 @@ collections:
   highlights:
     output: true
     order:
-      - 2017/January.md
-      - 2017/March.md
-      - 2017/July.md
-      - 2017/August.md
-      - 2017/October.md
-      - 2017/November.md
-      - 2017/December.md
       - 2017/.keep
+      - 2017/December.md
+      - 2017/November.md
+      - 2017/October.md
+      - 2017/August.md
+      - 2017/July.md
+      - 2017/March.md
+      - 2017/January.md
       - 2018/January.md
       - 2018/March.md
       - 2018/April.md
