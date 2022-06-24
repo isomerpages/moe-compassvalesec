@@ -46,3 +46,10 @@ In the annual N3 Cluster Malay Scrabble Competition held at Pei Hwa Secondary Sc
 The competition was organised to encourage and enhance vocabulary building amongst participants and open their world to the beauty of the Malay Language through the engaging Sahibba game, which is equivalent to Scrabble.  Students had to build as many words as they could from a pile of tiles within a time limit. This allowed them to hone their confidence, calmness and the ability to strategize their game-play by purposeful interceptions and quick thinking.  
   
 Our team comprised the following students:
+![](/images/mt3.jpeg)
+![](/images/mt4.jpeg)
+
+<img src="/images/mt5.jpeg" 
+     style="width:80%">
+From Left to Right - Fatin Humaira - Individual Award Winner (Lower Secondary-1st)  
+and Siti Farzlinda –Individual Award Winner (Upper Secondary-2nd)
