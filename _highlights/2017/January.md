@@ -21,3 +21,11 @@ The school also celebrated the accomplishments of our well-rounded achievers.  
 **Our Well-Rounded Achievers and our School Leaders**<br>
 _(Front Row) L-R: Mr Chia (Principal), Bernice Chan (4E3), Teng Ying Xin (4E5), Germaine Chua (4E5), Yeo Qi (4E5), Lim Wan Ning (4E5) and Teo Cai Ling (4E5)_ <br>
 _(Back Row) L-R: Mr Singh (VP), Edward Song (5N3) , Choo Zhi Xuan (4E4) , Quek Boon Tian (4E5), Aloysius Tan (4E5), Chin Jian Guang (4E4), Tan Wei Zhe (4E5), Lim Teng Hong (4E5) and Mr Wong (VP)_
+
+Our Principal, Mr Chia, also commended two students for having succeeded against all odds and displayed great tenacity during their preparation for the O-Level examinations. Despite going through a leg surgery due to a major illness and long absence from school for hospitalisation and recovery, Kenrick Seah of 4E4 remained positive and overcame fears and physical difficulties to attain a commendable 4 distinctions. Yazimah Nehar Bte Mohamed of 4E1 had difficult family circumstances and her father was critically ill in the few months leading to the national exams.  Despite her worries and frequent hospital visits, she strove to do her best and managed to attain 3 distinctions (all A1s).
+
+<img src="/images/GCE%20olevel2017c.jpeg" 
+     style="width:80%">
+_L-R: Mr Chia (Principal), Ms Clarissa Lim (Co-Form Teacher, 4E4), Mrs Alice Anson (Form Teacher, 4E4), Kenrick Seah (4E4), Yazimah Nehar (4E1), Ms Tay Siew Woon (Form Teacher, 4E1), Mr Mohd Shalleh (Co-Form Teacher, 4E1) and Mr Wong (VP)_
+
+We heartily congratulate all our North Stars for their achievements. Another momentous chapter in their lives has concluded. As they embark on their respective pursuits, may they continue to live life with passion and seek out learning opportunities with zeal and commitment!
