@@ -33,3 +33,16 @@ In the National Create Your Own Newspaper Competition （全国中学编采�
 Our Upper Sec team comprised Leow Hui Xuan (3E5), Jennifer Goh Mui Foong (3E4), Gladys Wong Lin Hui (3E5) and Tan Jia Peng (3E5), while our Lower Sec team comprised Joachim Aw Man Ling (2E4), Lim Siang Yee (2E4), Liow Lydia (2E4) and Choon An Wen (2E2).
 
 ![](/images/mt.jpeg)
+**10th Interschool Theatresports Competition**
+
+In the 10th Interschool Theatresports Competition organised by Dunman High School, our students clinched a **Team 4th Position** and the hotly contested **Most Creative Team Award** despite facing intense competition from traditional powerhouses like Nanyang Girls’ High and River Valley High School.  Theatresports is improvisational theatre done in a competitive way for dramatic effects. Competing teams had to perform scenes based on random suggestions and adapt to spontaneous changes requested by the judges. The competition aims to provide contestants with the opportunity of learning CL in an engaging and innovative way. Through Theatresports, students also learn to work collaboratively in teams, building up their self-esteem and confidence along the way and putting their critical and creative thinking to the test.  
+  
+Our students involved in the competition were Lee Jia Qian Valerie (1E4), Cheung Chun On (2E2), Lee Yong Sheng (2E2), Koh Zhi Rong (2E4), Cheung Yuen Ling (4E1) and Zenise Tey (4N3)
+![](/images/mt1.jpeg)
+**North 3 School Cluster Malay Scrabble Competition 2016**
+
+In the annual N3 Cluster Malay Scrabble Competition held at Pei Hwa Secondary School, our students were crowned **Champions in both lower and upper secondary categories** despite facing stiff competition from other schools in the N3 cluster. The icing on the cake was when our students, Fatin Humaira Bte Mohd Ashik (Sec 2E1) and Siti Farzlinda Bte Misran (Sec 3E1) also emerged **individual 1st and 2nd** in their respective categories.  
+  
+The competition was organised to encourage and enhance vocabulary building amongst participants and open their world to the beauty of the Malay Language through the engaging Sahibba game, which is equivalent to Scrabble.  Students had to build as many words as they could from a pile of tiles within a time limit. This allowed them to hone their confidence, calmness and the ability to strategize their game-play by purposeful interceptions and quick thinking.  
+  
+Our team comprised the following students:
