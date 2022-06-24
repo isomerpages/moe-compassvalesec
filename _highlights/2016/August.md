@@ -70,3 +70,10 @@ Our NCC (Air) cadets also performed a free style drill entitled ‘Unity as One�
 
 ![](/images/sk1.jpeg)
 _Our Uniformed Group members wishing Singapore a Happy 51st Birthday!_
+
+# Student Art Achievements 2016
+Our school submitted 4 student artworks for this year’s **Singapore Youth Festival Art Exhibition** – two from lower secondary and two from upper secondary, which were featured in the exhibition print catalogue. The lower secondary artworks were selected from our Sec 2 Art ‘Social Activism Painting Project’ while the upper secondary artworks were selected from our Sec 4 Normal Academic Art students.  
+  
+One of our participating students, Chua Si Wei from Sec 5N3 had his artwork selected for the **on-site exhibition** held at the Arts House and was awarded a **Certificate of Recognition**. Si Wei’s acrylic paint artwork, titled ‘The Hot Seat’, was one of 221 selected artworks out of a total of 533 entries. His artwork expressed his emotions and feelings when commuting daily in public transport, and reflected the metaphor of likening getting a seat on the MRT to everyone striving to succeed in life amidst our hectic society.
+<img src="/images/siwei.jpeg" 
+     style="width:60%">
