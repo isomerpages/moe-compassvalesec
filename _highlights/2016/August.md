@@ -97,3 +97,5 @@ _41 students and 4 teachers from SIP Xinggang School._
 _6 students, 1 teacher and 1 offical from Changshu Foreign Language Middle School._
 ![](/images/host2.jpeg)
 _Breakfast for students and teachers from Xinggang School & ‘Henna Tattoos’ at the Racial Harmony Mini-Fair_
+![](/images/host3.jpeg)
+ _Science Practical Lesson &Food & Consumer Education lesson._
