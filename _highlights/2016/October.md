@@ -53,3 +53,17 @@ Our team comprised the following students:
      style="width:80%">
 From Left to Right - Fatin Humaira - Individual Award Winner (Lower Secondary-1st)  
 and Siti Farzlinda –Individual Award Winner (Upper Secondary-2nd)
+
+# 2016 National Stamp Collecting Competition and Four-Nation (ASEAN) Stamp Contest
+
+12 of our Sec 2 and 3 students took part in the 2016 National Stamp Collecting Competition (NSCC), organised by the Singapore Philatelic Museum in July and brought home **one Gold Award with Special Prize, one Silver Award with Special Prize and one Silver Award** among a total of 107 teams from 24 schools, including top schools such as Raffles Institution.  The entry of our team who won the Gold Award with Special Prize was selected for the Four-Nation Stamp Contest with competitors from Indonesia, Malaysia and Thailand and our entry clinched the **Silver Award.** The winning entries were exhibited at The Plaza, National Library from 19-21 Aug 2016.
+![](/images/stamp1.jpeg)
+![](/images/stamp2.jpeg)
+_Our Gold Award with Special Prize team with the Chairman of Singapore Philatelic Museum Board and their entry entitled “Music – Voice of Soul”_
+
+The National Stamp Collecting competition aims to promote the study of postage stamps and philatelic materials to learn about Singapore and the world.  In this competition, students worked in groups of 4 to submit philatelic exhibits using stamp products and narratives based on a theme of their choice such as nature, culture, technology etc.  Our students have shown resilience as they persevered in researching on information over many months and poring through the information on transport system, food of other countries and impact of music in life.  In the process, they have developed learning and thinking skills such as language development, writing, research, organisation and creativity.  
+  
+Our team members comprised:  
+\- Gold Award with Special Prize for the entry entitled “Music – Voice of Soul” - Aqil B Kusaini (2E4), Claudia Heng (2E5), Adinda Fitri Falinka (2E3) and Johan Fadli B Jailani (2E4).  <br>
+\- Silver Award with Special Prize for the entry entitled “A Food Detective on a Hunt – Bon Appetit” - Ghumaysa Asif (2E4), Aw Man Ling Joachim (2E4), Alex Low Hao Han (2E4) and Ng Wai Meng (2E4).  <br>
+\- Silver Award for the entry entitled “Our Singapore Transport – Tales through Ah Seng’s Eyes” - Marcy Nicole Baeza Marasigan (3E4), Nur Jasmine Bte Roslan (3E5), Ho Jun Jie (3E3) and Neo Chung Sheng (3E4).
