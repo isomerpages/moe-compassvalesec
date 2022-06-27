@@ -68,3 +68,12 @@ _North Stars conducting games in the “Activity Room”._
 _Our Librarians and CCE Ambassadors working together._
 
 # Newsflash on National Day Commendation Award
+
+CVSS is proud to share a piece of good news of our staff achievement.
+
+Congratulations to Mdm Lila Bte Salleh, SH Malay for being awarded the National Day Commendation Medal 2015! 
+
+The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore.
+
+<img src="/images/Mdm%20Lila%20Bte%20Salleh%20(SH-Malay).jpeg" 
+     style="width:70%">
