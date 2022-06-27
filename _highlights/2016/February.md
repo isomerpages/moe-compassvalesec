@@ -23,3 +23,13 @@ _Line Tracing (2nd Runner up): Yeo Zhi Hui (3E5), Lee Mei Qin (3E5),Clement Cha
 _Obstacle Challenge (2nd Runner up): Chong Wei Heng (2E5), Dion Soh Jing Jie (2E5),Tan Jun Hao (3E4), Aloysius Tan (4E5)_
 ![](/images/rob4.jpeg)
 _Obstacle Challenge (Merit): Koh Zhi Rong (2E4), Chu Wai Chung (2E4),Ryan Tay (4N3), Chua Meng Choon (4E2)_
+
+# CVSS Chinese New Year Celebration 2016
+_Reporter: Gladys Wong Lin Wei (3E5)_ <br>
+_Supervising Teacher: Mr Clement See_
+
+Our school celebrated Chinese New Year on Friday, 15 January to usher in the year of the Monkey.​ The celebration was launched with a big bang by Mr Chia, our Principal, and Mr Lee, Chairman of the School Advisory Committee, striking a traditional gong simultaneously on a beautifully decorated stage in our school hall. A string of entertaining performances and exciting programmes followed for all staff and students to enjoy. Our CCA groups – Dance, Wushu, Band and Choir showcased their many talents as they enthralled the crowd before them.  Members of our Alumni presented an energetic and youthful dance item, and danced to popular tunes together with the ‘God of Fortune’ mascot.  The highlights were the “Guess My Voice” segment where students had to guess the identity of the staff member strutting their vocal talents behind the hall curtains, and the pre-recorded videos of new year greetings from young children of our teachers of different races where the students had to guess the identify of their parents! Every Chinese New Year, our staff and students devote themselves to contributing back to the community and bring joy to others in the community.  As usual, our school invited more than 40 senior citizens from Henderson Heights to have a sumptuous breakfast together with our teachers and Parent Support Group members before joining us in the celebrations. Every elderly guest received a _hongbao_ each from Mr Lee personally and from Mr Chia on behalf of the staff. Our Parent Support Group also presented each of them with a special hamper packed by PSG members.
+
+![](/images/cny2.jpeg)
+![](/images/cny3.jpeg)
+![](/images/cny5.jpeg)
