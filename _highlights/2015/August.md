@@ -77,3 +77,19 @@ The Singapore National Day Awards are a means of recognising various forms of me
 
 <img src="/images/Mdm%20Lila%20Bte%20Salleh%20(SH-Malay).jpeg" 
      style="width:70%">
+		 
+# SG50 Reflections: Our Hopes & Memories
+The SG50 HOME e-book is a birthday gift from all students to Singapore, in return for the SG50 ‘Building My SG’ Lego set that was given to them.
+
+It is the collective effort of students from all primary and secondary schools, junior colleges/centralised institute, special education schools as well as the Singapore International School (Hong Kong). Students have put in a lot of effort for this project and have spent considerable amount of time doing research. This project has also allowed students to connect with the pioneer generation and gain appreciation for their contributions and sacrifices.  It also inspires students to create a better future for themselves and for Singapore.
+
+To chronicle the changing faces of the seventh housing town built by the Housing and Development Board, a team of North Stars (Afraa Aijaz, Tan Jun Long, Kian Zhang Yu, Goh Geok Ling, Tan Choon Siang and Eileen Lee), accompanied by their teachers (Mrs Lee Sear Yeen, Mr Tan Wen Chuan, Mr Aloysius Chua Xun Fan, Mr Clement See Wei Liang, Mdm Donna Chang Sin Yi, Mr Ng Hong Pin and Mr Nicolas D Sangil III), embarked on a journey around the Ang Mo Kio Town estate through time. The story of the development of the town in 1975-1984 unfolds through a video presentation that gives the audience a glimpse of the lives of the residents, as well as their memories and aspirations for the future. It is complemented with photographs and written sources that capture the sights and sounds of life in the heartland. Essentially, this multimodal approach aims to connect the residents with other Singaporeans using personal and community stories.
+
+One of the highlights of their project is Block 259 of Ang Mo Kio Avenue 1, an iconic block of circular flats that when seen from above, forms the shape of a clover. Over the years, the residents in the block are known across the island for their strong sense of belonging and kampung spirit as they have been living next to one another for years. The interconnectedness of the residents of the “Four Leaf Clover Block”, as it is affectionately known, has shown that public housing in Singapore goes beyond providing a roof for the owners. The sense of attachment to a home helps the dwellers forge a Singapore identity and a strong sense of rootedness to the country.
+
+Entitled “Completion of Ang Mo Kio New Town in 1980”, this e-book can be viewed at [http://www.sg50home.sg/completion-of-amk-new-town-in-1980.html](http://www.sg50home.sg/completion-of-amk-new-town-in-1980.html) or through the SG50 HOME App which can be downloaded from Google Play or the App Store.
+
+# Mother Tongue Languages Symposium 2015
+
+![](/images/MTLS%202015_Pamphlet.jpeg)
+![](/images/MTLS%202015_Pamphlet1.jpeg)
