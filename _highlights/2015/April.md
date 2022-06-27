@@ -38,3 +38,20 @@ _Our SAC Chairman, Mr Lee Kang Hwa at the exhibition booth_
 _Performance put up by our alumni,parent, teacher and students_
 ![](/images/The%20unveiling%20of%20the%20plaque%20for%20the%20opening%20of%20the%20North%20Star%20Room.jpeg)
 _Unveiling the plaque to open the North Star Room_
+
+# 16th Elementz Science Competition
+The Elementz Science Research Conference and Exhibition is an annual event that accords recognition to students from the upper secondary levels and junior colleges who have conducted scientific research to showcase their findings. This event is organized by Anderson Junior College which houses Elementz laboratory, the MOE North Zone Centre of Excellence in Science.  
+  
+The theme for this year’s conference is **“Advancing Science for a Better Singapore”.**
+
+Indeed, two teams from Compassvale Secondary School had made us proud by clinching the Gold and Silver awards for their research projects.
+
+ The two projects are as follows:
+
+1) Investigation into the generation of useful electrical energy in areas of high human traffic (Gold Award)  
+  
+Team Members: Yong Kai Wen, Lee Bo Hua, Loh Yang Xian, Mohd Amirul Amin B Mohd R, Sim Mong Chuan
+
+2) An investigation on using food waste to produce bioplastic (Silver Award)
+
+Team Members: Yong Han Ming, Baavya Boyina, Lim Wan Ning, Quek Soek Shan Jezebel, Teo Cai Ling
