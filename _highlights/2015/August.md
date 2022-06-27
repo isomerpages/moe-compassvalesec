@@ -41,3 +41,10 @@ _NCC cadets performing their freestyle drill entitled “Unity as One”._
 <img src="/images/sg50g.jpeg" 
      style="width:75%">
 _A post taken from Mr Teo Ser Luck’s Facebook page._
+
+# Mother Tongue Fortnight and Language Camp 2015
+
+From 24th August to 3rd September, CVSS will be organizing a two-week Mother Tongue Fortnight aiming to cultivate a love for Mother Tongue Culture in our students. Competitions and activities related to the language and traditions, as well as exposure to the traditional art & crafts and culinary dishes will be organised to provide authentic opportunities for the students to use their Mother Tongue Language and experience its culture.
+
+* [CL programme](/files/MT%20fortnight%20programme.pdf)
+* [ML programme](/files/2015%20MT%20Fortnights%20&%20Camp%20(ML)%20-%20Programme.pdf)
