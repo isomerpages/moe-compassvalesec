@@ -28,3 +28,4 @@ The upper secondary students are:
 This competition aims to strengthen the students' command of the Chinese Language through practical applications.To achieve this objective, students are required to plan the layout and generate two pages of content. Over 45 schools participated in this national competition jointly organized by the Committee to Promote Chinese Language Learning, SPH Chinese Student Paper ZB Comma and Xinmin Secondary School.
 
 Congratulations to the winning teams on their success!
+![](/images/Create%20Your%20Own%20Newspaper%20Competition.jpeg)
