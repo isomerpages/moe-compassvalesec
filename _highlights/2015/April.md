@@ -22,3 +22,12 @@ _Jolene Ong receiving the Outstanding North Star Award from GOH, Mrs Wong Mei He
 <img src="/images/Our%20GOH,%20Mrs%20Wong%20Mei%20Heng%20receiving%20the%20a%20gift%20from%20the%20school.jpeg" 
      style="width:60%">
 _Our GOH Mrs Wong Mei Heng receiving a gift from the school_
+<img src="/images/Band%20performance%20from%20the%20concert%20segment.jpeg" 
+     style="width:60%">
+_Band performance_
+<img src="/images/Dance%20performance.jpeg" 
+     style="width:60%">
+_Dance Performance_
+![](/images/Mr%20Perry%20Yap%20and%20Ms%20Koh%20Bee%20Choo,%20ex-students%20of%20CVSS.jpeg)
+![](/images/Mr%20Muhammed%20Saufi,%20an%20ex-student%20from%20NT%20having%20a%20chat%20with%20Mrs%20Shahul%20in%20the%20North%20Star%20Room.jpeg)
+![](/images/Our%20SAC%20Chairman,%20Mr%20Lee%20Kang%20Hwa%20at%20the%20exhibition%20booth.jpeg)
