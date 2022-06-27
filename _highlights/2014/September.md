@@ -38,3 +38,6 @@ Theatresports is a form of improvisational theatre that is carried out in the 
 Well done North Stars!
 
 ![](/images/Theatresports.jpeg)
+_(From left to right) Back row: Ms. Koh Bee Choo, Leo Qi Min (3E), Wu Jieqi (3G), Zhou Kevin Wu (3H),_<br>
+_Mdm. Li Nan and Zenise Tey (2B)_<br>
+ _Front row: Demi Chumponvong (3B) and Brenda Wee (2B)_
