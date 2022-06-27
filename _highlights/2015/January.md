@@ -35,4 +35,5 @@ Our Sec 5N(A) students have also brought glory to the school with impressive res
 
 Well done, North Stars! You have, once again, risen to the occasion to achieve your success and make the school proud of you. We hope that our North Stars will scale to greater heights as they enter a new phase of learning and growing. May all of you always be World Ready Youths!
 ![](/images/IMG_8875.jpeg)
-_Congratulations to our outstanding North Stars! (from left) Mr Phang (VP Admin), Mdm Ong (Principal), Lo Wai See, Chong Ying Min,Lee Jia Xian, Jolene Ong, Mr Ang (VP), Mr Wong (VP)Not in Picture: Li Chunjia__
+_Congratulations to our outstanding North Stars! (from left) Mr Phang (VP Admin), Mdm Ong (Principal), Lo Wai See, Chong Ying Min,Lee Jia Xian, Jolene Ong, Mr Ang (VP), Mr Wong (VP)Not in Picture: Li Chunjia_
+![](/images/top.jpeg)
