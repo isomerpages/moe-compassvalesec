@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2015/March.md
       - 2015/April.md
       - 2015/May.md
       - 2015/July.md
