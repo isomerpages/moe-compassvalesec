@@ -20,3 +20,44 @@ _CVSS was represented by three talented North Stars – Vidhi Mahajan from Sec 2
 <img src="/images/water1.jpeg" 
      style="width:70%">
 _Vidhi also emerged as the 9th top scorer in the Individual category, beating more than 120 students._
+
+# 14th Elementz Science Project Competition and Exhibition 2015
+Two teams from Compassvale Secondary School have done us proud by clinching the Gold and Silver awards for their research projects in the Elementz Science Project Competition and Exhibition.
+
+This competition and exhibition is an annual event that accords recognition to students from secondary schools and Junior Colleges who have conducted scientific research to showcase their findings. This event is organized by Anderson Secondary School, the MOE North Zone Centre of Excellence in Science.
+
+ The theme for this year’s competition is **“Shaping the Future with Science”.**
+
+ The two projects are as follows:
+
+1)  An investigation on generation of electricity from induced electrostatic charges of flowing water (Gold (with presentation) Award)
+
+1. Tan Kiat Yao
+
+2. Louicia Lee Xin Yi
+
+3. Wong Cheow Chai
+
+4. Melody Tan
+
+5. Lee Tze Sin Alicia 
+
+ 2) Investigation on the suitability of different biodegradable materials to make bio-plastics for various applications (Silver Award)
+
+1. Anbarasan Malavika
+
+2. Darryl Chow Jing Wei
+
+3. Cheong Huan Feng
+
+4. Surabhi Sridhar
+
+5. Yeo Zhi Hui 
+
+ Well done, North Stars!
+ ![](/images/14.jpeg)
+ _Gold Award:_  _Melody Tan, Lee Tze Sin Alicia, Tan Kiat Yao, Louicia Lee Xin Yi, Wong Cheow Chai_
+ ![](/images/14a.jpeg)
+ _Silver Award: Cheong Huan Feng, Darryl Chow Jing Wei, Yeo Zhi Hui, Surabhi Sridhar, Anbarasan Malavika_
+ ![](/images/14b.jpeg)
+ _North Stars engaging Guest-of-honour Dr Shawn Lum in discussion at the exhibition of their project._
