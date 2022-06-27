@@ -15,3 +15,18 @@ The plethora of colours used to create the artwork symbolises diversity in unity
 “All the best! Do Singapore proud! One Team Singapore!” cheered the students from the school.
 ![](/images/15.jpeg)
 
+# Results of the Singapore Youth Festival Arts Presentation 2015
+2015 is indeed a special year for CVSS. Adding to the celebratory mood of the 15th anniversary of the school is the spectacular results of the performing arts students at the SYF. CVSS has received the best SYF results in the history of the school!
+
+This year, the Drama, Dance and Choir attained the Certificate of Distinction, while the Band received the Certificate of Accomplishment. These impressive results would not have been possible without the determination of the students, and the dedication of the coaches and the teachers in-charge to bring out the best in them. North Stars have indeed shone brightly on the stages of the Singapore Youth Festival.
+
+North Stars, may you continue to keep the stars in you shining, and your passion for the arts burning!
+
+![](/images/syf%20drama.jpeg)
+_The Dramalites building memories with a picture-perfect moment._
+![](/images/Choir%20SYF%201.jpeg)
+_An “oosh” from the Choir for a boost of confidence!_
+![](/images/ROB76597.jpeg)
+_An amalgam of elegance and strength from Dance._
+![](/images/SYF%202015%20BAND.jpeg)
+_The Band-United we Stand!_
