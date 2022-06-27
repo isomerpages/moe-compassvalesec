@@ -21,3 +21,17 @@ Congratulations to the following North Stars!!
 
 ![](/images/dmc01.jpeg)
 ![](/images/dmc02.jpeg)
+
+# 14th Anniversary & Awards Day
+Our school held the 14th Anniversary and Awards Day on 25 April 2014 with Gui Ming Yi, Head of Student Council Board 2013 and Captain of Badminton Team, being awarded the prestigious Outstanding North Star Award. Representing his cohort, Ming Yi presented two gifts, a montage and a landscape design, to the school. 
+
+The highlights of the evening are a musical and an exhibition featuring the cognitive, aesthetics, physical, social and moral and student morale aspects of the North Star Education Programme Framework. The live performances during the dinner reception also showcased the performing arts talent of the North Stars.
+
+The CVSS family received praises and accolades in recognition of the achievements and hard work in bringing the school to greater heights over the years.
+
+Happy 14th anniversary, Compassvale Secondary School!
+
+![](/images/14th01.jpeg)
+![](/images/14th02.jpeg)
+![](/images/14th03.jpeg)
+![](/images/14th04.jpeg)
