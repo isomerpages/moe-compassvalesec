@@ -27,3 +27,16 @@ Well done, North Stars!
 From left to right: Pang Shu Wen, Long Chay Yeen, Seet Jing Da, Tan Xieng Hua
 ![](/images/esrce02.png)
 From left to right: Law Junkai Samuel, Teo Kai Ling, Alicia Lee Jing Ting, Chui Si Min Valery, Clemente Kristine Nicole M
+
+# Student Leaders Investiture 2014
+On 9 April 2014, 34 Secondary Three Student Councillors and 17 Secondary Three CCA Leaders were conferred as the incoming batch of student leaders in CVSS. They will take over the leadership roles and responsibilities from the outgoing Secondary Four student leaders.
+
+![](/images/investiture%202014.png)
+
+The executive committee of the Student Council Board 2014 comprises the head of Student Council Board, Kleio Tan of 3H and Neo Xin Yi of 3D, Vice-head of Student Council Board, as well as the remaining four Executive Committee members, Chua Jia Hui Elizabeth of 3A, Ng Hong Ray of 3H, Teo Kai Ling of 3H, and Zhou Kevin Wu of 3H, who will be leading the various departments within the Student Council Board.
+
+![](/images/investiture%202014%202.png)
+![](/images/investiture%202014%203.png)
+At the same time, the school also took the opportunity to appreciate the efforts, contributions and impact that the Secondary Four student leaders had made during their reign from April 2013 till present.
+![](/images/investiture%202014%204.png)
+![](/images/investiture%202014%205.png)
