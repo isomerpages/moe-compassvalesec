@@ -137,3 +137,17 @@ _North Stars speaking to the performers and learning about the traditional way o
 _North Stars participating spontaneously in a cultural dance performance at the Mini Malaysia & Asean Cultural Park_
 ![](/images/Picture%205.jpeg)
 _North Stars participating in the demonstration of the traditional game of gasing at Kampong Indah._
+
+# Success at the 9th Inter-school Sudoku Competition
+Perseverance, strategy and good time management is the winning-formula of a team of North Stars at the 9th Inter-school Sudoku Competition. The young team, comprising four Secondary Two students, emerged 4th place among 30 participating schools nationwide.  
+  
+The competition, which took place on 31st March, was organised by Broadrick Secondary School. Students are required to solve Sudoku puzzles as a team. The students who took part in the competition are Tasha Khor Pei Xin from 2E, Rachel Tan Pei Wen and Nur Jasmine Bte Roslan from 2G and Teng Tze Yun from 2H.  
+  
+Reflecting on their experience, the students shared that they stood together as a team and gave their best throughout the challenge. The team has also developed a real camaraderie among the students after the competition.  
+  
+The students would like to thank Principal Mdm Ong Teck Hui, Vice-Principal Mr Cecil Ang, and their teachers for giving them the opportunity to participate in this event, and for supporting them throughout the competition
+
+![](/images/sudoku.jpeg)
+_All composed and ready for the competition!_
+![](/images/sudoku1.jpeg)
+_Mr Yet and the team at the prize-giving Ceremony with the principal of Broadrick Secondary School_
