@@ -59,3 +59,10 @@ The ECG Parents’ Forum has brought the school one step closer to greater, more
 ![](/images/ecg.jpeg)
 ![](/images/ecg1.jpeg)
 ![](/images/ecg2.jpeg)
+
+# Champions in 2016 ITE College West EBS Amazing Race Competition
+
+The EBS (Elements of Business Skills) Amazing Race is an annual event organised by ITE College West in collaboration with the National Institute of Education for all secondary schools. The competition was held on 23rd March at ITE College West. Our team comprises Maliyanah Bte Mahadi, Nur Nadiah Bte Abdul Rahman, Nur Shazwani Tina Bte M S and Lo Xue Qi, Emmalee, all from Sec 4T1, competed against teams from 30 secondary schools and emerged champions in the tough competition!  This is all the more remarkable as our school has only one Sec 4 NT class.  
+  
+The objective of the race was to engage participants through experiential and self-directed learning. The race tapped on the use of ICT tools and incorporated aspects of Financial Literacy, Retail, Tourism and Hospitality as well as Marketing Mix. In this year’s race, participants were required to answer higher order questions. It was indeed a difficult challenge as students had to apply their knowledge learnt from EBS and Mathematics to answer the questions. Our North Stars demonstrated critical and inventive thinking, teamwork, graciousness, respect and resilience. They have certainly realised their star within through this platform that has helped to motivate them to persevere and do their best.
+![](/images/ebs1.jpeg)
