@@ -115,10 +115,16 @@ In conclusion, the trip not only taught us about Malacca's culture, but also imp
 **Day 1**
 <img src="/images/image_0.jpeg" 
      style="width:50%">
+_North Stars with the tour guide, learning about the history of Kampong Morten and the efforts_ _made to clean up the Malacca River._
 <img src="/images/image_1.jpeg" 
      style="width:50%">
+_Learning about the architectural and cultural features of a Kampong house._
 <img src="/images/image_2.jpeg" 
      style="width:50%">
+_At Villa Sentosa, North Stars saw the intricacies of the architecture of the Kampong house and the rich history behind the original house dating back to 1920._
 <img src="/images/image_3.jpeg" 
      style="width:50%">
-		 
+_North Stars exploring the interior of Villa Sentosa, after speaking to its owner._
+
+**Day 2**
+![](/images/Picture%201.jpeg)
