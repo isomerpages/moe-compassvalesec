@@ -36,3 +36,13 @@ North Stars from Sec 4T1 had a special programme where they embarked on a learni
 Through the day’s programme, not only did our North Stars gain a greater insight into the various post-secondary institutions and possible career options, it also sparked in them the need to plan for their future, as reflected by Loh Yang Xian of Sec 4E4, _“I’d focus on my area of interest in Poly. The education pathway I choose now will affect my opportunities in the workforce… so I need to choose carefully.”_
 
 ![](/images/rwy2.jpeg)
+
+Day 3 – Sexuality Education Day  
+  
+The Sexuality Education Day aims to imbue North Stars with the necessary values and attitudes that will help them build lasting life-long relationships, in particular marriage, so as to enable them to lead meaningful and fulfilling lives.
+
+ After an engaging workshop which focused on the value of commitment as a necessary ingredient in marriage, the North Stars were invited to a forum that comprised of several of our very own CVSS teachers, where their questions were answered and misconceptions clarified. With the teachers’ honest and candid sharing of their personal experiences in handling relationships, the teachers provided students with an understanding of the responsibilities involved and the challenges faced in dating relationships and marriages. _“I (realised) that I am not ready to be involved in a BGR (now). If I (wait till I am older), I believe I would be able to make better choice(s) in my future relationships,”_ shared Lam Xinyi of Sec 4E3.
+
+A long seminar it might have been, but a rewarding three days it must have been for our North Stars who are on the last lap of their secondary school education, raring to enter the VUCA world!
+
+![](/images/rwy3.jpeg)
