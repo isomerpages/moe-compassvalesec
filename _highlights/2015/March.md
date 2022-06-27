@@ -23,4 +23,17 @@ _Ethaniel spending a special moment with his parents._
 ![](/images/ns3.png)
 _Teacher-in-charge Mdm. Goh Tong Jee and Ethaniel’s peer, Fong Kang Yuan,celebrating with our proud winner on his success_
 
-# Highlights of IC Malacca Trip 11-13 March 2015
+# Champions at the ITE Skills Challenge 2015--Robotics Category
+
+In a great show of teamwork, creativity and problem-solving skills, four North Stars from the PA/AVA (Robotics) Club emerged Champions in the Robotics Challenge organised by the Institute of Technical Education (ITE) on March 2. This is an extremely laudable achievement by this young team as it is their first time taking part in this competition.  
+  
+The ITE Skills Challenge is a skills competition in Engineering Science and Technology (S&T) organised specifically for the Normal Course students. This competition provides a platform for participants to exhibit their talents and capabilities in S&T as they compete against one other in a fun and exciting manner.  
+  
+Congratulations to the PA/AVA (Robotics) Club! We hope that this achievement will inspire all North Stars to create new breakthroughs in all aspects of their learning.
+
+![](/images/R1.png)
+_Robotics Challenge Champions (from left to right): Ryan Lee Kai Ren (4B), Tay Hao Xiang Ryan (3D),Tan Jun Rong Jordan (3D), Chua Boon Kiat Jonathan (4A)_
+![](/images/r2.png)
+_Our students in action at the competition._
+![](/images/r3.png)
+_Our principal Mdm Ong, and the PA teachers-in-charge standing proud with our North Stars bearing their trophies._
