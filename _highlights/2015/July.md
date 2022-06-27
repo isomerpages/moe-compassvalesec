@@ -16,5 +16,7 @@ Vidhi, Huan Feng and Darryl demonstrated resilience in their preparation for the
 
 <img src="/images/water.jpeg" 
      style="width:70%">
+_CVSS was represented by three talented North Stars – Vidhi Mahajan from Sec 2H,as well as Cheong Huan Feng and Darryl Chow from Sec 2E._
 <img src="/images/water1.jpeg" 
      style="width:70%">
+_Vidhi also emerged as the 9th top scorer in the Individual category, beating more than 120 students._
