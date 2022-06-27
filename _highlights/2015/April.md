@@ -128,3 +128,12 @@ _North Stars exploring the interior of Villa Sentosa, after speaking to its own
 
 **Day 2**
 ![](/images/Picture%201.jpeg)
+_North Stars engaged and asking questions at a talk given by Malacca’s Town Planning Department on Green Energy Efforts._
+![](/images/Picture%202.jpeg)
+_North Stars learning a game of congkak at Mini Malaysia_
+![](/images/Picture%203.jpeg)
+_North Stars speaking to the performers and learning about the traditional way of playing a familiar game of five stones_
+![](/images/Picture%204.jpeg)
+_North Stars participating spontaneously in a cultural dance performance at the Mini Malaysia & Asean Cultural Park_
+![](/images/Picture%205.jpeg)
+_North Stars participating in the demonstration of the traditional game of gasing at Kampong Indah._
