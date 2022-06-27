@@ -93,3 +93,24 @@ Entitled “Completion of Ang Mo Kio New Town in 1980”, this e-book can be vie
 
 ![](/images/MTLS%202015_Pamphlet.jpeg)
 ![](/images/MTLS%202015_Pamphlet1.jpeg)
+
+# 9th Interschool Theatresports Competition
+
+Our North Stars have done us proud by clinching the First Position and the Most Popular Team Award in the recent 9th Interschool Theatresports Competition. Despite facing intense competition from other teams, our students remained resilient and demonstrated much creativity in their performance.
+
+Theatresports is improvisational theatre done in a competitive way for dramatic effects. Organised by Dunman High School, competing teams perform scenes based on suggestions from the audience before being rated by a panel of judges. The competition tests not only the students’ reaction and ability to think and improvise on the spot, but also their teamwork and ability to co-operate collaboratively.  
+
+The students involved in the competition are:
+
+1.  Li Xin Jie   2F
+2.  Kho Jia Hui   2F
+3.  Chia Chiong Lun   2F
+4.  Tan Jia Peng   2G
+5.  Cheung Yuen Ling   3E
+6.  Demi Chumponrong   4B
+7.  Zhou Kevin Wu   4H
+
+Well done North Stars!
+![](/images/9.jpeg)
+![](/images/9a.jpeg)
+![](/images/9b.jpeg)
