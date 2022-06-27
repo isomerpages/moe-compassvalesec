@@ -2,18 +2,18 @@ collections:
   highlights:
     output: true
     order:
-      - 2015/January.md
-      - 2015/February.md
-      - 2015/March.md
-      - 2015/April.md
-      - 2015/May.md
-      - 2015/July.md
-      - 2015/August.md
-      - 2015/September.md
-      - 2015/October.md
-      - 2015/November.md
-      - 2015/December.md
       - 2015/.keep
+      - 2015/December.md
+      - 2015/November.md
+      - 2015/October.md
+      - 2015/September.md
+      - 2015/August.md
+      - 2015/July.md
+      - 2015/May.md
+      - 2015/April.md
+      - 2015/March.md
+      - 2015/February.md
+      - 2015/January.md
       - 2016/.keep
       - 2016/December.md
       - 2016/October.md
