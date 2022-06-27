@@ -11,3 +11,11 @@ The theme of the competition was “Sustainability in the Hotel Sector”. Stude
 
 ![](/images/Tourism-1.png)
 ![](/images/Tourism-3.png)
+
+# SYF Art Lab Exhibition 2014
+On 4th July 2014, 14 lower secondary North Stars taught visitors at the SYF Art Lab event how to create figurines using wire. Held at Gardens by the Bay, the 3-hour workshop is part of an annual celebration of Singapore’s art by the SYF Committee. CVSS is one of the 20 schools shortlisted from 80 primary and secondary schools, which submitted over 150 proposals.
+
+Preparations for the course started during the March holidays with the construction of the wire sculpture. Through teamwork, the students produced a total of 35 wire figurines and 10 additional wire accessories such as hats, earrings and bangles. Each student customised his/her wire figurines according to his/her preferred styles of twisting and twining. They underwent two role-play sessions to ensure that they are able to speak confidently as they conduct the course. They also displayed a scrapbook during the event to show the process involved in making the wire figurines and relate their personal reflections.
+
+![](/images/SYF%20Art%20Lab-1.png)
+![](/images/SYF%20Art%20Lab-2.png)
