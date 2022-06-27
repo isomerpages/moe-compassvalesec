@@ -61,3 +61,10 @@ Another visitor wrote: ‘I like this activity organised by the students... I ne
 
 <img src="/images/rhd.jpeg" 
      style="width:70%">
+_North Stars conducting games in the “Activity Room”._
+
+<img src="/images/rhd1.jpeg" 
+     style="width:75%">
+_Our Librarians and CCE Ambassadors working together._
+
+# Newsflash on National Day Commendation Award
