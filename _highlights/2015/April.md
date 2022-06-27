@@ -55,3 +55,61 @@ Team Members: Yong Kai Wen, Lee Bo Hua, Loh Yang Xian, Mohd Amirul Amin B Mohd R
 2) An investigation on using food waste to produce bioplastic (Silver Award)
 
 Team Members: Yong Han Ming, Baavya Boyina, Lim Wan Ning, Quek Soek Shan Jezebel, Teo Cai Ling
+
+![](/images/elementz.jpeg)
+_From left to right: Loh Yang Xian, Mohd Amirul Amin B Mohd R, Yong Kai Wen, Sim Mong Chuan, Lee Bo Hua_
+![](/images/elementz1.jpeg)
+_From left to right: Teo Cai Ling, Lim Wan Ning, Quek Soek Shan Jezebel, Baavya Boyina, Yong Han Ming_
+
+# Sec 2 Integrated Curriculum Malacca Trip 2015
+During the period 11 to 13 March 2015, the Sec Two students went on a successful overseas learning journey to Malacca. Below we share a few reflections by students on their learning experiences:  <br>
+**Students’ Reflection:**
+Reflection by TAN YA TENG ALLY  <br>
+Class: 2F
+
+ Our first day in Malacca was filled with excitement as it was our first time travelling to Malacca. It was also our first time overseas without our parents. Upon boarding the bus, our tour guide gave us a glimpse of the rich history and culture of Malacca. Later we went on a coach tour of the historical and modern Malacca. Some of the interesting things we saw were the Red Square and a replica of the Portuguese ship. We also visited a Chinese Peranakan house. It was an eye-opening experience for all of us. Our first day was an enriching historical and cultural learning experience and we looked forward to the next day.
+
+On the second day, we enthusiastically made our way to the Malacca Town Planning department where we learnt about the various efforts put in place by the State of Malacca to introduce green technology and enhance sustainable eco- balanced urban development. Next, we went to the Mini Malaysia & ASEAN Cultural Park where we saw the different types of traditional houses found in the different states of Malaysia. We also watched a fascinating cultural show of the traditional dances of Malaysia. We played traditional Kampong games which allowed us to practise our school value - resilience. Among all the sites we had visited, nothing prepared us for the sight of the actual Kampong. To us ‘city dewellers’, who were used to large roads, extremely tall buildings with amenities and facilities at a stone’s throw away, this was unusual. At the Kampong none of these luxuries were visible and yet, they were carefree and happy with their lives. We learnt that the Kampong spirit is all about interacting with each other with trust, graciousness, and respect for each other. The Kampong spirit, which we Singaporeans left behind in the 1960s, is an effort that is worth rekindling and preserving.
+
+On our final day in Malacca, we were at the City Park for bonding activities. These activities allowed us to display the school values such as integrity, respect and graciousness.
+
+Those three days and two nights that we spent in Malacca have allowed us to practise and reflect on our school values and it was a great learning experience for us.
+
+Reflection by MARCY NICOLE BAEZA MARASIGAN<br>
+Class: 2G
+
+As we arrived in Malacca, filled to the brim with the exciting thoughts of new places to explore with our friends, we were unable to contain our enthusiasm and were raring to go. I found myself talking to all my classmates with a big smile on my face. Furthermore, I saw instances where certain classmates who wouldn't normally get along together well in school cooperated quite effectively in teamwork related games such as the one we had participated on the third day. The bonding activities required good communication among the members of the team. Our team emerged as winners for most of the games because we worked as a team with our leader who was strategic and concise with his instructions.
+
+Apart from that, we had also learnt more about Malacca's beautiful Malay culture and the infrastructure of their homes. It was interesting to note that the number of steps on the stairs of the traditional houses displayed the owner’s financial status. I was surprised that Malacca had so many interesting details to take note of. The trip to the Kampongs was my favourite as I enjoyed viewing the various Kampong houses and the simple life the residents lived. The residents at the Kampong held great pride over their houses. It also amazed me at how united the residents were with each other. In Kampong Indah, the residents often left their houses unlocked in trust and mutual respect for each other. They were a close-knit community.
+
+Overall, we have not only immersed ourselves in the diverse Malay culture, we had also practised our values such as resilience to persevere in a new environment and to show empathy for one another, graciously caring for each other during the trip. We also held our respect for the people of Malacca state. Through our observations of how they led their lives in a kampong, all of us realised that life need not be hard if all of us decide to be kind, loving and generous to one another as this smoothens the obstacles that we might experience along the way.
+
+The trip to Malacca has been a very fun, insightful and enriching. Over the past three days, I have found myself more informed about Malacca, realised the importance of good values and formed closer ties with my classmates.
+
+Reflection by NUR JASMINE BTE ROSLAN<br>
+Class: 2G
+
+In Malacca, we were able to visit many sites such as the Malacca River and Kampong Indah. Along the Malacca River, we were able to see the kampongs nearby and see the boats sailing back and forth the river.
+
+We visited Mini Malaysia where we saw the different types of kampongs evident through Malaysia. The Malacca Kampong houses indeed caught my attention. The typical feature of a kampong house is the flight of stairs leading to the house. The Malaccans term it as the ‘open arm’ stairs simply because the structure resembles an open arm, welcoming the guests into their homes. Apparently, the number of steps symbolised the status of the owner of the house.
+
+The cultural performance at the Asean Park showcased the different styles and dance movements in traditional Malaccan dancing. The graceful movements and colourful traditional costumes enthralled and entertained us all from CVSS. The well synchronised and co-ordinated movements of the dancers brought out the importance of working together.
+
+Our visit to the Malacca Town Planning Department was enlightening. The government officials shared with us their efforts towards creating a greener country with green technology. Their efforts of green technology included having a huge solar farm and electric buses. They have also switched to biodiesel as fuel instead of normal diesel. I learnt that even though they have made a huge effort in improving their green technology, it is still not as effective as Singapore’s efforts for a greener country because of the large massive lands they have to deal with and the persuasion they have to do through public education.
+
+Our drive through the Jonker Street, Chinatown, and heritage sites in Malacca transported us back to the grandeur of the historical periods. The shop-houses there reminded me of our very own Chinatown! Some of the historical structures we saw included the “Flor De La Mar”, a huge replica of a Portuguese ship. I stared in awe at the building as I looked out the window! It was magnificent!
+
+The next highlight for me in the trip was our visit to kampong Morten. We were able to interact with the inhabitants of the kampong. The owner of the kampongs explained that life was harsh in the past for them. They recalled how they had to share an outhouse and had to walk as far as 4km to reach the well for water. They also had to harvest the rice from rice paddy fields by themselves and usually the portion of rice received was not sufficient for their consumption. These stories taught us the value of resilience as they did not throw in the towel even though they faced many adversities in their daily lives. We can use their experience and their sharing as an example to persevere despite any adversities we may face to reach our goals. The people living in the kampongs were unified as a community. The Kampong spirit created a tighter bond among all the kampong residents and encouraged the spirit of ‘ bergotong-royong” or co-operation. We Singaporeans know this kampong spirit well for we too lived a kampong life in the 1950-1960s. The kampong spirit is one that unified different races and is certainly worth the effort rekindling the spirit of sharing and graciousness towards neighbours in our present urban kampongs – our HDB flats!
+
+The class- bonding and team spirit was evident among us as well. During our team bonding and class bonding activities at the City Park, everybody was exuberant and cheering for one another. School values were consciously practiced, experiences were constructively gathered and cherished as positive memories. The trip to Malacca was unforgettable and an enriching experience. It provided us learning opportunities and allows us to display not only the school core values of responsibility and resilience but also teamwork in whatever we do in life.
+
+**Reflection by**
+
+BRANDON LIM TIANG KANG, BRANDON TAN YEE REY, BERNARD CHEW YU MING and TENG TZE YUN<br>
+Class: 2H
+
+ During our trip, we demonstrated graciousness by being considerate to the guests and other patrons of the places we visited and at the hotel in which we stayed in. By being in our best behaviour, we also showed respect for the teachers who went on this journey with us. We also demonstrated respect for the Malay culture and tradition by paying attention to what the tour guide was sharing at the various learning sites. We also demonstrated integrity for all the activities and games we played during the bonding activities at the City Park. 
+
+In conclusion, the trip not only taught us about Malacca's culture, but also important life lessons. This trip maybe over but these valuable learning experiences will remain with us as important memories in our hearts.
+
+![](/images/image_0.jpeg)
