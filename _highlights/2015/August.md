@@ -48,3 +48,16 @@ From 24th August to 3rd September, CVSS will be organizing a two-week Mother T
 
 * [CL programme](/files/MT%20fortnight%20programme.pdf)
 * [ML programme](/files/2015%20MT%20Fortnights%20&%20Camp%20(ML)%20-%20Programme.pdf)
+
+# "Harmony in Our Hands" @ Sengkang Community Library
+
+In commemoration of Racial Harmony Day on 21 July, our students from the MRL club as well as our CCE student ambassadors conducted games of the past for the visitors of Sengkang Community Library. These games included capteh, pick-up sticks, hopscotch and five stones. Our students took the opportunity to share the heritage and cultural value of these games as they instructed the young participants in the games. It was certainly an enriching and engaging session for all as Singapore’s rich diversity was celebratred through fun and exciting activities in alignment with this year’s Racial Harmony theme “Harmony in our Hands”.
+
+The feedback from the visitors has also been positive.
+
+One visitor wrote: ‘Glad that my children can join in this activity where they learn about some of the traditional games. Children of this generation hardly come into contact with simple games that require human interaction. They are usually on their tablets, where little cooperation is needed. It is interesting to note that many of the students may not know how the games are played, yet they do their best to read the instructions and patiently explain to the kids about how the games are conducted. Appreciate the effort.’
+
+Another visitor wrote: ‘I like this activity organised by the students... I never knew that kuti kutis are for play. I thought it to be very small toys. I am happy to see my kids learning traditional games. The students were very helpful and friendly.’
+
+<img src="/images/rhd.jpeg" 
+     style="width:70%">
