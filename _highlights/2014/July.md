@@ -19,3 +19,16 @@ Preparations for the course started during the March holidays with the construct
 
 ![](/images/SYF%20Art%20Lab-1.png)
 ![](/images/SYF%20Art%20Lab-2.png)
+
+# SIP Xinggang School Student Exchange Programme
+CVSS welcomed a team of 40 students and four teachers from SIP Xinggang School from 10 to 11 Jul 2014. North Stars were greatly excited by the visit as they extended their hospitality to their buddies.
+
+It was a fruitful and interesting experience for all the students. North Stars hosted the guests with much graciousness as they brought the Chinese students on a tour around the school and invited them to their lessons. To let the students have a glimpse of how learning takes place, Mr Patrick Ho and Mr Azlan conducted a special Design & Technology lesson in which Xinggang students got a hands-on learning experience. Although the stay was brief, the North Stars mingled well with their buddies, forging strong friendships and creating memorable experiences.
+
+The exchange programme was a success as North Stars interacted and learned about different culture and its people. The Chinese guests also gained a better understanding of Singapore and got an eye-opener into Singapore’s education system. This exchange programme not only broadened the horizon of both groups of students, but also strengthened the tie between the two schools.
+
+![](/images/Xinggang-1.png)
+![](/images/Xinggang-2.png)
+![](/images/Xinggang-3.png)
+![](/images/Xinggang-4.png)
+![](/images/Xinggang-5.png)
