@@ -112,4 +112,13 @@ Class: 2H
 
 In conclusion, the trip not only taught us about Malacca's culture, but also important life lessons. This trip maybe over but these valuable learning experiences will remain with us as important memories in our hearts.
 
-![](/images/image_0.jpeg)
+**Day 1**
+<img src="/images/image_0.jpeg" 
+     style="width:50%">
+<img src="/images/image_1.jpeg" 
+     style="width:50%">
+<img src="/images/image_2.jpeg" 
+     style="width:50%">
+<img src="/images/image_3.jpeg" 
+     style="width:50%">
+		 
