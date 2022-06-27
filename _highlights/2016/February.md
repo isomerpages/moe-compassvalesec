@@ -18,5 +18,8 @@ It is indeed a challenging task to navigate the robots to the finishing point. O
 ![](/images/rob1.jpeg)
 _Line Tracing (First placing): Chong Zhi Qing (3E2), Lim Xuan Cheng (4E4),Maung Soe Htaik Aung (2E2, not in photo), Aaron Koh (4E1, not in photo)_
 ![](/images/rob2.jpeg)
+_Line Tracing (2nd Runner up): Yeo Zhi Hui (3E5), Lee Mei Qin (3E5),Clement Chan (3E5), Choo Xian Kai (4E4)_
 ![](/images/rob3.jpeg)
+_Obstacle Challenge (2nd Runner up): Chong Wei Heng (2E5), Dion Soh Jing Jie (2E5),Tan Jun Hao (3E4), Aloysius Tan (4E5)_
 ![](/images/rob4.jpeg)
+_Obstacle Challenge (Merit): Koh Zhi Rong (2E4), Chu Wai Chung (2E4),Ryan Tay (4N3), Chua Meng Choon (4E2)_
