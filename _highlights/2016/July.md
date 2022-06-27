@@ -66,3 +66,13 @@ The EBS (Elements of Business Skills) Amazing Race is an annual event organised 
   
 The objective of the race was to engage participants through experiential and self-directed learning. The race tapped on the use of ICT tools and incorporated aspects of Financial Literacy, Retail, Tourism and Hospitality as well as Marketing Mix. In this year’s race, participants were required to answer higher order questions. It was indeed a difficult challenge as students had to apply their knowledge learnt from EBS and Mathematics to answer the questions. Our North Stars demonstrated critical and inventive thinking, teamwork, graciousness, respect and resilience. They have certainly realised their star within through this platform that has helped to motivate them to persevere and do their best.
 ![](/images/ebs1.jpeg)
+
+# Parent Support Group’s Welcome Brunch for Secondary One Parents
+Our Parent Support Group (PSG) organised a Welcome Brunch on 20 February 2016 to welcome the parents of Sec One students into the CVSS family. The event was well-received with close to 50 parents turning up, which was the largest in recent years.  The parents also appreciated the presence and support of Mr Khor Chee Kok, our SAC member who is also an ex-parent and now an honorary member of the PSG, the school leaders – Mr Chia, the Principal and Mr Wong, Vice-Principal, and our Parent Engagement Team - Mrs Lee Sing Yee, HOD/Character & Citizenship Education, Ms Tan Pei Kee, SH/Pastoral Care and Miss Suraiya Bte Izharul.  
+  
+The event started off with an interactive segment for parents to get to know one another. The parents had a wonderful time exchanging notes about parenting their teenagers.  It was also a good opportunity for parents to get to know more about the PSG and its activities from the Chairperson, Mdm Alice Wi, and members of the PSG executive committee.  The atmosphere was further livened up with the ice-breaker games. Not only did the parents enjoy the games, they were also able to get to know one another better.  
+  
+The highlight of the event was the Chinese New Year ‘_Lo Hei’_ session. While tossing the ingredients enthusiastically in the air, there was a common thread that strung the wishes of the parents together – that their child would turn out to be the best that they can be in CVSS, be it in academic studies, CCA or character development, and to realise the NORTH STAR within and achieve their fullest potential. With more activities for parental engagement coming up, such as the welcome brunch for Sec 1 parents, it would certainly help our parents fulfil their wishes!
+
+![](/images/parent.jpeg)
+![](/images/parent1.jpeg)
