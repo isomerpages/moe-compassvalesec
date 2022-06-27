@@ -22,3 +22,5 @@ _It’s a triumphant moment for Ethaniel!_
 _Ethaniel spending a special moment with his parents._
 ![](/images/ns3.png)
 _Teacher-in-charge Mdm. Goh Tong Jee and Ethaniel’s peer, Fong Kang Yuan,celebrating with our proud winner on his success_
+
+# Highlights of IC Malacca Trip 11-13 March 2015
