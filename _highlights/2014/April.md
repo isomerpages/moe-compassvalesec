@@ -40,3 +40,14 @@ The executive committee of the Student Council Board 2014 comprises the head of 
 At the same time, the school also took the opportunity to appreciate the efforts, contributions and impact that the Secondary Four student leaders had made during their reign from April 2013 till present.
 ![](/images/investiture%202014%204.png)
 ![](/images/investiture%202014%205.png)
+
+# 14th Anniversary & Awards Day
+Compassvale Secondary School is celebrating her 14th Anniversary and Awards Day on 25th April 2014 (Friday).
+
+Mdm. Cheryl Fong, a member of both the School Advisory Committee and the Parents Support Group, will grace the event as the Guest of Honour.
+
+On this day, we celebrate the outstanding academic and co-curricular performance of the North Stars. We will also acknowledge the commitment and dedication of our teachers.
+
+Attendance to the event is strictly by invitation only.
+
+![](/images/awards01.jpeg)
