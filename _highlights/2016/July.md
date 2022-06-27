@@ -24,3 +24,15 @@ _As the most senior members of the school, our Sec 5 students went through a wor
 
 ![](/images/rwy.jpeg)
 ![](/images/rwy1.jpeg)
+
+Day 2 – Educational & Career Guidance Day  
+  
+On 10 March, there was a buzz of excitement in the air as North Stars were able to choose the concurrent sessions that were conducted by the various post-secondary institutions, including Meridian and Temesak Junior College, 4 out of the 5 Polytechnics and Institute of Technical Education. They were given a better idea of the various pathways that await them upon graduation. Rushing from one venue to the other, the North Stars wanted to make sure that they were able to attend the sessions that they were interested in. They were also eager to get the collaterals that were provided by the different institutions so that they would be able to get to know about them in detail. Muhd Irfan of Sec 4E5 shared, “_With these new information, I am better able to make informed decisions on my choice of institution. I now have clearer goals in mind which motivates me to work harder to achieve them.”_  
+  
+During the ‘In Conversation with The Professionals’ segment, specially identified alumni members were invited back to give the North Stars a glimpse into the working life and what each career entails. They represented the different industries they came from, including the engineering field, banking and marketing sector, healthcare industry, and entrepreneurship. Through the many questions raised by the North Stars through the forum, it was apparent that their interest in the related fields was piqued.  
+  
+North Stars from Sec 4T1 had a special programme where they embarked on a learning journey to the Sengkang Depot, to gain exposure to the job opportunities in SMRT. During the trip, they went on an exciting tour around the depot. With a peek into how our MRT system runs in Singapore, our North Stars gained a new-found respect for the staff who works at MRT to ensure the smooth running of daily trains.  
+  
+Through the day’s programme, not only did our North Stars gain a greater insight into the various post-secondary institutions and possible career options, it also sparked in them the need to plan for their future, as reflected by Loh Yang Xian of Sec 4E4, _“I’d focus on my area of interest in Poly. The education pathway I choose now will affect my opportunities in the workforce… so I need to choose carefully.”_
+
+![](/images/rwy2.jpeg)
