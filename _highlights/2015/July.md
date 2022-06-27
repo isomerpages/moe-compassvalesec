@@ -93,5 +93,8 @@ This year, the competition is themed “SG50” and participating teams have to 
 The C&T department would like to thank our school leaders for the opportunity to participate in this competition, as well as the parents of the team for their support.
 
 ![](/images/wrap.jpeg)
+_Award Winning Dish_
 ![](/images/wrap1.jpeg)
+_Winning Team in Action_
 ![](/images/wrap2.jpeg)
+_Receiving Award_
