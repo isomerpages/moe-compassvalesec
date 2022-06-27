@@ -15,3 +15,10 @@ Happy 15th anniversary, Compassvale Secondary School!
 
 <img src="/images/koksenho1.jpeg" 
      style="width:60%">
+_Our SAC member, Dr Ho Kok Sen shared through his Facebook that he enjoyed the 15th Anniversary and Awards Day in CVSS._
+<img src="/images/Jolene%20Ong,%20Outstanding%20North%20Star%202015%20receiving%20the%20award%20from%20GOH,%20Mrs%20Wong%20Mei%20Heng.jpeg" 
+     style="width:60%">
+_Jolene Ong receiving the Outstanding North Star Award from GOH, Mrs Wong Mei Heng_
+<img src="/images/Our%20GOH,%20Mrs%20Wong%20Mei%20Heng%20receiving%20the%20a%20gift%20from%20the%20school.jpeg" 
+     style="width:60%">
+_Our GOH Mrs Wong Mei Heng receiving a gift from the school_
