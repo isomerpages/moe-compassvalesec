@@ -24,3 +24,14 @@ For his contributions as a Student Councillor and vice-chairperson of the Boys�
 Our Sec 5N(A) students have also made the school proud. Lim Xinyi, who was a Student Councillor and Assistant Company Leader of Girls Guides, managed her CCA responsibilities and studies well during her time in CVSS. She scored two distinctions in her examinations.  
 
 This milestone marks the completion of yet another meaningful journey of learning in the lives of the North Stars. As they set forth to scale greater heights in their chosen paths, may they always carry with them the zest for life and the zeal to learn.
+
+# Asia Pacific Youth Robotics Competition 2015
+The Asia Pacific Youth Robotics Competition 2015 is a skills competition organised specifically for the Primary, Secondary and Tertiary students held by the Singapore University of Technology and Design (SUTD). It promotes the use of creativity and problem solving skills among students through the use of engineering science and technology.  
+  
+Our North Stars have done us proud by emerging in the 2nd place in Mission Programming and 3rd placing in the Line Tracing segment. These students from PA/AVA (Robotics) worked hard to train for the competition and demonstrated their use of critical and creative thinking skills in the building and programming of their Lego robots. They also showed great resilience as they worked through unexpected challenges during the competition.
+![](/images/robots.jpeg)
+_Mission Programming (2nd placing): Chu Wai Chung (1G), Joseph Ong (3H)_
+![](/images/robot1.jpeg)
+_Line Tracing (3rd placing): Lim Xuan Cheng (3H), Koh Qi Wei Aaron (3E)_
+![](/images/robot2.jpeg)
+_Our students at the competition_
