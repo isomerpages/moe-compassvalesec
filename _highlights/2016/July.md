@@ -76,3 +76,28 @@ The highlight of the event was the Chinese New Year ‘_Lo Hei’_ session. Whi
 
 ![](/images/parent.jpeg)
 ![](/images/parent1.jpeg)
+
+# Presentations by CVSS at the International Conference of Teaching & Learning with Technology
+
+_The 5th biennial iCTLT 2016_, organised by the Ministry of Education and Academy of Princpals, was held in Singapore from 28 - 31 March 2016 at Suntec Convention and Exhibition Centre.  The conference focused on the use of technology in advancing 21st Century teaching and learning, with the theme of ‘_Future Ready: Inspire, Connect, Transform’._  It invites delegates from local schools and the international community to engage in sharing their insights, good practices, experiences and research studies so as to envision and share emerging trends in the field of educational technology.  
+  
+For the last eight years, iCTLT has been successful in gathering and connecting more than 2000 delegates and exhibitors across the world with a wide range of interests in educational technology. iCTLT 2016 continues the tradition in elevating educational standards among educators, researchers, policy makers and industry partners.  
+  
+Under the rigorous selection process by the iCTLT organising committee, three good practices from our school were selected for presentation at the prestigious international event. The titles of the three sharing sessions were:  
+  
+1. Technology, Pedagogy Content Knowledge (TPACK) approach to facilitate teacher’s development in AfL (Assessment for Learning)” by ICT Department and Staff Professional Development Committee  
+2. ‘The Extent to which ICT Tools can facilitate AfL feedback’ by ICT Professional Learning Team  
+3. ‘The Extent to Which Google Application can facilitate AfL in Oral Practice’ by Mother Tongue Department  
+  
+The response to the presentations were overwhelming and we received good feedback from teachers, school leaders and foreign delegates! We look forward to sharing more of our good practices with the teaching fraternity in iCTLT 2018!
+
+![](/images/lt1.jpeg)
+_Sharing on “Technology, Pedagogy Content Knowledge (TPACK) approach to facilitate teacher’s development in AfL” by our ICT Department and Staff Professional Development Committee_
+![](/images/lt2.jpeg)
+_Overwhelming responses at our concurrent sessions!_
+![](/images/lt3.jpeg)
+_Sharing on “The Extent to which ICT Tools can facilitate AfL feedback” by our ICT Professional Learning Team_
+![](/images/lt4.jpeg)
+_Sharing on ‘The Extent to Which Google Application can facilitate AfL in Oral Practice’ by our MTL Department_
+![](/images/lt.jpeg)
+_CVSS Staff who presented at the conference. From left: Ms Leow Deng Li (Lead ICT Mentor), Mdm Zhang Wei (Lead Teacher/Chinese Language), Ms Teng Siew Lee (Lead Teacher/Chemistry covering Staff Development), Mr Derek Tan (Science Teacher), Mr Aaron Ho (Science Teacher), Mr Phang Chee Kheng (Vice Principal/Admin overseeing ICT), Mr Tang Hui Boon (Head of Dept/ICT) and Mr Clement See (CL Teacher)_
