@@ -31,3 +31,6 @@ _Art and Craft lessons for the local children_
 _Proud students with their self-dyed textile pieces_
 ![](/images/Learning%20the%20art%20of%20weaving.jpeg)
 _Learning the art of weaving_
+
+# Open House 2014
+![](/images/Open%20House%202014.png)
