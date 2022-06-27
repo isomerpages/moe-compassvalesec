@@ -34,3 +34,13 @@ _Learning the art of weaving_
 
 # Open House 2014
 ![](/images/Open%20House%202014.png)
+
+# North Stars clinching awards in the On-the-Spot Art Competition for North Zone Schools
+Our North Stars have done us proud in the North Zone Art Competition held on 4th November organised by Huamin Primary School.  
+  
+The theme of the two-hour On-the-Spot competition is "Citizens of The World – Towards a Gracious Society" and each school is only allowed to send one Upper Sec and two Lower Sec students to this competition.   
+  
+Dayang Nuraizha from 3D impressed the judges with her symbolic and technically demanding artwork to clinch the 1st position in the Upper Sec Category. Rex Ng and Ong Wei Pin Amberly from 1C have also put in commendable thoughts and significant effort into their artwork which earned them the consolation prizes.  
+  
+Our students' creations are evidence of their capacity to think critically and creatively. We are heartened and very proud to see that they have incorporated symbolic elements into their artworks to imbue a sense of maturity and complexity.
+![](/images/North%20Star%20Clinching%20Award.jpeg)
