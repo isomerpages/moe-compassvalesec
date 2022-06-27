@@ -24,3 +24,15 @@ Kudos to our team of North Stars!
 ![](/images/infocomm02.jpeg)
 ![](/images/infocomm03.jpeg)
 ![](/images/infocomm04.gif)
+
+# BB Best Boy 2014
+The CVSS Boys' Brigade Company is pleased to share the happy news that one of our Sec 4 cadets, LEE DONG JING (4D) has successfully attained the BB Best Boy Award by the BBHQ for 2014.
+
+The BB Best Boy Award is an annual award given by BBHQ to Boys who have done exceptionally well in all areas of the BB programme at school, HQ and national levels.
+
+Dong Jing, who is our current BB Deputy(Dy) CSM,  is among the 9 awardees endorsed by BBHQ from more than 80 senior (secondary schools) BB companies in Singapore.
+
+Well done, Dong Jing!
+
+![](/images/bbbestboy01.jpeg)
+![](/images/bbbestboy02.jpeg)
