@@ -46,3 +46,16 @@ The Sexuality Education Day aims to imbue North Stars with the necessary values 
 A long seminar it might have been, but a rewarding three days it must have been for our North Stars who are on the last lap of their secondary school education, raring to enter the VUCA world!
 
 ![](/images/rwy3.jpeg)
+
+# Inaugural ECG Parents’ Forum
+On 10 March 2016, our school organised an Educational & Career Guidance (ECG) Parents’ Forum for the first time for all parents, as part of our efforts to better engage parents in helping them to guide their children make decisions for their future.  
+  
+The forum started with an opening address by our Vice-Principal, Mr Wong Jia Wang, followed by a comprehensive sharing by our school-based ECG Counsellor, Ms Wang Pheck Hoon, about the current educational landscape and the crucial role that parents play in providing ECG at home. The forum panel, comprising Mr Wong, Ms Wang and representatives from Singapore Polytechnic and ITE College Central, then fielded questions raised by parents during the forum.  
+  
+Feedback from parents was positive and all agreed that the objectives of the forum had been achieved.  They were pleased that the forum was informative and an eye opener to the opportunities and possibilities that are available for their children, and provided them an interesting channel to ask questions.  One parent expressed that her most meaningful takeaway was the knowledge that would enable her to kick start conversation with her child and to be open-minded about her child’s choices and more understanding about her child’s anxieties.  
+  
+The ECG Parents’ Forum has brought the school one step closer to greater, more fulfilling involvement of parents in our school programmes and our vision of every parent a supportive partner for the school!
+
+![](/images/ecg.jpeg)
+![](/images/ecg1.jpeg)
+![](/images/ecg2.jpeg)
