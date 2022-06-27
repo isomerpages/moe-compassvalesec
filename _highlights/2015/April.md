@@ -29,5 +29,12 @@ _Band performance_
      style="width:60%">
 _Dance Performance_
 ![](/images/Mr%20Perry%20Yap%20and%20Ms%20Koh%20Bee%20Choo,%20ex-students%20of%20CVSS.jpeg)
+_Mr Perry Yap and Ms Koh Bee Choo, ex-students of CVSS, having a chat with a guest in the North Star Room_
 ![](/images/Mr%20Muhammed%20Saufi,%20an%20ex-student%20from%20NT%20having%20a%20chat%20with%20Mrs%20Shahul%20in%20the%20North%20Star%20Room.jpeg)
+_Mr Muhammed Saufi, an ex-student from the Normal Technical Stream, having a chat with Mrs Shahul in the North Star Room_
 ![](/images/Our%20SAC%20Chairman,%20Mr%20Lee%20Kang%20Hwa%20at%20the%20exhibition%20booth.jpeg)
+_Our SAC Chairman, Mr Lee Kang Hwa at the exhibition booth_
+![](/images/Performance%20that%20involves%20our%20stakeholders_%20alumni,%20parent,%20teacher%20and%20students.jpeg)
+_Performance put up by our alumni,parent, teacher and students_
+![](/images/The%20unveiling%20of%20the%20plaque%20for%20the%20opening%20of%20the%20North%20Star%20Room.jpeg)
+_Unveiling the plaque to open the North Star Room_
