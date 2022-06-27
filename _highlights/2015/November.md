@@ -34,3 +34,10 @@ The National Climate Change Competition (NCCC) was organised by the National Cli
 
 ![](/images/IMG_1921.jpeg)
 ![](/images/IMG_1911.jpeg)
+
+# Media Computing (MEC) Competition 2015
+Chua Jia Jun from Sec 2A and Andre Deswan Erlangga from Sec 3A clinched the Bronze Award for Animation and the Silver Award for Game Making respectively during the Media Computing (MEC) Competition. This competition aims to provide a platform for students to showcase their work and to develop students’ interest in media design.  
+  
+CVSS have been joining the Media Computing (MEC) Competition organised by the Curriculum Planning and Development Division since its commencement in 2013 and have been receiving awards every year. Media Computing is part of the Computer Applications (CPA) curriculum in which the students from the Normal Technical stream learn programming knowledge to create animations and games using the software, Scratch.
+
+![](/images/media1.jpeg)
