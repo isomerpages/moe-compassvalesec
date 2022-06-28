@@ -2,7 +2,6 @@ collections:
   info-for-parents-and-students:
     output: true
     order:
-      - Announcements/.keep
       - Curriculum Matters.md
       - Exam Matters.md
       - CCA Matters.md
@@ -12,3 +11,4 @@ collections:
       - Useful Parenting Tips.md
       - MOE Communications.md
       - Sexuality Education.md
+      - Announcements/.keep
