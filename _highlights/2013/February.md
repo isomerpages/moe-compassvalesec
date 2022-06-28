@@ -21,3 +21,11 @@ Well done Guides! Continue to scale greater heights in 2013!
 
 ![](/images/gg01.png)
 ![](/images/gg02.png)
+
+# Inter School Robotics Challenge 2013
+The Inter School Robotics Challenge 2013 is an annual event organised by the School of Engineering, ITE College East. The event provides a platform for students from participating schools to showcase their creativity and problem solving skills through the use of IT and Robotics.  
+Despite the stiff competition, our Northstar Team 4 from PA Robotics has done us proud by emerging as the champion team in the Line Tracing Category.
+
+![](/images/robotics001.png)
+![](/images/robotics002.png)
+![](/images/robotics003.png)
