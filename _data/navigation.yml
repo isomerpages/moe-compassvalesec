@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Our Purpose
-    collection: our-purpose
   - title: Our Programmes
     url: /our-programmes/2022-direct-school-admission-dsa-1
     sublinks:
@@ -19,3 +17,10 @@ links:
     collection: our-people
   - title: Info for Parents/Students
     collection: info-for-parents-and-students
+  - title: Our Purpose
+    url: /our-purpose/principals-message-2022
+    sublinks:
+      - title: "School Philosophy & Culture "
+        url: /our-purpose/school-philosophy-culture-and-ethos
+      - title: School Vision, Mission, Motto
+        url: /our-purpose/school-vision-mission-motto
