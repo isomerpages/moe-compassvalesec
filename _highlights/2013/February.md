@@ -29,3 +29,10 @@ Despite the stiff competition, our Northstar Team 4 from PA Robotics has done us
 ![](/images/robotics001.png)
 ![](/images/robotics002.png)
 ![](/images/robotics003.png)
+
+# A Chinese New Year to Remember @ CVSS
+Chinese New Year at CVSS was a heartwarming affair this year. Guests from AWWA Family Centre joined staff and students for a hearty breakfast at the school canteen and were also invited to the CNY Celebrations Concert thereafter.  This year’s concert featured a skit performance by renowned local theatre company, the Theatre Practice, and items by our students and alumni in Wushu, Dance and Band, which all enjoyed thoroughly. One of the highlights of this year’s concert was a segment which involved members of staff. Singing a series of English and Mandarin love songs, 5 teachers who crooned their hearts out for the segment were greeted with rapturous cheers and applause. The event ended on a high note with the giving of oranges to staff and red packets to our esteemed guests from AWWA, who bade us farewell with bright smiles and warm hearts.
+
+Happy Chinese New Year to all!
+
+![](/images/cny%2013.png)
