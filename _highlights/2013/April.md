@@ -20,3 +20,21 @@ Where so many stars have shone”_
 As we bring our 13th A&A celebration to a close, the school wishes to thank all parents and stakeholders for their unwavering support and partnerships in helping our students to realise the star within.
 
 ![](/images/13th01.jpeg)
+
+# 14th Elementz Science Research Conference and Exhibition
+The Elementz Science Research Conference and Exhibition is an annual event that accords recognition to students from secondary school (upper secondary levels) and Junior Colleges who have conducted scientific research to showcase their findings. This event is organized by Anderson Junior College which houses Elementz laboratory, the MOE North Zone Centre of Excellence in Science.  
+  
+
+The theme for this year conference is **“Advancing Science, Benefitting Society”.**
+
+Indeed, two teams from Compassvale Secondary School had made us proud by clinching the Gold awards for their Research projects.  
+  
+The two projects are as follows:  
+  
+1)    Investigation on generation of useful electrical energy from the writing action (mechanical energy) produced by the pen (Gold Award)  
+  
+Team Members: Ong Zheng Jie, Koh Kai Xin, Poon Ching Hong, Perry Ng Ming Wei, Keith Cheng Yukang  
+  
+2)    An investigation on the use of different fruit peels in the production of bioethanol through fermentation (Gold Award)
+
+Team Members: Quek Zheng Yi, Lim Si Sheng Cider, Muhammad Afiq Bin Zaid, Lim Ying Ying Veronica, Leo Xin Yi
