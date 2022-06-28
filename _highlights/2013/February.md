@@ -11,3 +11,13 @@ At 10.30 am, the sirens went off to signal the start of the exercise. What trigg
 
 The exercise culminated in the debriefing session for all staff and the NE presentation for students. We received a certificate for the successful completion of Exercise Rhinos from SEMPO . The Singapore Civil Defence Unit also presented the School with the Civil Defence Ready Schools Programme Certificate.
 ![](/images/epe01.png)
+
+# GG PNA Silver Award
+CVSS Girl Guides has done the school proud by clinching the Silver Puan Noor Aisha Award for the work and effort they had put in 2012. This is the second consecutive year that the Guides had managed to attain the Silver Award.  
+  
+The Puan Noor Aisha Award is a prestigious award that is given out annually to recognise and affirm the dedication of the Company towards the holistic development of the Guides in various aspects throughout the year of assessment.   
+
+Well done Guides! Continue to scale greater heights in 2013!
+
+![](/images/gg01.png)
+![](/images/gg02.png)
