@@ -33,3 +33,4 @@ Our Sec 5N(A) students also had noteworthy achievements, with 92.1% of them atta
 Notably, 99.5% of our 4 Exp students are eligible for Polytechnic, while 82.1% of our 4 Exp students and 20.6% of our 5N(A) students are eligible for Junior College admission.  
   
 Congratulations to all of our graduating North Stars for their impressive achievements!
+![](/images/gce2013.png)
