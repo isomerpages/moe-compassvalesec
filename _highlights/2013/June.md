@@ -24,3 +24,18 @@ The Guest-of-Honour, Mr Lim Tit Meng, Chief Executive, Science Centre Singapore,
 <img src="/images/dnt01.jpeg" 
      style="width:70%">
 ![](/images/dnt02.jpeg)
+
+# Our Alumni receiving the SP Scholarship Award
+![](/images/alumni01.jpeg)
+
+# 5th National Chinese News Production Competition
+
+In the recent 5th National Chinese News Production Competition organised by Omy.sg and Tanjong Katong Girls’ School, 58 teams from more than 33 Secondary Schools and 25 Primary Schools took part. This competition aims to encourage students to be more aware of current social issues and raise the standard of students' usage of Chinese Language as students have to create a news video presentation.  
+  
+Both teams have done the school proud with the video in the **Lower Secondary Category** clinching the **Gold Award**, and the video in the **Upper Secondary Category** clinching the **Silver Award**.  
+ 
+This year’s event was held in line with the Annual Chinese World Book Fair at Suntec City Convention Hall on 6 June. The Guest-of-Honour, Mr Seng Han Thong, MP for Ang Mo Kio GRC graced the prize presentation ceremony and gave out the awards to our students.
+
+![](/images/newspaper1.png)
+![](/images/newspaper2.png)
+![](/images/natlchnnewsprd03.jpeg)
