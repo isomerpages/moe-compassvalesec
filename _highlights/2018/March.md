@@ -47,3 +47,4 @@ _Champions: Tay Bao Quan (2E5), Koh Qi Fang (2T1), Teressa Lavanya Aryanto (2E2)
 ![](/images/ide_3.jpeg)
 <img src="/images/ide_4.jpeg" 
      style="width:70%">
+_Our students in action during the competition_
