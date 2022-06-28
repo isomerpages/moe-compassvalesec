@@ -14,7 +14,7 @@ On the whole, our 4 Express students achieved above national performance in term
 62% of our 4 Exp students are eligible for entry into Junior Colleges while 93.4% of our 4 EXP students and 69.9% of our 5NA students are eligible for entry into Polytechnics. In the cohort, 44 of our students scored 4 or more distinctions, with our top student achieving 8 distinctions, 3 students attaining 7 distinctions and 8 students scoring 6 distinctions.  
   
 
-![OLevel_Resilience]
+![](/images/2017OLevelPic1.jpeg)
   
 **_4 Exp & 5NA Top performers and well-rounded achievers_** _\- From left to right: Row 1 - Yeo Han Rae, Sim Yi Ru Jolene, Nur Jasmine Bte Roslan, Clarabel Ng Zi Le ; Row 2 - Gladys Wong Lin Wei, Anbarasan Malavika, Zenise Tey, Lim Tiang Kang Brandon, Mr Chia (Principal); Row 3 - Lim Jun Xuan, Chua Wei Shao Jorgen, Ngoo Zu Xiang, Jocelyn Voo Pei Yee._
 
@@ -28,7 +28,7 @@ Our 5NA students also achieved above national average performance in terms of bo
 Among the 5NA students who did well are Tan Wei Ling (5 distinctions), Clarabel Ng Zi Le (4 distinctions), Zenise Tey (4 distinctions) and Ngoo Zu Xiang (4 distinctions). An active member of the Red Cross Youth CCA, Tan Wei Ling served as a Warrant Officer, and attained the EAGLES award, Edusave Scholarship Award and NYAA (Bronze). Clarabel was an active member of the Netball team and a recipient of Edusave Scholarship Award and NYAA (Silver). Zenise served as a Student Councillor and Vice-Chairperson (Station Inspector) of the National Police Cadet Corps (NPCC), and attained Edusave Scholarship award and NYAA (Silver). Zu Xiang was a Warrant Officer of the Red Cross Youth CCA. He also attained the ECHA award (2015, 2017) as well as the Edusave Scholarship Award (2015-2017).   
   
 
-![Olevel_Resilience]
+![](/images/2017OLevelPic2.jpeg)
 
 **Students who have done well despite difficult circumstances** - From left to right: Mdm Shalin (School Counsellor), Mr Jeremy Chan (Form Teacher of 4E3), Mr Shalleh (Co-Form Teacher of 5N3), Lionel Cheah, Kiran Sudheer, Ayden See, Jeerapat Tan, Boyina Baavya, Mdm Preeti (Form Teacher of 4E5), Mr Chia (Principal)_
 
