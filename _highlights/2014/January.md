@@ -41,3 +41,6 @@ Mdm Ong (Principal), Germaine Ng, Sylvia Phua, Gui Ming Yi, Lim Kai Boon, Lee Yu
 
 ![](/images/gce02.jpeg)
 ![](/images/gce03.jpeg)
+
+# MOE ExCEL FEST 2014
+![](/images/excelfest01.jpeg)
