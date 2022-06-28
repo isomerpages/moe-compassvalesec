@@ -2,6 +2,7 @@ collections:
   info-for-parents-and-students:
     output: true
     order:
+      - Useful Links.md
       - Curriculum Matters.md
       - Exam Matters.md
       - CCA Matters.md
