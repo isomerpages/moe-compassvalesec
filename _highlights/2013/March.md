@@ -36,3 +36,11 @@ In recognition of their contributions and commitment to the service, Mdm Ong pre
 - Mr Mohamad Nazri
 
 - Mdm Karpagam
+
+**Long Service Award recipient ( 25 years of service)**
+
+- Mr Suaini Anual
+
+CVSS is honoured to be home to a team of dedicated and experienced staff who have served the school and Education service well in their various capacities.
+
+![](/images/longserviceaward01.jpeg)
