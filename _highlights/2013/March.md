@@ -17,7 +17,7 @@ Well done North Stars and continue to upholding the school values!
 # Long Service Award
 In recognition of their contributions and commitment to the service, Mdm Ong presented the Long Service Award certificates to the following staff:
 
-Long Service Award recipients (10 years of service)-
+**Long Service Award recipients (10 years of service)**
 
 - Mr Kuan Wai Kit
 
@@ -30,3 +30,9 @@ Long Service Award recipients (10 years of service)-
 - Mr Lim Chin Wee
 
 - Mdm Geraldine Lim
+
+**Long Service Award recipients (15 years of service)**
+
+- Mr Mohamad Nazri
+
+- Mdm Karpagam
