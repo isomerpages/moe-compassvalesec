@@ -38,3 +38,6 @@ Team Members: Ong Zheng Jie, Koh Kai Xin, Poon Ching Hong, Perry Ng Ming Wei, Ke
 2)    An investigation on the use of different fruit peels in the production of bioethanol through fermentation (Gold Award)
 
 Team Members: Quek Zheng Yi, Lim Si Sheng Cider, Muhammad Afiq Bin Zaid, Lim Ying Ying Veronica, Leo Xin Yi
+
+![](/images/elementz01.png)
+![](/images/elementz02.png)
