@@ -7,13 +7,13 @@ third_nav_title: "2018"
 # CVSS Alumni Homecoming 2018 – Reminiscing the Good Old Days!
 Our second CVSS Alumni Homecoming Day – “Reminiscing the Good Old Days!” was successfully held on 30 Jun 2018. Alumni across 17 batches gathered to reminisce their secondary school days as they participated in various activities planned by the CVSS Alumni EXCO.  The highlight of the event was the Captain’s Ball Friendly Match, which attracted a total of 8 teams!  The team consisting of Darren Ngoh, Choo Zhi Xuan, Ryan Lim, Lim Xuan Cheng, Tristan Wee and Glenn Tan (Class of 2016) successfully defended their title and emerged champions once again!
 
-![CVSS Alumni Homecoming 2018]
+![](/images/Alumni1.jpeg)
 Ms Fara Lisa (Class of 2010), who is an Art teacher in CVSS now, conducted a Basic Watercolour Painting Workshop for our alumni where they tried their hands at basic floral and fruits painting! Our musically talented alumni also put up live performances to much applause from the audience.
 
-![CVSS Alumni Homecoming 2018]
+![](/images/Alumni2.jpeg)
 The Alumni EXCO is grateful for the strong support from the school, as well as all alumni members, helpers and performers for their effort in making the second Homecoming a success. We look forward to another Homecoming in the following year!
 
-![CVSS Alumni Homecoming 2018]
+![](/images/Alumni3.jpeg)
 
 # Hosting of China Suzhou Twinning Schools
 
