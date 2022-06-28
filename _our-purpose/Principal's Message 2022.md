@@ -3,7 +3,6 @@ title: Principal's Message 2022
 permalink: /our-purpose/principals-message-2022
 description: ""
 ---
-
 <img src="/images/Principals%20Message%202022%20March.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
 	
 **Reflections on 2021**
@@ -82,4 +81,3 @@ Our students recite the North Stars’ Pledge every Monday during flag-raising c
 
 **Mr Chia Chor Yann** <br>
 **March 2022**
-	
