@@ -91,17 +91,17 @@ _From L-R: Matthew Jamero and Tay Juen Jie ; Our former students_
 
 The audience were further treated to a concert put up by our Performing Arts CCA groups. The Drama members doubled up as emcees, and told a story, weaved together with the pieces performed by Dance, Choir and Band, including the song “Tegami, Letter to My 15 Year Old Self” sung by our Choir to encourage our students to stay positive. The concert ended with a grand finale involving everyone singing our School Song with pride and sense of belonging.
 
-![]
-![]
-![]
-![]
-![]
+![](/images/18th10.jpeg)
+![](/images/18th11.jpeg)
+![](/images/18th12.jpeg)
+![](/images/18th13.jpeg)
+![](/images/18th14.jpeg)
 
 As part of the Anniversary & Awards Day, we also showcased our school programmes with a mini-exhibition based on our North Star’s Pledge and what our students can expect to go through as they live out the pledge of “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star”.   Our Student Ambassadors confidently brought the GOH and guests through the exhibits.  Aeronautics Club members also showed off what they learnt in our Aeronautics Applied Learning Programme and wowed the VIP entourage and guests with their “flying” skills using the model planes they designed and built. Using a 3D radio-controlled plane, Koh Tze Wang (1E2) demonstrated stunts such as Hover, Harrier and Harrier Roll etc within the confined space in the canteen.
 
-![]
-![]   
-![]
+![](/images/18th15.jpeg)
+![](/images/18th16.jpeg)
+![](/images/18th17.jpeg)
 
 All in all, our annual Anniversary & Awards Day is certainly an unforgettable occasion for all those who were present.   
 
