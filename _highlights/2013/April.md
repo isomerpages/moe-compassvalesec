@@ -41,3 +41,13 @@ Team Members: Quek Zheng Yi, Lim Si Sheng Cider, Muhammad Afiq Bin Zaid, Lim Yin
 
 ![](/images/elementz01.png)
 ![](/images/elementz02.png)
+
+# CVSS RCY Excellent Unit Award (Gold) and Community Service Award (Gold)
+CVSS RCY has done the school proud by clinching the Excellent Unit Award (Gold) and the Community Service Award (Gold) for the work and effort that they had put in in 2012. This is the eighth consecutive year that the RCY cadets had managed to attain the double Gold Award.
+  
+The Excellent Unit Award is a prestigious award that is given out annually to recognise and affirm the efforts and dedication of the school towards the holistic development of the cadets while the Community Service Award is to recognise and affirm the cadets’ efforts in community service and volunteer work throughout the year of assessment.
+
+Well done, Red Cross Youth Cadets!
+
+![](/images/rcy01.png)
+![](/images/rcy02.png)
