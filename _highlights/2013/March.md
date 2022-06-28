@@ -13,3 +13,20 @@ Well done North Stars and continue to upholding the school values!
 
 ![](/images/projlovecan01.jpeg)
 ![](/images/projlovecan02.png)
+
+# Long Service Award
+In recognition of their contributions and commitment to the service, Mdm Ong presented the Long Service Award certificates to the following staff:
+
+Long Service Award recipients (10 years of service)-
+
+- Mr Kuan Wai Kit
+
+- Mdm Tan Tee Oon
+
+- Mr Ahamed Shah
+
+- Mdm Winnie Chia
+
+- Mr Lim Chin Wee
+
+- Mdm Geraldine Lim
