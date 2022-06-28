@@ -39,3 +39,13 @@ This year’s event was held in line with the Annual Chinese World Book Fair at 
 ![](/images/newspaper1.png)
 ![](/images/newspaper2.png)
 ![](/images/natlchnnewsprd03.jpeg)
+
+# Green Moral Character Programme 2013
+
+The Green Moral Character (GMC) Programme consists of a series of events aimed to nurture student’s interest in going green and consciousness towards good moral values through environment education.  
+  
+On 29th May, Secondary One students from CVSS reached out to the Seng Kang community by collecting recyclables such as old newspapers, magazines and used clothing as part of the programme. Our North Stars displayed high level of enthusiasm and team work, going from door to door to bring the recyclables to the collection point. As they went around, they also raised residents’ awareness on dengue prevention and anti-littering.  
+  
+With the used clothing they collected, they created montages that carried environmental messages during the Green Carnival on 31st May. Students also set up activity and game booths to promote environmental awareness to the entire school community.  
+  
+In their little ways, North Stars have not only benefitted themselves but also the community around them. We hope our North Stars will eventually extend their sphere of influence to a larger community as they become World Ready Youths!
