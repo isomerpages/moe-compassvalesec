@@ -79,8 +79,8 @@ A school is only as good as its teachers.  We place a strong emphasis on contin
 
 Our students recite the North Stars’ Pledge every Monday during flag-raising ceremony: “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star!”  At the end of the week, students will reflect on what they have learnt and achieved, and how have they lived and shined like a North Star in the course of the week. Being and becoming a North Star is an ongoing journey of personal growth for all our students to find their compass and realise the star within, and all our teachers are committed to help our students realise this goal and bring out the best in everyone.   
 
-<strong>Mr Chia Chor Yann</strong><br>
-<strong>March 2022</strong>
+**Mr Chia Chor Yann** <br>
+**March 2022**
 	
 # 2021
 <p><img src="/images/pPIC.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
