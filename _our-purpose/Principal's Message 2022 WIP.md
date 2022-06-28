@@ -55,7 +55,7 @@ Our school programmes are aligned to MOE’s focus areas of learn for life, embr
 
   
 
-	<strong>Enhancing Student Well-being</strong><br>
+**Enhancing Student Well-being**
 
 “Care for One Another” is part of our school ethos. Through social emotional profiling exercise and termly “check-in” surveys, we have identified the top 3 needs of our students as resilience and well-being, civic-mindedness and level-specific social-emotional skills. To meet these needs, we have focused on the following:
 
@@ -67,19 +67,15 @@ Our school programmes are aligned to MOE’s focus areas of learn for life, embr
 
   
 
-<strong>Looking Ahead</strong><br>
+**Looking Ahead**
 	
 Covid-19 has disrupted many of our key school events/programmes in the past 2 years. We hope we could resume our annual cross- country race/sports carnival, Anniversary & Awards Day, Graduation Night and our many overseas trips (China Suzhou twinning schools exchange/performing arts/cultural immersion, Japan aeronautics learning journeys, Indonesia Bandung adventure and leadership development, Vietnam service-learning community projects, Thailand Boys Brigade Exchange) soon.  We have also cancelled our 20th school anniversary celebrations in 2020 due to Covid and eagerly look forward to our silver jubilee in 2025. 
 
   
 
 Our long-term goal remains one to realise our school vision of developing our students to be ‘World Ready Youth’ (and future ready for a constantly changing world) through a forward looking, balanced and holistic education, a vibrant learning community with a caring culture, and close collaborations with our parents, stakeholders and partners.  To establish a niche of excellence in teaching and learning, we will continue to develop our strengths in STEM (Science, Technology, Engineering and Math), infusing design thinking, maker space and computational thinking in Science, Math, Design & Technology and Infocomm Technology.
-
   
-
 A school is only as good as its teachers.  We place a strong emphasis on continual staff professional development and have a strong team of School Staff Developer and Lead/Senior Teachers to constantly improve the quality of teaching and learning and to promote a strong professional learning and innovative culture among all teachers.  Our teachers regularly share their expertise at various platforms beyond the school such as MOE ExCEL Fest/Teachers Conference and AST Teacher-Led Workshops.  We have consistently achieved MOE Innergy Awards for innovations in teaching and learning.  Our teachers have also won several national recognition in the past few years such as President Award for Teachers, finalists in Outstanding Youth in Education Awards, NIE Caring Teacher Award (national level), Association of AST Awards and appointments to the Teachers Council chaired by Director-General of Education.
-
-  
 
 Our students recite the North Stars’ Pledge every Monday during flag-raising ceremony: “I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star!”  At the end of the week, students will reflect on what they have learnt and achieved, and how have they lived and shined like a North Star in the course of the week. Being and becoming a North Star is an ongoing journey of personal growth for all our students to find their compass and realise the star within, and all our teachers are committed to help our students realise this goal and bring out the best in everyone.   
 
@@ -91,31 +87,18 @@ Our students recite the North Stars’ Pledge every Monday during flag-raising c
 
 2020 has been a difficult year for all schools in Singapore as we grappled with the Covid-19 pandemic and had to react to the evolving situation constantly. We had to implement various operational measures and adjust our school programmes in relation to safety and well-being of all students and staff, school closure and Full Home-based Learning during circuit breaker, back to school transition plan for graduating students, support plan for high-needs students, and the gradual return to school for different levels. The focus was on ensuring effective learning and curriculum continuity as well as working with and gaining the trust of parents to overcome the various challenges. I am proud that our staff and students had risen to the challenges and adapted to the situation very well. Instructional programmes went on smoothly with new ways of teaching and learning despite the steep learning curves for teachers and students. Our teachers had also strived to continue with providing a holistic education to all students as far as possible through new ways of organising school programmes and activities, and our students had responded well with appreciation and gratitude. All our CCAs had also managed to offer e-CCA to their students in some form while physical activities were suspended, even though it is not mandated by MOE.
 
-  
-
 In addition, Covid-19 has disrupted many of our key school events/programmes in 2020, including special programmes/new initiatives planned for the year. These include 20th school anniversary celebrations, NDP combined school choir performance, MOE’s One School One Country programme under ASEAN World Skills competition, MOE’s pilot project on performing arts based learning experiences for lower secondary music curriculum, hosting of AST Outstanding Educator in Residence Programme etc. However, although there were many lost opportunities of learning for students and staff, there were also many lessons and teachable moments for all. These include personal and social responsibilities for the common good, graciousness and empathy for the vulnerable, appreciation and gratitude for health care and frontline workers, resilience and adaptability to the new normal, respect for planet earth and reckoning of humanity, trust and unity in overcoming the pandemic together etc.
-
-  
 
 Moving forward in 2021, while we continue to be vigilant against Covid-19 and observe safe management measures, our focus this year has been implementation of the various new MOE initiatives. These include refreshed Character & Citizenship Education (CCE) 2021 curriculum starting with lower secondary from Term 1, Blended Learning (BL) and Personalised Digital Learning Programme (PDLP) from Term 3, and preparation for the roll out of Full Subject-Based Banding (FSBB) by 2023. CCE2021 will equip students with stronger sense of values, resilience and skills with greater emphasis on mental health, contemporary issues and peer support. BL and PDLP will accelerate learning through digital tools and prepare students to thrive in a digital and technology-driven future. FSBB customises learning to students’ subject-specific strengths and interests and will reduce stigmatisation associated with stream labelling, increase porosity in post-secondary education pathways and cultivate a growth mindset in students.
 
-  
-
 Besides these new MOE initiatives, we will continue with our best efforts to provide a quality education and school experience for all our students. We will forge ahead to realise our school vision of developing our students to be ‘World Ready Youth’ (and future ready for a constantly changing world) through a forward looking balanced and holistic education, a vibrant learning community with a caring culture, close collaborations with our parents, stakeholders and partners, and continuous staff professional development.
-
-  
 
 To encourage our students to learn for life, we guide all students to set life goals and work towards their aspirational targets through a personalised education and career plan. To instil joy of learning, we aim to provide at least one enrichment programme for each level/stream by each academic department. To achieve value-added academic results, we have our PRIME (PRoaction, Intervention, Motivation & Empowerment) framework for academic excellence. To nurture self-confident students, we adopt positive education/growth mindset in student development. To develop self-directed learners, we leverage on ICT-enabled learning and flipped learning. To produce problem identifiers and solvers, we develop collaborative problem-solving/critical & inventive thinking skills through curricular
 
-  
-
 To develop students of good character as well as active and global citizens, we place a strong emphasis on Character & Citizenship Education/National Education, Values-in-Action and Learning for Life Programme on Community & Youth Leadership. To develop our students holistically, we anchor on our signature STAR Programme for all levels – Seek out your strength, Take responsibility, Adopt an enterprising spirit and Ready for the world. To provide holistic care for all our students, we have a full complement of the Year Heads team and pastoral care staff and Gear-Up Programme/After School Centre for high needs students.  
-
-  
 
 To establish a niche of excellence in teaching and learning, we continue to develop our strengths in STEM (Science, Technology, Engineering and Math), infusing design thinking, maker space and computational thinking in relevant subjects. Key programmes include our Aeronautics Applied Learning Programme, inter-disciplinary Project Work with a scientific focus on environment education/sustainable living, Science Outdoor Learning Experience (SOLE), ‘O’ level Electronics, ICT Digital Maker Programme, Fun with Math Programme, and participation in STEM competitions etc.
 
-  
 
 Our Staff Professional Development Committee, led by our School Staff Developer and supported by a Lead Teacher and seven Senior Teachers for various subject disciplines, promotes a strong professional learning and innovative culture among all teachers and our teachers regularly share their expertise at various platforms beyond the school such as MOE Teachers Conference & ExCEL Fest and AST Teacher-Led Workshops. We have consistently achieved MOE Innergy Awards for innovations in teaching and learning. Our teachers have also won several national recognition in the past few years such as finalists in Outstanding Youth in Education Awards, NIE Caring Teacher Award (national level), Association of AST Awards and appointments to the Teachers Council chaired by Director-General of Education.
 
@@ -148,7 +131,8 @@ With optimism, we look forward to a good year ahead and embrace all the challeng
 
 **April, 2021**
 	
-# 2020
+	
+	# 2020
 	
 <img src="/images/P_foreword1.jpg" 
      style="width:80%">
