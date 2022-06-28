@@ -2,15 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Student Development Programmes/.keep
-      - Student Development Programmes/Student Development.md
-      - Student Development Programmes/Student Leadership Development.md
-      - Student Development Programmes/Character & Citizenship Education.md
-      - Student Development Programmes/Education and Career Guidance (ECG).md
-      - Student Development Programmes/National Education & NE Commemorative
-        Days.md
-      - Student Development Programmes/Student Management.md
-      - Student Development Programmes/Pastoral Care.md
+      - 2022 Direct School Admission (DSA).md
+      - North Star Education Programme.md
       - Instructional Programme/.keep
       - Instructional Programme/Blended Learning & Home Based Learning Days.md
       - Instructional Programme/Personalised Digital Learning Programme.md
@@ -25,8 +18,15 @@ collections:
       - Instructional Programme/Physical Education.md
       - Instructional Programme/Info Communication Technology Department.md
       - Instructional Programme/Normal Course Programme.md
-      - 2022 Direct School Admission (DSA).md
-      - North Star Education Programme.md
+      - Student Development Programmes/.keep
+      - Student Development Programmes/Student Development.md
+      - Student Development Programmes/Student Leadership Development.md
+      - Student Development Programmes/Character & Citizenship Education.md
+      - Student Development Programmes/Education and Career Guidance (ECG).md
+      - Student Development Programmes/National Education & NE Commemorative
+        Days.md
+      - Student Development Programmes/Student Management.md
+      - Student Development Programmes/Pastoral Care.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Aeronautics Applied Learning Programme (ALP).md
       - Distinctive Programmes/Learning for Life Programme (LLP).md
