@@ -1,6 +1,0 @@
----
-title: test
-permalink: /our-people/Alumni/permalink
-description: ""
-third_nav_title: Alumni
----
