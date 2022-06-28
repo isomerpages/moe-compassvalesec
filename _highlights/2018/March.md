@@ -48,3 +48,10 @@ _Champions: Tay Bao Quan (2E5), Koh Qi Fang (2T1), Teressa Lavanya Aryanto (2E2)
 <img src="/images/ide_4.jpeg" 
      style="width:70%">
 _Our students in action during the competition_
+
+# 2018 North Zone Secondary Schools Chinese Speech Competition
+Two of our North Stars have done us proud in the 2018 North Zone Secondary Schools Chinese Speech Competition organised by North 5 School Cluster on 22 Mar 2018. Despite the first time our school participated in this competition and facing stiff competitions from 30 students from about 10 participating schools, Tan Hong Ming (4E4) clinched the **Third position**, while Darren Yeo (4E5) won a **Consolation Prize**!
+
+![](/images/csc1.jpeg)
+<img src="/images/csc2.jpeg" 
+     style="width:75%">
