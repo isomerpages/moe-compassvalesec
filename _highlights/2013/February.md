@@ -4,3 +4,10 @@ permalink: /highlights/2013/february
 description: ""
 third_nav_title: "2013"
 ---
+# Emergency Preparedness Exercise:
+CVSS has successfully completed a full-scale Emergency Exercise on 22 February 2013. Through this exercise, the staff and students gained valuable insights into the evacuation and safety procedures during a crisis. The exercise was a collaborative effort between our school, the Singapore Police Force, Singapore Civil Defence Force and the MOE's Security and Emergency Planning Office.
+
+At 10.30 am, the sirens went off to signal the start of the exercise. What triggered the sirens was the series of "explosion" from one of the Food and Nutrition Labs. Students evacuated to the school field and teachers assumed their respective positions and roles. A scenario of casualties and traumatised students being attended to at the First Aid Post and Care Post made the exercise seem realistic. In the emergency preparedness exercise, teachers learnt how to evacuate students, rescue and manage casualties, care for traumatized students and teachers, manage anxious parents and respond to the media. From this exercise, we learnt that a mindset of constant vigilance and unwavering preparedness is vital during unexpected school emergencies.
+
+The exercise culminated in the debriefing session for all staff and the NE presentation for students. We received a certificate for the successful completion of Exercise Rhinos from SEMPO . The Singapore Civil Defence Unit also presented the School with the Civil Defence Ready Schools Programme Certificate.
+![](/images/epe01.png)
