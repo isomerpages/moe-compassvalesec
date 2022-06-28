@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Word of the Day.md
       - 2020 Term 3 Class Timetable (wef Term 3 Week 5).md
