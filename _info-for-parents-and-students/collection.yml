@@ -2,12 +2,12 @@ collections:
   info-for-parents-and-students:
     output: true
     order:
-      - Sexuality Education.md
-      - MOE Communications.md
-      - Useful Parenting Tips.md
-      - Termly Communications to Parents.md
-      - Adminstrative Matters.md
-      - Cyber Wellness.md
-      - CCA Matters.md
-      - Exam Matters.md
       - Curriculum Matters.md
+      - Exam Matters.md
+      - CCA Matters.md
+      - Cyber Wellness.md
+      - Adminstrative Matters.md
+      - Termly Communications to Parents.md
+      - Useful Parenting Tips.md
+      - MOE Communications.md
+      - Sexuality Education.md
