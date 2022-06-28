@@ -260,19 +260,19 @@ third_nav_title: Alumni
   </tr>
   <tr>
     <td class="tg-f4yw">3<br></td>
-    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/JianGuang.jpg" alt="JianGuang.jpg" width="104" height="153"><br><br><br><br><br><br><br><br><span style="background-color:initial">Chin Jian Guang</span><br></td>
+    <td class="tg-7yig"><img src="/images/2018%203.jpeg" width="104" height="153"><br><br><br><br><br><br><br><br><span style="background-color:initial">Chin Jian Guang</span><br></td>
     <td class="tg-f4yw">2016</td>
     <td class="tg-f4yw">Diploma in Sports Coaching<br>Lee Foundation Scholarship<br>Republic Polytechnic</td>
   </tr>
   <tr>
     <td class="tg-f4yw"> 4</td>
-    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/PehYongSheng.png" alt="PehYongSheng.png" width="105" height="169"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Peh Yong Sheng</span><br></td>
+    <td class="tg-7yig"><img src="/images/2018%204.png" alt="PehYongSheng.png" width="105" height="169"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Peh Yong Sheng</span><br></td>
     <td class="tg-f4yw">2013</td>
     <td class="tg-f4yw">Diploma in Mechatronics and Robotics<br>School of Mechanical and Aeronautical Engineering<br>Silver Medalist 2018<br>SICK Sliver Medal<br>Singapore Polytechnic</td>
   </tr>
   <tr>
     <td class="tg-f4yw"> 5</td>
-    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/TayWenHao.png" alt="TayWenHao.png" width="107" height="167"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial"> Tay Wen Hao</span><br></td>
+    <td class="tg-7yig"><img src="/images/2018%205.png" alt="TayWenHao.png" width="107" height="167"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial"> Tay Wen Hao</span><br></td>
     <td class="tg-f4yw">2014 </td>
     <td class="tg-f4yw">Diploma in Computer Engineering<br>School of Electrical and Electronic Engineering<br>Silver Medalist 2018<br>Red Hat Silver Medal<br>Singapore Polytechnic</td>
   </tr>
