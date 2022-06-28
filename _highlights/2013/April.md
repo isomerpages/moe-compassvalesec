@@ -51,3 +51,8 @@ Well done, Red Cross Youth Cadets!
 
 ![](/images/rcy01.png)
 ![](/images/rcy02.png)
+
+# Visit CVSS exhibition booth at the MOE ExCel Fest 2013
+MOE ExCEL Fest is an annual event that celebrates exciting and innovative practices in schools. It is also a platform for parents and members of the public to find out more about the latest developments in our education landscape. This year, the event will be held on 5 April and 6 April (10am to 6pm) at ITE College Central.
+
+Compassvale Secondary is one of the 30 schools selected for the MOE ExCEL Fest 2013. We will set up an exhibition booth which showcases the school's environment education. You can find the details on the No 1 item at the following link: [http://www.excelfest.com/programme/exhibitions/exhibition](http://www.excelfest.com/programme/exhibitions/exhibition). 11 Environment Champions will have the opportunity to present our schools' innovative practices and special environment projects to the VIPs and the visitors for the two-day event. You are cordially invited to visit us at our CVSS booth (and pledge your support for sustainable living).
