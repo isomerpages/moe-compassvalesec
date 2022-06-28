@@ -224,3 +224,159 @@ third_nav_title: Alumni
 </table>
 
 # 2018
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">No</th>
+    <th class="tg-a4yv">Name</th>
+    <th class="tg-a4yv">Year of Graduation/Class</th>
+    <th class="tg-a4yv">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw">1</td>
+    <td class="tg-7yig"><img src="/images/2018%201.jpeg"  width="99" height="144"><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Teo Rui Hsien, Brian</span><br></td>
+    <td class="tg-f4yw">2012</td>
+    <td class="tg-f4yw">Diploma in Sonic Arts with Merit<br>Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 2</td>
+    <td class="tg-7yig"><img src="/images/2018%202.jpeg" width="99" height="158"><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Neville Ang </span><br></td>
+    <td class="tg-f4yw">2015 </td>
+    <td class="tg-f4yw">Diploma in Biomedical Sciences<br>Jl Education Award<br>Republic  Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">3<br></td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/JianGuang.jpg" alt="JianGuang.jpg" width="104" height="153"><br><br><br><br><br><br><br><br><span style="background-color:initial">Chin Jian Guang</span><br></td>
+    <td class="tg-f4yw">2016</td>
+    <td class="tg-f4yw">Diploma in Sports Coaching<br>Lee Foundation Scholarship<br>Republic Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 4</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/PehYongSheng.png" alt="PehYongSheng.png" width="105" height="169"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Peh Yong Sheng</span><br></td>
+    <td class="tg-f4yw">2013</td>
+    <td class="tg-f4yw">Diploma in Mechatronics and Robotics<br>School of Mechanical and Aeronautical Engineering<br>Silver Medalist 2018<br>SICK Sliver Medal<br>Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 5</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/TayWenHao.png" alt="TayWenHao.png" width="107" height="167"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial"> Tay Wen Hao</span><br></td>
+    <td class="tg-f4yw">2014 </td>
+    <td class="tg-f4yw">Diploma in Computer Engineering<br>School of Electrical and Electronic Engineering<br>Silver Medalist 2018<br>Red Hat Silver Medal<br>Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 6</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/PohXiuYiJess.png" alt="PohXiuYiJess.png" width="108" height="154"><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Poh Xiu Yi, Jess</span><br></td>
+    <td class="tg-f4yw">2014 </td>
+    <td class="tg-f4yw">Diploma in Molecular Biotechnology<br>Award for Outstanding Project Work<br>Nanyang Polytechnic </td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">7 </td>
+    <td class="tg-ktyi"><img src="https://compassvalesec.moe.edu.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/Leonna.jpg" alt="Leonna.jpg" width="108" height="162"># <br>Leonna Chua Wan Ling<br><br></td>
+    <td class="tg-f4yw">2014 </td>
+    <td class="tg-f4yw"> Diploma in Business<br>Sunnyhills Delights Prize<br><span style="background-color:initial">temasek Polytechnic</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 8</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/gary.gif" alt="gary.gif" width="110" height="165"># <br><br><br><br><br><br><br><br><br><br><br>Gary Tay Jing Heng<br><br></td>
+    <td class="tg-f4yw"> 2014</td>
+    <td class="tg-f4yw"> Diploma in Aerospace Electronics<br>Panasonic Avionics Corporation Singapore Prize<br><span style="background-color:initial">Temasek Polytechnic</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 9</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/Joanne.jpg" alt="Joanne.jpg" width="112" height="167"><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Joanne Lee Shu Min </span><br></td>
+    <td class="tg-f4yw"> 2014</td>
+    <td class="tg-7yig"><br>Diploma in Early Childhood Studies<br><span style="background-color:initial">Cengage Learning Asia Prize</span><br><span style="background-color:initial">Temasek Polytechnic </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 10</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/YuYang.jpg" alt="YuYang.jpg" width="109" height="163"># <br><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Loh Yu Yang</span><br></td>
+    <td class="tg-f4yw"> 2014</td>
+    <td class="tg-7yig"><br>Diploma in Cyber &amp; Digital Security<br><span style="background-color:initial">PCS Security Project Prize</span><br><span style="background-color:initial">Temasek Polytechnic </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 11</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/Caleb.jpg" alt="Caleb.jpg" width="105" height="157"><br><br><br><br><br><br><br><br><br><span style="background-color:initial">Caleb Cheong</span><br><span style="background-color:initial"> </span></td>
+    <td class="tg-f4yw">2014 </td>
+    <td class="tg-7yig"><br>Diploma in Financial Business Informatics<br><span style="background-color:initial">ACI Singapore - The Financial Markets Association Project Prize</span><br><span style="background-color:initial">Temasek Polytechnic </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 12</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec.moe.edu.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/NurFadhilah.jpg" alt="NurFadhilah.jpg" width="108" height="162"><span style="background-color:initial">#NUR FADHILAH BTE MASRAWI</span><br></td>
+    <td class="tg-f4yw"> 2015</td>
+    <td class="tg-f4yw"> NITEC IN VISUAL COMMUNICATION<br>COURSE MEDAL<br><span style="background-color:initial">ITE COLLEGE CENTRAL</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">13 </td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/MohamedRedza.jpg" alt="MohamedRedza.jpg" width="108" height="141"><br><br><br><br><br><br><br><br><br><span style="background-color:initial">MOHAMED REDZA B IBRAHIM </span><br></td>
+    <td class="tg-f4yw">2008 </td>
+    <td class="tg-7yig"><br>NITEC IN FACILITY TECHNOLOGY (MECHANICAL &amp; ELECTRICAL SERVICES)<br><span style="background-color:initial">COURSE MEDAL</span><br><span style="background-color:initial">ITE COLLEGE CENTRAL </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 14</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/NurFaiqah.jpg" alt="NurFaiqah.jpg" width="113" height="169"># <br><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">NUR FAIQAH BTE </span><br><span style="background-color:initial">MASRAWI</span></td>
+    <td class="tg-f4yw">2015 </td>
+    <td class="tg-7yig"><br>NITEC IN VISUAL COMMUNICATION<br><span style="background-color:initial">COURSE MEDAL</span><br><span style="background-color:initial">ITE COLLEGE CENTRAL </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 15</td>
+    <td class="tg-7yig"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/Syafiq.jpg" alt="Syafiq.jpg" width="121" height="181"><br><br><br><br><br><br><br><br><br><br><br><span style="background-color:initial">SYAFIQ B RAHIM</span></td>
+    <td class="tg-f4yw">2014</td>
+    <td class="tg-7yig"><br>Diploma in Product Design &amp; Innovation<br><span style="background-color:initial">Diploma with Merit</span><br><span style="background-color:initial">The Singapore Mint Prize</span><br><span style="background-color:initial">Ngee Ann Polytechnic </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 16</td>
+    <td class="tg-zr06"> <img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/jiaxin.jpg" alt="jiaxin.jpg" width="126" height="188"><br><br><br><br><br><br><br><br><br><br><br>LEE JIA XIAN<br><br></td>
+    <td class="tg-f4yw"> 2014</td>
+    <td class="tg-f4yw"> Diploma in Business Studies<br>Diploma with Merit<br><span style="background-color:initial">Ngee Ann Polytechnic</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 17</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/joyce.jpg" alt="joyce.jpg" width="127" height="190"><br><br><br><br><br><br><br><br><br><br><br>LIM PEI LING JOYCE <br><br></td>
+    <td class="tg-f4yw"> 2011</td>
+    <td class="tg-7yig"><br>Diploma in Early Childhood Education<br><span style="background-color:initial">Diploma with Merit</span><br><span style="background-color:initial">Ngee Ann Polytechnic </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 18</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/irene.jpg" alt="irene.jpg" width="126" height="188"><br><br><br><br><br><br><br><br><br><br><br>ANG HUI MIN IRENE <br><br></td>
+    <td class="tg-f4yw"> 2014</td>
+    <td class="tg-7yig"><br>Diploma in Landscape Design &amp; Horticulture<br><span style="background-color:initial">Diploma with Merit</span><br><span style="background-color:initial">Ngee Ann Polytechnic </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 19</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/ryan.jpg" alt="ryan.jpg" width="127" height="190"><br><br><br><br><br><br><br><br><br><br>RYAN TAN ZHI WEN<br><br></td>
+    <td class="tg-f4yw"> 2013</td>
+    <td class="tg-7yig"><br>MOE TEACHING AWARD<br><span style="background-color:initial">NTU-NIE</span><br><span style="background-color:initial">MATHS/CHEMISTRY  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 20</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/jarina.jpg" alt="jarina.jpg" width="120" height="180"><br><br><br><br><br><br><br><br><br><br>SYED JARINA<br><br></td>
+    <td class="tg-f4yw">2015 </td>
+    <td class="tg-7yig"><br>MOE TEACHING AWARD<br><span style="background-color:initial">NTU-NIE</span><br><span style="background-color:initial">TAMIL LANGUAGE/TAMIL LITERATURE </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 21</td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/kleio.jpg" alt="kleio.jpg" width="118" height="177"><br><br><br><br><br><br><br><br><br><br>KLEIO TAN <br><br></td>
+    <td class="tg-f4yw"> 2015</td>
+    <td class="tg-7yig"><br>MOH HEALTHCARE MERIT AWARD<br><span style="background-color:initial">PODIATRY</span><br><span style="background-color:initial">UNIVERSITY OF SOUTHAMPTON </span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">22 </td>
+    <td class="tg-ktyi"><img src="https://compassvalesec-moe-edu-sg-admin.cwp.sg/qql/slot/u554/2018/Alumni/ShiningAlumni/eddie.jpg" alt="eddie.jpg" width="123" height="186"><br><br><br><br><br><br><br><br><br><br>EDDIE HEE SHAO LUN<br><br></td>
+    <td class="tg-f4yw">2011 </td>
+    <td class="tg-7yig"><br>COMMUNITY NURSING SCHOLARSHIP<br><span style="background-color:initial">NUS ALICE LEE CENTRE FOR NUSING STUDIES </span></td>
+  </tr>
+</tbody>
+</table>
