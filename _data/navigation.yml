@@ -4,3 +4,5 @@ links:
     url: /contact-us/
   - title: Menu Title
     collection: our-purpose
+  - title: test
+    collection: our-people
