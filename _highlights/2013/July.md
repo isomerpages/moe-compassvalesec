@@ -37,3 +37,18 @@ All in all, our Northstars, parents and staff had a memorable day and we definit
 ![](/images/crosscountryrun04.jpeg)
 ![](/images/crosscountryrun05.jpeg)
 
+# RCY Current Affairs Shield Challenge in Current Affairs Competition 2013
+
+![](/images/rcy01.jpeg)
+
+The school Red Cross Youth participated in the Red Cross Current Affairs Competition 2013 held on 21st July and has clinched the North District Second runner-up in the Current Affairs Shield Challenge Category of the competition.
+
+This year’s Red Cross Current Affairs Competition 2013 - RCY Current Affairs Shield Challenge “Action Reaction” requires cadets to come up with a proposal for a 4-session programme aimed at promoting sustainable volunteerism in helping people with disabilities and improving their lives, which is in line with Singapore’s signing of the UN Convention on the Rights of Persons with Disabilities this year.
+
+The team comprising Leonna Chua, Amanda Lim, Bryan Han and Biondi Lee showed resilience, confidence and teamwork to clinch the North District Second runner-up in the Current Affairs Shield Challenge despite facing stiff competition from other units.
+
+Congratulations to CVSS RCY for the achievement!
+
+![](/images/rcy02.jpeg)
+![](/images/rcy03.jpeg)
+![](/images/rcy04.jpeg)
