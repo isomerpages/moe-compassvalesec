@@ -49,3 +49,8 @@ On 29th May, Secondary One students from CVSS reached out to the Seng Kang comm
 With the used clothing they collected, they created montages that carried environmental messages during the Green Carnival on 31st May. Students also set up activity and game booths to promote environmental awareness to the entire school community.  
   
 In their little ways, North Stars have not only benefitted themselves but also the community around them. We hope our North Stars will eventually extend their sphere of influence to a larger community as they become World Ready Youths!
+
+![](/images/greenmoralchar01.jpeg)
+![](/images/greenmoralchar02.jpeg)
+![](/images/greenmoralchar03.jpeg)
+![](/images/greenmoralchar04.jpeg)
