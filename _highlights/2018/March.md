@@ -55,3 +55,8 @@ Two of our North Stars have done us proud in the 2018 North Zone Secondary Schoo
 ![](/images/csc1.jpeg)
 <img src="/images/csc2.jpeg" 
      style="width:75%">
+Participants were required to deliver a speech based on the theme "Life" （生活）.  Tan Hong Ming spoke on the topic “Which dialect are you from? I am a Hokkien” （你是什么人？我是福建人）. In his speech, he shared about the customs and traditions of the Hokkiens. He even surprised the judges and audience with tunes from famous Hokkien songs.  Darren Yeo spoke on the topic “How Technology Changes our Life” （科技改变生活）.  In his speech, he expounded on how technology had benefitted our daily lives and demonstrated it by concluding his speech with a selfie with the audience!
+![](/images/csc3.jpeg)
+![](/images/csc4.jpeg)
+
+Our North Stars trained under Ms Koh Bee Choo, our Subject Head for CL and put in great effort in this competition. They overcame their nervousness on stage and were confident and expressive in delivering their speeches, winning praises from the judges.  Well done, North Stars!
