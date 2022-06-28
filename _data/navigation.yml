@@ -1,8 +1,17 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Menu Title
+  - title: Our Purpose
     collection: our-purpose
-  - title: test
-    collection: our-people
+  - title: Our Programmes
+    url: /our-programmes/2022-direct-school-admission-dsa-1
+    sublinks:
+      - title: North Star Education Programme
+        url: /our-programmes/north-star-education-programme
+      - title: Instructional Programme
+        url: /our-programmes/instructional-programmes/blended-learning-n-home-based-learning-days
+      - title: CCA
+        url: /our-programmes/cca/cca-schedule
+      - title: Distinctive Programmes
+        url: /our-programmes/Distinctive-Programmes/aeronautics-applied-learning-programme-alp
+      - title: Facilities
+        url: /our-programmes/Distinctive-Programmes/facilities
