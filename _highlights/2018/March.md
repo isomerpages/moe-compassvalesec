@@ -34,3 +34,10 @@ _Learning to use computer-aided design software with Ms Low Yuan Lim, STEM Inc E
 _Building the prototype at our Design & Technology_
 ![](/images/disc4.jpeg)
 _Testing the prototype at our Physics Laboratory_
+
+# Champions in Innovation, Design and Engineering (IDE) Robotics Competition 2018
+Our North Stars took part in the IDE Robotics Competition on 15 March this year and competed against many other reputable schools, including School of Science & Technology, Chung Cheng High School and Anglo Chinese School.  Despite the stiff competition and the challenging tasks, our North Stars have done the school proud and emerged **Champions** this year!  
+ 
+The IDE Robotics competition is a national technology and engineering competition organised by Nullspace and Anglican High School. The competition aims to challenge students on problem solving across domains such as electronics, programming, and mechanical design, with the emphasis on innovativeness, design element and engineering skills. The competition also seeks to cultivate students' interest in the area of engineering and provides an excellent opportunity for them to gain first-hand experience in robotics programming and interfacing.  
+
+In the competition, participants took part in a surprise mission using the LEGO® Mindstorms platform. The mission was only announced on the morning of the competition and participants had only 4 hours to prepare for the mission. It is indeed a challenging task for the participants to think on their feet to complete the mission with limited time.  Our North Stars worked hard to train for the competition and demonstrated critical and creative thinking in building and programming their robots. They have displayed strong resilience and good sportsmanship throughout the competition. Their good behaviour, attitude and values indeed exemplify our North Star spirit.
