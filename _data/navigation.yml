@@ -1,5 +1,24 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Our Purpose
+    url: /our-purpose/principals-message-2022
+    sublinks:
+      - title: "School Philosophy & Culture "
+        url: /our-purpose/school-philosophy-culture-and-ethos
+      - title: School Vision, Mission, Motto
+        url: /our-purpose/school-vision-mission-motto
+      - title: School Values
+        url: /our-purpose/school-values
+      - title: School Song
+        url: /our-purpose/school-song
+      - title: School Brochure
+        url: /our-purpose/school-brochure
+      - title: School Rules & Regulation
+        url: /our-purpose/school-rules-and-regulation
+      - title: School Videos
+        url: /our-purpose/school-videos
+      - title: Awards and Achievements
+        url: /our-purpose/Awards-and-Achievements
   - title: Our Programmes
     url: /our-programmes/2022-direct-school-admission-dsa-1
     sublinks:
@@ -17,10 +36,3 @@ links:
     collection: our-people
   - title: Info for Parents/Students
     collection: info-for-parents-and-students
-  - title: Our Purpose
-    url: /our-purpose/principals-message-2022
-    sublinks:
-      - title: "School Philosophy & Culture "
-        url: /our-purpose/school-philosophy-culture-and-ethos
-      - title: School Vision, Mission, Motto
-        url: /our-purpose/school-vision-mission-motto
