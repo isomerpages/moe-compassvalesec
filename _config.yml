@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-compassvalesec-staging.netlify.app
-prod: https://moe-compassvalesec-prod.netlify.app
+staging: https://staging.d19t9efgdvkpho.amplifyapp.com/
+prod: https://master.d19t9efgdvkpho.amplifyapp.com/
