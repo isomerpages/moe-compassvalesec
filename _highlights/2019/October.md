@@ -1,6 +1,6 @@
 ---
 title: October
-permalink: /highlights/2019/october
+permalink: /highlights/2019/october/
 description: ""
 third_nav_title: "2019"
 ---

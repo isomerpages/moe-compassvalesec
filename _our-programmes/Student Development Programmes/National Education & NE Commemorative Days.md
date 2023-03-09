@@ -1,6 +1,6 @@
 ---
 title: National Education & NE Commemorative Days
-permalink: /our-programmes/Student-Development-Programmes/character-n-citizenship-education/national-education
+permalink: /our-programmes/student-development-programmes/character-n-citizenship-education/national-education/
 description: ""
 third_nav_title: Student Development Programmes
 ---

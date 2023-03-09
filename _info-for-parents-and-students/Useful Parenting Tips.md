@@ -1,6 +1,6 @@
 ---
 title: Useful Parenting Tips
-permalink: /info-for-parents-students/useful-information-for-parents/useful-parenting-tips
+permalink: /info-for-parents-students/useful-information-for-parents/useful-parenting-tips/
 description: ""
 ---
 * [Parents' Tip: Developing Your Child to be A Positive Peer Influence Online](/files/2018%20T1%20Parents%20Tip%20Sheet.pdf)

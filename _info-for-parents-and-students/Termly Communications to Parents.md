@@ -1,6 +1,6 @@
 ---
 title: Termly Communications to Parents
-permalink: /info-for-parents-and-students/termly-communications-to-parents
+permalink: /info-for-parents-and-students/termly-communications-to-parents/
 description: ""
 ---
 # 2022

@@ -1,6 +1,6 @@
 ---
 title: Exam Matters
-permalink: /info-for-parents-and-students/exam-matters
+permalink: /info-for-parents-and-students/exam-matters/
 description: ""
 ---
 * [2022 S2 and S4 Mid-Year Exam Timetable]

@@ -1,6 +1,6 @@
 ---
 title: 2021 Semester1 Timetable
-permalink: /announcements/2021-semester1-sec4-n-5-timetables
+permalink: /announcements/2021-semester1-sec4-n-5-timetables/
 description: ""
 third_nav_title: Announcements
 ---

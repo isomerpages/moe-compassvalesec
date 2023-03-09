@@ -20,7 +20,7 @@ links:
       - title: School Videos
         url: /our-purpose/school-videos
       - title: Awards and Achievements
-        url: /our-purpose/Awards-and-Achievements
+        url: /our-purpose/awards-and-achievements
   - title: Our Programmes
     url: /our-programmes/2022-direct-school-admission-dsa-1
     sublinks:
@@ -31,9 +31,9 @@ links:
       - title: CCA
         url: /our-programmes/cca/cca-schedule
       - title: Distinctive Programmes
-        url: /our-programmes/Distinctive-Programmes/aeronautics-applied-learning-programme-alp
+        url: /our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp
       - title: Facilities
-        url: /our-programmes/Distinctive-Programmes/facilities
+        url: /our-programmes/distinctive-programmes/facilities
   - title: Our People
     collection: our-people
   - title: Info for Parents/Students

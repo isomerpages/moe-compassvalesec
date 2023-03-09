@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /our-programmes/Instructional-Programme/physical-education
+permalink: /our-programmes/instructional-programme/physical-education/
 description: ""
 third_nav_title: Instructional Programme
 ---

@@ -1,6 +1,6 @@
 ---
 title: Accolades from the Public
-permalink: /our-purpose/awards-achievements/accolades-from-the-public
+permalink: /our-purpose/awards-achievements/accolades-from-the-public/
 description: ""
 ---
 ![](/images/kristine.jpg)<br>

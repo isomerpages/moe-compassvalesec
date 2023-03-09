@@ -1,6 +1,6 @@
 ---
 title: Awards and Achievements
-permalink: /our-purpose/Awards-and-Achievements
+permalink: /our-purpose/awards-and-achievements/
 description: ""
 ---
 

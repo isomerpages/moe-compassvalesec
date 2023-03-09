@@ -1,6 +1,6 @@
 ---
 title: Partnership with Parents
-permalink: /our-people/partnership-with-parents
+permalink: /our-people/partnership-with-parents/
 description: ""
 ---
 ![](/images/Partnership%20with%20Parents_2021_Picture%201.jpg)

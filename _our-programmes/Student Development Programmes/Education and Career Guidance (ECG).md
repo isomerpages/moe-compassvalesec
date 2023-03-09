@@ -1,6 +1,6 @@
 ---
 title: Education and Career Guidance (ECG)
-permalink: /our-programmes/Student-Development-Programmes/education-and-career-guidance-ecg
+permalink: /our-programmes/student-development-programmes/education-and-career-guidance-ecg/
 description: ""
 third_nav_title: Student Development Programmes
 ---

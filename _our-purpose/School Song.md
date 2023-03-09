@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /our-purpose/school-song
+permalink: /our-purpose/school-song/
 description: ""
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aaZ1bXkSSMs" height="315" width="560"></iframe>

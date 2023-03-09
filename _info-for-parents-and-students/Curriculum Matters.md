@@ -1,6 +1,6 @@
 ---
 title: Curriculum Matters
-permalink: /info-for-parents-students/curriculum-matters
+permalink: /info-for-parents-students/curriculum-matters/
 description: ""
 ---
 * [[2022 National Examination Registration\_Graduating Cohort]](/files/2022%20GCE%20NT%20NA%20O-Level%20Registration%20Information%20for%20School%20Candidates_1.pdf)

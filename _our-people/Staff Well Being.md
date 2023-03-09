@@ -1,6 +1,6 @@
 ---
 title: Staff Well Being
-permalink: /our-people/staff-well-being
+permalink: /our-people/staff-well-being/
 description: ""
 ---
 # 2021

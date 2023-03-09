@@ -1,6 +1,6 @@
 ---
 title: CVSS S1 Registration for 2021
-permalink: /announcements/cvss-s1-registration-for-2021-students
+permalink: /announcements/cvss-s1-registration-for-2021-students/
 description: ""
 third_nav_title: Announcements
 ---

@@ -1,6 +1,6 @@
 ---
 title: Facilities
-permalink: /our-programmes/Distinctive-Programmes/facilities
+permalink: /our-programmes/distinctive-programmes/facilities/
 description: ""
 ---
 

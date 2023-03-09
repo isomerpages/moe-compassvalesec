@@ -1,6 +1,6 @@
 ---
 title: School Rules and Regulation
-permalink: /our-purpose/school-rules-and-regulation
+permalink: /our-purpose/school-rules-and-regulation/
 description: ""
 ---
 ### Discipline Background

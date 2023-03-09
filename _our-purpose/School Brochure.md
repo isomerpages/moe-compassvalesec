@@ -1,6 +1,6 @@
 ---
 title: School Brochure
-permalink: /our-purpose/school-brochure
+permalink: /our-purpose/school-brochure/
 description: ""
 ---
 ![](/images/CVSSBrochureCover.jpg)

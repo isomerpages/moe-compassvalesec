@@ -1,6 +1,6 @@
 ---
 title: CCA Matters
-permalink: /info-for-parents-and-students/cca-matters
+permalink: /info-for-parents-and-students/cca-matters/
 description: ""
 ---
 * [2022 CCA Schedule](/files/2022%20CCA%20Schedule%20(1).pdf)

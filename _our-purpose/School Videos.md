@@ -1,6 +1,6 @@
 ---
 title: School Videos
-permalink: /our-purpose/school-videos
+permalink: /our-purpose/school-videos/
 description: ""
 ---
 ## CVSS 15th Anniversary Commemorative Videos

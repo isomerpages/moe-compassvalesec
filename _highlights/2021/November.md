@@ -1,6 +1,6 @@
 ---
 title: November
-permalink: /highlights/2021/november
+permalink: /highlights/2021/november/
 description: ""
 third_nav_title: "2021"
 ---

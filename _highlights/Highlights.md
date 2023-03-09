@@ -1,6 +1,6 @@
 ---
 title: Highlights
-permalink: /highlights
+permalink: /highlights/
 description: ""
 ---
 <html>

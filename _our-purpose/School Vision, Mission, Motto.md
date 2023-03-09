@@ -1,6 +1,6 @@
 ---
 title: School Vision, Mission, Motto
-permalink: /our-purpose/school-vision-mission-motto
+permalink: /our-purpose/school-vision-mission-motto/
 description: ""
 ---
 **Vision -** World Ready Youth - Innovative contributors, upright citizens with a global outlook   

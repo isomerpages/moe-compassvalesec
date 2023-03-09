@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /our-people/school-management-committee-2022
+permalink: /our-people/school-management-committee-2022/
 description: ""
 ---
 <style type="text/css">

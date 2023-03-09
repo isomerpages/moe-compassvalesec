@@ -1,6 +1,6 @@
 ---
 title: Adminstrative Matters
-permalink: /info-for-parents-and-students/Administrative-Matters
+permalink: /info-for-parents-and-students/administrative-matters/
 description: ""
 ---
 * [Sec 1 Parent's Talk 2022 (Presentation Slides)]

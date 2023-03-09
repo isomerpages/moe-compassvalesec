@@ -1,6 +1,6 @@
 ---
 title: School Philosophy, Culture and Ethos
-permalink: /our-purpose/school-philosophy-culture-and-ethos
+permalink: /our-purpose/school-philosophy-culture-and-ethos/
 description: ""
 ---
 <img src="/images/VMV_new_apr2019_2.jpg" 

@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /info-for-parents-and-students/cyber-wellness
+permalink: /info-for-parents-and-students/cyber-wellness/
 description: ""
 ---
 * [Helping Your Child Be Discerning About Online Information](/files/Helping%20your%20Child%20be%20Discerning%20about%20Online%20Infor.pdf)

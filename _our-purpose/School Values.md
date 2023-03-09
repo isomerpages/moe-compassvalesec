@@ -1,6 +1,6 @@
 ---
 title: School Values
-permalink: /our-purpose/school-values
+permalink: /our-purpose/school-values/
 description: ""
 ---
 <img src="/images/G2R3IT.png" 
