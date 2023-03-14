@@ -3,7 +3,14 @@ title: School Videos
 permalink: /our-purpose/school-videos/
 description: ""
 ---
-## CVSS 15th Anniversary Commemorative Videos
+### 2022 Publicity and Outreach Video for P6 Parents and Students
+
+Click this [link](https://youtu.be/Mma7GR2eQo4) to access the **2022 Publicity and Outreach Video.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mma7GR2eQo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### CVSS 15th Anniversary Commemorative Videos
   
 **Chapter 1: Inspiring Pioneers**
 
