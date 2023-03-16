@@ -3,4 +3,4 @@ title: School Advisory Committee
 permalink: /our-people/school-advisory-committee/
 description: ""
 ---
-![](/images/SAC%20.png)
+![](/images/SAC-1.png)
