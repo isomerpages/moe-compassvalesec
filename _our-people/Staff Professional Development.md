@@ -84,3 +84,11 @@ The SPD committee members contribute to the professional growth of teachers in t
 ### Spirit of Professionalism and Excellence
 
 In a year filled with uncertainties, abrupt changes and unexpected challenges, teachers have risen to the occasion and ensured that teaching and learning was not compromised.  They exercised initiative and adaptability in learning and applying new blended learning approaches.  They constantly sought to improve their practices through hard work and active collaboration.  The teachers have indeed displayed a true spirit of lifelong learning, professionalism and excellence.
+
+![](/images/New%20teachers%20going%20through%20Induction%20Programme.png)
+
+<center><i>New teachers going through Induction Programme</i></center>
+
+![](/images/Mdm%20Ellyna%20sharing%20during%20PD.png)
+
+<center><i>Mdm Ellyna sharing during Professional Development</i></center>
