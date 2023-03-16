@@ -9,17 +9,17 @@ locations:
       - "COMPASSVALE CRESCENT, "
       - SINGAPORE 545083
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: School Term
+        time: 7.00am - 6.00pm
+        description: ""
+      - days: School Holidays
+        time: 8.00am - 5.00pm
         description: ""
     maps_link: ""
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: +65 6881 5047
       - email: enquiries@abc.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
