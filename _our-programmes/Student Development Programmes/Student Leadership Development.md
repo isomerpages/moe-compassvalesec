@@ -4,10 +4,12 @@ permalink: /our-programmes/student-development-programmes/student-leadership-dev
 description: ""
 third_nav_title: Student Development Programmes
 ---
-![](/images/SLcomm_main.jpg)
+![](/images/STUDENT%20LEADERSHIP.jpg)
 # Student Leadership Committee
 
-The Student Leadership Committee’s vision “Serve to Lead, Lead to Inspire” guides the committee in developing our North Stars into individuals who can be a source of inspiration to others. Student Leadership development in CVSS is based on the five practices of The Leadership Challenge (TLC). Through these practices, we witnessed our North Stars develop into leaders akin to shining gems – beaming with radiance, as a source of inspiration to all.
+The Student Leadership Committee’s vision “Serve to Lead, Lead to Inspire” guides the committee in developing our North Stars into individuals who can be a source of inspiration to others. Student Leadership development in CVSS is based on the five practices of The Leadership Challenge (TLC). Through these practices, we witnessed our North Stars develop into leaders akin to shining gems – beaming with radiance, as a source of inspiration to all. 
+
+_For more updates / highlights of programmes in 2021, click [here](/our-programmes/distinctive-programmes/learning-for-life-programme-llp) to access the Learning for Life Programme (LLP) section of the website._
 
 ### Student Leadership Roles in CVSS
 
