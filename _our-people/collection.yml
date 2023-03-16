@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Staff Professional Development.md
       - School Management Committee 2023.md
       - Form & Co–Form Teachers 2023.md
       - Executive and Administration Staff 2023.md
