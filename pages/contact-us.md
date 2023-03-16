@@ -20,8 +20,9 @@ locations:
 contacts:
   - content:
       - phone: +65 6881 5047
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - email: cvss@moe.edu.sg
+      - other: "Fax: 6881 5998 <br> BUS SERVICES: 27, 82, 83, 86, 88, 89, 136, 161, 371,
+          965 <br> MRT STATION: Sengkang MRT and Compassvale LRT"
     title: General Enquiries & Feedback
   - content:
       - phone: ""
