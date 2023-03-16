@@ -9,4 +9,8 @@ sections:
   - hero:
       background: /images/cvssmainbanner.gif
       url: /contact-us/
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements
 ---
