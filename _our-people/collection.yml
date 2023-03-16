@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Form & Co–Form Teachers 2023.md
       - School Management Committee 2023.md
       - Staff Well Being.md
       - School Advisory Committee.md
