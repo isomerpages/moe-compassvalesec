@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Schedule.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Aeronautics Club.md
       - Clubs & Societies/Community Youth Leaders Club.md
@@ -27,3 +26,4 @@ collections:
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
       - Performing Arts/Drama.md
+      - CCA Schedule.md
