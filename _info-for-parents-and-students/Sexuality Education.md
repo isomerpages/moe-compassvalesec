@@ -273,3 +273,48 @@ b. Character and Citizenship Education (CCE)
 </table>
 
 ### e-Teens Programme
+
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family.  Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Compassvale Secondary School, the eTeens programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-px6y">Topics/Lessons</th>
+    <th class="tg-px6y">Programme Learning Objectives</th>
+    <th class="tg-px6y">Time Period<br>(e.g. Term 3 Week 9)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-ktyi">·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV<br> </td>
+    <td class="tg-7yig">Term 3 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Classroom-based Lesson</td>
+    <td class="tg-ktyi">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
+    <td class="tg-7yig">Term 3 Week 3</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63b781e9c8a27b001152c5f8). The completed form is to be submitted by 27/01/2023.
+12. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63b7aa13c8a27b001159548a).  The completed form is to be submitted by 27/01/2023.
+13. Parents can contact the school at 6881 5047 for discussion or to seek clarification about the school’s Sexuality Education programme.
