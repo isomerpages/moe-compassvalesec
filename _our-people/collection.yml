@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Executive and Administration Staff 2022.md
       - Staff Professional Development.md
       - Staff Well Being.md
       - School Advisory Committee.md
