@@ -7,6 +7,22 @@ description: ""
 
 Partnership involves parents, families and school working together to benefit children. Each recognises, respects and values what the other party does and says. Partnership involves responsibility from all parties. In CVSS, we value this partnership and are appreciative of the firm support from our parents. Due to the Covid-19 pandemic, schools have moved towards home-based learning (HBL) over the last couple of years, and parents’ partnership with teachers have become even more crucial in guiding our students to be more resilient and self-disciplined during the HBL period. In addition, before most school activities were halted, our Parent Support Group (PSG) was actively involved in school programmes that showcased positive role-modelling for our students to see that their parents are always ready to support them in achieving their fullest potential.  
 
+### Parent Engagement Events - 2022
+
+1. Secondary One Parent's Talk
+
+As part of the school’s orientation programme for Secondary 1 students, the Secondary 1 Parent's Talk was organised for parents to gain an overview of secondary school life in CVSS and provide them with an understanding of how they may support their children during the transition. Due to the prevailing safe management measures (SMM), a webinar session involving the various school key personnel was conducted for parents. We shared information on various aspects of the CVSS secondary school journey, including holistic development within the compulsory curriculum, CCA requirements and our expectations of student behaviour. Mr Christopher Lian, Chairperson of our PSG, also introduced parents to the PSG and shared his personal parenting journey with the participants. In addition, parents also had the chance to meet with their children’s form teachers in a separate class Zoom room, which allowed them to interact with their children’s form teachers and get to know fellow parents of the same class.
+
+  
+
+2. PSG organized zoom parenting workshop 
+
+The PSG organised an inaugural online parenting workshop for all parents via Zoom - “I can’t live without it!” – Understanding & Engaging Our Digital Natives. The turnout was encouraging. We recorded close to 60 parent-participants who signed up for the workshop. The feedback received was encouraging as they found the workshop useful. In addition, they expressed that the workshop conducted via Zoom made it more accessible and provided them flexibility to attend it.
+
+3. Meet The Form Teacher (MTFT) session
+
+As SMM eases with the gradual shift and changes of the pandemic situation, the school was able to resume this year’s MTFT on 27 May with parents and teachers in-person on school grounds after a two-year hiatus. The sign-up rate was high and we are heartened to note parents’ support for their children’s growth and progress here in CVSS. Form teachers also returned the enthusiasm with their presence and interaction during the MTFT session.
+
 ### Parent Engagement Events - 2021
 
 **1. Secondary One Parent’s Talk**  
