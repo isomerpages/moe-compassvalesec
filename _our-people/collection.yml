@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Staff Professional Development.md
       - Staff Well Being.md
       - School Advisory Committee.md
       - Partnership with Parents.md
