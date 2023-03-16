@@ -4,8 +4,7 @@ permalink: /our-programmes/student-development-programmes/character-n-citizenshi
 description: ""
 third_nav_title: Student Development Programmes
 ---
-![](/images/CCE_Dept.jpg)
-
+![](/images/CCE.jpg)
 # Character and Citizenship Education Department
   
 The goal of CCE is to inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.  
@@ -79,8 +78,9 @@ In addition, a group of cyber wellness ambassadors participated in the National 
   
 
 # 2020
+![](/images/CCE_Dept.jpg)
 
-# Character and Citizenship Education (CCE) Department
+### Character and Citizenship Education (CCE) Department
 
 The Character and Citizenship Education (CCE) Department aims to instil in our North Stars core values that will serve as the foundation for their character and provide a compass for their conduct. The department aims to develop the social and emotional competencies of our North Stars so that they are able to manage themselves and their relationships more effectively as well as to make responsible decisions in their lives. In addition, we develop in our students the 21st Century skills so as to prepare them to be ready for the world beyond their secondary school years. We also seek to nurture our students’ citizenship skills and attitudes so that they can contribute actively as concerned citizens and remain rooted to Singapore. These goals are realised by engaging our North Stars through the Head, Heart and Hands Approach via our CCE lessons, department and school-wide programmes.
 
