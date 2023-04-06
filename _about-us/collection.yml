@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff/.keep
-      - School Management Committee 2023.md
       - Our Staff.md
       - Principal's Message 2023.md
       - Philosophy, Culture and Ethos.md
