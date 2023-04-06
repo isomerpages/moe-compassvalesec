@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Form & Co–Form Teachers 2023.md
       - Executive and Administration Staff 2023.md
       - Staff Professional Development.md
       - Staff Well Being.md
