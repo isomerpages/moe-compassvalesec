@@ -1,22 +1,22 @@
 logo: /images/compassvale_logo.png
 links:
   - title: About Us
-    url: /our-purpose/principals-message-2023/
+    url: /about-us/principals-message-2023/
     sublinks:
       - title: Principal's Message 2023
-        url: /our-purpose/principals-message-2023/
+        url: /about-us/principals-message-2023//principals-message-2023/
       - title: Philosophy, Culture & Ethos
-        url: /our-purpose/school-philosophy-culture-and-ethos
+        url: /about-us/school-philosophy-culture-and-ethos
       - title: Vision, Mission & Values
-        url: /our-purpose/school-vision-mission-motto
+        url: /about-us/school-vision-mission-motto
       - title: School Values
-        url: /our-purpose/school-values
+        url: /about-us/school-values
       - title: School Song
-        url: /our-purpose/school-song
+        url: /about-us/school-song
       - title: Awards and Achievements
-        url: /our-purpose/awards-and-achievements
+        url: /about-us/awards-and-achievements
       - title: Our Staff
-        url: /our-staff
+        url: /about-us/our-staff
   - title: Our People
     collection: our-people
   - title: Our Programmes
