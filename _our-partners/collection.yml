@@ -1,5 +1,5 @@
 collections:
-  our-people:
+  our-partners:
     output: true
     order:
       - Staff Professional Development.md
