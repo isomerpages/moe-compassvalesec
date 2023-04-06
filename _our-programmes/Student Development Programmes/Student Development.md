@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Development Programmes
 ---
 ![](/images/SDT-%20YEAR%20HEAD%20TEAM.jpg)
-### Student Development Team
+### Student Well-Being
 
 The Student Development Team (SDT) aims to promote the holistic development and well-being of all students by providing thoughtfully-curated programmes that are aligned to the school motto of ‘Realising the Star Within’&nbsp;and the North Star Education Programme (NSEP). With its focus on student-centricity, the SDT designs specific learning experiences to meet the developmental needs of our North Stars at each level, and seeks to provide varied and authentic opportunities for our North Stars to develop their character, social-emotional competencies and emerging 21st Century Competencies.
 
