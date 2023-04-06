@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - 2022 Direct School Admission (DSA).md
       - North Star Education Programme.md
       - Instructional Programme/.keep
       - Instructional Programme/Blended Learning & Home Based Learning Days.md
