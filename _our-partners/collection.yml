@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Staff Well Being.md
       - School Advisory Committee.md
       - Partnership with Parents.md
       - Alumni/.keep
