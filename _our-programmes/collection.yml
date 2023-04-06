@@ -4,7 +4,6 @@ collections:
     order:
       - North Star Education Programme.md
       - Instructional Programme/.keep
-      - Instructional Programme/Interdisciplinary Project Work (PW).md
       - Instructional Programme/English.md
       - Instructional Programme/Mother Tongue.md
       - Instructional Programme/Mathematics.md
@@ -12,6 +11,7 @@ collections:
       - Instructional Programme/Humanities.md
       - Instructional Programme/Craft & Technology , Aesthetics.md
       - Instructional Programme/Physical Education.md
+      - Instructional Programme/Interdisciplinary Project Work (PW).md
       - Student Development Programmes/.keep
       - Student Development Programmes/Student Development.md
       - Student Development Programmes/Student Leadership Development.md
