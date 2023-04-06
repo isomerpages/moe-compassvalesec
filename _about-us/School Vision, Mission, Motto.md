@@ -14,7 +14,7 @@ description: ""
   
 **Motto -**&nbsp;Realising the Star Within
 
-**School Values - **
+**School Values -**
 <img src="/images/G2R3IT.png" style="width:40%">
 
 
