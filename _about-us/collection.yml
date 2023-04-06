@@ -1,5 +1,5 @@
 collections:
-  our-purpose:
+  about-us:
     output: true
     order:
       - Principal's Message 2023.md
