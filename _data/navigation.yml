@@ -17,10 +17,8 @@ links:
         url: /about-us/awards-and-achievements
       - title: Our Staff
         url: /about-us/our-staff
-  - title: Our Partners
-    collection: our-partners
   - title: Our Programmes
-    url: /our-programmes/2022-direct-school-admission-dsa-1
+    url: /our-programmes/north-star-education-programme
     sublinks:
       - title: 2022 Direct School Admission
         url: /our-programmes/2022-direct-school-admission-dsa-1/
@@ -36,7 +34,9 @@ links:
         url: /our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp
       - title: Facilities
         url: /our-programmes/distinctive-programmes/facilities
-  - title: Info for Parents/Students
+  - title: Our Partners
+    collection: our-partners
+  - title: Useful Info and Links
     collection: info-for-parents-and-students
   - title: Highlights
     collection: highlights
