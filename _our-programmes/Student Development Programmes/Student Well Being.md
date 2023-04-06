@@ -54,71 +54,26 @@ In addition to the regular after-school activities planned for students in our G
 
 The North Star’s Pledge was first implemented in 2017, with a mission to instil a greater sense of ownership and cultivate a strong positive mindset amongst our North Stars. After a year of implementation, recitation and review, 2018 saw a revised version of the pledge that now captures the heart of our school ethos, which is what we hope our North Stars possess. This year, the upper secondary classes took turns to create videos to share their reflections and application of the pledge in their lives. In reciting the pledge every Monday during morning assembly, our North Stars are reminded of the best that they can be – to have a positive disposition towards learning and finding their purpose; to have a mindset of excellence to pursue their personal best; to have the courage to grow and lead meaningful and purposeful lives; and to have the desire to shine and lead the way for others like the immovable, guiding light of a North Star.&nbsp;  
   
+# 2021
+# **Pastoral Care**
 
-### 2020
+The Pastoral Care Committee (PS) strives to create and sustain a caring school culture where all members of the school community feel safe and cared for, have a sense of belonging to the school, and feel connected to one another. Such a culture is built upon a solid foundation of quality relationships based on trust, good character, values, and a warm and supportive school environment. Students experience a caring school culture primarily through positive teacher-student relationship (TSR) and peer support and relationship (PSR).
 
-![](/images/SDT_main2.jpg)
-<center><i>Student Development Year Head Team</i></center>
+![](/images/IMG20210302162223.jpg)
+![](/images/IMG20210302165455.jpg)
 
-### The STAR Programme&nbsp;
+To foster good PSR in the school, the Pastoral Care Committee oversees the selection of suitable students to be peer support leaders (PSLs) and works closely with them throughout the year. Every year, Form Teachers will select two suitable PSLs from each class. PSLs are elected based on qualities of confidence, care and compassion, and the ability to build rapport with people. The Pastoral Care Committee also selects suitable students to be peer support student mentors (PSSMs) to guide and support PSLs in their roles by sharing their experiences and advice. PSSMs are selected from the pool of PSLs from the previous year.
 
+The Pastoral Care Committee helms the PSL and PSSMs training programmes to equip our PSLs and PSSMs with the necessary skills and tools that will help them journey through school life with their peers in school. The selected PSLs will attend PSL training sessions conducted by trained teachers, where they will learn to recognise signs of DISTRESS, Peer Helping Skills (CHEER Model), Basic Attending Skills (SOLER/CROPS Model), Active Listening Skills, and Facilitation Skills. PSLs are trained to be sensitive to behavioural changes and mood swings of their peers and regularly consult their Form Teachers on the well-being of the class. During these training sessions, PSLs will also be involved in activities that require them to communicate with each other creatively through games and role-play as well as prepare care packs for peers in need.
 
-In the last week of Term 1, our North Stars went through our signature STAR 1 programme. Focusing on student development, this programme was based on the STAR theme: Seek out My Strength; Take Responsibility; Adopt an Enterprising Spirit; Ready for the World. Different activities were planned around these themes, although they had to be scaled down as most of the activities had to be confined to interactions within the class, in keeping with to the existing Covid-19 Safe Management Measures.
+  
 
-#### Seek Out My Strength  
+With the prevailing safe management measures (SMM) in place, our annual PSL Appreciation Day was conducted online in Semester 2. PSLs were given tokens of appreciation ahead of the online sessions, which were helmed by the Pastoral Care Committee. The peer support teacher mentors (PSTMs) engaged the students in online discussions and activities via Zoom and other platforms. The PSLs and PSTMs had a meaningful time reflecting on their experience as PSLs through this engagement.
 
-The Secondary One students went through the TetraMap profiling, where they discovered their personal and interpersonal strengths. This helped them identify the element that best describes them and their classmates, enabling them to identify classmates of similar strengths and learn how to interact with classmates with different personalities. For the Secondary Two students, they were led through a process of reflecting on the results of the Social-Emotional Competency Inventory (SECi) quiz which they took earlier. This allowed them to think of ways to leverage their strengths and work on developing their Areas for Growth, as they continue their journey as a North Star. Similarly, the Secondary Fours and Fives went through a personal effectiveness and personal branding workshop as part of their Ready for the World Programme, where they gained awareness of their strengths, weaknesses and interests, and also developed their personal brand to make themselves marketable in future.
+![](/images/S3%20PSL%20Appreciation.png)
+*PSL Appreciation Day 2021 (Zoom Session)*
 
-#### Take Responsibility
+During this volatile period, ensuring students’ overall well-being proved significantly more important than ever before. Apart from training the PSLs to support their peers, the Pastoral Care Committee supported the teachers in supporting students’ overall well-being by providing mental wellness packages and conducting talks.  
 
-To learn to take responsibility as a leader, the Secondary One students went through ‘The Leadership Challenge’ workshop, where they learnt how to model the way, inspire a shared vision, and challenge the process through games and activities. For example, students exercised their communication skills and learnt the importance of teamwork in order to achieve a shared objective.&nbsp; For the Sec Twos, they were equipped with the Social Skill of speaking up with confidence, so that they will develop responsibility for their actions under different situations. The Sec Threes attended a Service Learning workshop, which equipped them with the relevant competencies and know-how to identify needs, plan and execute successfully a meaningful Service Learning Project with our VIA partners, enabling them to take on the responsibility of doing their part for the community to be socially responsible citizens.
-
-#### Adopt an Enterprising Spirit
-
-Instead of an overnight outdoor adventure camp, the Secondary Two cohort participated in a series of campcraft activities, including tent-pitching and structure building, which allowed the students to develop team work and problem-solving skills. Unfortunately, the other outdoor activities and camps for other levels could not be carried out, due to Covid-19 preventive measures.&nbsp;&nbsp;
-
-#### Ready for the World
-
-The Secondary Fours and Fives attended our Ready for the World Programme aimed at equipping them with knowledge, life-skills and attitude such as personal branding and interview skills to be ready for the world after graduation. ‘Exploring My Education and Career Pathways’ was another focus programme where speakers from various post-secondary institutions and industries shared about post-secondary courses and career options.&nbsp;
-
-The Case Management Team also successfully embarked on the Guiding and Empowering Students for Affiliation and Resilience to Unlock their Potential (GEAR-UP) Programme to support at-risk students. It aims to help students enhance learning motivation, strengthen school connectedness, form positive relationships, build resilience, increase self-worth through opportunities to grow and contribute through service learning.
-
-In addition to the regular after-school activities planned for students in our GEAR-UP Programme such as futsal, yoga and culinary appreciation, the successful implementation and use of the After-School Centre (ASC) has provided a safe and caring haven for our students.
-
-This unusual year with many unprecedented challenges, brought about a STAR1 programme that was not as varied and exciting as the previous years. Nonetheless, our North Stars certainly had their little dose of fun with some interesting and enriching episodes. It was a good break from the usual routines of daily lessons, where some made personal discoveries, some bonded with their teachers and peers, while others developed the grit to be ready for future challenges. The learning gained remained just as valuable in helping them grow to become shining North Stars in different ways.
-
-![](/images/Having%20fun%20during%20futsal%20training.jpg)
-<center><i>Having fun during futsal training</i></center>
-
-![](/images/Serious%20about%20futsal%20training.jpg)
-	
-<center><i>Serious about futsal training</i></center>
-
-![](/images/GEAR-UP%20Students%20trying%20their%20hands%20at%20cooking%20pasta%20from%20scratch.jpg)
-
-<center><i>GEAR-UP Students trying their hands at cooking pasta from scratch</i></center>
-
-![](/images/Bountiful%20harvest%20grown%20by%20GEAR-UP%20students.jpg)
-
-<center><i>Bountiful harvest, grown by GEAR-UP students</i></center>
-
-### North Star's Pledge
-
-
-The North Star’s Pledge was first implemented in 2017, with a mission to instil a greater sense of ownership and cultivate a strong positive mindset amongst our North Stars. After a year of implementation, recitation and review, 2018 saw a revised version of the pledge that now captures the heart of what we hope our North Stars possess according to our school ethos. In reciting the pledge every Monday during morning assembly, our North Stars are reminded of the best that they can be – that is: to have a positive disposition towards learning and finding their purpose; to have a mindset of excellence to pursue their personal best; to have the courage to grow and lead meaningful and purposeful lives; and to have the desire to shine and lead the way for others like the immovable, guiding light of a North Star.
-
-![](/images/Reciting%20the%20North%20Stars%20Pledge%20as%20one.jpg)
-<center><i>Reciting the North Stars' Pledge as one</i></center>
-
-### Social Skills Training
-
-
-*‘Social skills are sets of behaviours that enable individuals to interact with one another in ways that are socially acceptable as well as personally and mutually beneficial, or beneficial to others.’*
-
-*Elliot &amp; Gresham, 1993; Hensley, Powell, Lamke, Hartman &amp; Graveve, 2007*
-
-![](/images/Teachers%20undergoing%20social%20skills%20training.jpg)
-
-In alignment with the school Culture and Ethos, the SDT embarked on Social Skills Training to equip our students with essential skills that would help enhance their social skills as young adults. All Form Teachers were trained to teach Social Skills and our North Stars were explicitly taught the skills that were specifically identified by the teachers of each level to help them develop pro-social and effective learning behaviours on top of our school-based CCE curriculum. The Secondary One students were taught the skills of&nbsp;_Making Positive Self-Statements, Asking for Help, Disagreeing Appropriately and Giving Complients_&nbsp;during the STAR Programme while the Secondary Two, Three,&nbsp;
-
-Four and Five students were taught the skills of&nbsp;_Making An Apology, Organising Tasks&nbsp;_and Time, and Reflecting and Improving_&nbsp;respectively during CCE lessons and Form Teacher Time (FT Time). The students and teachers have given feedback that they found the skills learnt useful and looked forward to learning more social skills in time to come._
+The Pastoral Care Committee aspires to build an inclusive and supportive school environment that extends to the wider community as the students journey through life.
+the skills learnt useful and looked forward to learning more social skills in time to come._
