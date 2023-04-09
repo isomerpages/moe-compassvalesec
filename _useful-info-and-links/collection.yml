@@ -2,8 +2,8 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - 2023 Direct School Admission (DSA).md
       - Useful Links.md
+      - 2023 Direct School Admission (DSA).md
       - Curriculum Matters.md
       - Exam Matters.md
       - CCA Matters.md
