@@ -4,7 +4,6 @@ permalink: /our-programmes/instructional-programme/craft-n-technology-aesthetics
 description: ""
 third_nav_title: Instructional Programme
 ---
-
 #  Craft and Technology Department 
 ![](/images/2023%20Craft%20and%20Tech%20Aesthetics/craft%20&%20technology%20(1).jpg)
 
@@ -52,6 +51,14 @@ D&T
 
 *   STEM Playground 2023 Challenge
     
+![](/images/Sec%201%20-%20Students%20in%20class%20working%20on%20their%20clay%20display%20project.jpg)
+*Sec One Art Enrichment - Clay Relief*
+
+![](/images/Sec%202%20-%20Our%20student%20creating%20the%20form%20and%20shape%20of%20the%20animal%20sculpture.jpg)
+*Sec Two Art Enrichment - Wire Sculpture*
+
+![](/images/Sec%202%20-%20Students%20working%20on%20the%20initial%20base%20of%20their%20wire%20sculpture.jpg)
+*Sec Two Art Enrichment - Student creating the form and shape of the animal sculpture*
 
 ![](/images/Copy%20of%20DT%20Learning%20Journey%20to%20Temasek%20Polytechnics%20Robotic%20Innovation%20Centre.jpg)
 *D and T Learning Journey to Temasek Polytechnic’s Robotic Innovation Centre*
@@ -62,17 +69,9 @@ D&T
 ![](/images/Copy%20of%20Use%20of%20Computer%20Simulation%20software%20TinkerCad%20in%20DT.jpg)
 *Use of Computer Simulation software, TinkerCAD, in D&amp;T*
 
-![](/images/Sec%201%20-%20Students%20in%20class%20working%20on%20their%20clay%20display%20project.jpg)
-*Sec One Art Enrichment - Clay Relief*
-
-![](/images/Sec%202%20-%20Our%20student%20creating%20the%20form%20and%20shape%20of%20the%20animal%20sculpture.jpg)
-*Sec Two Art Enrichment - Wire Sculpture*
-
-![](/images/Sec%202%20-%20Students%20working%20on%20the%20initial%20base%20of%20their%20wire%20sculpture.jpg)
-*Sec Two Art Enrichment - Student creating the form and shape of the animal sculpture*
+![](/images/Music_Keyboard2.jpg)
+*Music students jamming with keyboard*
 
 ![](/images/Copy%20of%20Students%20presenting%20their%20work%20via%20zoom.jpg)
 *Keat Hong CC WEC 16th Sandwich Making Competition – Celebrating Our Hawker Culture and Heros Students presenting their work via Zoom*
 
-![](/images/Music_Keyboard2.jpg)
-*Music students jamming with keyboard*
