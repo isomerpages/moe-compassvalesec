@@ -6,7 +6,7 @@ third_nav_title: Instructional Programme
 ---
 ### English Language Department
 
-![](/images/ENGLISH.jpg)
+![](/images/english%20language%20(1).jpg)
 
 The English Language and Literature curricula and programmes at CVSS are designed to develop in our students a strong foundation of language competencies, as well as the requisite skills, dispositions and values for them to make a positive impact on the lives of those around them. Students will learn close, critical and extensive listening, reading and viewing skills for processing a variety of texts, at increasing levels of sophistication over their years of study, and develop an informed personal and critical response in speaking, writing and representing. They will also be equipped to analyse and make meaning of texts, appreciate diverse perspectives and the aesthetics of language use. This will allow our students to become future-ready, vibrant and empathetic learners and communicators.
 
