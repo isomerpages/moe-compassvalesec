@@ -2,6 +2,7 @@ collections:
   useful-info-and-links:
     output: true
     order:
+      - Administrative Matters/Termly Communications to Parents.md
       - Administrative Matters/.keep
       - Useful Links.md
       - 2023 Direct School Admission (DSA).md
