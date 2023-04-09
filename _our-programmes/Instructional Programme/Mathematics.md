@@ -5,44 +5,36 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 
-# 2021 
+### Mathematics Department
+
 ![](/images/MATH%20%20CPA.jpg)
 
-### Mathematics Department
 
+The Mathematics department aims to develop North Stars to be self-motivated problem solvers and creative thinkers in everyday life. To achieve this goal, we engage them in Joyful Learning in Mathematics – a customised curriculum which engages them in authentic Mathematics learning experiences that promote the joy of learning Mathematics for three years. This year, we aim to achieve our goal through a two-pronged approach:
 
-The Mathematics Department aims to develop North Stars to be self-motivated problem solvers and creative thinkers in everyday life. To achieve this goal, we engage them in Joyful Learning in Mathematics – a customised curriculum which engages them in authentic Mathematics learning experiences that promote the joy of learning Mathematics for three years. This year, we aim to achieve our goal through a two-pronged approach:
- 
 *   Building competence in Mathematics by developing our North Stars’ conceptual understanding, and their creative and critical thinking skills through engaging authentic tasks; and 
-
-*   Building confidence in North Stars to be self-directed learners through SLS, Flipped Learning and other ICT platforms.  
     
-While the core of the Mathematics curriculum is driven largely by the national Mathematics framework, we enhance and enrich our North Stars’ learning experiences with supporting curriculum: Math Challenge Programme. 
+*   Building confidence in North Stars to be self-directed learners through SLS, Flipped Learning and other ICT platforms.
+    
 
-As part of applied learning in Mathematics, North Stars use Math in Real World situations – an authentic learning experience for the North Stars which creates opportunities for them to apply and appreciate Mathematics that they learnt in class through solving problems encountered in everyday life. 
+**Key programmes**
 
-In the Mathematics Olympiad this year our North Stars have done well in both the junior and senior categories, 4 Honourable Mentions for Junior Section and 1 Honourable Mention for Senior Section. We also have debuted in a number of national and international competitions this year and have been pleased with the achievements of our young North Star Mathematicians.
+While the core of the Mathematics curriculum is driven largely by the national Mathematics framework, we enhance and enrich our North Stars’ learning experiences with supporting curriculum, Math Challenge Programme. 
 
-# 2020 
-![](/images/Math.jpg)
+As part of applied learning in Mathematics, North Stars use Math in Real World situations – an authentic learning experience for the North Stars which create opportunities for them to apply and appreciate Mathematics that they learnt in class in real life situations through solving problems that we encounter in everyday life. This year we embarked on new experience of Math Scene Investigation for Sec 1 to 3 North Stars. Engaging them in Escape Room themed and other authentic problem solving experience.
 
-### Mathematics Department
+**Highlights / Achievements**
 
+Our North Stars continue to shine every year in Math Olympiad and this year is no exception. We have done well in both junior and senior categories, I Bronze and  3 Honourable Mentions for Junior Section and 1 Honourable Mention for Senior Section. We had 3 Silver, 12 Bronze and 11 Honourable mentions for the Singapore Math Kangaroo Contest. We also have debuted in a number of coding competitions this year and have been pleased with the achievements of our young North Star Mathematicians.
 
-The Mathematics Department aims to develop North Stars to be self-motivated problem solvers and creative thinkers in everyday life. To achieve this goal, we engage them in ‘Successful Learning in Mathematics’, a customised curriculum which engages them in authentic Mathematics learning experiences that promote the joy of learning Mathematics for three years. This year, we aim to achieve our goal through a two-pronged approach:  
+![](/images/2023%20%20%20Math/msi%20escape%20room%201.jpg)
 
-*   Building competence in Mathematics by developing our North Stars’ conceptual understanding, and their creative and critical thinking skills through engaging authentic tasks; and
-*   Building confidence in North Stars to be self-directed learners through SLS, Flipped Learning and other ICT platforms. 
+![](/images/2023%20%20%20Math/msi%20escape%20room%202.jpg)
 
-While the core of the Mathematics curriculum is driven largely by the national Mathematics framework, we enhance and enrich our North Stars’ learning experiences with supporting curriculum. 
+*Scenes from the Math Scene Investigation - Escape Room activity*
 
-As part of applied learning in Mathematics, North Stars use ‘Math in Real World’ situations – an authentic learning experience which creates opportunities for them to apply and appreciate Mathematics that they learn in class through solving problems that we encounter in everyday life.
+![](/images/2023%20%20%20Math/sudoku_challenge_1_comp.PNG)
 
-This year, our Secondary 3 students were engaged in solving authentic real world Math problems at Kallang Wave Mall @ Sports Hub. We leveraged technology for students to solve problems and hence understand the authentic application of Mathematical concepts and skills that they learnt in a real world context. We have harnessed technology to develop critical and creative thinking through the use of 3-D Pen. Our North Stars have harnessed the technology to create objects to understand and appreciate the Mathematics behind it as well as recreate world wonders like the Eiffel Tower.
+![](/images/2023%20%20%20Math/sudoku_challenge_2_comp.PNG)
 
-![](/images/1-2.jpg)
-*Using the 3D pen to appreciate perspectives in Math*
-![](/images/2-2.jpg)
-*Sec 3 Math Learning Journey at Changi Airport*
-![](/images/3-2.jpg)
-*Interclass sudoku challenge*
+*Students hard at work in the Sudoku Challenge organised by the department*
