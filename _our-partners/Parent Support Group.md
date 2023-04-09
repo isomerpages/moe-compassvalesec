@@ -4,6 +4,7 @@ permalink: /our-partners/partnership-with-parents/
 description: ""
 ---
 ## Partnership with Parents
+![](/images/2023%20Our%20Partners/PSG/picture%201.jpg)
 
 Partnership involves parents, families, and school working together to benefit children. Each recognises, respects and values what the other party does and says. Partnership involves responsibility from all parties. In CVSS, we value this partnership and are appreciative of the firm support from our parents. This year, with the lifting of COVID-19 regulations, our school is resuming our face-to-face interaction and partnership with our parents. With our newly formed Parent Support Group (PSG) EXCO, they will gradually be involved in school programmes that showcased positive role-modelling for our students to see that their parents are always ready to support them in achieving their fullest potential.
  
@@ -14,7 +15,8 @@ Partnership involves parents, families, and school working together to benefit c
 
 We are parents of CVSS students who are keen to take an active role in shaping the crucial teenage years of our children.
 
-**
+![](/images/2023%20Our%20Partners/PSG/psg%20exco_2023.JPG)
+![](/images/2023%20Our%20Partners/PSG/psg%20exco_2023_2.JPG)
 
 ### What is CVSS-PSG’s purpose?
 ### 
