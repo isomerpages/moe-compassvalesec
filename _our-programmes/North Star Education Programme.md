@@ -11,12 +11,13 @@ Our school-wide pedagogies include Inquiry-Based Learning, Making Thinking Visib
 
 Our student development is centred on the STAR Programme-
 
-* Seek out your strength - Understanding oneself, social emotional competencies, leadership development
+     o   Seek out your strengths
 
-* Take responsibility - Responsibility to self/family/school/community/world through values education, Peer Support & Relationships Programme, Social Skills Training, values-in-action programme including Green Compass Programme (environmental projects), adoption of elderly homes, annual overseas service learning)
+     o   Take Charge & Transform
 
-* Adopt an enterprising spirit - Developing entrepreneurial dare through academic/CCA competitions, interdisciplinary Project Work, outdoor education/adventure camps
+     o   Adjust, Adapt, Aspire
 
-* Ready for the world - Educational/Career Guidance, Elective Modules and Advanced Elective Modules, local/overseas visits to educational/vocational institutions/industry, information/financial literacy, personal mastery).
+     o   Ready for the world
+
 
 More details can be found in the pages on our distinctive programmes and our instructional/non-instructional departments.
