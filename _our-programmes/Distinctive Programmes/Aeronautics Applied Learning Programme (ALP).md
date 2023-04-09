@@ -4,6 +4,8 @@ permalink: /our-programmes/distinctive-programmes/aeronautics-applied-learning-p
 description: ""
 third_nav_title: Distinctive Programmes
 ---
+![](/images/2023%20Distinctive%20Programmes/ALP/alp%20committee%20.jpg)
+
 CVSS’s Aeronautics ALP in the domain of Science, Technology, Engineering and Mathematics (STEM) provides a distinctive, valuable proposition to our stakeholders in the Sengkang/Punggol community especially with the fast-growing Seletar Aerospace Park being right in the vicinity. Through the ALP, students sharpen their competencies in critical and inventive thinking, and hone their problem-solving skills through linking what they have learnt in the core subjects of Physics, Design and Technology and Mathematics to hands-on learning in aeronautics.
 
 **Key Programmes**
