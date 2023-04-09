@@ -26,7 +26,7 @@ The school adopts a three-pronged approach to Cyber Wellness Education:
   
 In 2022, the CCE department also hosted Minister of State, Ms Sun Xue Ling, by showcasing the school’s Cyber Wellness programme. Ms Sun had a fruitful dialogue session with the staff and students. She also observed a lesson in which students discussed issues related to cyber wellness.
 
-
+![](/images/2023%20Student%20Dev%20Prog/Cyber%20Wellness/mos%20visit_comp.JPG)
 
 **Cyber Wellness Quest (Secondary 1 and 2 students)**
 
@@ -46,3 +46,6 @@ In addition, a group of cyber wellness ambassadors participated in the National 
 ![](/images/Cyber%20Wellness%20Quest.jpg)
 ![](/images/Cyber%20Wellness%20Quest%202.jpg)
 *Cyber Wellness Quest*
+
+![](/images/2023%20Student%20Dev%20Prog/Cyber%20Wellness/ncac%20competition.jpg)
+*National Challenge Advocacy Competition 2022*
