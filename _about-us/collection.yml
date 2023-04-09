@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - Awards and Achievements/.keep
+      - Awards and Achievements/Awards and Achievements.md
       - Awards and Achievements/O Levels.md
       - Awards and Achievements/Accolades from the Public.md
-      - Awards and Achievements/Awards and Achievements.md
-      - Awards and Achievements/.keep
       - Our Staff/Our Staff.md
       - Our Staff/.keep
       - Our Staff/School Management Committee 2023.md
