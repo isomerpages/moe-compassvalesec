@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Awards and Achievements/.keep
-      - Awards and Achievements.md
       - Our Staff/.keep
       - Our Staff/School Management Committee 2023.md
       - Our Staff/Form and Co–Form Teachers 2023.md
