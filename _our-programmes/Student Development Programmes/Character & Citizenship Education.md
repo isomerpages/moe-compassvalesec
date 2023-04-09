@@ -85,10 +85,3 @@ The following are various key student learning experiences that help them to ext
 *   Secondary 4/5 NSF Engagement Session
     
 *   Secondary 3 NRIC Ceremony**
-
-
-  
-
-
-
-
