@@ -17,25 +17,7 @@ The Character and Citizenship Education (CCE) Department aims to instil in our N
 
 In line with our school’s motto - “World Ready Youth”, the department organised its annual three-day seminar to equip our North Stars with the necessary life skills to thrive in life after graduation. Each day of the seminar focused on important themes to help our students develop important skills and values that will help them navigate through and make the best of their lives. These include components such as understanding their personality and learning styles, exploring viable post-secondary options, making informed decisions and developing plans to do well in their personal life, citizenship, character and academic pursuits as well as learning financial literacy skills to help students to be ready for the world.
 
-  
-
-### Education and Career Guidance (ECG) Programme
-
-In the ECG programme, a whole-school approach is adopted to equip our students with the knowledge, values and skills on education and career matters so that they can make informed decisions as they work towards their aspirations. Through customised student development experiences, students are engaged to discover their interests and passions, gain greater awareness and understanding of tertiary courses and trending industries and develop the necessary skills needed for future world of work. In addition, teachers are equipped with ECG facilitation skills and play a pivotal role in helping students connect their academic and co-curricular experiences with their education and career goals. With the support from our ECG counsellor and partnership with various tertiary institutions, our students are provided with opportunities to participate in online ECG events and workshops. 
-
-  
-**Key Programmes:**
-
-*   Annual ECG seminar
-    
-*   Dialogue sessions with School Advisory Committee (SAC) members
-    
-*   Learning journeys to post-secondary institutions 
-    
-*   Workshops and talks such as Early Admissions Exercise (EAE) Talks/workshops, Direct School Admission (DSA) for Junior College talks, 12 Choices Talk
-    
-
-**G2R3IT Values Programme**
+ **G2R3IT Values Programme**
 
 The G2R3IT Values Programme aims to instil the values of Graciousness, Gratitude, Respect, Responsibility, Resilience, Integrity and Teamwork through a series of activities aligned to 3 domains, namely Practice, Develop and Affirm. 
 
