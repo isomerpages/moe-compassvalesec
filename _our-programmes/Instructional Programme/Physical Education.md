@@ -6,14 +6,10 @@ third_nav_title: Instructional Programme
 ---
 # Physical Education Department
 
-
 The Physical Education (PE) curriculum is aimed at enabling our students to demonstrate the physical skills, practices and values to enjoy a lifetime of active and healthy living individually or with others. The curriculum is designed to develop in our students the ability to demonstrate this knowledge and disposition across a variety of sports and provide our students with authentic situations where they can apply what they have learnt so that they can be confident participants in the future.  
-
 
 ![](/images/Kayaking%20during%20Sec%202%20Outdoor%20Adventure%20Learning%20Programme.jpg)
 *Kayaking during the Sec 2 Outdoor Adventure Camp*
-![](/images/Raft%20building%20tested%20in%20deep%20water.jpg)
-*Raft building tested in deep water*
 
 ![](/images/Students%20having%20outdoor%20lesons%20during%20pandemic%20period.jpg)
 *Students having an outdoor lesson*
@@ -26,9 +22,3 @@ The Physical Education (PE) curriculum is aimed at enabling our students to demo
 
 ![](/images/Badminton%20and%20Volleyball%20in%20the%20field.jpg)
 *Badminton and Volleyball in the field*
-
-![](/images/Badminton%20in%20ISH.jpg)
-*Badminton in ISH*
-
-![](/images/Fitness%20Conditioning%20with%20safety%20measure%20in%20place.jpg)
-*Fitness Conditioning with safety measure in place*
