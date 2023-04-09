@@ -16,4 +16,5 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+      title: Compassvale Secondary School
 ---
