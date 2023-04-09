@@ -4,7 +4,7 @@ permalink: /our-programmes/instructional-programmes/mother-tongue/
 description: ""
 third_nav_title: Instructional Programme
 ---
- # Mother Tongue Department
+# Mother Tongue Department
 ![](/images/mother%20tongue%20(1).jpg)
 
 Through an immersive learning environment, the MTL Department hopes to instil the love and passion for the MTL in our North Stars. We strive to provide authentic learning opportunities and make the learning of the language relevant to allow them to stay connected to the real world and to develop them into critical thinkers and effective communicators of the language. We also hope our North Stars will be able to appreciate their own culture and exemplify its values in their daily lives. 
@@ -65,12 +65,5 @@ Our North Stars are exposed to their traditional culture through MT Cultural Cam
 *The school busking in festivities during Chinese New Year Celebrations.*
 
 ![](/images/cl%20writing%20award.png)
-
 ![](/images/ml%20scrabble%20competition.png)
 *Our North Stars have done the school proud by clinching various awards at different national and zonal competitions over the years.*
-
-
-
-
-
-    
