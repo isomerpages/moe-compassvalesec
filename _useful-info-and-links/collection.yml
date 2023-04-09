@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Administrative Matters/Administrative Matters.md
-      - Administrative Matters/Administrative Matters (Main).md
       - Administrative Matters/Termly Communications to Parents.md
       - Administrative Matters/.keep
       - Useful Links.md
