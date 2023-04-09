@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/homepage banner_resized.png
+      background: /images/Banners/homepage banner_1920_canva.png
       url: /contact-us/
       key_highlights:
         - title: Announcements
