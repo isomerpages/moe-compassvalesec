@@ -19,9 +19,9 @@ We are parents of CVSS students who are keen to take an active role in shaping t
 ![](/images/2023%20Our%20Partners/PSG/psg%20exco_2023_2.JPG)
 
 ### What is CVSS-PSG’s purpose?
-### 
-#### CVSS PSG aims to:&nbsp;
-#### 
+
+#### CVSS PSG aims to:
+
 (1) Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of students&nbsp;
 
 (2) Provide support to school in the development of students
