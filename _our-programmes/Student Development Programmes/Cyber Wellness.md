@@ -27,20 +27,21 @@ The school adopts a three-pronged approach to Cyber Wellness Education:
 In 2022, the CCE department also hosted Minister of State, Ms Sun Xue Ling, by showcasing the school’s Cyber Wellness programme. Ms Sun had a fruitful dialogue session with the staff and students. She also observed a lesson in which students discussed issues related to cyber wellness.
 
 ![](/images/2023%20Student%20Dev%20Prog/Cyber%20Wellness/mos%20visit_comp.JPG)
+*Minister of State Ms Sun Xue Ling visited the school in January 2022 to learn more about the school's Cyber Wellness programme*
 
 **Cyber Wellness Quest (Secondary 1 and 2 students)**
 
 All our lower secondary students participated in the Cyber Wellness Quest. The quest is an in-house programme designed by our teachers with game elements to engage and excite students in their learning. Students complete a series of tasks on topics such as positive online etiquette, online dangers, gaming addiction, cyberbullying and online scams. Each level focuses on different themes such as Understanding the Cyberspace for Secondary 1 students and Responding to Cyber issues for Secondary 2 students.
 
   
-**Cyber Smart Programme (Secondary 3 and 4/5 students) **
+**Cyber Smart Programme (Secondary 3 and 4/5 students)**
 
 Our Secondary 3 students participated in the Cyber Smart Programme which focuses on the theme of Advocacy for Cyber Wellness. Students create podcasts, videos and bookmarks on cyberbullying. The videos are then shown to lower secondary students to raise awareness on cyberbullying. Students also create digital toolkits to spread anti-cyberbullying messages to other levels. 
 
 The Secondary 4/5 students participated in the Cyber Smart Programme that focuses on the theme of Harnessing Cyber Technology in the 21st Century. Students attended a talk by our alumni member on online dangers and work opportunities in the Cyber Security industry. 
  
 
-**Cyber Wellness Ambassadors Programme **
+**Cyber Wellness Ambassadors Programme**
 
 In addition, a group of cyber wellness ambassadors participated in the National Challenge Advocacy Competition where participants were tasked to create a toolkit and outreach project to raise awareness of and guard against fake news.  Our North Stars, have achieved the Silver Award among 105 participating primary and secondary schools.**
 ![](/images/Cyber%20Wellness%20Quest.jpg)
