@@ -2,18 +2,18 @@ collections:
   about-us:
     output: true
     order:
-      - Awards and Achievements/.keep
-      - Awards and Achievements/School Awards and Achievements.md
-      - Awards and Achievements/O Levels.md
-      - Awards and Achievements/N Levels.md
-      - Awards and Achievements/Accolades from the Public.md
-      - Our Staff/Our Staff.md
-      - Our Staff/.keep
-      - Our Staff/School Management Committee 2023.md
-      - Our Staff/Form and Co–Form Teachers 2023.md
-      - Our Staff/Executive and Administration Staff 2023.md
       - Principal's Message 2023.md
       - Philosophy, Culture and Ethos.md
       - Vision, Mission and Values.md
       - School Values.md
       - School Song.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/School Management Committee 2023.md
+      - Our Staff/Form and Co–Form Teachers 2023.md
+      - Our Staff/Executive and Administration Staff 2023.md
+      - Awards and Achievements/.keep
+      - Awards and Achievements/School Awards and Achievements.md
+      - Awards and Achievements/O Levels.md
+      - Awards and Achievements/N Levels.md
+      - Awards and Achievements/Accolades from the Public.md
