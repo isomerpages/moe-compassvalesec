@@ -6,7 +6,7 @@ description: ""
 ### For Students
 
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
-    
+
 *   [Education and Career Guidance (ECG) microsite](https://sites.google.com/moe.edu.sg/education-career-guidance/home)  
     
 *   [MySkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
