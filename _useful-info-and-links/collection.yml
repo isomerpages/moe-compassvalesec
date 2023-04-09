@@ -2,7 +2,7 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - Administrative Matters/Miscellaneous.md
+      - Administrative Matters/Main.md
       - Administrative Matters/Termly Communications to Parents.md
       - Administrative Matters/.keep
       - Useful Links.md
