@@ -4,11 +4,10 @@ permalink: /our-programmes/instructional-programmes/english/
 description: ""
 third_nav_title: Instructional Programme
 ---
-# 2021
-![](/images/ENGLISH.jpg)
 
 ### English Language Department
 
+![](/images/ENGLISH.jpg)
 
 The English Language and Literature curricula and programmes at CVSS are designed to develop in our students a strong foundation of language competencies, as well as the requisite skills, dispositions and values for them to make a positive impact on the lives of those around them. Students will learn close, critical and extensive listening, reading and viewing skills for processing a variety of texts, at increasing levels of sophistication over their years of study, and develop an informed personal and critical response in speaking, writing and representing. They will also be equipped to analyse and make meaning of texts, appreciate diverse perspectives and the aesthetics of language use. This will allow our students to become future-ready, vibrant and empathetic learners and communicators.
 
@@ -29,5 +28,7 @@ The English Language and Literature curricula and programmes at CVSS are designe
 •	ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)
 
 
-![Assembly talk by Singaporean author Cassandra Chiu](/images/cassandra%20chiu_2022.jpg)![]
-![Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.](/images/choral%20speaking%202021_photo.png)
+![](/images/cassandra%20chiu_2022.jpg)
+*Assembly talk by Singaporean author Cassandra Chiu*
+
+![](/images/choral%20speaking%202021_photo.png) *Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.*
