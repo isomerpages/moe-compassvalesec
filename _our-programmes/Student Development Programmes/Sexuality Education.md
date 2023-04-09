@@ -42,6 +42,8 @@ b. Character and Citizenship Education (CCE)
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 **At Compassvale Secondary School, the following Sexuality Education lessons will be taught in 2023:**
+
+&gt; **2023 Sexuality Education Lessons in CCE 2021**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
