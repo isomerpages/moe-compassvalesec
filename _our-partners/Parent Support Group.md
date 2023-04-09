@@ -30,12 +30,12 @@ We are parents of CVSS students who are keen to take an active role in shaping t
 
   
 ### Why join PSG?
-### 
+
 As parents of CVSS students, you are automatically a member of the PSG. As a PSG Member, you can get involved by:
 
 (1) Attending training / educational workshops
 
-(2) Participating in social and educational programmes for students and other parents&nbsp;
+(2) Participating in social and educational programmes for students and other parents
 
 (3) Being part of the feedback unit to build a nurturing, caring school and home environment for your child
  
@@ -44,7 +44,7 @@ For more information or queries, please email us at cvss@moe.edu.sg.
 
   
 ### CVSS PSG Useful Parenting Tips 
-### 
+
 (1) [Building Resilience in Your Child](/files/(1)%20Building%20Resilience%20in%20Your%20Child_2019.pdf)
 
 (2) [Developing your child to be a positive peer   
