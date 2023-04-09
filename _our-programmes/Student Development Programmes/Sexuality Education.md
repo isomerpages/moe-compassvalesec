@@ -8,7 +8,7 @@ third_nav_title: Student Development Programmes
 
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2. The&nbsp;**Goals**&nbsp;of Sexuality Education are to:  
+2. The **Goals**&nbsp;of Sexuality Education are to:  
   
 (a)&nbsp; &nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;  
   
@@ -41,8 +41,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At Compassvale Secondary School, the following Sexuality Education lessons will be taught in 2023:
-
+**At Compassvale Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
