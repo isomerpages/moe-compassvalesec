@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 # Physical Education Department
+![](/images/2023%20PE/physical%20education%20(1).jpg)
 
 The Physical Education (PE) curriculum is aimed at enabling our students to demonstrate the physical skills, practices and values to enjoy a lifetime of active and healthy living individually or with others. The curriculum is designed to develop in our students the ability to demonstrate this knowledge and disposition across a variety of sports and provide our students with authentic situations where they can apply what they have learnt so that they can be confident participants in the future.  
 
