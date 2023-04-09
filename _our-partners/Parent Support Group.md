@@ -22,24 +22,23 @@ We are parents of CVSS students who are keen to take an active role in shaping t
 #### 
 (1) Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of students&nbsp;
 
-(2) Provide support to school in the development of students&nbsp;
+(2) Provide support to school in the development of students
 
 (3) Encourage social activities and relationship among parents, teachers and students
 
   
 ### Why join PSG?
 ### 
-As parents of CVSS students, you are automatically a member of the PSG.&nbsp;&nbsp;As a PSG Member, you can get involved by:&nbsp;
+As parents of CVSS students, you are automatically a member of the PSG. As a PSG Member, you can get involved by:
 
 (1) Attending training / educational workshops
 
 (2) Participating in social and educational programmes for students and other parents&nbsp;
 
-(3) Being part of the feedback unit to build a nurturing, caring school and home environment for your child&nbsp;
+(3) Being part of the feedback unit to build a nurturing, caring school and home environment for your child
+ 
 
-  
-
-For more information or queries, please email us at cvss@moe.edu.sg&nbsp;
+For more information or queries, please email us at cvss@moe.edu.sg.
 
   
 
@@ -62,9 +61,13 @@ For more information or queries, please email us at cvss@moe.edu.sg&nbsp;
 ![](/images/Sec%201%20PSG%20talks.png)
 
 **2. Chinese New Year Celebration**
-![](/images/PSG%20CNY.png)
+![](/images/2023%20Our%20Partners/PSG/balloon%20scrulpture.jpg)
+*In 2023, PSG member, Ms Agnes Yap, volunteered to make a balloon sculpture by hand as décor for the CNY celebration.*
 
-**3.&nbsp;Sec 1 Parents’ Welcome Brunch**
+![](/images/2023%20Our%20Partners/PSG/psg%20with%20elderly.jpg)
+Parents pictured with elderly guests at the school's CNY Celebrations
+
+**3. Sec 1 Parents’ Welcome Brunch**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAQoQTszvnzjI9kxaU-B6rYXw-_JOdH_3t8b59zXdzUVCbwIU4c5FGDqN1E_xjgy4mCy5g7jWQMpor/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="550" height="500" allowfullscreen="true"></iframe>
 
 **4.&nbsp; &nbsp;Racial Harmony Day Carnival**
