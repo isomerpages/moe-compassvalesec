@@ -65,5 +65,6 @@ Our North Stars are exposed to their traditional culture through MT Cultural Cam
 *The school busking in festivities during Chinese New Year Celebrations.*
 
 ![](/images/cl%20writing%20award.png)
+
 ![](/images/ml%20scrabble%20competition.png)
 *Our North Stars have done the school proud by clinching various awards at different national and zonal competitions over the years.*
