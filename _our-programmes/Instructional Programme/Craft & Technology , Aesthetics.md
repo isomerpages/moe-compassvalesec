@@ -74,4 +74,3 @@ D&T
 
 ![](/images/Copy%20of%20Students%20presenting%20their%20work%20via%20zoom.jpg)
 *Keat Hong CC WEC 16th Sandwich Making Competition – Celebrating Our Hawker Culture and Heros Students presenting their work via Zoom*
-
