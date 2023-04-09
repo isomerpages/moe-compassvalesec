@@ -4,11 +4,9 @@ permalink: /our-programmes/instructional-programmes/mathematics/
 description: ""
 third_nav_title: Instructional Programme
 ---
-
 ### Mathematics Department
 
-![](/images/MATH%20%20CPA.jpg)
-
+![](/images/2023%20%20%20Math/mathematics%20&%20cpa%20(1).jpg)
 
 The Mathematics department aims to develop North Stars to be self-motivated problem solvers and creative thinkers in everyday life. To achieve this goal, we engage them in Joyful Learning in Mathematics – a customised curriculum which engages them in authentic Mathematics learning experiences that promote the joy of learning Mathematics for three years. This year, we aim to achieve our goal through a two-pronged approach:
 
