@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Aeronautics Club.md
       - Clubs & Societies/Community Youth Leaders Club.md
