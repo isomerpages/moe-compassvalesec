@@ -41,7 +41,6 @@ As parents of CVSS students, you are automatically a member of the PSG. As a PSG
 For more information or queries, please email us at cvss@moe.edu.sg.
 
   
-
 ### CVSS PSG Useful Parenting Tips 
 ### 
 (1) [Building Resilience in Your Child](/files/(1)%20Building%20Resilience%20in%20Your%20Child_2019.pdf)
@@ -65,10 +64,10 @@ For more information or queries, please email us at cvss@moe.edu.sg.
 *In 2023, PSG member, Ms Agnes Yap, volunteered to make a balloon sculpture by hand as décor for the CNY celebration.*
 
 ![](/images/2023%20Our%20Partners/PSG/psg%20with%20elderly.jpg)
-Parents pictured with elderly guests at the school's CNY Celebrations
+*Parents with elderly guests at the school's CNY Celebrations*
 
 **3. Sec 1 Parents’ Welcome Brunch**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAQoQTszvnzjI9kxaU-B6rYXw-_JOdH_3t8b59zXdzUVCbwIU4c5FGDqN1E_xjgy4mCy5g7jWQMpor/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="550" height="500" allowfullscreen="true"></iframe>
 
-**4.&nbsp; &nbsp;Racial Harmony Day Carnival**
+**4. Racial Harmony Day Carnival**
 <iframe allowfullscreen="true" height="500" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxN8Op3CBewMusviYBQ62IuCJh2-ntPeeklP9g9jEppqW6CZniFRNuW98GLPIOTUNH27WOkt9QPETZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
