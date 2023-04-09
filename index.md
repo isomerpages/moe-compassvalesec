@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/cvssmainbanner.gif
+      background: /images/Banners/homepage banner_resized.png
       url: /contact-us/
       key_highlights:
         - title: Announcements
