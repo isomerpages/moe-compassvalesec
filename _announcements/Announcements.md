@@ -3,7 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
 *   [(NEW) CCA Sports Selection Trials 2023 - Schedule](/files/Sports%20CCA%20Selection%20Trials%202023_final.pdf)
 *   [O Level Results Release\_ECG\_JAE Briefing Slides](/files/O%20Level%20Results%20Release_ECG_JAE%20Briefing%20Slides.pdf)  
     
@@ -19,10 +18,9 @@ description: ""
     
 *   [2023 Sexuality Education](/info-for-parents-and-students/sexuality-education-1/)  
     
-*   [2022 Student Daily Routine_Semester 2](/files/2022%20Student%20Daily%20Routine_Semester.pdf) (w.e.f 27 Jun 2022) (NEW)   
+
     
 *   [N-O Level Info Sheet for Parents](/files/N-O%20Level%20Info%20Sheet%20for%20Parents.pdf)  
     
-*   [Recommended Vehicle Drop-Off Point](/files/Recommended%20Drop%20Off%20Point.pdf)  
-    
+
 *   [Student Learning Space - Instructions and FAQs](/files/Student%20SLS%20account%20activation%20(Instructions%20and%20FAQs).pdf)
