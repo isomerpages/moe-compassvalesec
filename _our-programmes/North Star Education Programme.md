@@ -11,13 +11,12 @@ Our school-wide pedagogies include Inquiry-Based Learning, Making Thinking Visib
 
 Our student development is centred on the STAR Programme-
 
-     o   Seek out your strengths
+*       Seek out your strengths
 
-     o   Take Charge & Transform
+*      Take Charge & Transform
 
-     o   Adjust, Adapt, Aspire
+*      Adjust, Adapt, Aspire
 
-     o   Ready for the world
-
+*      Ready for the world
 
 More details can be found in the pages on our distinctive programmes and our instructional/non-instructional departments.
