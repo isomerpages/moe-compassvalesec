@@ -1,0 +1,28 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - North Star Education Programme.md
+      - Instructional Programme/.keep
+      - Instructional Programme/English.md
+      - Instructional Programme/Mother Tongue.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Science.md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Craft and Technology.md
+      - Instructional Programme/Physical Education.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Aeronautics Applied Learning Programme (ALP).md
+      - Distinctive Programmes/Learning for Life Programme (LLP).md
+      - Student Development Programmes/.keep
+      - Student Development Programmes/Character and Citizenship Education
+        (CCE).md
+      - "Student Development Programmes/CCE: Education and Career Guidance
+        (ECG).md"
+      - "Student Development Programmes/CCE: Cyber Wellness.md"
+      - "Student Development Programmes/CCE: Values in Action.md"
+      - "Student Development Programmes/CCE: Sexuality Education.md"
+      - Student Development Programmes/National Education.md
+      - Student Development Programmes/Student Well Being.md
+      - Student Development Programmes/Student Leadership.md
+      - Student Development Programmes/Co Curricular Activities.md

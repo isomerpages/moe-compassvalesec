@@ -1,0 +1,12 @@
+collections:
+  useful-info-and-links:
+    output: true
+    order:
+      - Announcements/Announcements.md
+      - Announcements/.keep
+      - Useful Links.md
+      - Administrative Matters/.keep
+      - Administrative Matters/Main.md
+      - Administrative Matters/Termly Communications to Parents.md
+      - 2023 Direct School Admission (DSA).md
+      - MOE Communications.md

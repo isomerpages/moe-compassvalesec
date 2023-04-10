@@ -1,0 +1,55 @@
+collections:
+  awards-and-achievements:
+    output: true
+    order:
+      - O levels/.keep
+      - O levels/2021.md
+      - O levels/2020.md
+      - O levels/2019.md
+      - O levels/2018.md
+      - O levels/2017.md
+      - O levels/2016.md
+      - O levels/2015.md
+      - O levels/2014.md
+      - O levels/2013.md
+      - O levels/2012.md
+      - O levels/2011.md
+      - O levels/2010.md
+      - O levels/2009.md
+      - O levels/2008.md
+      - O levels/2007.md
+      - O levels/2006.md
+      - O levels/2005.md
+      - O levels/2004.md
+      - O levels/2003.md
+      - N Levels/.keep
+      - N Levels/2021.md
+      - N Levels/2020.md
+      - N Levels/2019.md
+      - N Levels/2018.md
+      - N Levels/2017.md
+      - N Levels/2016.md
+      - N Levels/2015.md
+      - N Levels/2014.md
+      - N Levels/2013.md
+      - N Levels/2012.md
+      - N Levels/2011.md
+      - N Levels/2010.md
+      - N Levels/2009.md
+      - N Levels/2008.md
+      - N Levels/2007.md
+      - N Levels/2006.md
+      - N Levels/2005.md
+      - N Levels/2004.md
+      - N Levels/2003.md
+      - Well Rounded Achievers/.keep
+      - Well Rounded Achievers/2021.md
+      - Well Rounded Achievers/2020.md
+      - Well Rounded Achievers/2019.md
+      - Well Rounded Achievers/2018.md
+      - Well Rounded Achievers/2017.md
+      - Well Rounded Achievers/2016.md
+      - Well Rounded Achievers/2015.md
+      - Well Rounded Achievers/2014.md
+      - Well Rounded Achievers/2013.md
+      - Well Rounded Achievers/2012.md
