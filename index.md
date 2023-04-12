@@ -32,4 +32,5 @@ sections:
       button: Read more on Instagram
       url: https://www.instagram.com/p/CqoXnm2SyeX/?igshid=YmMyMTA2M2Y=
       alt: Image alt text
+      image: /images/Landing Page/saf 2023.jpg
 ---
