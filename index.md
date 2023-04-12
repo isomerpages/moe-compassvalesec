@@ -24,6 +24,7 @@ sections:
       button: Read more on Facebook
       url: https://m.facebook.com/story.php?story_fbid=pfbid02cAxYzdD38dqMfTe4M6XZ5C1yGVDUmc3PHVaj3dSPGcC37KzyggFdNjBSKTEvJod5l&id=100089303107388&mibextid=qC1gEa
       image: /images/investiture-2023_2.jpeg
+      alt: Investiture 2023
   - infopic:
       title: Singapore Amazing Flying Competition 2023
       subtitle: Achievement
@@ -31,4 +32,5 @@ sections:
       button: Read more on Instagram
       url: https://www.instagram.com/p/CqoXnm2SyeX/?igshid=YmMyMTA2M2Y=
       image: /images/Landing Page/saf 2023.jpg
+      alt: SAFMC 2023
 ---
