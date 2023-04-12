@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 #  Science Department
-![](/images/2023/science_2023.jpg)
+![](/images/2023%20%20%20Science/science_2023.jpg)
 
 The Science Department aims to develop critical thinking skills, and the ability to make informed decisions about scientific phenomena in our students. The various flagship programmes organised are undergirded by the three domains of the Science Curriculum Framework - (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes. Through providing our students with a holistic science education, we hope to imbue a passion for science and research in our students.
 
@@ -41,17 +41,17 @@ The department supports the school’s environment education efforts as we aim t
     
 *   Singapore Junior Physics Olympiad - Honourable Mention (2022\[3\])
 
-![](/images/2023/picture%201a.jpg)
+![](/images/2023%20%20%20Science/picture%201a.jpg)
 *Mrs Preeti Kulkarni (Right) engaging colleagues in professional learning as she conducts an inquiry-based lesson for students to learn about the movement of substances using agar jelly.*
 
-![](/images/2023/picture%201b.jpg)
+![](/images/2023%20%20%20Science/picture%201b.jpg)
 *Our Sec 4 North Stars collaboratively working on a Foutan board to better understand series and parallel circuits, and how different circuit arrangements affect the brightness of light bulbs.*
 
-![](/images/2023/picture%202.jpeg)
+![](/images/2023%20%20%20Science/picture%202.jpeg)
 *Our North Stars learning more about kidney health in the NKF K-MOVEAT Bus.*
 
-![](/images/2023/picture%203.JPG)
+![](/images/2023%20%20%20Science/picture%203.JPG)
 *Students carrying out experiments as part of their investigative projects for the Elementz Science Research Competition.*
 
-![](/images/2023/picture%204.jpg)
+![](/images/2023%20%20%20Science/picture%204.jpg)
 *Our North Stars presenting their ideas on how energy can be sustainably generated to guests and other students.*
