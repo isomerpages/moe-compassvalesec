@@ -57,7 +57,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">1-6</td>
-    <td class="tg-dgl5">Ms Sarah Ang En Ling (Mrs Chia)</td>
+    <td class="tg-dgl5">Mdm Sarah Ang En Ling (Mrs Chia)</td>
     <td class="tg-dgl5">Mdm Winnie Chia (Mrs Lim)</td>
     <td class="tg-dgl5"> </td>
   </tr>
@@ -65,7 +65,7 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">1-7</td>
     <td class="tg-dgl5">Mr Ang Chee Yong</td>
     <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)</td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5"> Ms Tow Junli, Natalie</td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-8</td>
@@ -112,7 +112,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">2N3</td>
     <td class="tg-dgl5">Mr Wong Yew Chiang Ryan</td>
-    <td class="tg-dgl5">Mdm Amy Tso Shuk Yan</td>
+    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -123,16 +123,16 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">3E1</td>
-    <td class="tg-dgl5">Ms Lim Yiling Clarissa</td>
+    <td class="tg-dgl5">Mdm Lim Yiling Clarissa</td>
     <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E2</td>
     <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu</td>
-    <td class="tg-dgl5">Ms Phua Seok Ming Jasmine</td>
-    <td class="tg-dgl5"> </td>
-  </tr>
+    <td class="tg-dgl5"> Mdm Leow Pei Ying</td>
+		<td class="tg-dgl5">Mdm Phua Seok Ming Jasmine</td>
+    </tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
     <td class="tg-dgl5">Mr Chua Choon Heong</td>
@@ -141,19 +141,19 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">3E4</td>
-    <td class="tg-dgl5">Mr Sean Yet Tun Quan</td>
+    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)</td>
     <td class="tg-dgl5">Ms Fazleen Bte Mahmud</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N1</td>
-    <td class="tg-dgl5">Mr Patrick Chong Khiam Kiat</td>
+    <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick) </td>
     <td class="tg-dgl5">Mdm Siti Mariam Bte Kamaruddin</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N2</td>
-    <td class="tg-dgl5">Mr Illanggo</td>
+    <td class="tg-dgl5">Mr Ilanggo</td>
     <td class="tg-dgl5">Mrs Viddyawati Gunalan</td>
     <td class="tg-dgl5"> </td>
   </tr>
@@ -167,12 +167,12 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">3T1</td>
     <td class="tg-dgl5">Mdm Jamaliah Bte Mohamad Saleh</td>
     <td class="tg-dgl5">Mr Foo Chang Yong (John)</td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5">Mdm Ng Sin Yin Rebecca </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4E1</td>
-    <td class="tg-dgl5">Mr Jeremy Chan Seong Hung</td>
-    <td class="tg-dgl5">Mr Fauwaz Nurhelmy Bin Maaroof</td>
+    <td class="tg-dgl5">Mr Chan Seong Hung (Jeremy)</td>
+    <td class="tg-dgl5">Ms Koh Bee Choo</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -207,8 +207,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">4N2</td>
-    <td class="tg-dgl5">Mr Richmond Wang Tiancai</td>
-    <td class="tg-dgl5">Mr Lawrence Seow Ching Hui</td>
+    <td class="tg-dgl5">Mr Wang Tiancai, Richmond</td>
+    <td class="tg-dgl5">Mr Seow Ching Hui (Lawrence)</td>
     <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee</td>
   </tr>
   <tr>
@@ -218,21 +218,16 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)</td>
   </tr>
   <tr>
-    <td class="tg-9hzb">5N1</td>
+    <td class="tg-9hzb">5N1/2</td>
     <td class="tg-dgl5">Mdm Fawziyah Bte Ali</td>
-    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa</td>
-    <td class="tg-dgl5"> </td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">5N2</td>
-    <td class="tg-dgl5">Ms Lee Ja Sin</td>
     <td class="tg-dgl5">Mdm Chang Sin Yi Donna</td>
     <td class="tg-dgl5"> </td>
   </tr>
-  <tr>
-    <td class="tg-9hzb">5N3</td>
+    <tr><td class="tg-9hzb">5N3</td>
     <td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei</td>
-    <td class="tg-dgl5">Ms Koh Bee Choo</td>
+     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa </td>
+  </tr>
+  <tr>
     <td class="tg-dgl5"> </td>
   </tr>
 </tbody>

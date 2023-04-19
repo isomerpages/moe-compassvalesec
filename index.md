@@ -2,7 +2,7 @@
 layout: homepage
 title: Compassvale Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/compassvale_logo.png
 permalink: /
 notification: ""
 sections:

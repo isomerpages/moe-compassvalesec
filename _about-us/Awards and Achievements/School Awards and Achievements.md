@@ -1,6 +1,6 @@
 ---
 title: School Awards and Achievements
-permalink: /our-purpose/school-awards-and-achievements/
+permalink: /about-us/awards-and-achievements/school-awards-and-achievements/
 description: ""
 third_nav_title: Awards and Achievements
 ---
