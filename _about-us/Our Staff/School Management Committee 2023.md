@@ -167,6 +167,7 @@ third_nav_title: Our Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5bwz{background-color:#FFF;color:#13C0E5;text-align:left;vertical-align:top}
 .tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
@@ -182,53 +183,41 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Chinese Language</td>
     <td class="tg-ktyi">Mdm Zhang Wei</td>
   </tr>
-</tbody>
-</table>
+  
+  <tr>
+    <td class="tg-s7g5" colspan="2">Seniors Teachers</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">English Language</td>
+    <td class="tg-ktyi">Mdm Wan Fazithahariani</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"> Chinese Language</td>
+    <td class="tg-ktyi">Mrs Koh Li Li</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Mathematics</td>
+    <td class="tg-ktyi">Mdm Catherine Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Biology</td>
+    <td class="tg-ktyi">Mdm Fazleen Mahmud</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Physics</td>
+    <td class="tg-ktyi">Mr Ng Junjie</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Design &amp; Technology</td>
+    <td class="tg-ktyi">Mr Lawrence Seow Ching Hui</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Food and Nutrition</td>
+    <td class="tg-ktyi">Mrs Winnie Lim</td>
+  </tr>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s7g5" colspan="2">Senior Teachers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-1wig">English Language</td>
-    <td class="tg-0lax">Mdm Wan Fazithahariani</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Chinese Language</td>
-    <td class="tg-0lax">Mrs Koh Li Li</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mathematics</td>
-    <td class="tg-0lax">Mdm Catherine Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Biology</td>
-    <td class="tg-0lax">Mdm Fazleen Mahmud</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Physics</td>
-    <td class="tg-0lax">Mr Ng Junjie</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Design &amp; Technology</td>
-    <td class="tg-0lax">Mr Lawrence Seow Ching Hui</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Food &amp; Nutrition</td>
-    <td class="tg-0lax">Mrs Winnie Lim</td>
-  </tr>
-</tbody>
-</table>
+  
+  
+
+ 
+</tbody></table>
