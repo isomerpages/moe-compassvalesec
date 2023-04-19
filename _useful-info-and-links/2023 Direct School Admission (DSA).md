@@ -19,9 +19,9 @@ Students can also join the school's Aeronautics Club, Robotics Club, and Environ
 
 Experts from STEM-related industries will be invited to give talks and engage in dialogues with students, allowing them to learn more about the latest developments in these fields. Finally, students will also have the chance to take part in student internships with a partner company in the aviation industry, giving them valuable hands-on experience and insights into potential future careers. Join us today to discover your true potential in STEM!
 
-![Graphical user interface
-Description automatically generated](file:///C:/Users/S87336~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)![A picture containing tree, grass, outdoor, person
-Description automatically generated](file:///C:/Users/S87336~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/science1.jpg)
+
+![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/science2.jpg)
 
 **2\. SPORTS AND GAMES: FLOORBALL (BOYS & GIRLS) and SOFTBALL (BOYS ONLY)**
 
@@ -35,9 +35,9 @@ In addition, students can look forward to participating in training programmes o
 
 At Compassvale Secondary School, we believe in cultivating the full potential of our student-athletes, both on and off the field. We are committed to providing a holistic education that nurtures not only athletic skills but also character, leadership, and life skills. Join us today to discover your true potential in sports!
 
-![A group of people playing baseball
-Description automatically generated with medium confidence](file:///C:/Users/S87336~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)![A group of people playing volleyball
-Description automatically generated with medium confidence](file:///C:/Users/S87336~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/b%20div%20boys%20in%20action%20(batting).jpg)
+
+![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/floorball%20pic.JPG)
 
 **SELECTION CRITERIA AND PROCESS**
 
