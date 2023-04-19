@@ -112,7 +112,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">2N3</td>
     <td class="tg-dgl5">Mr Wong Yew Chiang Ryan</td>
-    <td class="tg-dgl5">Mdm Amy Tso Shuk Yan</td>
+    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">3E4</td>
-    <td class="tg-dgl5">Mr Sean Yet Tun Quan</td>
+    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)</td>
     <td class="tg-dgl5">Ms Fazleen Bte Mahmud</td>
     <td class="tg-dgl5"> </td>
   </tr>
@@ -171,7 +171,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">4E1</td>
-    <td class="tg-dgl5">Mr Jeremy Chan Seong Hung</td>
+    <td class="tg-dgl5">Mr Chan Seong Hung (Jeremy)</td>
     <td class="tg-dgl5">Ms Koh Bee Choo</td>
     <td class="tg-dgl5"> </td>
   </tr>
