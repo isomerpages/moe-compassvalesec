@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/homepage banner_1920_canva.png
+      background: /images/Landing Page/website banner (simple) (1920_720 px).gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -16,7 +16,6 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      title: Compassvale Secondary School
   - infopic:
       title: Student Leaders' Investiture
       subtitle: Highlight
