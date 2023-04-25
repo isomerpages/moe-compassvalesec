@@ -11,14 +11,15 @@ Our school’s LLP entitled, **‘Inspired North Stars Inspire Actions’** is a
 
 *  **Student Leadership Development Programme**
       
-As our student leaders live out the vision of “Serve to Lead, Lead to Inspire”, every student will develop a strong moral compass and learn to become an exemplary leader to self and others. 
+     As our student leaders live out the vision of “Serve to Lead, Lead to Inspire”, every student will develop a strong moral compass and learn to become an exemplary leader to self and others. 
 
 *Click [here](/our-programmes/student-development-programmes/student-leadership/) for more information.*
  
 *   **Values in Action (VIA) Experiences**
-Anchored on the vision that “Every Student is a Champion for Change”, the VIA experiences develop our students to be responsible citizens concerned about social and environmental issues and are compelled to contribute meaningfully to the community. 
 
-*Click [here](/our-programmes/student-development-programmes/via/) for more information.*
+      Anchored on the vision that “Every Student is a Champion for Change”, the VIA experiences develop our students to be responsible citizens concerned about social and environmental issues and are compelled to contribute meaningfully to the community. 
+    
+	*Click [here](/our-programmes/student-development-programmes/via/) for more information.*
 
 **Highlights / Achievements**
 
