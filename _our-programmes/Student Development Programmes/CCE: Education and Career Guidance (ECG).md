@@ -26,7 +26,7 @@ In addition, teachers are equipped with ECG facilitation skills and play a pivot
 
 **ECG Counsellor** 
 
-* Stationed at the school every Wednesday to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
+* Stationed at the school every Monday and Wednesday to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
 
 With the ECG Counsellor, students may:
 * explore more info about subject choices
@@ -34,7 +34,7 @@ With the ECG Counsellor, students may:
 * find out more about their career interests, strengths and passions
 
   
-An appointment can be made with the ECG Counsellor [here](https://moeecg.appointeze.com/onlinelink/AdelineTeo).  
+An appointment can be made with the ECG Counsellor [here](https://go.gov.sg/ecg-cvss-efss).  
   
 **MySkillsFuture.sg** 
 * a web-based portal designed to facilitate education and career development among students in Singapore. It is premised on the ECG Development Model and contains features that facilitate identity development while bringing students through the process of career awareness, exploration and planning.  
