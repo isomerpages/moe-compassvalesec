@@ -31,7 +31,7 @@ Our student-athletes have excelled in various National Inter-School Competitions
 
 Our school provides students with a range of opportunities to develop their talent and passion in competitive Floorball/Softball. Through our collaborations with sporting organisations and Institutes of Higher Learning, students can participate in numerous competitions, receive top-notch training and guidance, and develop their leadership potential within their chosen sport.
 
-In addition, students can look forward to participating in training programmes organized by the school to hone their skills and prepare for upcoming competitions. We are excited to announce the newly developed CCA nutrition curriculum, designed to help prepare students for competitions by providing education on sports nutrition.
+In addition, students can look forward to participating in training programmes organised by the school to hone their skills and prepare for upcoming competitions. We are excited to announce the newly developed CCA nutrition curriculum, designed to help prepare students for competitions by providing education on sports nutrition.
 
 At Compassvale Secondary School, we believe in cultivating the full potential of our student-athletes, both on and off the field. We are committed to providing a holistic education that nurtures not only athletic skills but also character, leadership, and life skills. Join us today to discover your true potential in sports!
 
