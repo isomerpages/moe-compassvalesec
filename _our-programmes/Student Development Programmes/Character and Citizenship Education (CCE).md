@@ -20,6 +20,8 @@ In line with our school’s motto - “World Ready Youth”, the department orga
  **G2R3IT Values Programme**
 
 The G2R3IT Values Programme aims to instil the values of Graciousness, Gratitude, Respect, Responsibility, Resilience, Integrity and Teamwork through a series of activities aligned to 3 domains, namely Practice, Develop and Affirm. 
+        
+
 
 **Key Programmes:**
 
