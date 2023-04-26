@@ -22,7 +22,7 @@ sections:
       description: "Applications open: 4 to 31 May 2023"
       button: click to read more
       url: /useful-info-and-links/2023-direct-school-admission-dsa-1/
-      image: /images/investiture-2023_2.jpeg
+      image: /images/2023 Useful Info and Links/DSA2023/dsa_sports1.jpg
       alt: Investiture 2023
   - infopic:
       title: Singapore Amazing Flying Competition 2023
