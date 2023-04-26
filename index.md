@@ -20,10 +20,10 @@ sections:
       title: 2023 Direct School Admission (Sec)
       subtitle: Announcement
       description: "Applications open: 4 to 31 May 2023"
-      button: click to read more
+      button: click to find out more
       url: /useful-info-and-links/2023-direct-school-admission-dsa-1/
       image: /images/2023 Useful Info and Links/DSA2023/dsa_sports1.jpg
-      alt: Investiture 2023
+      alt: DSA Sec 2023
   - infopic:
       title: Singapore Amazing Flying Competition 2023
       subtitle: Achievement
