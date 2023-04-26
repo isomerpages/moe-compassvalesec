@@ -47,27 +47,19 @@ NFS
  
  **Highlights / Achievements**
 
+![](/images/Sec%202%20-%20Students%20working%20on%20the%20initial%20base%20of%20their%20wire%20sculpture.jpg)
+*Sec Two Art Enrichment - Student creating the form and shape of the animal sculpture*
+
 D&T
 
 *   STEM Playground 2023 Challenge
     
-![](/images/Sec%201%20-%20Students%20in%20class%20working%20on%20their%20clay%20display%20project.jpg)
-*Sec One Art Enrichment - Clay Relief*
-
-![](/images/Sec%202%20-%20Our%20student%20creating%20the%20form%20and%20shape%20of%20the%20animal%20sculpture.jpg)
-*Sec Two Art Enrichment - Wire Sculpture*
-
-![](/images/Sec%202%20-%20Students%20working%20on%20the%20initial%20base%20of%20their%20wire%20sculpture.jpg)
-*Sec Two Art Enrichment - Student creating the form and shape of the animal sculpture*
-
 ![](/images/Copy%20of%20DT%20Learning%20Journey%20to%20Temasek%20Polytechnics%20Robotic%20Innovation%20Centre.jpg)
 *D and T Learning Journey to Temasek Polytechnic’s Robotic Innovation Centre*
 
 ![](/images/Copy%20of%20US%20pupil%20working%20on%20his%20mock%20up.jpg)
 *Upper Sec student working on his mock up*
 
-![](/images/Copy%20of%20Use%20of%20Computer%20Simulation%20software%20TinkerCad%20in%20DT.jpg)
-*Use of Computer Simulation software, TinkerCAD, in D&amp;T*
 
 ![](/images/Music_Keyboard2.jpg)
 *Music students jamming with keyboard*
