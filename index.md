@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: 2023 Direct School Admission (Sec)
+      title: 2023 Direct School Admission (Sec) Exercise
       subtitle: Announcement
       description: "Applications open: 4 to 31 May 2023"
       button: click to find out more
