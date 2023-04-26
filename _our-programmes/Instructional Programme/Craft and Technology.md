@@ -50,10 +50,9 @@ NFS
 ![](/images/Sec%202%20-%20Students%20working%20on%20the%20initial%20base%20of%20their%20wire%20sculpture.jpg)
 *Sec Two Art Enrichment - Student creating the form and shape of the animal sculpture*
 
-D&T
-
 *   STEM Playground 2023 Challenge
-    
+![](/images/2023%20Craft%20and%20Tech%20Aesthetics/stemplayground.jpg)
+
 ![](/images/Copy%20of%20DT%20Learning%20Journey%20to%20Temasek%20Polytechnics%20Robotic%20Innovation%20Centre.jpg)
 *D and T Learning Journey to Temasek Polytechnic’s Robotic Innovation Centre*
 
