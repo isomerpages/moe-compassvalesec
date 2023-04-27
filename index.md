@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing Page/website banner (simple) (1920_720 px).gif
+      background: /images/Banners/website banner_updated_april2023.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -17,13 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: Student Leaders' Investiture
-      subtitle: Highlight
-      description: 3 April 2023
-      button: Read more on Facebook
-      url: https://m.facebook.com/story.php?story_fbid=pfbid02cAxYzdD38dqMfTe4M6XZ5C1yGVDUmc3PHVaj3dSPGcC37KzyggFdNjBSKTEvJod5l&id=100089303107388&mibextid=qC1gEa
-      image: /images/investiture-2023_2.jpeg
-      alt: Investiture 2023
+      title: 2023 Direct School Admission (Sec) Exercise
+      subtitle: Announcement
+      description: "Applications open: 4 to 31 May 2023"
+      button: click to find out more
+      url: /useful-info-and-links/2023-direct-school-admission-dsa-1/
+      image: /images/2023 Useful Info and Links/DSA2023/dsa_sports1.jpg
+      alt: DSA Sec 2023
   - infopic:
       title: Singapore Amazing Flying Competition 2023
       subtitle: Achievement
