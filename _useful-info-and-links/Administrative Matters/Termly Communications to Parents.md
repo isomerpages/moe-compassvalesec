@@ -26,7 +26,7 @@ third_nav_title: Administrative Matters
 * [2022 Term 1 - Letter to Parents](/files/2022%20Term%203%20Letter%20to%20Parents%20Part%201.pdf)
 
 # 2021
-* [2021 Term 4 - Letter to Parents]
+* [2021 Term 4 - Letter to Parents](/files/Termly%20Comms%20to%20Parents/2021%20term%204%20comms%20to%20parents.pdf)
 * [2021 Term 3 - Letter to Parents](/files/2021%20Term%203%20comms%20to%20parents.pdf)
 * [2021 Term 2 - Letter to Parents](/files/2021%20Term%202%20comms%20to%20parents%20Ps%20message%20on%20sch%20website.pdf)
 * [2021 Term 1 - Letter to Parents](/files/2021%20Term%201%20comms%20to%20parents.pdf)
