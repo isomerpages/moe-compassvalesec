@@ -17,6 +17,15 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: Annual Awards Day 2023
+      subtitle: Announcement
+      description: CVSS will be holding its Annual Awards Day on 5 May 2023. Access
+        the event website via the link below to find out more information.
+      button: Click to access event website
+      url: http://go.gov.sg/annualawards-2023
+      image: /images/Landing Page/compassvale_logo_a_a_highlights.png
+      alt: Annual Awards Day 2023
+  - infopic:
       title: 2023 Direct School Admission (Sec) Exercise
       subtitle: Announcement
       description: "Applications open: 4 to 31 May 2023"
