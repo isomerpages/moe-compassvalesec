@@ -28,6 +28,8 @@ description: ""
 
 **RESILIENCE**&nbsp;– Persevere in overcoming challenges
 
-**INTEGRITY**&nbsp;– Be Morally Upright
+**INTEGRITY**&nbsp;– Be morally upright
+
+**TEAMWORK**&nbsp;– Works together towards a common goal
 
 ![](/images/CVSS%20RTSW.jpg)
