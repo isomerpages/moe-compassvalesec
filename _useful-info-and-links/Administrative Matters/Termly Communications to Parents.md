@@ -8,7 +8,7 @@ third_nav_title: Administrative Matters
 
 *    [2023 Term 2 - Letter to Parents](/files/Termly%20Comms%20to%20Parents/2023%20term%202%20letter%20to%20parents_4may.pdf)
 
-*    [2023 Term 2 - Letter to Parents (Annex A)](/files/Termly%20Comms%20to%20Parents/annex%20a%20school%20calendar%20of%20major%20events-progs%202023%20(updated%20mar%202023)_4may.pdf)
+*    [2023 Term 2 - Letter to Parents (Annex A - School Calendar of Events and Programmes 2023)](/files/Termly%20Comms%20to%20Parents/annex%20a%20school%20calendar%20of%20major%20events-progs%202023%20(updated%20mar%202023)_4may.pdf)
 
 *  [2023 Term 1 - Letter to Parents](/files/2023%20Term%201%20Letter%20to%20Parents.pdf)
 
