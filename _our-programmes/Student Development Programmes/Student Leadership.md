@@ -18,5 +18,5 @@ Student Leadership development in CVSS is guided by our Student Leadership Frame
 
 **MOE’s Framework for 21st Century Competencies and Student Outcomes**
 ![](/images/2023%20Student%20Dev%20Prog/Student%20Leadership/21cc%20moe.JPG)
-
-![](/images/2023%20Student%20Dev%20Prog/Student%20Leadership/practices%20of%20exemplary%20leadership.JPG)
+***
+![](/images/2023%20Student%20Dev%20Prog/Student%20Leadership/five%20practices%20of%20exemplary%20leadership_highres.png)
