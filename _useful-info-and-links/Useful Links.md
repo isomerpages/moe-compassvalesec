@@ -5,7 +5,7 @@ description: ""
 ---
 ### For Students
 
-*   [CVSS Learning Hub](go.gov.sg/cvsshbl)
+*   [CVSS Learning Hub](https://go.gov.sg/cvsshbl)
 
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
 
