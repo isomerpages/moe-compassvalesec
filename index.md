@@ -33,19 +33,10 @@ sections:
       url: https://www.instagram.com/p/CqoXnm2SyeX/?igshid=YmMyMTA2M2Y=
       image: /images/Landing Page/saf 2023.jpg
       alt: SAFMC 2023
-  - infobar:
-      title: Infobar Title
-      subtitle: Announcement
-      description: Infobar description
-      button: Button Text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
   - infopic:
       title: 2023 Semester 2 Timetables
       subtitle: Announcement
-      description: Access them via the Announcements page.
-      button: Button Text
+      button: Click to access Announcements
       alt: Image alt text
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
 ---
