@@ -39,4 +39,5 @@ sections:
       button: Click to access Announcements
       alt: Image alt text
       url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/a_a_day_highlight.jpg
 ---
