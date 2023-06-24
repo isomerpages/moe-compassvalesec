@@ -22,7 +22,7 @@ sections:
       button: Click to access Announcements
       alt: Image alt text
       url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/a_a_day_highlight.jpg
+      image: /images/Landing Page/overview - morning assembly.jpeg
       description: have been uploaded in the Announcements section.
   - infopic:
       title: Annual Awards Day 2023
