@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2023 Semester 2 Timetables
+      subtitle: Announcement
+      button: Click to access Announcements
+      alt: Image alt text
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/a_a_day_highlight.jpg
+      description: have been uploaded in the Announcements section.
+  - infopic:
       title: Annual Awards Day 2023
       subtitle: Announcement
       description: CVSS held its Annual Awards Day on 5 May 2023. Access the event
@@ -33,11 +41,4 @@ sections:
       url: https://www.instagram.com/p/CqoXnm2SyeX/?igshid=YmMyMTA2M2Y=
       image: /images/Landing Page/saf 2023.jpg
       alt: SAFMC 2023
-  - infopic:
-      title: 2023 Semester 2 Timetables
-      subtitle: Announcement
-      button: Click to access Announcements
-      alt: Image alt text
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/a_a_day_highlight.jpg
 ---
