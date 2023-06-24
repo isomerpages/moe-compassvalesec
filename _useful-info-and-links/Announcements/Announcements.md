@@ -4,7 +4,8 @@ permalink: /announcements/
 description: ""
 third_nav_title: Announcements
 ---
-*   (NEW) [2023 Direct School Admission - Secondary (DSA-Sec) Exercise](/useful-info-and-links/2023-direct-school-admission-dsa-1/)
+* [2023 Semester 2 Timetables](/announcements/sem2timetables2023/)
+*   [2023 Direct School Admission - Secondary (DSA-Sec) Exercise](/useful-info-and-links/2023-direct-school-admission-dsa-1/)
 *   [2023 Semester 1 Timetables](/announcements/2023-semester-1-timetables)
 *   [2023 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5)  
 *   [2023 Sexuality Education](/our-programmes/student-development-programmes/sexuality-education-1/)
