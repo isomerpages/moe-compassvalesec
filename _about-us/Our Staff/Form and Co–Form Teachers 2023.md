@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/form-co-form-teachers-2023/
 description: ""
 third_nav_title: Our Staff
 ---
-**updated 29 Dec 2022**
+**updated 10 July 2023**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -28,7 +28,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">1-1</td>
     <td class="tg-dgl5">Ms Zhuang Chuzhen</td>
-    <td class="tg-dgl5">Mdm Tai Hui Gyan</td>
+    <td class="tg-dgl5">Mr Fauwaz Nurhelmy bin Maaroof</td>
+		<td class="tg-dgl5">Ms Toh Xuan Hui</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -71,26 +72,24 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">1-8</td>
     <td class="tg-dgl5">Mr Soh Meng Le</td>
     <td class="tg-dgl5">Ms Tay Siew Woon</td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5"> Mr Noor Syafiq Bin Abdul Rashid</td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E1</td>
-    <td class="tg-dgl5">Mr Soo Huanlong</td>
+    <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin</td>
     <td class="tg-dgl5">Ms Tan Hui Min</td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E2</td>
-    <td class="tg-dgl5">Mr Keh Chien Yung</td>
     <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif</td>
-    <td class="tg-dgl5">Mdm Ng Lay Hoon</td>
+        <td class="tg-dgl5">Mdm Ng Lay Hoon</td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E3</td>
     <td class="tg-dgl5">Mdm Geraldine Lim (Mrs Lee)</td>
     <td class="tg-dgl5">Mr Patrick Ho Wee Kheat</td>
-    <td class="tg-dgl5">Ms Choong Ee Ling Ritchell</td>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-9hzb">2E4</td>
     <td class="tg-dgl5">Mr Sim Chay Whatt</td>
@@ -101,7 +100,7 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">2N1</td>
     <td class="tg-dgl5">Mr Tan Huay Hong</td>
     <td class="tg-dgl5">Mr Chong Jee Keong</td>
-    <td class="tg-dgl5">Mdm Tan Meow Tang (Mrs Catherine Ng)</td>
+    <td class="tg-dgl5">Mdm Donna Chang</td>
   </tr>
   <tr>
     <td class="tg-9hzb">2N2</td>
@@ -125,14 +124,13 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">3E1</td>
     <td class="tg-dgl5">Mdm Lim Yiling Clarissa</td>
     <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne</td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5"> Ms Zhou Yuxi</td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E2</td>
     <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu</td>
     <td class="tg-dgl5"> Mdm Leow Pei Ying</td>
-		<td class="tg-dgl5">Mdm Phua Seok Ming Jasmine</td>
-    </tr>
+		</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
     <td class="tg-dgl5">Mr Chua Choon Heong</td>
@@ -148,8 +146,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">3N1</td>
     <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick) </td>
-    <td class="tg-dgl5">Mdm Siti Mariam Bte Kamaruddin</td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5">Ms Liew Feng Lin</td>
+    <td class="tg-dgl5">Mdm Audrey Leong </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N2</td>
@@ -161,8 +159,7 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">3N3</td>
     <td class="tg-dgl5">Ms Shirin Binte Shaik Muhyideen</td>
     <td class="tg-dgl5">Mr Nur Azam Bin Jaffar</td>
-    <td class="tg-dgl5">Mdm Leong Meng Wai (Audrey)</td>
-  </tr>
+      </tr>
   <tr>
     <td class="tg-9hzb">3T1</td>
     <td class="tg-dgl5">Mdm Jamaliah Bte Mohamad Saleh</td>
@@ -220,12 +217,12 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">5N1/2</td>
     <td class="tg-dgl5">Mdm Fawziyah Bte Ali</td>
-    <td class="tg-dgl5">Mdm Chang Sin Yi Donna</td>
+    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)</td>
     <td class="tg-dgl5"> </td>
   </tr>
     <tr><td class="tg-9hzb">5N3</td>
     <td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei</td>
-     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa </td>
+     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving) </td>
   </tr>
   <tr>
     <td class="tg-dgl5"> </td>
