@@ -42,10 +42,6 @@ third_nav_title: Our Staff
     <td class="tg-ktyi">Ms Tham Jia Xin</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Mother Tongue Languages</td>
-    <td class="tg-ktyi">Mrs Maureen Tung Teck Meng</td>
-  </tr>
-  <tr>
     <td class="tg-dgl5">Mathematics</td>
     <td class="tg-ktyi">Mrs Yoga</td>
   </tr>
@@ -93,7 +89,7 @@ third_nav_title: Our Staff
     <td class="tg-s7g5" colspan="2">Subject Heads/Level Heads</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">English Language</td>
+    <td class="tg-dgl5">Literature</td>
     <td class="tg-ktyi">Ms Pamela Ng</td>
   </tr>
   <tr>
@@ -126,7 +122,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-dgl5">Assistant Year Head 1</td>
-    <td class="tg-ktyi">Ms Choong Ee Ling Ritchell</td>
+    <td class="tg-ktyi">Mdm Donna Chang</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Assistant Year Head 2</td>
@@ -136,13 +132,9 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Student Leadership</td>
     <td class="tg-ktyi">Mr Benjamin Por</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Student Management</td>
-    <td class="tg-ktyi">Mdm Donna Chang</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-dgl5">Values in Action</td>
-    <td class="tg-ktyi"><br>Ms Tan Hui Min<br></td>
+    <td class="tg-ktyi">Ms Tan Hui Min</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Infocomm Technology</td>
