@@ -45,6 +45,10 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Mathematics</td>
     <td class="tg-ktyi">Mrs Yoga</td>
   </tr>
+	 <tr>
+    <td class="tg-dgl5">Chinese Language (Acting)</td>
+    <td class="tg-ktyi">Ms Koh Bee Choo</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Science</td>
     <td class="tg-ktyi">Mr Emmanuel Chng</td>
@@ -92,17 +96,22 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Literature</td>
     <td class="tg-ktyi">Ms Pamela Ng</td>
   </tr>
+ 
   <tr>
-    <td class="tg-dgl5">Chinese Language</td>
-    <td class="tg-ktyi">Ms Koh Bee Choo</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Mathematics (Lower Secondary)</td>
+    <td class="tg-dgl5">Mathematics </td>
     <td class="tg-ktyi">Mrs Seow Peishan</td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Malay Language (Acting)</td>
+    <td class="tg-ktyi">Mdm Noorhidayah Bte Md. Taib</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Biology<br></td>
     <td class="tg-ktyi">Mrs Preeti Kulkarni<br></td>
+  </tr>
+		<tr>
+    <td class="tg-dgl5">Geography (Acting)</td>
+    <td class="tg-ktyi">Mr Andrea Ang</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Project Work</td>
@@ -148,6 +157,11 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Pastoral Care</td>
     <td class="tg-5bwz"><span style="color:#241102">Mdm Phua Seok Ming Jasmine</span></td>
   </tr>
+	<tr>
+    <td class="tg-dgl5">Student Management (Acting)</td>
+    <td class="tg-ktyi">Mdm Rebecca Ng</td>
+  </tr>
+	
 </tbody>
 </table>
 
