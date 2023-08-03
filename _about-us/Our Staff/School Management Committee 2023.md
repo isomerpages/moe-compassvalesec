@@ -177,7 +177,7 @@ third_nav_title: Our Staff
   </tr>
   
   <tr>
-    <td class="tg-s7g5" colspan="2">Seniors Teachers</td>
+    <td class="tg-s7g5" colspan="2">Senior Teachers</td>
   </tr>
   <tr>
     <td class="tg-dgl5">English Language</td>
@@ -187,10 +187,7 @@ third_nav_title: Our Staff
     <td class="tg-dgl5"> Chinese Language</td>
     <td class="tg-ktyi">Mrs Koh Li Li</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Mathematics</td>
-    <td class="tg-ktyi">Mdm Catherine Tan</td>
-  </tr>
+ 
   <tr>
     <td class="tg-dgl5">Biology</td>
     <td class="tg-ktyi">Mdm Fazleen Mahmud</td>
@@ -199,10 +196,7 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Physics</td>
     <td class="tg-ktyi">Mr Ng Junjie</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Design &amp; Technology</td>
-    <td class="tg-ktyi">Mr Lawrence Seow Ching Hui</td>
-  </tr>
+  
   <tr>
     <td class="tg-dgl5">Food and Nutrition</td>
     <td class="tg-ktyi">Mrs Winnie Lim</td>
