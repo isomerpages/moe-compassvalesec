@@ -102,9 +102,7 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Special Educational Needs Officer</td>
-    <td class="tg-ktyi">Mdm Shamira Bte Razman Ali</td>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-dgl5">Senior Special Educational Needs Officer</td>
     <td class="tg-ktyi">Ms Gladelind Koo Wei Ling</td>
