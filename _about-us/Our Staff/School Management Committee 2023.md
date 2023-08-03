@@ -46,7 +46,7 @@ third_nav_title: Our Staff
     <td class="tg-ktyi">Mrs Yoga</td>
   </tr>
 	 <tr>
-    <td class="tg-dgl5">Chinese Language (Acting)</td>
+    <td class="tg-dgl5">Mother Tongue Languages (Acting)</td>
     <td class="tg-ktyi">Ms Koh Bee Choo</td>
   </tr>
   <tr>
