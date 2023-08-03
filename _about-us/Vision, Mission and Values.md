@@ -33,3 +33,13 @@ description: ""
 **TEAMWORK**&nbsp;– Works together towards a common goal
 
 ![](/images/CVSS%20RTSW.jpg)
+
+## North Star’s Pledge
+
+I will learn and find my compass
+
+I will excel and strive to go far
+
+I will grow and live a life of purpose
+
+I will shine as I am a North Star
