@@ -143,7 +143,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Aesthetics</td>
     <td class="tg-ktyi">Mdm Ellen Wang Buay San</td>
-		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
+		<td class="tg-ktyi">wang_buay_san_ellen@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Physical Education</td>
