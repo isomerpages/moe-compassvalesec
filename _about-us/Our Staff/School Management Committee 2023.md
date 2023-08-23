@@ -173,22 +173,24 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Infocomm Technology</td>
     <td class="tg-ktyi">Mdm Nur Ellyna</td>
-	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
+	<td class="tg-ktyi">nur_ellyna_md_isa@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Character and Citizenship Education</td>
     <td class="tg-ktyi">Mr Kartik Gayan Rajaram</td>
-	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
+	<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Pastoral Care</td>
     <td class="tg-5bwz"><span style="color:#241102">Mdm Phua Seok Ming Jasmine</span></td>
-	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
+	<td class="tg-ktyi">Jasmine_wong_Shu_ting@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-dgl5">Student Management (Acting)</td>
     <td class="tg-ktyi">Mdm Rebecca Ng</td>
-	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
+	<td class="tg-ktyi">ng_sin_yin_rebecca@moe.edu.sg
+
+</td>
   </tr>
 	
 </tbody>
