@@ -35,11 +35,12 @@ third_nav_title: Our Staff
     <td class="tg-ktyi">Mrs Jacqueline Tang</td>
   </tr>
   <tr>
-    <td class="tg-s7g5" colspan="2">Heads of Department</td>
+    <td class="tg-s7g5" colspan="3">Heads of Department</td>
   </tr>
   <tr>
     <td class="tg-dgl5">English Language</td>
     <td class="tg-ktyi">Ms Tham Jia Xin</td>
+		<td class="tg-ktyi">tham_jia_xin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Mathematics</td>
