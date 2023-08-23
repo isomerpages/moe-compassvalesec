@@ -148,7 +148,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Physical Education</td>
     <td class="tg-ktyi">Mr Goh Keng Chuan</td>
-		<td class="tg-ktyi"></td>
+		<td class="tg-ktyi">goh_keng_chuan@moe.edu.sg</td>
   </tr>
   
   <tr>
@@ -164,26 +164,31 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Student Leadership</td>
     <td class="tg-ktyi">Mr Benjamin Por</td>
-		<td class="tg-ktyi">goh_keng_chuan@moe.edu.sg
-    </td></tr><tr>
+		<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
+    </tr><tr>
     <td class="tg-dgl5">Values in Action</td>
     <td class="tg-ktyi">Ms Tan Hui Min</td>
+			<td class="tg-ktyi">tan_hui_min@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Infocomm Technology</td>
     <td class="tg-ktyi">Mdm Nur Ellyna</td>
+	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Character and Citizenship Education</td>
     <td class="tg-ktyi">Mr Kartik Gayan Rajaram</td>
+	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Pastoral Care</td>
     <td class="tg-5bwz"><span style="color:#241102">Mdm Phua Seok Ming Jasmine</span></td>
+	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-dgl5">Student Management (Acting)</td>
     <td class="tg-ktyi">Mdm Rebecca Ng</td>
+	<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
   </tr>
 	
 </tbody>
