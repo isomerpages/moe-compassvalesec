@@ -212,30 +212,34 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-s7g5" colspan="2">Lead Teacher</th>
+    <th class="tg-s7g5" colspan="3">Lead Teacher</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-dgl5">Chinese Language</td>
     <td class="tg-ktyi">Mdm Zhang Wei</td>
+		<td class="tg-ktyi">zhang_wei@moe.edu.sg</td>
   </tr>
   
   <tr>
-    <td class="tg-s7g5" colspan="2">Senior Teachers</td>
+    <td class="tg-s7g5" colspan="3">Senior Teachers</td>
   </tr>
   <tr>
     <td class="tg-dgl5">English Language</td>
     <td class="tg-ktyi">Mdm Wan Fazithahariani</td>
+		<td class="tg-ktyi">wan_fazithahariani_wan_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5"> Chinese Language</td>
     <td class="tg-ktyi">Mrs Koh Li Li</td>
+	<td class="tg-ktyi">chin_li_li@moe.edu.sg</td>	
   </tr>
  
   <tr>
     <td class="tg-dgl5">Biology</td>
     <td class="tg-ktyi">Mdm Fazleen Mahmud</td>
+		<td class="tg-ktyi">fazleen_mahmud@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Physics</td>
