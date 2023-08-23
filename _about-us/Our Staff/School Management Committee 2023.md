@@ -244,11 +244,13 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Physics</td>
     <td class="tg-ktyi">Mr Ng Junjie</td>
+		<td class="tg-ktyi">ng_junjie@moe.edu.sg</td>
   </tr>
   
   <tr>
     <td class="tg-dgl5">Food and Nutrition</td>
     <td class="tg-ktyi">Mrs Winnie Lim</td>
+		<td class="tg-ktyi">chia_winnie@moe.edu.sg</td>
   </tr>
 
   
