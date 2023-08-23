@@ -148,20 +148,24 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Physical Education</td>
     <td class="tg-ktyi">Mr Goh Keng Chuan</td>
+		<td class="tg-ktyi"></td>
   </tr>
+  
   <tr>
     <td class="tg-dgl5">Assistant Year Head 1</td>
     <td class="tg-ktyi">Mdm Donna Chang</td>
+		<td class="tg-ktyi">chang_sin_yi_donna@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Assistant Year Head 2</td>
     <td class="tg-ktyi">Mdm Audrey Leong Meng Wai</td>
+		<td class="tg-ktyi">leong_meng_wai@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Student Leadership</td>
     <td class="tg-ktyi">Mr Benjamin Por</td>
-  </tr>
-    <tr>
+		<td class="tg-ktyi">goh_keng_chuan@moe.edu.sg
+    </td></tr><tr>
     <td class="tg-dgl5">Values in Action</td>
     <td class="tg-ktyi">Ms Tan Hui Min</td>
   </tr>
