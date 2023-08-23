@@ -18,7 +18,7 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-s7g5" colspan="2">School Leaders</th>
+    <th class="tg-s7g5" colspan="3">School Leaders</th>
   </tr>
 </thead>
 <tbody>
