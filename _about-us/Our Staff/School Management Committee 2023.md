@@ -55,7 +55,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Science</td>
     <td class="tg-ktyi">Mr Emmanuel Chng</td>
-		<td class="tg-ktyi">tham_jia_xin@moe.edu.sg</td>
+		<td class="tg-ktyi">chng_jun_liang_emmanuel@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Humanities</td>
