@@ -75,7 +75,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Year Head 1</td>
     <td class="tg-ktyi">Mrs Lee Sing Yee</td>
-		<td class="tg-ktyi">yap_kim_hon@moe.edu.sg</td>
+		<td class="tg-ktyi">ang_sing_yee@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Year Head 2</td>
@@ -85,7 +85,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Character and Citizenship Education</td>
     <td class="tg-ktyi">Mdm Seow Yi Shan</td>
-		<td class="tg-ktyi">yap_kim_hon@moe.edu.sg</td>
+		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Infocomm Technology</td>
@@ -95,7 +95,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Student Management</td>
     <td class="tg-ktyi">Mr Lim Chang Huat Timothy</td>
-		<td class="tg-ktyi">yap_kim_hon@moe.edu.sg</td>
+		<td class="tg-ktyi">lim_chang_huat_timothy@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">School Staff Developer</td>
