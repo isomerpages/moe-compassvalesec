@@ -45,22 +45,27 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Mathematics</td>
     <td class="tg-ktyi">Mrs Yoga</td>
+		<td class="tg-ktyi">karpagam_thanabalan@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td class="tg-dgl5">Mother Tongue Languages (Acting)</td>
     <td class="tg-ktyi">Ms Koh Bee Choo</td>
+		 <td class="tg-ktyi">koh_bee_choo@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Science</td>
     <td class="tg-ktyi">Mr Emmanuel Chng</td>
+		<td class="tg-ktyi">tham_jia_xin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Humanities</td>
     <td class="tg-ktyi">Mrs Lee Sear Yeen</td>
+		<td class="tg-ktyi">tham_jia_xin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Craft &amp; Technology</td>
     <td class="tg-ktyi">Mr Yap Kim Hon</td>
+		<td class="tg-ktyi">tham_jia_xin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Physical Education/CCA</td>
