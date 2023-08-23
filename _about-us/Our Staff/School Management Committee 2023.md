@@ -102,40 +102,48 @@ third_nav_title: Our Staff
     <td class="tg-ktyi">Mr Chan Haw Ling</td>
   </tr>
   <tr>
-    <td class="tg-s7g5" colspan="2">Subject Heads/Level Heads</td>
+    <td class="tg-s7g5" colspan="3">Subject Heads/Level Heads</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Literature</td>
     <td class="tg-ktyi">Ms Pamela Ng</td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
  
   <tr>
     <td class="tg-dgl5">Mathematics </td>
     <td class="tg-ktyi">Mrs Seow Peishan</td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-dgl5">Malay Language (Acting)</td>
     <td class="tg-ktyi">Mdm Noorhidayah Bte Md. Taib</td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Biology<br></td>
     <td class="tg-ktyi">Mrs Preeti Kulkarni<br></td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
 		<tr>
     <td class="tg-dgl5">Geography (Acting)</td>
     <td class="tg-ktyi">Mr Andrea Ang</td>
+			<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Project Work</td>
     <td class="tg-ktyi">Ms Tay Siew Woon</td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Educational Support</td>
     <td class="tg-ktyi">Ms Lee Han</td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Aesthetics</td>
     <td class="tg-ktyi">Mdm Ellen Wang Buay San</td>
+		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Physical Education</td>
