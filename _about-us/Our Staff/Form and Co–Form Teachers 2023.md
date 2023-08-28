@@ -102,43 +102,43 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">2N2</td>
-    <td class="tg-dgl5">Mdm Nurul Amirah Bte Ahmad</td>
-    <td class="tg-dgl5">Mr Kwan Mun Wai Mark</td>
-    <td class="tg-dgl5">Ms Lee Han</td>
+    <td class="tg-dgl5">Mdm Nurul Amirah Bte Ahmad<br><i>nurul_amirah_ahmad@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Kwan Mun Wai Mark<br><i>kwan_mun_wai@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Lee Han<br><i>lee_han@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2N3</td>
-    <td class="tg-dgl5">Mr Wong Yew Chiang Ryan</td>
-    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)</td>
+    <td class="tg-dgl5">Mr Wong Yew Chiang Ryan<br><i>ryan_wong@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">2T1</td>
-    <td class="tg-dgl5">Noranika Murni Bte Dol Karim</td>
-    <td class="tg-dgl5">Mrs Koh Li Li</td>
-    <td class="tg-dgl5">Mdm Wang Buay San Ellen</td>
+    <td class="tg-dgl5">Noranika Murni Bte Dol Karim<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mrs Koh Li Li<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Wang Buay San Ellen<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E1</td>
-    <td class="tg-dgl5">Mdm Lim Yiling Clarissa</td>
-    <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne</td>
-    <td class="tg-dgl5"> Ms Zhou Yuxi</td>
+    <td class="tg-dgl5">Mdm Lim Yiling Clarissa<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5"> Ms Zhou Yuxi<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E2</td>
-    <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu</td>
-    <td class="tg-dgl5"> Mdm Leow Pei Ying</td>
+    <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5"> Mdm Leow Pei Ying<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
 		</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
-    <td class="tg-dgl5">Mr Chua Choon Heong</td>
-    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol</td>
+    <td class="tg-dgl5">Mr Chua Choon Heong<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E4</td>
-    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)</td>
-    <td class="tg-dgl5">Ms Fazleen Bte Mahmud</td>
+    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Fazleen Bte Mahmud<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
