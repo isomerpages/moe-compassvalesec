@@ -12,14 +12,15 @@ third_nav_title: Our Staff
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">Class</th>
-    <th class="tg-9hzb">Form Teacher</th>
-    <th class="tg-9hzb">Co-Form Teacher</th>
-    <th class="tg-9hzb">Co-Form Teacher</th>
+    <th class="tg-s7g5">Class</th>
+    <th class="tg-s7g5">Form Teacher</th>
+    <th class="tg-s7g5">Co-Form Teacher</th>
+    <th class="tg-s7g5">Co-Form Teacher</th>
   </tr>
 </thead>
 <tbody>
