@@ -143,37 +143,37 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">3N1</td>
-    <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick) </td>
-    <td class="tg-dgl5">Ms Liew Feng Lin</td>
-    <td class="tg-dgl5">Mdm Audrey Leong </td>
+    <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick)<br><i>chong_khiam_kiat@moe.edu.sg</i> </td>
+    <td class="tg-dgl5">Ms Liew Feng Lin<br><i>liew_feng_lin@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Audrey Leong<br><i>Leong_meng_wai@moe.edu.sg</i> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N2</td>
-    <td class="tg-dgl5">Mr Ilanggo</td>
-    <td class="tg-dgl5">Mrs Viddyawati Gunalan</td>
+    <td class="tg-dgl5">Mr Ilanggo<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mrs Viddyawati Gunalan<br><i>fazleen_mahmud@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N3</td>
-    <td class="tg-dgl5">Ms Shirin Binte Shaik Muhyideen</td>
-    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar</td>
+    <td class="tg-dgl5">Ms Shirin Binte Shaik Muhyideen<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>fazleen_mahmud@moe.edu.sg</i></td>
       </tr>
   <tr>
     <td class="tg-9hzb">3T1</td>
-    <td class="tg-dgl5">Mdm Jamaliah Bte Mohamad Saleh</td>
-    <td class="tg-dgl5">Mr Foo Chang Yong (John)</td>
-    <td class="tg-dgl5">Mdm Ng Sin Yin Rebecca </td>
+    <td class="tg-dgl5">Mdm Jamaliah Bte Mohamad Saleh<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Foo Chang Yong (John)<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Ng Sin Yin Rebecca <br><i>fazleen_mahmud@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">4E1</td>
-    <td class="tg-dgl5">Mr Chan Seong Hung (Jeremy)</td>
-    <td class="tg-dgl5">Ms Koh Bee Choo</td>
+    <td class="tg-dgl5">Mr Chan Seong Hung (Jeremy)<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Koh Bee Choo<br><i>fazleen_mahmud@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4E2</td>
-    <td class="tg-dgl5">Mr Mohammad Firuz Bin Mustapha</td>
-    <td class="tg-dgl5">Mrs Preeti Kulkarni</td>
+    <td class="tg-dgl5">Mr Mohammad Firuz Bin Mustapha<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mrs Preeti Kulkarni<br><i>fazleen_mahmud@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
