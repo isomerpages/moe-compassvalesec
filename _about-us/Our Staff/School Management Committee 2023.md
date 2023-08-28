@@ -121,7 +121,7 @@ third_nav_title: Our Staff
 	<tr>
     <td class="tg-dgl5">Malay Language (Acting)</td>
     <td class="tg-ktyi">Mdm Noorhidayah Bte Md. Taib</td>
-		<td class="tg-ktyi"> </td>
+		<td class="tg-ktyi">noorhidayah_md_taib@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Biology<br></td>
