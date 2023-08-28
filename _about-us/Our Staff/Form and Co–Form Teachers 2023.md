@@ -109,7 +109,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">2N3</td>
     <td class="tg-dgl5">Mr Wong Yew Chiang Ryan<br><i>ryan_wong@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>amy_tso_shuk_yan@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
