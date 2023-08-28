@@ -32,13 +32,13 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">1-2</td>
-    <td class="tg-dgl5">Mdm Low E Soon</td>
-    <td class="tg-dgl5">Mr Kartik Gayan Rajaram</td>
+    <td class="tg-dgl5">Mdm Low E Soon<br><i>low_e_soon@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Kartik Gayan Rajaram<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-3</td>
-    <td class="tg-dgl5">Mdm Mohanajothi Kesavan</td>
+    <td class="tg-dgl5">Mdm Mohanajothi Kesavan<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mr Por Ee Lian (Benjamin)</td>
     <td class="tg-dgl5"> </td>
   </tr>
