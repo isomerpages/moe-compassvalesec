@@ -38,33 +38,33 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">1-3</td>
-    <td class="tg-dgl5">Mdm Mohanajothi Kesavan<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin)</td>
+    <td class="tg-dgl5">Mdm Mohanajothi Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin)<br><i>por_ee_lian@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-4</td>
-    <td class="tg-dgl5">Mdm Chitra Panneer Selvam</td>
-    <td class="tg-dgl5">Ms Jasmine Wong Shu Ting</td>
-    <td class="tg-dgl5">Mdm Noorhidayah Bte Md Taib</td>
+    <td class="tg-dgl5">Mdm Chitra Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Jasmine Wong Shu Ting<br><i>Jasmine_wong_Shu_ting@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Noorhidayah Bte Md Taib<br><i></i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-5</td>
-    <td class="tg-dgl5">Ms Leow Deng Li</td>
-    <td class="tg-dgl5">Mdm Ng Si Ying, Pamela</td>
+    <td class="tg-dgl5">Ms Leow Deng Li<br><i>leow_deng_li@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Ng Si Ying, Pamela<br><i>pamela_ng_si_ying@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-6</td>
-    <td class="tg-dgl5">Mdm Sarah Ang En Ling (Mrs Chia)</td>
-    <td class="tg-dgl5">Mdm Winnie Chia (Mrs Lim)</td>
+    <td class="tg-dgl5">Mdm Sarah Ang En Ling (Mrs Chia)<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Winnie Chia (Mrs Lim)<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-7</td>
-    <td class="tg-dgl5">Mr Ang Chee Yong</td>
-    <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)</td>
-    <td class="tg-dgl5"> Ms Tow Junli, Natalie</td>
+    <td class="tg-dgl5">Mr Ang Chee Yong<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
+    <td class="tg-dgl5"> Ms Tow Junli, Natalie<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-8</td>
