@@ -56,14 +56,14 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">1-6</td>
-    <td class="tg-dgl5">Mdm Sarah Ang En Ling (Mrs Chia)<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Winnie Chia (Mrs Lim)<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Sarah Ang En Ling (Mrs Chia)<br><i>sarah_ang_en_ling@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Winnie Chia (Mrs Lim)<br><i>chia_winnie@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-7</td>
-    <td class="tg-dgl5">Mr Ang Chee Yong<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Ang Chee Yong<br><i>ang_chee_yong@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)<br><i>lei_pei_shan@moe.edu.sg</i></td>
     <td class="tg-dgl5"> Ms Tow Junli, Natalie<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
   </tr>
   <tr>
