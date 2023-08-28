@@ -127,18 +127,18 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">3E2</td>
     <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu<br><i>kulandayan_thirunavukarasu@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> Mdm Leow Pei Ying<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5"> Mdm Leow Pei Ying<br><i>leow_pei_ying@moe.edu.sg</i></td>
 		</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
-    <td class="tg-dgl5">Mr Chua Choon Heong<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Chua Choon Heong<br><i>chua_choon_heong@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol<br><i>Muhammad Asyraf Bin Zainol</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E4</td>
-    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Ms Fazleen Bte Mahmud<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)<br><i>yet_tun_quan@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Fazleen Bte Mahmud<br><i>fazleen_mahmud@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
