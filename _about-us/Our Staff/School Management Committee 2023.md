@@ -25,14 +25,17 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Principal</td>
     <td class="tg-ktyi">Mr Chua Tung Kian</td>
+		<td class="tg-ktyi">chua_tung_kian@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Vice-Principal (Academic)</td>
     <td class="tg-ktyi">Mr Sukhdev Singh</td>
+		<td class="tg-ktyi">sukhdev_singh@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Vice-Principal (Academic)</td>
     <td class="tg-ktyi">Mrs Jacqueline Tang</td>
+		<td class="tg-ktyi">jacqueline_lee@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-s7g5" colspan="3">Heads of Department</td>
