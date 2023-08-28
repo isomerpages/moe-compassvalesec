@@ -68,37 +68,37 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">1-8</td>
-    <td class="tg-dgl5">Mr Soh Meng Le</td>
-    <td class="tg-dgl5">Ms Tay Siew Woon</td>
-    <td class="tg-dgl5"> Mr Noor Syafiq Bin Abdul Rashid</td>
+    <td class="tg-dgl5">Mr Soh Meng Le<br><i>soh_meng_le@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Tay Siew Woon<br><i>tay_siew_woon@moe.edu.sg</i></td>
+    <td class="tg-dgl5"> Mr Noor Syafiq Bin Abdul Rashid<br><i>noor_syafiq_abdul_rashid@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E1</td>
-    <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin</td>
-    <td class="tg-dgl5">Ms Tan Hui Min</td>
+    <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin<br><i>mohamed_fairoz_nordin@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Tan Hui Min<br><i>tan_hui_min@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E2</td>
-    <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif</td>
-        <td class="tg-dgl5">Mdm Ng Lay Hoon</td>
+    <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif<br><i>shahirah_muhammad_sharif@moe.edu.sg</i></td>
+        <td class="tg-dgl5">Mdm Ng Lay Hoon<br><i>ng_lay_hoon_b@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E3</td>
-    <td class="tg-dgl5">Mdm Geraldine Lim (Mrs Lee)</td>
-    <td class="tg-dgl5">Mr Patrick Ho Wee Kheat</td>
+    <td class="tg-dgl5">Mdm Geraldine Lim (Mrs Lee)<br><i>lim_soo_gek_geraldine@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Patrick Ho Wee Kheat<br><i>ho_wee_kheat@moe.edu.sg</i></td>
     </tr>
   <tr>
     <td class="tg-9hzb">2E4</td>
-    <td class="tg-dgl5">Mr Sim Chay Whatt</td>
-    <td class="tg-dgl5">Mdm Yeo Seok Poh (Janet)</td>
+    <td class="tg-dgl5">Mr Sim Chay Whatt<br><i>sim_chay_whatt@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Yeo Seok Poh (Janet)<br><i>yeo_seok_poh@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">2N1</td>
-    <td class="tg-dgl5">Mr Tan Huay Hong</td>
-    <td class="tg-dgl5">Mr Chong Jee Keong</td>
-    <td class="tg-dgl5">Mdm Donna Chang</td>
+    <td class="tg-dgl5">Mr Tan Huay Hong<br><i>tan_huay_hong@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Chong Jee Keong<br><i>chong_jee_keong@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Donna Chang<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2N2</td>
