@@ -25,9 +25,9 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-9hzb">1-1</td>
-    <td class="tg-dgl5">Ms Zhuang Chuzhen</td>
-    <td class="tg-dgl5">Mr Fauwaz Nurhelmy bin Maaroof</td>
-		<td class="tg-dgl5">Ms Toh Xuan Hui</td>
+		<td class="tg-dgl5">Ms Zhuang Chuzhen <br><i>zhuang_chuzhen@moe.edu.sg</i></td>
+		<td class="tg-dgl5">Mr Fauwaz Nurhelmy bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg</i></td>
+		<td class="tg-dgl5">Ms Toh Xuan Hui<br><i>toh_xuan_hui@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -228,4 +228,4 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-*updated 10 Aug 2023*
+*updated 28 Aug 2023*
