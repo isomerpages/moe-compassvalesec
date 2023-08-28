@@ -46,7 +46,7 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">1-4</td>
     <td class="tg-dgl5">Mdm Chitra Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg</i></td>
     <td class="tg-dgl5">Ms Jasmine Wong Shu Ting<br><i>Jasmine_wong_Shu_ting@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Noorhidayah Bte Md Taib<br><i></i></td>
+    <td class="tg-dgl5">Mdm Noorhidayah Bte Md Taib<br><i>noorhidayah_md_taib@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-5</td>
