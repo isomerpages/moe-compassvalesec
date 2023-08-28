@@ -178,49 +178,49 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">4E3</td>
-    <td class="tg-dgl5">Mdm Zubaidah Leyman<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Ng Junjie<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Zubaidah Leyman<br><i>zubaidah_leyman@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Ng Junjie<br><i>ng_junjie@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4E4</td>
-    <td class="tg-dgl5">Mr Arman Sujak<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Chan Suz Yi (Mrs Khoo)<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Chan Suz Yi (Mrs Khoo)<br><i>chan_suz_yi@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4E5</td>
-    <td class="tg-dgl5">Mr Ng Hong Pin<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Wan Fazithahariani Bte Wan Ahmad<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Ng Hong Pin<br><i>ng_hong_pin@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Wan Fazithahariani Bte Wan Ahmad<br><i>wan_fazithahariani_wan_a@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4N1</td>
-    <td class="tg-dgl5">Mr Andy Ang Joon Boon<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Ong Kok Hwee<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Andy Ang Joon Boon<br><i>ang_joon_boon_andy@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Ong Kok Hwee<br><i>ong_kok_hwee@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4N2</td>
-    <td class="tg-dgl5">Mr Wang Tiancai, Richmond<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Seow Ching Hui (Lawrence)<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Wang Tiancai, Richmond<br><i>wang_tiancai_richmond@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Seow Ching Hui (Lawrence)<br><i>Seow_ching_hui@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee<br><i>mohamad_shalleh_bin_sujaee@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">4T1</td>
-    <td class="tg-dgl5">Mdm Chew Biyu Mildred</td>
-    <td class="tg-dgl5">Mdm Huang Shiying April</td>
-    <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)</td>
+    <td class="tg-dgl5">Mdm Chew Biyu Mildred<br><i>chew_biyu_mildred@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Huang Shiying April<br><i>tan_meow_tang@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">5N1/2</td>
-    <td class="tg-dgl5">Mdm Fawziyah Bte Ali</td>
-    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)</td>
+    <td class="tg-dgl5">Mdm Fawziyah Bte Ali<br><i>fawziyah_ali@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)<br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
     <tr><td class="tg-9hzb">5N3</td>
-    <td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei</td>
-     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving) </td>
+    <td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei<br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
+     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)<br><i>nur_ellyna_md_isa@moe.edu.sg</i> </td>
   </tr>
   <tr>
     <td class="tg-dgl5"> </td>
