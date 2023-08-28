@@ -82,11 +82,12 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">2E2</td>
     <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif<br><i>shahirah_muhammad_sharif@moe.edu.sg</i></td>
         <td class="tg-dgl5">Mdm Ng Lay Hoon<br><i>ng_lay_hoon_b@moe.edu.sg</i></td>
+		 <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2E3</td>
     <td class="tg-dgl5">Mdm Geraldine Lim (Mrs Lee)<br><i>lim_soo_gek_geraldine@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Patrick Ho Wee Kheat<br><i>ho_wee_kheat@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Patrick Ho Wee Kheat<br><i>ho_wee_kheat@moe.edu.sg</i></td><td class="tg-dgl5"></td>
     </tr>
   <tr>
     <td class="tg-9hzb">2E4</td>
@@ -128,6 +129,7 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">3E2</td>
     <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu<br><i>kulandayan_thirunavukarasu@moe.edu.sg</i></td>
     <td class="tg-dgl5"> Mdm Leow Pei Ying<br><i>leow_pei_ying@moe.edu.sg</i></td>
+		<td class="tg-dgl5"></td>
 		</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
@@ -221,6 +223,7 @@ third_nav_title: Our Staff
     <tr><td class="tg-9hzb">5N3</td>
     <td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei<br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
      <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)<br><i>nur_ellyna_md_isa@moe.edu.sg</i> </td>
+			<td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-dgl5"> </td>
