@@ -114,19 +114,19 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9hzb">2T1</td>
-    <td class="tg-dgl5">Noranika Murni Bte Dol Karim<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mrs Koh Li Li<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Wang Buay San Ellen<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Noranika Murni Bte Dol Karim<br><i>noranika_murni_dol_karim@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mrs Koh Li Li<br><i>chin_li_li@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Wang Buay San Ellen<br><i>wang_buay_san_ellen@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E1</td>
-    <td class="tg-dgl5">Mdm Lim Yiling Clarissa<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> Ms Zhou Yuxi<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Lim Yiling Clarissa<br><i>lim_yiling_clarissa@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne<br><i>tan_siew_hian@moe.edu.sg</i></td>
+    <td class="tg-dgl5"> Ms Zhou Yuxi<br><i>zhou_yuxi@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E2</td>
-    <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu<br><i>kulandayan_thirunavukarasu@moe.edu.sg</i></td>
     <td class="tg-dgl5"> Mdm Leow Pei Ying<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
 		</tr>
   <tr>
