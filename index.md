@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: National School Games Softball ('C' Div Boys) - 4th Placing!
+      title: National School Games Softball ('C' Div Boys) - 4th Placing
       subtitle: Achievement
       description: 24 Aug 2023
       button: Read more on Instagram
