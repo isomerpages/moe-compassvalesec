@@ -5,9 +5,9 @@ description: ""
 ---
 ### 2023
 
-<img src="/images/MR%20CHUA%20TUNG%20KIAN%20PRINCIPAL.jpg" style="width:40%">
+![](/images/About%20Us%20%20%20Staff/elementz_ls_2023_jpg_cropped.jpg)
 
-Welcome, students, parents and colleagues, to the 2023 school year. &nbsp;I am honoured to be entrusted with the responsibility of leadership for Compassvale Secondary School.&nbsp;&nbsp;I want to convey my appreciation and gratitude to the former principal, Mr Chia Chor Yann, for his exemplary leadership of the school over the past 6 years.
+Welcome, students, parents and colleagues, to the 2023 school year. I am honoured to be entrusted with the responsibility of leadership for Compassvale Secondary School. I want to convey my appreciation and gratitude to the former principal, Mr Chia Chor Yann, for his exemplary leadership of the school over the past 6 years.
 
 Since its establishment in 2000, Compassvale Secondary School has established itself as a school of choice in the northeast. Our students consistently do very well holistically, and gain rich authentic learning experiences that set them up for success in their future endeavours. This would not be possible without a strong team – caring, capable, competent teachers, supportive parents and a close-knit community of stakeholders.
 
