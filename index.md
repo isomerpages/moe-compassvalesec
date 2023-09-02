@@ -34,11 +34,11 @@ sections:
       image: /images/Landing Page/compassvale_logo_a_a_highlights.png
       alt: Annual Awards Day 2023
   - infopic:
-      title: Singapore Amazing Flying Competition 2023
+      title: National School Games Softball ('C' Div Boys)
       subtitle: Achievement
-      description: 1 April 2023
+      description: 24 Aug 2023
       button: Read more on Instagram
-      url: https://www.instagram.com/p/CqoXnm2SyeX/?igshid=YmMyMTA2M2Y=
+      url: https://www.instagram.com/p/Cwe60yAxnMY/?igshid=MzRlODBiNWFlZA==
       image: /images/Landing Page/saf 2023.jpg
-      alt: SAFMC 2023
+      alt: NSG Softball ('C' Div) 2023
 ---
