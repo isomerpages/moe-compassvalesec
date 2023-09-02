@@ -103,7 +103,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">School Staff Developer</td>
     <td class="tg-ktyi">Mr Chan Haw Ling</td>
-  </tr>
+  	<td class="tg-ktyi">chan_haw_ling@moe.edu.sg</td></tr>
   <tr>
     <td class="tg-s7g5" colspan="3">Subject Heads/Level Heads</td>
   </tr>
