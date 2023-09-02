@@ -28,3 +28,5 @@ description: ""
 **We want to show the world, what we can be**
 
 **We will stand tall and proud, as the star of the north**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UscV3wBkunE?si=yxHyQrIdE6psCKox" height="315" width="560"></iframe>
