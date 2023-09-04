@@ -15,7 +15,7 @@ We offer a rich and personalised curricular and co-curricular experience for all
 
 ![](/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg)
 
-<img width="200" src="/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg">
+<img height="600" width="100" src="/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg">
 
 We want our students to **Learn and Excel**.&nbsp; We achieve this through engaging, authentic learning experiences designed by our teachers.&nbsp; We leverage technology, and ground learning experience design on subject disciplinarity and real-world applications.&nbsp; Students explore connections between different disciplines, examine local and global issue to appreciate diversity, and develop 21st century competencies.&nbsp; In doing so, we cultivate in them learning dispositions of curiosity, self-directedness and resilience.&nbsp; This will ensure they become lifelong learners who are globally competent.
 
