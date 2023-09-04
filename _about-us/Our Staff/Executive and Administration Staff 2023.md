@@ -135,6 +135,10 @@ third_nav_title: Our Staff
     <td class="tg-dgl5">Infocomm Technology (ICT) Manager</td>
     <td class="tg-ktyi">Mr Yeo Choon Hoo</td>
   </tr>
+	 <tr>
+    <td class="tg-dgl5">Infocomm Technology (ICT) Executive</td>
+    <td class="tg-ktyi">Ms Nurul Fatin Jumahat</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Desktop Engineer (DE) 1</td>
     <td class="tg-ktyi">Mr Kelvin Yap Kai Loon</td>
