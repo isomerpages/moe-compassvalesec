@@ -14,6 +14,8 @@ We offer a rich and personalised curricular and co-curricular experience for all
 ![](/images/The%20Compassvale%20Experience/row1_1_world%20scholars%20cup.jpg)
 
 ![](/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg)
+a
+
 <style type="text/css">
 .fit-picture {
   width: 150px;
