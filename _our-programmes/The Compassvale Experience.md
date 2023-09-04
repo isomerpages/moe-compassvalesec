@@ -12,10 +12,7 @@ We offer a rich and personalised curricular and co-curricular experience for all
 ###### *Across these six Integrated Competency and Development Clusters,*
 
 <img style="width:70%" src="/images/The%20Compassvale%20Experience/row1_1_world%20scholars%20cup.jpg">
-
 <br>
-
-
 
 <img style="width:70%" src="/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg">
 
