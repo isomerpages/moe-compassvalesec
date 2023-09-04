@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message 2023.md
-      - Philosophy, Culture and Ethos.md
       - Vision, Mission and Values.md
       - School Song.md
       - Our Staff/.keep
@@ -15,4 +14,3 @@ collections:
       - Awards and Achievements/School Awards and Achievements.md
       - Awards and Achievements/O Levels.md
       - Awards and Achievements/N Levels.md
-      - Awards and Achievements/Accolades from the Public.md

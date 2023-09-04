@@ -3,9 +3,30 @@ title: School Song
 permalink: /about-us/school-song/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aaZ1bXkSSMs" height="315" width="560"></iframe>
+## Realising the Star Within
 
-## REALISING THE STAR WITHIN
+*Lyrics and music: Er Wee San and Huang Ding Xiang*
 
+**We seize each day with confidence, soaring with creativity**
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTi8bmWesOTDs4WJK_8skqtBwgplBE29NnxHZinTkyUoJkh1MP1WwzwYPpmXU8k1kPGmIpc3vbvmzWA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+**To bring out the best that we can achieve, there’s a star in all of us**
+
+**We reach out to all with compassion, as we live our dreams with commitment**
+
+**Living and learning with passion, as we realise the star within**
+
+**We want to shine like a star in the sky**
+
+**We want to show the world, what we can be**
+
+**We will stand tall and proud, as the star of the north**
+
+**A light to inspire all**
+
+**We want to shine like a star in the sky**
+
+**We want to show the world, what we can be**
+
+**We will stand tall and proud, as the star of the north**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UscV3wBkunE?si=yxHyQrIdE6psCKox" height="315" width="560"></iframe>

@@ -3,33 +3,40 @@ title: Vision, Mission and Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-**Vision -**&nbsp;World Ready Youth - Innovative contributors, upright citizens with a global outlook&nbsp;  
+We believe that all our students have the innate potential to shine.  This is why we call them “North Stars”.  As a school, we want to build a vibrant and uplifting community where everyone, both our North Stars and our staff, can learn, grow and lead.  This is our mission in our pursuit of holistic development for all who pass through Compassvale Secondary School. 
+
+# Our Vision
+### *World-Ready Youth*
+
+ A World-Ready Youth is an adaptable, innovative and discerning leader who makes a positive difference. 
+
+They are thinkers and leaders who are globally competent, grounded by good character, serve and lead with distinction, to contribute to the building of a vibrant and uplifting community and society for everyone. 
   
-
-*   An&nbsp;innovative contributor&nbsp;perseveres in the pursuit of life-long learning and excellence and is undaunted by failures; he/she &nbsp;has the courage to go against conventional wisdom by questioning and thinking independently and&nbsp;critically; taking calculated risks to come up with innovative ideas that will benefit others.&nbsp;&nbsp; He/she is both a leader and a good team player and is able to communicate his/her ideas effectively with others.  
-*   An&nbsp;upright citizen with a global outlook&nbsp;is one who is not only rooted to Singapore but has a global perspective of things through his/her wide readings, travels and networking.&nbsp; He/she has a strong sense of right and wrong and exercises his/her civic and social responsibilities well.
-
-
-**Mission -**&nbsp;We develop our students to their fullest potential through a balanced education and instill in them a passion for living and learning.  
+## Our Mission 
   
-**Motto -**&nbsp;Realising the Star Within
+_Building a Vibrant and Uplifting Community where we Learn, Grow and Lead_
 
-**School Values -**
-<img src="/images/G2R3IT.png" style="width:40%">
+## Our Motto
+*Realising the Star Within*
+
+## Our School Values
+Confidence | Commitment | Creativity | Compassion
+
+Therefore, as a school:
+•	We care and support each other as an inclusive school community;
+•	We believe that we can excel and realise our potential;
+•	We design engaging school programmes to develop lifelong learners;
+•	We nurture citizens of good character who will serve the community;
+•	We foster a spirit of innovation and collaboration among students and our staff.
 
 
-**GRACIOUSNESS**&nbsp;– Be kind in thoughts, words and deeds
+## The North Stars' Pledge
 
-**GRATITUDE**&nbsp;– To be thankful and show appreciation
 
-**RESPECT**&nbsp;– Value self and others
+I will learn and find my compass
 
-**RESPONSIBILITY**&nbsp;– Fulfils one’s duty and commitment to the best of one’s ability
+I will excel and strive to go far
 
-**RESILIENCE**&nbsp;– Persevere in overcoming challenges
+I will grow and live a life of purpose
 
-**INTEGRITY**&nbsp;– Be morally upright
-
-**TEAMWORK**&nbsp;– Works together towards a common goal
-
-![](/images/CVSS%20RTSW.jpg)
+I will shine as I am a North Star

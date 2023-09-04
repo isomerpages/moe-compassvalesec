@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - North Star Education Programme.md
+      - The Compassvale Experience.md
       - Instructional Programme/.keep
       - Instructional Programme/English.md
       - Instructional Programme/Mother Tongue.md
@@ -12,7 +12,6 @@ collections:
       - Instructional Programme/Craft and Technology.md
       - Instructional Programme/Physical Education.md
       - Distinctive Programmes/.keep
-      - Distinctive Programmes/Interdisciplinary Project Work (PW).md
       - Distinctive Programmes/Aeronautics Applied Learning Programme (ALP).md
       - Distinctive Programmes/Learning for Life Programme (LLP).md
       - Student Development Programmes/.keep

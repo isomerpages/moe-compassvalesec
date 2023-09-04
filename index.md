@@ -17,13 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: 2023 Semester 2 Timetables
-      subtitle: Announcement
-      button: Click to access Announcements
-      alt: Image alt text
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      description: have been uploaded in the Announcements section.
+      title: National School Games Softball ('C' Div Boys) - 4th Placing
+      subtitle: Achievement
+      description: 24 Aug 2023
+      button: Read more on Instagram
+      url: https://www.instagram.com/p/Cwe60yAxnMY/?igshid=MzRlODBiNWFlZA==
+      image: /images/Landing Page/softball_c_div_4thplace_2023_cropped.jpeg
+      alt: NSG Softball ('C' Div) 2023
   - infopic:
       title: Annual Awards Day 2023
       subtitle: Announcement
@@ -33,12 +33,4 @@ sections:
       url: http://go.gov.sg/annualawards-2023
       image: /images/Landing Page/compassvale_logo_a_a_highlights.png
       alt: Annual Awards Day 2023
-  - infopic:
-      title: Singapore Amazing Flying Competition 2023
-      subtitle: Achievement
-      description: 1 April 2023
-      button: Read more on Instagram
-      url: https://www.instagram.com/p/CqoXnm2SyeX/?igshid=YmMyMTA2M2Y=
-      image: /images/Landing Page/saf 2023.jpg
-      alt: SAFMC 2023
 ---
