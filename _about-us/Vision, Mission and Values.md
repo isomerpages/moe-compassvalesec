@@ -14,9 +14,9 @@ h2 {
 <h2>
 Our Vision </h2>
 	
-## Our Vision
+
 <center>
-*World - Ready Youth* </center>
+	<i>World - Ready Youth</i> </center>
 
 
 
@@ -26,15 +26,18 @@ Our Vision </h2>
 They are thinkers and leaders who are globally competent, grounded by good character, serve and lead with distinction, to contribute to the building of a vibrant and uplifting community and society for everyone. 
 
 	
-## Our Mission 
+<h2>Our Mission</h2> 
   
-_Building a Vibrant and Uplifting Community where we Learn, Grow and Lead_ 
+<center>
+	<i>Building a Vibrant and Uplifting Community where we Learn, Grow and Lead</i></center>
 
-## Our Motto
-*Realising the Star Within*
+<h2> Our Motto</h2>
+<center>
+	<i>Realising the Star Within</i></center>
 
-## Our School Values
-Confidence | Commitment | Creativity | Compassion
+<h2> Our School Values</h2>
+<center>
+Confidence | Commitment | Creativity | Compassion</center>
 
 
 Therefore, as a school:
@@ -46,8 +49,7 @@ Therefore, as a school:
 
 
 	
-## The North Stars' Pledge
-
+<h2> The North Stars' Pledge </h2>
 <center>
 I will learn and find my compass
 
