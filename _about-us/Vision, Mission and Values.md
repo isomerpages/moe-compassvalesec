@@ -3,18 +3,14 @@ title: Vision, Mission and Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-<style>
-.center {
- text-align: center
-}
-</style>
+
 
 We believe that all our students have the innate potential to shine.  This is why we call them “**North Stars**”.  As a school, we want to build a vibrant and uplifting community where everyone, both our North Stars and our staff, can learn, grow and lead.  This is our mission in our pursuit of holistic development for all who pass through Compassvale Secondary School. 
 
+<h2 style="text-align:center"> 
+## Our Vision
+*World - Ready Youth* </h2>
 
-<h2>
-## Our Vision </h2>
-*World - Ready Youth*
 
 
 
@@ -52,4 +48,4 @@ I will excel and strive to go far
 
 I will grow and live a life of purpose
 
-I will shine as I am a North Star 
+I will shine as I am a North Star
