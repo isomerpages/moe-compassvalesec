@@ -51,10 +51,10 @@ Therefore, as a school:
 	
 <h2> The North Stars' Pledge </h2>
 <center>
-I will learn and find my compass
+I will learn and find my compass<br>
 
-I will excel and strive to go far
+I will excel and strive to go far<br>
 
-I will grow and live a life of purpose
+I will grow and live a life of purpose<br>
 
 I will shine as I am a North Star </center>
