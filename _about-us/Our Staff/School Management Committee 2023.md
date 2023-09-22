@@ -183,11 +183,6 @@ third_nav_title: Our Staff
     <td class="tg-ktyi">Mr Kartik Gayan Rajaram</td>
 	<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Pastoral Care</td>
-    <td class="tg-5bwz"><span style="color:#241102">Mdm Phua Seok Ming Jasmine</span></td>
-	<td class="tg-ktyi">Jasmine_wong_Shu_ting@moe.edu.sg</td>
-  </tr>
 	<tr>
     <td class="tg-dgl5">Student Management (Acting)</td>
     <td class="tg-ktyi">Mdm Rebecca Ng</td>
