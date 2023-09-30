@@ -35,7 +35,7 @@ sections:
       alt: Annual Awards Day 2023
   - infopic:
       title: "Online Outreach: CVSS Live!"
-      subtitle: EVENT
+      subtitle: UPCOMING EVENT
       id: infopic
       description: >-
         Calling all P5/P6 students & Parents! 
