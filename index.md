@@ -34,7 +34,7 @@ sections:
       image: /images/Landing Page/compassvale_logo_a_a_highlights.png
       alt: Annual Awards Day 2023
   - infopic:
-      title: CVSS Live!
+      title: "Online Outreach: CVSS Live!"
       subtitle: EVENT
       id: infopic
       description: >-
