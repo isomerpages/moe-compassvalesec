@@ -37,13 +37,10 @@ sections:
       title: CVSS Live!
       subtitle: EVENT
       id: infopic
-      description: >+
+      description: >-
         Calling all P5/P6 students & Parents! 
 
         Join us at our inaugural ‘live’ online event to gain exclusive insights on the Compassvale Experience.
-
-
-
       button: Click to find out more on Facebook
       url: https://www.facebook.com/100089303107388/posts/pfbid02P4QY6WuGytG3oKGjXyaSZiqPdysWTSa5rxt6D2cQ9cs8xLcuCBXkoX97jS32GqbVl/?mibextid=cr9u03
       image: /images/Landing Page/oh23_ig.jpg
