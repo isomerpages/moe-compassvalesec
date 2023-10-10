@@ -26,7 +26,7 @@ sections:
         Join us at our inaugural ‘live’ online event (on Youtube Live) to gain exclusive insights on the Compassvale Experience.
       button: Click to find out more on Facebook
       url: https://www.facebook.com/100089303107388/posts/pfbid02P4QY6WuGytG3oKGjXyaSZiqPdysWTSa5rxt6D2cQ9cs8xLcuCBXkoX97jS32GqbVl/?mibextid=cr9u03
-      image: /images/Landing Page/banner for website.jpg
+      image: /images/banner for website _ outreach_final.jpg
       alt: Image alt text
   - infopic:
       title: National School Games Softball ('C' Div Boys) - 4th Placing
