@@ -32,7 +32,7 @@ sections:
       title: Schedule for Checking of Exam Papers (16-18 Oct)
       subtitle: Announcement
       button: Click to view schedules
-      url: https://www.compassvalesec.moe.edu.sg/announcements/2023eoypapers/
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
       image: /images/CVSS RTSW.jpg
   - infopic:
       title: National School Games Softball ('C' Div Boys) - 4th Placing
