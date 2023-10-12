@@ -34,7 +34,6 @@ sections:
       button: Click to view schedules
       url: https://www.compassvalesec.moe.edu.sg/announcements/2023eoypapers/
       image: /images/CVSS RTSW.jpg
-      alt: " "
   - infopic:
       title: National School Games Softball ('C' Div Boys) - 4th Placing
       subtitle: Achievement
