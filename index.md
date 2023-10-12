@@ -26,8 +26,15 @@ sections:
         Join us at our inaugural ‘live’ online event (on Youtube Live) to gain exclusive insights on the Compassvale Experience.
       button: Click to find out more on Facebook
       url: https://www.facebook.com/100089303107388/posts/pfbid02P4QY6WuGytG3oKGjXyaSZiqPdysWTSa5rxt6D2cQ9cs8xLcuCBXkoX97jS32GqbVl/?mibextid=cr9u03
-      image: /images/Landing Page/banner for website.jpg
+      image: /images/banner for website _ outreach_final.jpg
       alt: Image alt text
+  - infopic:
+      title: Schedule for Checking of Exam Papers (16-18 Oct)
+      subtitle: Announcement
+      button: Click to view schedules
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/CVSS RTSW.jpg
+      alt: School image
   - infopic:
       title: National School Games Softball ('C' Div Boys) - 4th Placing
       subtitle: Achievement
@@ -36,13 +43,4 @@ sections:
       url: https://www.instagram.com/p/Cwe60yAxnMY/?igshid=MzRlODBiNWFlZA==
       image: /images/Landing Page/softball_c_div_4thplace_2023_cropped.jpeg
       alt: NSG Softball ('C' Div) 2023
-  - infopic:
-      title: Annual Awards Day 2023
-      subtitle: Announcement
-      description: CVSS held its Annual Awards Day on 5 May 2023. Access the event
-        website via the link below to find out more information.
-      button: Click to access event website
-      url: http://go.gov.sg/annualawards-2023
-      image: /images/Landing Page/compassvale_logo_a_a_highlights.png
-      alt: Annual Awards Day 2023
 ---
