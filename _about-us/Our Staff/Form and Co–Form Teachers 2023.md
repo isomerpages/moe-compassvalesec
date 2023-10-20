@@ -159,7 +159,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">3N3</td>
     <td class="tg-dgl5">Ms Shirin Binte Shaik Muhyideen<br><i>shirin_shaik_muhyideen@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>huang_shiying@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>nur_azam_jaffar@moe.edu.sg</i></td>
       </tr>
   <tr>
     <td class="tg-9hzb">3T1</td>
@@ -212,7 +212,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">4T1</td>
     <td class="tg-dgl5">Mdm Chew Biyu Mildred<br><i>chew_biyu_mildred@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Huang Shiying April<br><i>tan_meow_tang@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Huang Shiying April<br><i>huang_shiying@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)<br><i>goh_keng_chuan@moe.edu.sg</i></td>
   </tr>
   <tr>
