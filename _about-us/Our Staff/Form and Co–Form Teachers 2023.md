@@ -213,7 +213,7 @@ third_nav_title: Our Staff
     <td class="tg-9hzb">4T1</td>
     <td class="tg-dgl5">Mdm Chew Biyu Mildred<br><i>chew_biyu_mildred@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Huang Shiying April<br><i>tan_meow_tang@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)<br><i>goh_keng_chuan@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">5N1/2</td>
