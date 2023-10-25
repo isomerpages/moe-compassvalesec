@@ -135,7 +135,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">3E3</td>
     <td class="tg-dgl5">Mr Chua Choon Heong<br><i>chua_choon_heong@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol<br><i>Muhammad Asyraf Bin Zainol</i></td>
+    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol<br><i>muhammad_asyraf_zainol@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">3N3</td>
     <td class="tg-dgl5">Ms Shirin Binte Shaik Muhyideen<br><i>shirin_shaik_muhyideen@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>huang_shiying@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>nur_azam_jaffar@moe.edu.sg</i></td>
       </tr>
   <tr>
     <td class="tg-9hzb">3T1</td>
@@ -176,7 +176,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">4E2</td>
     <td class="tg-dgl5">Mr Mohammad Firuz Bin Mustapha<br><i>mohammad_firuz_mustapha@moe.edu.sg</i></td>
-    <td class="tg-dgl5">preeti_vikas_palkar@moe.edu.sg<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Preeti Kulkarni<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -212,13 +212,13 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-9hzb">4T1</td>
     <td class="tg-dgl5">Mdm Chew Biyu Mildred<br><i>chew_biyu_mildred@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Huang Shiying April<br><i>tan_meow_tang@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)<br><i>preeti_vikas_palkar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Huang Shiying April<br><i>huang_shiying@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Goh Keng Chuan (Ken)<br><i>goh_keng_chuan@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">5N1/2</td>
     <td class="tg-dgl5">Mdm Fawziyah Bte Ali<br><i>fawziyah_ali@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)<br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa (roving)<br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
     <tr><td class="tg-9hzb">5N3</td>
