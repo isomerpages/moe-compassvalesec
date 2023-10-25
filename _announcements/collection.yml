@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - 2024 Schedule for Checking of End of Year Papers.md
+      - 2023 Schedule for Checking of End of Year Papers.md
       - 2023 Semester 2 Timetables.md
       - 2023 Semester 1 Timetables.md
       - 2023 Booklist and Uniform Order Form (Sec 1 to Sec 5).md
