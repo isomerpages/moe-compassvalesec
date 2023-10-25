@@ -17,22 +17,16 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: CVSS Open House
+      title: CVSS Open House!
       subtitle: UPCOMING EVENT
       id: infopic
-      description: |
-        Calling all P5/P6 students & Parents! 
-      button: Click to find out more on Facebook
-      url: https://www.facebook.com/100089303107388/posts/pfbid02P4QY6WuGytG3oKGjXyaSZiqPdysWTSa5rxt6D2cQ9cs8xLcuCBXkoX97jS32GqbVl/?mibextid=cr9u03
-      image: /images/banner for website _ outreach_final.jpg
+      description: Come visit CVSS at our OPEN HOUSE on Sat, 18 Nov 2023, from 10 am
+        to 2.30 pm! Come and gain first-hand insights about the distinctive
+        Compassvale Experience.
+      button: Click to find out more on IG
+      url: https://www.instagram.com/p/Cyzjmc4pnWy/?utm_source=ig_web_copy_link
+      image: /images/Landing Page/open house_banner_2023.jpeg
       alt: Image alt text
-  - infopic:
-      title: Schedule for Checking of Exam Papers (16-18 Oct)
-      subtitle: Announcement
-      button: Click to view schedules
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/CVSS RTSW.jpg
-      alt: School image
   - infopic:
       title: National School Games Softball ('C' Div Boys) - 4th Placing
       subtitle: Achievement
