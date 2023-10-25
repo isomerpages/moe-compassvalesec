@@ -7,7 +7,7 @@ third_nav_title: Announcements
 * [2023 Schedule for Checking End-Of-Year Papers](/announcements/2023eoypapers)
 * (NEW) [2023 Semester 2 Timetables](/announcements/sem2timetables2023/)
 *   [2023 Semester 1 Timetables](/announcements/2023-semester-1-timetables)
-*   [2023 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5)  
+*   [2024 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5)  
 *   [2023 Sexuality Education](/our-programmes/student-development-programmes/sexuality-education-1/)
 
 *   [O Level Results Release\_ECG\_JAE Briefing Slides](/files/O%20Level%20Results%20Release_ECG_JAE%20Briefing%20Slides.pdf)       
