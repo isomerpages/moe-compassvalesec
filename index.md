@@ -23,7 +23,7 @@ sections:
       description: Come visit CVSS at our OPEN HOUSE on Sat, 18 Nov 2023, from 10 am
         to 2.30 pm! Come and gain first-hand insights about the distinctive
         Compassvale Experience.
-      button: Click to find out more on IG
+      button: Read more on Instagram
       url: https://www.instagram.com/p/Cyzjmc4pnWy/?utm_source=ig_web_copy_link
       image: /images/Landing Page/open house_banner_2023.jpeg
       alt: Image alt text
