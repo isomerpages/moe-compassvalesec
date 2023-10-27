@@ -14,5 +14,4 @@ description: ""
 
 * [2024 Sec 4 Booklist and Uniform Order Form](/files/2024%20Booklist/2024%20sec%204%20booklist%20with%20uniform%20order%20form.pdf)
 
-
-* [Uniform Measurement Chart](/files/2024%20Booklist/uniform%20measurement%20chart.pdf)
+* [Uniform Measurement Chart](/files/2024%20Booklist/uniform%20measurement%20chart2.pdf)
