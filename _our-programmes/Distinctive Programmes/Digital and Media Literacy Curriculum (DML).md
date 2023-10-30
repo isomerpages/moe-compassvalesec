@@ -12,3 +12,4 @@ Students will learn the fundamentals of productivity and production skills throu
 
 The curriculum aims to help them build competencies to Apply (use digital tools) and Create (produce digital products and collaborate online).
 
+![](/images/Distinctive%20Programmes/dml%20info%20(1).png)
