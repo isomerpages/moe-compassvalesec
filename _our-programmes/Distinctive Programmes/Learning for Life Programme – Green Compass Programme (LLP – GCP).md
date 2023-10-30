@@ -46,33 +46,47 @@ As our North Stars journey through the Green Compass Programme, they will be equ
 
 ![](/images/LLP%20GCP/llp-gcp%201.png)<br><i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i><br><br><i>Secondary 3 students performed a song item for the seniors at Sunlove Home</i><i>Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital.</i>
 
-<table>
-  <tbody><tr>
-    <th>Level</th>
-    <th>Programmes</th>
 
-  </tr>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <td>Sec 1</td>
-    <td>Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners. </td>
+    <th class="tg-s7g5">Level</th>
+    <th class="tg-s7g5">Programmes</th>
 
   </tr>
-	  <tr>
-    <td>Sec 2</td>
-    <td>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources. </td>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Sec 1</td>
+		<td class="tg-dgl5">Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
+	</tr>
+	<tr>
+    <td class="tg-9hzb">Sec 2</td>
+		<td class="tg-dgl5">Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  </td>
+	</tr>
+	<tr>
+    <td class="tg-9hzb">Sec 3</td>
+		<td class="tg-dgl5">Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits  </td>
+	</tr>
+	<tr>
+    <td class="tg-9hzb">Sec 4</td>
+		<td class="tg-dgl5">Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home. </td>
+	</tr>
 
-  </tr>
-	  <tr>
-    <td>Sec 3</td>
-    <td>Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits    </td>
+</tbody>
+</table>
 
-  </tr>
-	  <tr>
-    <td>Sec 4</td>
-    <td> Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home.  </td>
-
-  </tr>
-</tbody></table>
 
 ![](/images/LLP%20GCP/llp-gcp%202.png)
 
