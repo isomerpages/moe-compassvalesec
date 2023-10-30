@@ -88,5 +88,4 @@ Our Values in Action (VIA) experiences equips our students with a solid foundati
 Our overarching vision, ‘Every Student a Champion for Change’, is the driving force behind our efforts. It provides a platform for our students' voices to be heard, encourages exploration of social innovation, and nurtures enduring partnerships with our community collaborators. This collaboration leads to the co-creation of service projects that directly address pressing concerns, fostering a sense of ownership and an enduring dedication to serving others. 
 
 
-The array of VIA experiences instils a strong moral compass in our students, preparing them to become World-Ready Youths who learn, grow and lead. Our aspiration is for our North Stars to carry their passion for community service far beyond their 4 - 5 years at CVSS and become active agents of change, continuously striving for the betterment of others. 
- 
+The array of VIA experiences instils a strong moral compass in our students, preparing them to become World-Ready Youths who learn, grow and lead. Our aspiration is for our North Stars to carry their passion for community service far beyond their 4 - 5 years at CVSS and become active agents of change, continuously striving for the betterment of others.
