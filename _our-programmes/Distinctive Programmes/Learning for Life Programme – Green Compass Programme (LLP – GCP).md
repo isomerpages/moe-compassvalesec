@@ -81,13 +81,13 @@ North Stars will:&nbsp;&nbsp;
 
 As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives. 
 
-![](/images/LLP%20GCP/llp%20gcp%2001.jpg)
+![](/images/Distinctive%20Programmes/llp%20gcp%2001.jpg)
 <br><br>
 
-![](/images/LLP%20GCP/llp%20gcp%2002.jpg)
+![](/images/Distinctive%20Programmes/llp%20gcp%2002.jpg)
 <small><i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i></small><br>
 
-![](/images/LLP%20GCP/llp%20gcp%2003.jpg)
+![](/images/Distinctive%20Programmes/llp%20gcp%2003.jpg)
 <small><i>Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.</i></small>
 
 
@@ -120,7 +120,7 @@ Our overarching vision, ‘Every Student a Champion for Change’, is the drivin
 
 The array of VIA experiences instils a strong moral compass in our students, preparing them to become World-Ready Youths who learn, grow and lead. Our aspiration is for our North Stars to carry their passion for community service far beyond their 4 - 5 years at CVSS and become active agents of change, continuously striving for the betterment of others.
 
-![](/images/LLP%20GCP/llp%20gcp%2004.jpg)
+![](/images/Distinctive%20Programmes/llp%20gcp%2004.jpg)
 <small><i>Secondary 3 students performed a song item for the seniors at Sunlove Home.</i></small>
-![](/images/LLP%20GCP/llp%20gcp%2005.jpg)
+![](/images/Distinctive%20Programmes/llp%20gcp%2005.jpg)
 <small><i>Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital. </i></small>
