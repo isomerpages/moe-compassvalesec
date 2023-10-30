@@ -9,6 +9,7 @@ third_nav_title: Distinctive Programmes
 
 CVSS’s ALP-ACES in the domain of Science, Technology, Engineering and Mathematics (STEM) provides the opportunity for students to better appreciate the importance of sustainability in their everyday lives. Through the ALP, students sharpen their competencies in critical, adaptive and inventive thinking, and hone their problem-solving skills through linking what they have learnt in the core subjects of Physics, Design and Technology (D&T), and Mathematics to hands-on learning in the ALP.
 
+![](/images/LLP%20GCP/alp%20aces%201.png)
 
 ### ACES Modules
 All lower secondary students will undergo ALP lessons conducted during curriculum time. Through theory lessons and hands-on experiences, students will learn about the principles of flight, coding, engineering principles and design thinking. These lessons will be undergirded by the theme of Sustainability as students explore its importance through various projects and activities. Students will receive the Singapore Polytechnic Young Engineers Award (ALP) on completion of the ACES modules at the end of Sec 2.
