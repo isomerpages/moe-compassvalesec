@@ -61,6 +61,7 @@ As our North Stars journey through the Green Compass Programme, they will be equ
 *Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.*
 
 <br>
+
 ## Highlights / Achievements&nbsp;
 
 *   Annual Design for Change Singapore Challenge&nbsp;
@@ -71,3 +72,21 @@ As our North Stars journey through the Green Compass Programme, they will be equ
 *   2021: &nbsp; Commendation Award for a project entitled, ‘Caring for the Elderly in our Neighbourhood’ by 3E1 VIA Core Team&nbsp;
     
 *   2022: Commendation Award for a project entitled, ‘Creating accessible and appealing food menus in our School Canteen’ by Sec 2 VIA Champions**
+
+
+
+## Values in Action Experiences&nbsp;
+
+We are unwavering in our commitment to fostering responsible and socially conscious citizens who are deeply passionate about effecting positive change within their community.&nbsp;
+
+Our Values in Action (VIA) experiences equips our students with a solid foundation that empowers them to initiate projects aimed at enhancing the well-being of both our school and the community. These projects are designed not only to create a positive impact but also to ensure that impact is sustainable.
+
+### Key Programmes: 
+* Green Compass Programme  
+* Community Youth Leaders Club (established in 2019) 
+ 
+Our overarching vision, ‘Every Student a Champion for Change’, is the driving force behind our efforts. It provides a platform for our students' voices to be heard, encourages exploration of social innovation, and nurtures enduring partnerships with our community collaborators. This collaboration leads to the co-creation of service projects that directly address pressing concerns, fostering a sense of ownership and an enduring dedication to serving others. 
+
+
+The array of VIA experiences instils a strong moral compass in our students, preparing them to become World-Ready Youths who learn, grow and lead. Our aspiration is for our North Stars to carry their passion for community service far beyond their 4 - 5 years at CVSS and become active agents of change, continuously striving for the betterment of others. 
+ 
