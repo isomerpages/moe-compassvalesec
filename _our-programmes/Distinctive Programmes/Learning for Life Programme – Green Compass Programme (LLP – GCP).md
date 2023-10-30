@@ -14,7 +14,7 @@ The Green Compass Programme is thoughtfully crafted to ignite the spark of commu
 
 Promoting Sustainable Living in the Community&nbsp;&nbsp;
 
- ### Mission&nbsp;
+### Mission
 
 Inspired North Stars, Inspire Actions - To inspire and encourage fellow North Stars to serve the wider community&nbsp;
 
@@ -46,8 +46,28 @@ North Stars will:&nbsp;&nbsp;
 | **Level**|**Programmes**|
 | -------- | --------|
 |Sec 1    | Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners.  |
-|Sec 2     | Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,  students will explore  experiential learning on different sustainable food sources.  |
-|Sec 3     | Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) & PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits   |
+|Sec 2     | Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  |
+|Sec 3     | Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits   |
 |Sec 4    | Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home.  |
 
-As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives. 
+As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives.
+
+![](/images/LLP%20GCP/llp-gcp%201.png)<br>
+![](/images/LLP%20GCP/llp-gcp%202.png)<br>
+
+<i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i>
+<br>
+![](/images/LLP%20GCP/llp-gcp%203.png)
+*Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.*
+
+<br>
+## Highlights / Achievements&nbsp;
+
+*   Annual Design for Change Singapore Challenge&nbsp;
+    
+
+*   2020: Featured in the ‘A Onederful World by Design - Global Be the Change Festival’&nbsp;
+    
+*   2021: &nbsp; Commendation Award for a project entitled, ‘Caring for the Elderly in our Neighbourhood’ by 3E1 VIA Core Team&nbsp;
+    
+*   2022: Commendation Award for a project entitled, ‘Creating accessible and appealing food menus in our School Canteen’ by Sec 2 VIA Champions**
