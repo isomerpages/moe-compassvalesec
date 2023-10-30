@@ -44,7 +44,9 @@ North Stars will:&nbsp;&nbsp;
 
 As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives.
 
-![](/images/LLP%20GCP/llp-gcp%201.png)<br><i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i><br><br><i>Secondary 3 students performed a song item for the seniors at Sunlove Home</i><i>Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital.</i><table>
+![](/images/LLP%20GCP/llp-gcp%201.png)<br><i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i><br><br><i>Secondary 3 students performed a song item for the seniors at Sunlove Home</i><i>Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital.</i>
+
+<table>
   <tbody><tr>
     <th>Level</th>
     <th>Programmes</th>
@@ -71,6 +73,7 @@ As our North Stars journey through the Green Compass Programme, they will be equ
 
   </tr>
 </tbody></table>
+
 ![](/images/LLP%20GCP/llp-gcp%202.png)
 
 
