@@ -61,7 +61,7 @@ North Stars will:&nbsp;&nbsp;
 <tbody>
   <tr>
     <td class="tg-9hzb">Sec 1</td>
-		<td class="tg-dgl5">Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
+		<td class="tg-dgl5">Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and use bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
 	</tr>
 	<tr>
     <td class="tg-9hzb">Sec 2</td>
