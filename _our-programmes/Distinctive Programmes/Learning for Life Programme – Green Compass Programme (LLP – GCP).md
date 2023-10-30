@@ -111,5 +111,6 @@ Our overarching vision, ‘Every Student a Champion for Change’, is the drivin
 The array of VIA experiences instils a strong moral compass in our students, preparing them to become World-Ready Youths who learn, grow and lead. Our aspiration is for our North Stars to carry their passion for community service far beyond their 4 - 5 years at CVSS and become active agents of change, continuously striving for the betterment of others.
 
 ![](/images/LLP%20GCP/llp-gcp%204.png)
-
+*Secondary 3 students performed a song item for the seniors at Sunlove Home.  *
 ![](/images/LLP%20GCP/llp-gcp%205.png)
+*Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital. *
