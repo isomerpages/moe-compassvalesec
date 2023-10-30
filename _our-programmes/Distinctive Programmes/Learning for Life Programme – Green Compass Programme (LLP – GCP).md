@@ -42,20 +42,12 @@ North Stars will:&nbsp;&nbsp;
 
 
 
-<table border="1">
-  <tbody><tr>
-    <th>Company</th>
-    <th>Contact</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
 
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+| **Level**|**Programmes**|
+| -------- | --------|
+|Sec 1    | Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners.  |
+|Sec 2     | Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,  students will explore  experiential learning on different sustainable food sources.  |
+|Sec 3     | Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) & PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits   |
+|Sec 4    | Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home.  |
 
-  </tr>
-</tbody></table>
-
+As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives. 
