@@ -42,25 +42,42 @@ North Stars will:&nbsp;&nbsp;
 
 
 
-
-| **Level**|**Programmes**|
-| -------- | --------|
-|Sec 1    | Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners.  |
-|Sec 2     | Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  |
-|Sec 3     | Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits   |
-|Sec 4    | Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home.  |
-
 As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives.
 
-![](/images/LLP%20GCP/llp-gcp%201.png)<br>
-![](/images/LLP%20GCP/llp-gcp%202.png)<br>
+![](/images/LLP%20GCP/llp-gcp%201.png)<br><i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i><br><br><i>Secondary 3 students performed a song item for the seniors at Sunlove Home</i><i>Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital.</i><table>
+  <tbody><tr>
+    <th>Level</th>
+    <th>Programmes</th>
 
-<i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i>
-<br>
+  </tr>
+  <tr>
+    <td>Sec 1</td>
+    <td>Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and useusing bottle caps to make corporate gifts for our stakeholders and community partners. </td>
+
+  </tr>
+	  <tr>
+    <td>Sec 2</td>
+    <td>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources. </td>
+
+  </tr>
+	  <tr>
+    <td>Sec 3</td>
+    <td>Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits    </td>
+
+  </tr>
+	  <tr>
+    <td>Sec 4</td>
+    <td> Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home.  </td>
+
+  </tr>
+</tbody></table>
+![](/images/LLP%20GCP/llp-gcp%202.png)
+
+
 ![](/images/LLP%20GCP/llp-gcp%203.png)
 *Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.*
 
-<br>
+
 
 ## Highlights / Achievements&nbsp;
 
@@ -90,6 +107,6 @@ Our overarching vision, ‘Every Student a Champion for Change’, is the drivin
 
 The array of VIA experiences instils a strong moral compass in our students, preparing them to become World-Ready Youths who learn, grow and lead. Our aspiration is for our North Stars to carry their passion for community service far beyond their 4 - 5 years at CVSS and become active agents of change, continuously striving for the betterment of others.
 
-![](/images/LLP%20GCP/llp-gcp%204.png)<i>Secondary 3 students performed a song item for the seniors at Sunlove Home</i>
+![](/images/LLP%20GCP/llp-gcp%204.png)
 
-![](/images/LLP%20GCP/llp-gcp%205.png)<i>Secondary 4 students thoughtfully packed goody bags to bring joy to the seniors and patients for our school's community partners - Bright Hill Evergreen Home, BCARE Senior Activity Centre, and Sengkang Community Hospital.</i>
+![](/images/LLP%20GCP/llp-gcp%205.png)
