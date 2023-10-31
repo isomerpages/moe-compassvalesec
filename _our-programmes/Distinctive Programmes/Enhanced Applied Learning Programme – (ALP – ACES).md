@@ -24,13 +24,13 @@ CVSS’s Aeronautics ALP in the domain of Science, Technology, Engineering and M
 *   Internship opportunities within the Aerospace industry to allow students to further explore their interests and aptitudes
     
 
-**Highlights / Achievements
+### Highlights / Achievements
 
-**Staff/School**
+#### Staff/School
 
 *   CAAS Aviation in Schools Initiative (2018 - 2024)
     
-**Students**
+#### Students
 
 *   Singapore Amazing Flying Machines Competition
     
