@@ -6,7 +6,7 @@ third_nav_title: Distinctive Programmes
 ---
 ## Learning for Life Programme (LLP)&nbsp;
 
-Our school's LLP has been reimagined and rebranded as the ‘Green Compass Programme (GCP)’. We are firm in our conviction that education should extend far beyond the classroom, shaping not only scholars of academic excellence but also fostering responsible, compassionate, and community-minded individuals.&nbsp;
+Our school's LLP has been reimagined and rebranded as the ‘Green Compass Programme' (GCP). We are firm in our conviction that education should extend far beyond the classroom, shaping not only scholars of academic excellence but also fostering responsible, compassionate, and community-minded individuals.&nbsp;
 
 The Green Compass Programme is thoughtfully crafted to ignite the spark of community and youth leadership in our students, motivating them to undertake meaningful actions that catalyse positive change in their everyday lives. This programme serves as the guiding light, illuminating the path to responsible citizenship, environmental stewardship, and deep personal growth.
 
@@ -27,15 +27,15 @@ Every student a Champion for Change&nbsp;
 
 ### Key Objectives of the Green Compass Programme
 
-North Stars will:&nbsp;&nbsp;
+North Stars will:
 
-1.  Develop awareness on environmental issues and ways to lead a sustainable lifestyle.&nbsp;&nbsp;
+1.  develop awareness on environmental issues and ways to lead a sustainable lifestyle.&nbsp;&nbsp;
     
 
-2.  Take consistent actions to reduce, reuse, recycle and upcycle waste as responsible consumers.&nbsp;&nbsp;&nbsp;
+2.  take consistent actions to reduce, reuse, recycle and upcycle waste as responsible consumers.&nbsp;&nbsp;&nbsp;
     
 
-3.  Advocate green values, knowledge, and skills as a class, in school and beyond as active citizens in the community&nbsp;
+3.  advocate green values, knowledge, and skills as a class, in school and beyond as active citizens in the community.
     
 
 ### Key Programmes
@@ -85,7 +85,7 @@ As our North Stars journey through the Green Compass Programme, they will be equ
 <br><br>
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2002.jpg)
-<small><i>Secondary 1 students participated in the Green Compass Programme (GCP) in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i></small><br>
+<small><i>Secondary 1 students participated in the GCP in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i></small><br>
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2003.jpg)
 <small><i>Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.</i></small>
@@ -101,13 +101,13 @@ As our North Stars journey through the Green Compass Programme, they will be equ
     
 *   2021: &nbsp; Commendation Award for a project entitled, ‘Caring for the Elderly in our Neighbourhood’ by 3E1 VIA Core Team&nbsp;
     
-*   2022: Commendation Award for a project entitled, ‘Creating accessible and appealing food menus in our School Canteen’ by Sec 2 VIA Champions**
+*   2022: Commendation Award for a project entitled, ‘Creating accessible and appealing food menus in our School Canteen’ by Sec 2 VIA Champions
 
 
 
 ## Values in Action Experiences&nbsp;
 
-We are unwavering in our commitment to fostering responsible and socially conscious citizens who are deeply passionate about effecting positive change within their community.&nbsp;
+We are unwavering in our commitment to fostering responsible and socially conscious citizens who are deeply passionate about effecting positive change within their community.
 
 Our Values in Action (VIA) experiences equips our students with a solid foundation that empowers them to initiate projects aimed at enhancing the well-being of both our school and the community. These projects are designed not only to create a positive impact but also to ensure that impact is sustainable.
 
