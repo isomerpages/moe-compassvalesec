@@ -81,11 +81,12 @@ table, th, td, tr {
 As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives. 
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2001.jpg)
-<br><br>
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2002.jpg)
 <p class="small">Secondary 1 students participated in the GCP in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</p>
+
 ![](/images/Distinctive%20Programmes/llp%20gcp%2003.jpg)
+
 <p class="small">Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.</p>
 
 ## Highlights / Achievements&nbsp;
