@@ -44,6 +44,10 @@ North Stars will:
 table, th, td, tr {
   border: 1px solid black;}
 .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
+	p.small {
+  line-height: 1;
+}
+	
 </style>
 <table style="width:100%">
 <thead>
@@ -80,7 +84,7 @@ As our North Stars journey through the Green Compass Programme, they will be equ
 <br><br>
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2002.jpg)
-<small><i>Secondary 1 students participated in the GCP in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i></small><br>
+<p class="small"><i>Secondary 1 students participated in the GCP in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</i></p><br>
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2003.jpg)
 <small><i>Secondary 2 students created upcycled artefacts from waste materials. The upcycled artefacts include no sew fabric pouch, phone stand and felt coaster.</i></small>
