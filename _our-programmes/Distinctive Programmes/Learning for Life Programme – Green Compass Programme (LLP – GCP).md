@@ -72,8 +72,8 @@ table, th, td, tr {
 		<td>Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits  </td>
 	</tr>
 	<tr>
-    <td style="width:35%">Sec 4</td>
-		<td style="text-align:center">Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home. </td>
+    <td style="width:50%">Sec 4</td>
+		<td>Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home. </td>
 	</tr>
 
 </tbody>
