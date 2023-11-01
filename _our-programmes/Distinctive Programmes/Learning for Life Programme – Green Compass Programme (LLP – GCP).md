@@ -28,14 +28,14 @@ Every student a Champion for Change&nbsp;
 ### Key Objectives of the Green Compass Programme
 
 North Stars will:
-
-1.  Develop awareness on environmental issues and ways to lead a sustainable lifestyle.&nbsp;&nbsp;
+<ol>
+	<li> Develop awareness on environmental issues and ways to lead a sustainable lifestyle.</li>
     
 
-2.  Take consistent actions to reduce, reuse, recycle and upcycle waste as responsible consumers.&nbsp;&nbsp;&nbsp;
+<li>  Take consistent actions to reduce, reuse, recycle and upcycle waste as responsible consumers.</li>
     
 
-3.  Advocate green values, knowledge, and skills as a class, in school and beyond as active citizens in the community.
+<li>Advocate green values, knowledge, and skills as a class, in school and beyond as active citizens in the community.</li> </ol>
     
 
 ### Key Programmes
