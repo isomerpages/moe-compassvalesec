@@ -29,13 +29,13 @@ Every student a Champion for Change&nbsp;
 
 North Stars will:
 
-1.  develop awareness on environmental issues and ways to lead a sustainable lifestyle.&nbsp;&nbsp;
+1.  Develop awareness on environmental issues and ways to lead a sustainable lifestyle.&nbsp;&nbsp;
     
 
-2.  take consistent actions to reduce, reuse, recycle and upcycle waste as responsible consumers.&nbsp;&nbsp;&nbsp;
+2.  Take consistent actions to reduce, reuse, recycle and upcycle waste as responsible consumers.&nbsp;&nbsp;&nbsp;
     
 
-3.  advocate green values, knowledge, and skills as a class, in school and beyond as active citizens in the community.
+3.  Advocate green values, knowledge, and skills as a class, in school and beyond as active citizens in the community.
     
 
 ### Key Programmes
