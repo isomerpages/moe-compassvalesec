@@ -41,16 +41,11 @@ North Stars will:
 ### Key Programmes
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
+table, th, td, tr {
+  border: 1px solid black;}
+.tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="width:100%">
 <thead>
   <tr>
     <th class="tg-s7g5">Level</th>
@@ -60,20 +55,20 @@ North Stars will:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9hzb">Sec 1</td>
-		<td class="tg-dgl5">Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and use bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
+    <td>Sec 1</td>
+		<td>Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and use bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
 	</tr>
 	<tr>
-    <td class="tg-9hzb">Sec 2</td>
-		<td class="tg-dgl5">Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  </td>
+    <td>Sec 2</td>
+		<td>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  </td>
 	</tr>
 	<tr>
-    <td class="tg-9hzb">Sec 3</td>
-		<td class="tg-dgl5">Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits  </td>
+    <td>Sec 3</td>
+		<td>Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits  </td>
 	</tr>
 	<tr>
-    <td class="tg-9hzb">Sec 4</td>
-		<td class="tg-dgl5">Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home. </td>
+    <td>Sec 4</td>
+		<td>Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home. </td>
 	</tr>
 
 </tbody>
