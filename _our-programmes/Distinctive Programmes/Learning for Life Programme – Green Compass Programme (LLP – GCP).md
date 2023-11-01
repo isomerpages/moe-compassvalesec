@@ -60,19 +60,19 @@ table, th, td, tr {
 </thead>
 <tbody>
   <tr>
-      <td style="text-align:center">Sec 1</td>
+      <td style="width:35%">Sec 1</td>
 		<td>Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and use bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
 	</tr>
 	<tr>
-    <td style="text-align:center">Sec 2</td>
+    <td style="width:35%">Sec 2</td>
 		<td>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  </td>
 	</tr>
 	<tr>
-    <td style="text-align:center">Sec 3</td>
+    <td style="width:35%">Sec 3</td>
 		<td>Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits  </td>
 	</tr>
 	<tr>
-    <td style="text-align:center">Sec 4</td>
+    <td style="width:35%">Sec 4</td>
 		<td style="text-align:center">Sustainable Gifting – Students will use recycled materials to wrap their donations in kind for the seniors from Sengkang Community Hospital, BCARE Senior Activity Centre, SunLove Home and Bright Hill Evergreen Home. </td>
 	</tr>
 
