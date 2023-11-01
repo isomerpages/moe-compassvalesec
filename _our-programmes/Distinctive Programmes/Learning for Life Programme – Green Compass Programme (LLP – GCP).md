@@ -45,7 +45,7 @@ table, th, td, tr {
   border: 1px solid black;}
 .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 	p.small {
-  line-height: 1;
+  line-height: 1; font-style: italic;font-size: 14px;
 }
 	
 </style>
