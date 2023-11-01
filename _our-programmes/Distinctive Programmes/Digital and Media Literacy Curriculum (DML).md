@@ -14,15 +14,18 @@ The curriculum aims to help them build competencies to Apply (use digital tools)
 
 
 <style type="text/css">
-table, th, td {
-  border: 1px solid black;
-	 border-collapse: collapse;
+table, th, td, tr {
+  border: 1px solid black;}
+.tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
+	p.small {
+  line-height: 1; font-style:italic; font-size: 14px;
 }
+	
 </style>
 <table style="width:100%">
   <tbody><tr>
-    <th>Apply</th>
-    <th>Create</th> 
+    <th class="tg-s7g5">Apply</th>
+   <th class="tg-s7g5">Create</th> 
 </tr><tr>
     <td>
 			<ul>
