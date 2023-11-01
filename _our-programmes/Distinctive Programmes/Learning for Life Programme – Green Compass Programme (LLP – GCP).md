@@ -60,7 +60,7 @@ table, th, td, tr {
 </thead>
 <tbody>
   <tr>
-      <td style="width:25%">Sec 1</td>
+      <td style="width:15%">Sec 1</td>
 		<td>Sustainable Waste – Students will participate in an interclass plastic bottles recycling competition and use bottle caps to make corporate gifts for our stakeholders and community partners.  </td>
 	</tr>
 	<tr>
