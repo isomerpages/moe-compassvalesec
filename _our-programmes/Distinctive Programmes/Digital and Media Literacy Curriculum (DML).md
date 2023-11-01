@@ -38,5 +38,5 @@ table, th, td, tr {
   </tr>
 </tbody></table>
 
-**Curriculum Map**
+## Curriculum Map
 ![](/images/Distinctive%20Programmes/dml%20info%20(1).png)
