@@ -3,6 +3,7 @@ title: School Management Committee 2023
 permalink: /about-us/our-staff/school-management-committee-2023/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -83,12 +84,12 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-dgl5">Year Head 2</td>
     <td class="tg-ktyi">Mdm Edwina Cheng</td>
-		<td class="tg-ktyi">yap_kim_hon@moe.edu.sg</td>
+		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Character and Citizenship Education</td>
     <td class="tg-ktyi">Mdm Seow Yi Shan</td>
-		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
+		<td class="tg-ktyi">seow_yi_shan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Infocomm Technology</td>
