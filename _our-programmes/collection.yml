@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Competency Clusters/Science, Technology, Engineering and Mathematics.md
       - Competency Clusters/.keep
       - Competency Clusters/Languages, Literature and Humanities.md
       - Competency Clusters/Passion, Life Skills and Character Development.md
