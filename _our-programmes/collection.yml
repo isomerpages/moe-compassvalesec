@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Competency Clusters/Visual and Performing Arts.md
-      - Competency Clusters/Languages, Literature and Humanities.md
       - Competency Clusters/.keep
+      - Competency Clusters/Languages, Literature and Humanities.md
+      - Competency Clusters/Visual and Performing Arts.md
       - The Compassvale Experience.md
       - Instructional Programme/.keep
       - Instructional Programme/English.md
