@@ -31,11 +31,14 @@ table, th, td, tr {
 <tbody>
   <tr>
       <td>For all students:</td>
-		<td><ul><li>Oracy Programme - Speak for Success @ CVSS</li>
+		<td>
 			
-<li>Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances</li>
+* Oracy Programme - Speak for Success @ CVSS
+	
+* Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances
+		
+* Extensive Reading Programme - Reading Star! Challenge
 			
-<li>Extensive Reading Programme - Reading Star! Challenge</li></ul>
  </td>
 		<td><ul><li>“Reading is Fun” reading Programme</li>
     
@@ -56,12 +59,6 @@ table, th, td, tr {
     <td>For selected groups of students:</td>
 		<td>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  </td>
 	</tr>
-	<tr>
-    <td>Sec 3</td>
-		<td>Sustainable Habits – Student-Initiated / Led Service-Learning Projects, collaboration with Morning Star Student Care Centre, Joy Connection (BCARE Student Care Centre) &amp; PCF Sparkletots@ Sengkang Central Blk 208 to teach preschoolers how to sort waste and cultivate sustainable habits  </td>
-	</tr>
-
-
 </tbody>
 </table>
 
