@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Competency Clusters/Passion, Life Skills and Character Development.md
       - Competency Clusters/.keep
       - Competency Clusters/Languages, Literature and Humanities.md
+      - Competency Clusters/Passion, Life Skills and Character Development.md
       - Competency Clusters/Visual and Performing Arts.md
       - The Compassvale Experience.md
       - Instructional Programme/.keep
