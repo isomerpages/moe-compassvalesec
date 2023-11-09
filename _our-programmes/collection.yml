@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Competency Clusters/.keep
       - The Compassvale Experience.md
       - Instructional Programme/.keep
       - Instructional Programme/English.md
