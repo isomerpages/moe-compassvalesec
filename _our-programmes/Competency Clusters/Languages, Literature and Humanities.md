@@ -14,12 +14,12 @@ table, th, td, tr {
 	border: 1px solid black;
 	font-size:14px;
 	}
-	ol {	font-size:14px;}
+
+	ol.small {list-style-type: lower-roman;font-size:14px;}
 	
 .tg-s7g5{background-color:#C5E0B3; vertical-align:top
 	}
-	
-	
+
 	p.small{
 #   line-height: 1.0; font-style:italic; font-size: 16px;
 }
@@ -96,7 +96,7 @@ table, th, td, tr {
   <tr>
       <td>
 
-<ol style="list-style-type:lower-roman"><li>National Schools Literature Festival</li>
+<ol class="small"><li>National Schools Literature Festival</li>
 
 <ul><li>Choral Speaking – Gold Award (2021);  
     Bronze Award (2022)</li>
@@ -113,7 +113,7 @@ table, th, td, tr {
 </td>
 		
 <td>
-	<ol style="list-style-type:lower-roman"><li>6th National Text Recital Competition （全国课文朗诵比赛)
+<ol class="small"><li>6th National Text Recital Competition （全国课文朗诵比赛)
 <br>First Position and Gold Award in the Upper Secondary
 <br>Chinese Language ‘B’ / Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary- Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
 
@@ -128,7 +128,7 @@ table, th, td, tr {
 
 <li> N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</li></ol></td>
 	
-	<td><ol style="list-style-type:lower-roman"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
+	<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
   
 
 <li> NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
