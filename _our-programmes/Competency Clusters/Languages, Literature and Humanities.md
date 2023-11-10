@@ -35,13 +35,14 @@ ul {font-size: 16px;}
 <tbody>
   <tr>
       <td>For all students:</td>
-		<td><ul><li> Oracy Programme - Speak for Success @ CVSS</li>
+		<td>
+			
+			<ul><li> Oracy Programme - Speak for Success @ CVSS</li>
 	
 <li>Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances</li>
 		
-			<li>Extensive Reading Programme - Reading Star! Challenge</li></ul>
-			
- </td>
+<li>Extensive Reading Programme - Reading Star! Challenge</li></ul></td>
+		
 		<td><ul><li>“Reading is Fun” reading Programme</li>
     
 <li>MTL Fortnight</li>
@@ -49,6 +50,7 @@ ul {font-size: 16px;}
 <li> Cultural Performance Exposure Scheme (CPES)</li>
     
 <li>Conversational Chinese and Malay (CCM) Programme</li></ul></td>
+		
 				<td><ul><li>Humanities-Mathematics Challenge</li>
     
 <li>`In Conversation With’ - Dialogue session with invited speakers</li>
