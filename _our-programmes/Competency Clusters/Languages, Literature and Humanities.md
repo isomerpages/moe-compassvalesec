@@ -141,7 +141,8 @@ iii) ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position an
 (iv) Istana Heritage Gallery Challenge: First Prize
 
 
-		(v) Prove It! Challenge 2023: Champion: Silver (2 teams)</td></tr></tbody></table>
+		(v) Prove It! Challenge 2023: Champion: Silver (2 teams)</td>
+</tr></tbody><tbody></tbody></table>
 
 ![Compassvale winning team](/images/Competency%20Clusters/ChoralSpeaking.png)
 		
