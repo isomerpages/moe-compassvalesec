@@ -14,10 +14,11 @@ table, th, td, tr {
 	border: 1px solid black;
 	font-size:14px;
 	}
-	td.font {	font-size:14px;}
+	ol {	font-size:14px;}
 	
 .tg-s7g5{background-color:#C5E0B3; vertical-align:top
 	}
+	
 	
 	p.small{
 #   line-height: 1.0; font-style:italic; font-size: 16px;
@@ -150,4 +151,4 @@ table, th, td, tr {
 
 		
 ![Winning Team](/images/Competency%20Clusters/prove%20it!%20contest.jpg) 
-		<p class="small">Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB</p>
+<p class="small">Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB</p>
