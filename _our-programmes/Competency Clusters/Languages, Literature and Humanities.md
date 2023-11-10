@@ -19,7 +19,7 @@ table, th, td, tr {
 .tg-s7g5{background-color:#C5E0B3; vertical-align:top
 	}
 	
-	p.small {
+	p{
 #   line-height: 1.1; font-style:italic; font-size: 16px;
 }
 
@@ -71,17 +71,18 @@ table, th, td, tr {
 
 
 &gt;&gt;*Insert these photos:
+![](/images/Competency%20Clusters/speaker.jpg)
+<p>Assembly talk by Singaporean author Cassandra Chiu</p>
+    
+		
+![Huayi Chinese Festival](/images/Competency%20Clusters/huayichinesefestival.jpg)	
 
-1.  Caption: Assembly talk by Singaporean author Cassandra Chiu
-    
-2.  &nbsp;Caption: As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.
-    
-3.  Caption: Sec 1 Students on a Learning Journey to Sungei Buloh Wetland Reserve
+<p> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
+ 
+ ![Learning Journey](/images/Competency%20Clusters/LJtoSungei_Buloh.jpg)
+<p>Sec 1 Students on a Learning Journey to Sungei Buloh Wetland Reserve</p>
     
   
-
-**
-
 ### Highlights and Achievements
 
 **
