@@ -97,7 +97,7 @@ table, th, td, tr {
 </thead>
 <tbody>
   <tr>
-      <td>**
+      <td>
 
 (i) National Schools Literature Festival
 
@@ -113,10 +113,10 @@ table, th, td, tr {
 
 (ii) ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)
 
-**</td>
+</td>
 		
 <td>
-<ul>(i) 6th National Text Recital Competition （全国课文朗诵比赛）-First Position and Gold Award in the Upper Secondary – Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)
+(i) 6th National Text Recital Competition （全国课文朗诵比赛）-First Position and Gold Award in the Upper Secondary – Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)
 
 \-Bronze Award in the Upper Secondary – Higher Chinese/ Express/ Normal Academic (Individual) category (2023)
 
@@ -132,7 +132,7 @@ iii) ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position an
 
   
 
-(v) N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</ul></td>
+(v) N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</td>
 	
 	<td>(i) Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  
   
