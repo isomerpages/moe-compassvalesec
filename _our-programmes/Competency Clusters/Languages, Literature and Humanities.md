@@ -114,7 +114,7 @@ table, th, td, tr {
 <td>
 	<ol style="list-style-type:lower-roman"><li>6th National Text Recital Competition （全国课文朗诵比赛)
 <br>First Position and Gold Award in the Upper Secondary
-<br>Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary - Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
+<br>Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary- Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
 
 <li>National Create Your Own Newspaper Competition （全国编采比赛）
 	<br>Upper Secondary: Second Position (2022), Third Position (2023)</li>
@@ -127,19 +127,19 @@ table, th, td, tr {
 
 <li> N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</li></ol></td>
 	
-	<td>(i) Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  
+	<td><ol style="list-style-type:lower-roman"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
   
 
-(ii) NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020)  
+<li> NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
   
 
-(iii) SG75: Our Singapore (2nd prize in the Dynamic Presentation Category (animation &amp; video) (2021), Shortlisted (2022)
+<li>SG75: Our Singapore (2nd prize in the Dynamic Presentation Category (animation &amp; video) (2021), Shortlisted (2022)</li>
 
-(iv) Istana Heritage Gallery Challenge: First Prize
+<li> Istana Heritage Gallery Challenge: First Prize</li>
 
-(v) Prove It! Challenge 2023: Champion: Silver (2 teams)
-		</td>
-</tr></tbody><tbody></tbody></table>
+<li> Prove It! Challenge 2023: Champion: Silver (2 teams)</li>
+		</ol></td>
+</tr></tbody></table>
 
 ![Compassvale winning team](/images/Competency%20Clusters/ChoralSpeaking.png)
 		
