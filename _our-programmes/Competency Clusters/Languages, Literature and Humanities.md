@@ -95,19 +95,19 @@ table, th, td, tr {
   <tr>
       <td>
 
-(i) National Schools Literature Festival
+<ol style="list-style-type:upper-roman"><li>National Schools Literature Festival</li><li>
 
-*   Choral Speaking – Gold Award (2021);  
-    Bronze Award (2022)
+<ul><li>Choral Speaking – Gold Award (2021);  
+    Bronze Award (2022)</li>
     
-*   Flash Fiction - Bronze Award (Lower &amp; Upper Sec) (2022)
+<li>  Flash Fiction - Bronze Award (Lower &amp; Upper Sec) (2022)</li>
     
-*   Unseen Poetry Debate - Winner (2022)
+<li>  Unseen Poetry Debate - Winner (2022)</li>
     
-*   Book Trailer - Commendation Award (2022)
+	<li>Book Trailer - Commendation Award (2022)</li></ul>
     
 
-(ii) ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)
+	</li><li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
 
 </td>
 		
