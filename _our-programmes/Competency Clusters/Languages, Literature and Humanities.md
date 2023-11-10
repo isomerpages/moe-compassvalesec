@@ -44,7 +44,7 @@ table, th, td, tr {
 		
 <li>Extensive Reading Programme - Reading Star! Challenge</li></ul></td>
 		
-		<td><ul><li>“Reading is Fun” reading Programme</li>
+<td><ul><li>“Reading is Fun” reading Programme</li>
     
 <li>MTL Fortnight</li>
     
@@ -52,7 +52,7 @@ table, th, td, tr {
     
 <li>Conversational Chinese and Malay (CCM) Programme</li></ul></td>
 		
-				<td><ul><li>Humanities-Mathematics Challenge</li>
+<td><ul><li>Humanities-Mathematics Challenge</li>
     
 <li>`In Conversation With’ - Dialogue session with invited speakers</li>
     
