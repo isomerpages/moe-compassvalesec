@@ -19,7 +19,7 @@ table, th, td, tr {
 .tg-s7g5{background-color:#C5E0B3; vertical-align:top
 	}
 	
-	p{
+	p.small{
 #   line-height: 1.1; font-style:italic; font-size: 16px;
 }
 
@@ -64,7 +64,7 @@ table, th, td, tr {
     	</td></tr>
 	<tr>
     <td>For selected groups of students:</td>
-		<td><ul><li>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.</li></ul>  </td>
+		<td colspan="3"><ul><li>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.</li></ul>  </td>
 	</tr>
 </tbody>
 </table>
