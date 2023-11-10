@@ -114,7 +114,7 @@ table, th, td, tr {
 <td>
 	<ol style="list-style-type:lower-roman"><li>6th National Text Recital Competition （全国课文朗诵比赛)
 <br>First Position and Gold Award in the Upper Secondary
-<br>Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary- Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
+<br>Chinese Language ‘B’ / Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary- Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
 
 <li>National Create Your Own Newspaper Competition （全国编采比赛）
 	<br>Upper Secondary: Second Position (2022), Third Position (2023)</li>
