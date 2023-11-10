@@ -15,5 +15,3 @@ Believing that our students have the innate potential to shine, the STAR program
 **Sec 3:** *Step Up* to be **Ready For the Community**– North Stars will recognise their roles in the local community through gaining awareness of the needs and addressing them. They will also enhance their understanding of the post-secondary and career opportunities available to them.
 
 **Sec 4/5:** *Emerge Stronger* to be **Ready For the World**– North Stars will know how they can make a positive difference to others by preparing them to enter the post-secondary institutions, and by gaining knowledge of the developments in Singapore and beyond.**
-
-Insert 4 photos from Gdrive > Photos folder
