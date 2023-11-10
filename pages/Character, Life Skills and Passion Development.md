@@ -28,6 +28,8 @@ line-height: 1.0; font-style:italic; font-size: 16px;
   
 </style>  
 
+
+
     
 
 **
@@ -67,6 +69,12 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 <li>Upper Sec: Cyber Smart Programme</li></ul></td> <td><ul><li>Sec 4/5 NSF Engagement Session</li>
 <li>Sec 4 NE Quiz</li>
 <li>Sec 3 NRIC Ceremony</li>
-<li>Sec 2 CCE Cohort Learning Journey</li></ul></td></tr>  
+<li>Sec 2 CCE Cohort Learning Journey</li></ul></td>
+
+<td><ul><li>Sec 2: ECG Human Library with Alumni</li>
+<li>Sec 3: ECG Human Library with School Advisory Committee (SAC) members</li>
+<li>Sec 3: Applied Learning Modules (ApLM)</li>
+<li>Upper Sec: Learning Journeys to PSEIs</li>
+<li>Upper Sec: Workshops / talks on education pathways and admission exercises</li></ul></td></tr>  
 </tbody>  
 </table>
