@@ -112,20 +112,15 @@ table, th, td, tr {
 </td>
 		
 <td>
-	<ol style="list-style-type:lower-roman"><li>6th National Text Recital Competition （全国课文朗诵比赛)</li>
-	
-		<ul><li>First Position and Gold Award in the Upper Secondary
-			</li>
-			 <li>Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)</li>
+	<ol style="list-style-type:lower-roman"><li>6th National Text Recital Competition （全国课文朗诵比赛)
+<br>First Position and Gold Award in the Upper Secondary
+<br>Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary - Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
 
-			<li>Bronze Award in the Upper Secondary</li>
-			
-			<li>Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li></ul>
+<li>National Create Your Own Newspaper Competition （全国编采比赛）
+	<br>Upper Secondary: Second Position (2022), Third Position (2023)</li>
 
-<li>National Create Your Own Newspaper Competition （全国编采比赛）-Upper Secondary: Second Position (2022), Third Position (2023)</li>
-
-<li> ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards</li>
-
+<li> ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition 
+	<br>- 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards</li>
 
 <li> ‘Pena Emasku’ 2023- Essay Writing Competition
 10th Position and 11 Gold Awards:</li>
@@ -142,8 +137,8 @@ table, th, td, tr {
 
 (iv) Istana Heritage Gallery Challenge: First Prize
 
-
-		(v) Prove It! Challenge 2023: Champion: Silver (2 teams)</td>
+(v) Prove It! Challenge 2023: Champion: Silver (2 teams)
+		</td>
 </tr></tbody><tbody></tbody></table>
 
 ![Compassvale winning team](/images/Competency%20Clusters/ChoralSpeaking.png)
