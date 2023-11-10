@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Passion, Life Skills and Character Development.md
       - Competency Clusters/.keep
       - The Compassvale Experience.md
       - Instructional Programme/.keep
