@@ -88,6 +88,7 @@ table, th, td, tr {
 
 &gt;&gt;*Insert these photos:
 
+		![Our North Star](/images/Competency%20Clusters/studentWinner.jpg)
 1.  Caption: Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the 2021 Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.
 
     
