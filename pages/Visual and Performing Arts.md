@@ -28,7 +28,7 @@ The Aesthetics Programme aims to develop critical, adaptive and inventive thinki
     
 
 
-Insert photos:
+Insert photos in folder (below are captions):
 
 1) Sec Two Art Enrichment -  Mosaic Art
 
