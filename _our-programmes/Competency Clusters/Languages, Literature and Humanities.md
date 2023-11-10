@@ -10,8 +10,10 @@ The Languages, Literature and Humanities programme at CVSS is designed to develo
 ### Key Programmes
 <style type="text/css">
 table, th, td, tr {
-  border: 1px solid black;}
-.tg-s7g5{background-color:#C5E0B3; vertical-align:top}
+  border: 1px solid black; font-size: 14px;}
+	
+.tg-s7g5{background-color:#C5E0B3; vertical-align:top
+	}
 	
 	p.small {
   line-height: 1.1; font-style:italic; font-size: 14px;
