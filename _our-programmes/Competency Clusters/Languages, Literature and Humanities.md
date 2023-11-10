@@ -37,10 +37,7 @@ ul {font-size: 14px;}
 <tbody>
   <tr>
       <td>For all students:</td>
-		
-		<td>
-			
-			<ul><li> Oracy Programme - Speak for Success @ CVSS</li>
+		<td><ul><li> Oracy Programme - Speak for Success @ CVSS</li>
 	
 <li>Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances</li>
 		
