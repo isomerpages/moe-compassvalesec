@@ -95,7 +95,7 @@ table, th, td, tr {
   <tr>
       <td>
 
-<ol style="list-style-type:lower-roman"><li>National Schools Literature Festival</li><li>
+<ol style="list-style-type:lower-roman"><li>National Schools Literature Festival</li>
 
 <ul><li>Choral Speaking – Gold Award (2021);  
     Bronze Award (2022)</li>
@@ -107,7 +107,7 @@ table, th, td, tr {
 	<li>Book Trailer - Commendation Award (2022)</li></ul>
     
 
-	</li><li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
+	<li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
 
 </td>
 		
@@ -120,7 +120,6 @@ table, th, td, tr {
 
 iii) ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards&nbsp;
 
-  
 
 (iv)&nbsp; ‘Pena Emasku’ 2023- Essay Writing Competition
 
