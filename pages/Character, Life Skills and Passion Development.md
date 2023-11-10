@@ -27,17 +27,7 @@ line-height: 1.0; font-style:italic; font-size: 16px;
   
   
 </style>  
-
-
-
-    
-
-**
-	
-	
-	
-	
-	<table style="width:100%">  
+<table style="width:100%">  
 <thead>  
 <tr>  
 <th class="tg-s7g5"> </th>  
@@ -75,6 +65,8 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 <li>Sec 3: ECG Human Library with School Advisory Committee (SAC) members</li>
 <li>Sec 3: Applied Learning Modules (ApLM)</li>
 <li>Upper Sec: Learning Journeys to PSEIs</li>
-<li>Upper Sec: Workshops / talks on education pathways and admission exercises</li></ul></td></tr>  
-</tbody>  
-</table>
+<li>Upper Sec: Workshops / talks on education pathways and admission exercises</li></ul></td>	</tr>  </tbody></table>
+
+
+
+### STAR
