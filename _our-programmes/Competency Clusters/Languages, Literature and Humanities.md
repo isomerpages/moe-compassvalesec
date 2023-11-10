@@ -35,13 +35,11 @@ ul {font-size: 16px;}
 <tbody>
   <tr>
       <td>For all students:</td>
-		<td>
-			
-* Oracy Programme - Speak for Success @ CVSS
+		<td><ul><li> Oracy Programme - Speak for Success @ CVSS</li>
 	
-* Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances
+<li>Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances</li>
 		
-* Extensive Reading Programme - Reading Star! Challenge
+			<li>Extensive Reading Programme - Reading Star! Challenge</li></ul>
 			
  </td>
 		<td><ul><li>“Reading is Fun” reading Programme</li>
