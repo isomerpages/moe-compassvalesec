@@ -20,7 +20,7 @@ table, th, td, tr {
 #   line-height: 1.1; font-style:italic; font-size: 16px;
 }
 	
-ul {font-size: 16px;}
+ul {font-size: 14px;}
 	
 </style>
 <table style="width:100%">
@@ -36,6 +36,7 @@ ul {font-size: 16px;}
 <tbody>
   <tr>
       <td>For all students:</td>
+		
 		<td>
 			
 			<ul><li> Oracy Programme - Speak for Success @ CVSS</li>
