@@ -112,22 +112,24 @@ table, th, td, tr {
 </td>
 		
 <td>
-(i) 6th National Text Recital Competition （全国课文朗诵比赛）-First Position and Gold Award in the Upper Secondary – Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)
+	<ol style="list-style-type:lower-roman"><li>6th National Text Recital Competition （全国课文朗诵比赛)</li>
+	
+<ul><li>First Position and Gold Award in the Upper Secondary – Chinese Language ‘B’/ Basic Chinese Language/ Chinese Special Programme (Individual) (2023)</li>
 
-\-Bronze Award in the Upper Secondary – Higher Chinese/ Express/ Normal Academic (Individual) category (2023)
+<li>Bronze Award in the Upper Secondary – Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
 
-(ii) National Create Your Own Newspaper Competition （全国编采比赛）-Upper Secondary: Second Position (2022), Third Position (2023)
+<li>National Create Your Own Newspaper Competition （全国编采比赛）-Upper Secondary: Second Position (2022), Third Position (2023)</li>
 
-iii) ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards&nbsp;
+<li> ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards</li>
 
 
-(iv)&nbsp; ‘Pena Emasku’ 2023- Essay Writing Competition
+<li> ‘Pena Emasku’ 2023- Essay Writing Competition
 
-10th Position and 11 Gold Awards:&nbsp;
+	10th Position and 11 Gold Awards:</li>
 
   
 
-(v) N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</td>
+<li> N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</li></ul></ol></td>
 	
 	<td>(i) Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  
   
