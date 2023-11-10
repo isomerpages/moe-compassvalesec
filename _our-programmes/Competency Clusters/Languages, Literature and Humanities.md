@@ -69,8 +69,6 @@ table, th, td, tr {
 </tbody>
 </table>
 
-
-&gt;&gt;*Insert these photos:
 ![](/images/Competency%20Clusters/speaker.jpg)
 <p class="small">Assembly talk by Singaporean author Cassandra Chiu</p>
     
@@ -86,19 +84,9 @@ table, th, td, tr {
 ### Highlights and Achievements
 
 
-&gt;&gt;*Insert these photos:
-
-		![Our North Star](/images/Competency%20Clusters/studentWinner.jpg)
-1.  Caption: Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the 2021 Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.
-
-    
-2.  &nbsp;Our North Star, Muhammad Syazwan Bin Mansor (3E4) has done us proud in demonstrating his writing talents by clinching the Tenth Position and Gold award in ‘Pena Emasku’ competition. 
-    
-3.  Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB
-    
-
-**
-**<table style="width:100%">
+![Compassvale winning team](/images/Competency%20Clusters/ChoralSpeaking.png)
+		
+<p class="small"> Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the 2021 Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.</p><p class="small">Our North Star, Muhammad Syazwan Bin Mansor (3E4) has done us proud in demonstrating his writing talents by clinching the Tenth Position and Gold award in ‘Pena Emasku’ competition. </p><p class="small">Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB</p><table style="width:100%">
 <thead>
   <tr>
     <th class="tg-s7g5">EL &amp; Literature</th>
@@ -156,6 +144,13 @@ iii) ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition - 3rd Position an
 
 (iv) Istana Heritage Gallery Challenge: First Prize
 
-  
 
-		(v) Prove It! Challenge 2023: Champion: Silver (2 teams)</td></tr></tbody></table>
+(v) Prove It! Challenge 2023: Champion: Silver (2 teams)</td>
+</tr></tbody></table>
+		
+![Our North Star](/images/Competency%20Clusters/studentWinner.jpg)
+
+
+		
+![Winning Team](/images/Competency%20Clusters/prove%20it!%20contest.jpg) 
+		
