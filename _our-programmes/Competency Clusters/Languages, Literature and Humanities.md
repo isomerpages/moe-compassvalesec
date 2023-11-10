@@ -20,8 +20,7 @@ table, th, td, tr {
 	p.small {
 #   line-height: 1.1; font-style:italic; font-size: 16px;
 }
-	
-ul {font-size: 14px;}
+
 	
 </style>
 <table style="width:100%">
