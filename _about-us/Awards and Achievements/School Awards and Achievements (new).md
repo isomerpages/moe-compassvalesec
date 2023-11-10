@@ -5,20 +5,20 @@ variant: markdown
 description: ""
 third_nav_title: Awards and Achievements
 ---
-####   **Organisational Awards**
+####   Organisational Awards
 #### 
 ·       4th ASEAN Eco-Schools Award
 
 ·       Total Defence Award 2023 (including NSMark Gold Award)
 
-#### **Student Achievements (National Awards)**
+#### Student Achievements (National Awards)
 #### 
 ·       Lee Kuan Yew Award for All Round Excellence – 2 Awardees (2014 ; 2020)  
   
 
 ·       Lee Kuan Yew Scholarship to Encourage Upgrading (STEP) and the Sultan Haji Omar Ali Saifuddien Book Prize – 1 Awardee (2023)
 
-#### **Curriculum-related Achievements**
+#### Curriculum-related Achievements
 #### 
   
 _\[Languages, Literature & Humanities\]_
@@ -57,9 +57,9 @@ _\[Science, Technology, Engineering, Math__\]_
 
 ·       Animation and Game Making (AGM) Competition 2023 – Silver
 
-#### **Co-curriculum-related Achievements  
+#### Co-curriculum-related Achievements  
 ####   
-#### **
+#### 
 
 ·       National Cadet Corps (NCC) (Air) Unit Recognition Award – Distinction  
   
@@ -105,7 +105,7 @@ _\[Science, Technology, Engineering, Math__\]_
 
 ·       Singapore Amazing Flying Machine Competition (SAFMC) – 1st Placing & Best Performance Award for Cat B (Unpowered Gliders), 3rd Placing for Cat C1 (Fixed-wing Radio Controlled Flight), 12th Placing for Cat C2 (First-Person-View Drone Racing)
 
-#### **Staff Achievements**
+#### Staff Achievements
 #### 
 ·       MOE Innergy Award – Silver (2020); Bronze (2017, 2018 & 2023); Commendation (2017; 2020; 2021)  
   
