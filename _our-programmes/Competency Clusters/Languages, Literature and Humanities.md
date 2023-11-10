@@ -16,7 +16,7 @@ table, th, td, tr {
 	}
 	
 	p.small {
-  line-height: 1.1; font-style:italic; font-size: 14px;
+  line-height: 1.1; font-style:italic; font-size: 16px;
 }
 	
 </style>
