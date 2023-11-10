@@ -67,3 +67,10 @@ table, th, td, tr {
 <li>Sports Psychology</li></ul>
 	</td></tr>
 	</tbody></table>
+## Highlights and Events
+
+<ul><li>Annual Race</li>
+<li>Inter-class sports games</li>
+<li>Sec 1 Outdoor Adventure Learning (OAL)</li>
+<li>Sec 3 MOE-OBS Challenge Programme</li>
+<li>Sports Education Programme</li></ul>
