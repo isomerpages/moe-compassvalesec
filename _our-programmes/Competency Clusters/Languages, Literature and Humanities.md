@@ -64,7 +64,7 @@ table, th, td, tr {
     	</td></tr>
 	<tr>
     <td>For selected groups of students:</td>
-		<td>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.  </td>
+		<td><ul><li>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.</li></ul>  </td>
 	</tr>
 </tbody>
 </table>
