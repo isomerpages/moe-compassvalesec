@@ -32,4 +32,4 @@ Insert photos in folder (below are captions):
 
 1) Sec Two Art Enrichment -  Mosaic Art
 
-2) Music students jamming with the keyboard
+2) Students using Bandlab software with keyboards
