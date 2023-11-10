@@ -8,6 +8,7 @@ third_nav_title: Competency Clusters
 The Languages, Literature and Humanities programme at CVSS is designed to develop in our students a strong foundation of language competencies, critical thinking and effective communication skills. They will also gain knowledge and understanding of society and the world, as well as important dispositions and values for them to make positive contributions to the community, nation and world. Through the English Language, Mother Tongue Languages, Literature and Humanities subjects, students will learn to critically read and appreciate a variety of texts and culture.&nbsp; They will engage with diverse perspectives on contemporary local and global issues.&nbsp; These are done through authentic, immersive and vibrant learning experiences involving class-based projects, field-based and investigative assignments, innovative performance tasks and learning journeys
 
 ### Key Programmes
+
 <style type="text/css">
 table, th, td, tr {
   border: 1px solid black;}
