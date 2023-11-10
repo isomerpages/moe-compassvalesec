@@ -12,7 +12,7 @@ The Languages, Literature and Humanities programme at CVSS is designed to develo
 <style type="text/css">
 table, th, td, tr {
   border: 1px solid black;
-	font-size: 14px;}
+	font-size: 19px;}
 	
 .tg-s7g5{background-color:#C5E0B3; vertical-align:top
 	}
@@ -37,7 +37,9 @@ ul {font-size: 14px;}
 <tbody>
   <tr>
       <td>For all students:</td>
-		<td><ul><li> Oracy Programme - Speak for Success @ CVSS</li>
+		
+<td>
+<ul><li> Oracy Programme - Speak for Success @ CVSS</li>
 	
 <li>Language and Literary Appreciation Enrichment Programme – invited guest speakers, author talks, exposure to relevant external literary &amp; dramatic arts performances</li>
 		
