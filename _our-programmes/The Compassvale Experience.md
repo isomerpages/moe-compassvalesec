@@ -2,12 +2,13 @@
 title: The Compassvale Experience
 permalink: /our-programmes/the-compassvale-experience/
 description: ""
+variant: markdown
 ---
 ## **The Compassvale Experience**
 
-We offer a rich and personalised curricular and co-curricular experience for all our students, across the six Integrated Competency and Development Clusters.
+We offer a rich and personalised curricular and co-curricular dexperience for all our students, across the six Integrated Competency and Development Clusters.
+![](/images/The%20Compassvale%20Experience/Copy_of_The_Compassvale_Experience_Oct2023_page_0001.jpg)
 
-![](/images/The%20Compassvale%20Experience/the%20compassvale%20experience_18aug2023.png)
 
 ###### *Across these six Integrated Competency and Development Clusters,*
 
