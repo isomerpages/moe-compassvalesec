@@ -58,8 +58,7 @@ _\[Science, Technology, Engineering, Math__\]_
 ·       Animation and Game Making (AGM) Competition 2023 – Silver
 
 #### Co-curriculum-related Achievements  
-####   
-#### 
+
 
 ·       National Cadet Corps (NCC) (Air) Unit Recognition Award – Distinction  
   
@@ -106,7 +105,7 @@ _\[Science, Technology, Engineering, Math__\]_
 ·       Singapore Amazing Flying Machine Competition (SAFMC) – 1st Placing & Best Performance Award for Cat B (Unpowered Gliders), 3rd Placing for Cat C1 (Fixed-wing Radio Controlled Flight), 12th Placing for Cat C2 (First-Person-View Drone Racing)
 
 #### Staff Achievements
-#### 
+ 
 ·       MOE Innergy Award – Silver (2020); Bronze (2017, 2018 & 2023); Commendation (2017; 2020; 2021)  
   
 
