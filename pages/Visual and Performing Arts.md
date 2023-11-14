@@ -6,6 +6,8 @@ description: ""
 ---
 The Aesthetics Programme aims to develop critical, adaptive and inventive thinking through art and music making. Through engagement in artistic processes, students learn to be receptive of diverse perspectives through sharing of ideas and cultivate life-long enjoyment and involvement in art and music. Our programme also develops students to understand and appreciate the aesthetics.These are done through authentic, immersive and vibrant learning experiences involving class-based projects, performance tasks and learning journeys.	
 
+
+
 ### 
 ### Key Programmes
 
@@ -27,9 +29,9 @@ The Aesthetics Programme aims to develop critical, adaptive and inventive thinki
 *   Our Schools our Stories Photography Competition - Certificate of Participation
     
 
+![](/images/Visual%20and%20Performing%20Arts/Sec_2___Students_working_on_the_initial_base_of_their_wire_sculpture.jpg)
+<i>Sec Two Art Enrichment -  Mosaic Art</i>
+![](/images/Visual%20and%20Performing%20Arts/Students_during_Music_lessons_using_Bandlab_with_keyboards.jpg)
+<i>Students using Bandlab software with keyboards</i>
 
-Insert photos in folder (below are captions):
 
-1) Sec Two Art Enrichment -  Mosaic Art
-
-2) Students using Bandlab software with keyboards
