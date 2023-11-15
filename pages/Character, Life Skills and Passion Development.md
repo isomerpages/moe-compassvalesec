@@ -67,6 +67,14 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 <li>Upper Sec: Learning Journeys to PSEIs</li>
 <li>Upper Sec: Workshops / talks on education pathways and admission exercises</li></ul></td>	</tr>  </tbody></table>
 
+![Students exploring the pilot controls inside a plane's cockpit](/images/Character%20Life%20Skills/IMG_0484.jpg)
+<i>Students exploring the pilot controls inside a plane's cockpit at the Aviation Research Centre, Temasek Polytechnic.</i>
+
+![SAC members sharing about their industries and life journeys](/images/Character%20Life%20Skills/20231025_012332203_iOS.jpg) <i>SAC members sharing about their industries and life journeys with our Sec 3 students.</i>
+
+![Sec 3 students sharing their experiences](/images/Character%20Life%20Skills/20231024_095254.jpg)<i>Sec 3 students sharing their experiences to encourage Sec 2 students in making informed choices for their upper secondary subject combination.</i>
+
+
 
 
 ### STAR
