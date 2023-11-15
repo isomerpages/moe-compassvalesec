@@ -101,10 +101,10 @@ table, th, td, tr {
     
 <li>  Unseen Poetry Debate - Winner (2022)</li>
     
-	<li>Book Trailer - Commendation Award (2022)</li></ul>
+<li>Book Trailer - Commendation Award (2022)</li></ul>
     
 
-	<li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
+<li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
 
 </td>
 		
@@ -124,7 +124,7 @@ table, th, td, tr {
 
 <li> N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</li></ol></td>
 	
-	<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
+<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
   
 
 <li> NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
@@ -134,9 +134,7 @@ table, th, td, tr {
 
 <li> Istana Heritage Gallery Challenge: First Prize</li>
 
-<li> Prove It! Challenge 2023: Champion: Silver (2 teams)</li>
-		</ol></td>
-</tr></tbody></table>
+<li> Prove It! Challenge 2023: Champion: Silver (2 teams)</li></ol></td></tr></tbody></table>
 
 ![Compassvale winning team](/images/Competency%20Clusters/ChoralSpeaking.png)
 		
