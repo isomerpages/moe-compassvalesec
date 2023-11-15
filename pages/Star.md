@@ -13,3 +13,15 @@ Believing that our students have the innate potential to shine, the STAR program
 <u>Sec 3: </u> Step Up to be **Ready For the Community–** North Stars will recognise their roles in the local community through gaining awareness of the needs and addressing them. They will also enhance their understanding of the post-secondary and career opportunities available to them.
 
 <u>Sec 4/5:</u>  Emerge Stronger to be **Ready For the World**– North Stars will know how they can make a positive difference to others by preparing them to enter the post-secondary institutions, and by gaining knowledge of the developments in Singapore and beyond.
+
+![Sec 1 Outdoor Adventure Learning](/images/2023%20Distinctive%20Programmes/STAR/Sec_1_Outdoor_Adventure_Learning.jpg)<i>Sec 1 Outdoor Adventure Learning</i>
+
+![Creating the Tallest Standing Tower](/images/2023%20Distinctive%20Programmes/STAR/Sec_2_Creating_the_Tallest_Standing_Tower.jpg)<i>Creating the Tallest Standing Tower</i>
+
+
+![Mural Painting at Bethesda Care](/images/2023%20Distinctive%20Programmes/STAR/Sec_3_Mural_Painting_at_Bethesda_Care.jpg)
+<i>Mural Painting at Bethesda Care</i>
+
+
+![Creating a Lavender Sugar Scrub at Shatec](/images/2023%20Distinctive%20Programmes/STAR/Sec_4_Creating_A_Lavender_Sugar_Scrub_at_Shatec.JPG)
+<i>Creating a Lavender Sugar Scrub at Shatec</i>
