@@ -1,8 +1,9 @@
 ---
 title: Digital and Media Literacy Curriculum (DML)
-permalink: /our-programmes/distinctive-programmes/permalink/
+permalink: /our-programmes/distinctive-programmes/digital-media-literacy/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: tiptap
 ---
 # Digital and Media Literacy Curriculum (DML)
 
