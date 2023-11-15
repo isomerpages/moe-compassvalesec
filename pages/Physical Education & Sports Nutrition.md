@@ -24,26 +24,24 @@ table, th, td, tr {
 	p.small{
 #   line-height: 1.0; font-style:italic; font-size: 16px;
 }
-
-	
 </style>
 <table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-s7g5"> </th>
-    <th class="tg-s7g5">PE</th>
-		   <th class="tg-s7g5">Sports Science</th>
-  </tr>
+<tr>
+<th class="tg-s7g5"> </th>
+<th class="tg-s7g5">PE</th>
+<th class="tg-s7g5">Sports Science</th>
+</tr>
 </thead>
 <tbody>
-	 <tr>
-      <td>For all students:</td>
+<tr>
+ <td>For all students:</td>
 		
 <td>
-	<ul><li>Various sports categories - net/barrier; territorial invasion, striking/fielding</li>
+<ul><li>Various sports categories - net/barrier; territorial invasion, striking/fielding</li>
 <li>Outdoor Education</li>
 <li> Physical &amp; Health Fitness</li>
-		<ul><li>Sleeping health</li>
+<ul><li>Sleeping health</li>
 <li>CPR &amp; use of AED</li>
 </ul></ul></td>
 	
@@ -52,8 +50,8 @@ table, th, td, tr {
 <li>Basic sports first-aid</li></ul></td></tr>
 	
 <tr>
-	<td>For selected groups of students:</td><td>
-</td><td></td>
+<td>For selected groups of students:</td><td>
+</td>
 <td>
 
 <ul><li>Nutrition for performance</li>
@@ -65,8 +63,9 @@ table, th, td, tr {
 <li>Strength training with apparatus</li>
     
 <li>Sports Psychology</li></ul>
-	</td></tr>
-	</tbody></table>
+</td></tr>
+</tbody></table>
+	
 ## Highlights and Events
 
 <ul><li>Annual Race</li>
