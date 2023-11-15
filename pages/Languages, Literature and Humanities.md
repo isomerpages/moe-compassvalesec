@@ -92,10 +92,7 @@ table, th, td, tr {
   </tr>
 </thead>
 <tbody>
-  <tr>
-      <td>
-
-<ol class="small"><li>National Schools Literature Festival</li>
+<tr><td><ol class="small"><li>National Schools Literature Festival</li>
 
 <ul><li>Choral Speaking – Gold Award (2021);  
     Bronze Award (2022)</li>
