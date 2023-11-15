@@ -74,7 +74,7 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 
 ![Sec 3 students sharing their experiences](/images/Character%20Life%20Skills/20231024_095254.jpg)<i>Sec 3 students sharing their experiences to encourage Sec 2 students in making informed choices for their upper secondary subject combination.</i>
 
-
+![Our students from the Uniformed Groups at the National Day Observance ](/images/Character%20Life%20Skills/National_Day_Commemoration_2023.jpg)<i>Our students from the Uniformed Groups at the National Day Observance</i>
 
 
 ### STAR
