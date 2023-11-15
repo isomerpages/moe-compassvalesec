@@ -74,4 +74,10 @@ table, th, td, tr {
 <li>Sec 3 MOE-OBS Challenge Programme</li>
 <li>Sports Education Programme</li></ul>
 
+![Lower Secondary Sports Education Programme - Archery](/images/2023%20PE/PA260268.jpg)
+<i>Lower Secondary Sports Education Programme - Archery</i>
 
+![Secondary 1 OAL: Kayaking experience](/images/2023%20PE/Kayaking_experience.png)<i>Secondary 1 OAL: Kayaking experience</i>
+
+
+![Inter-class sports and games - Tchoukball](/images/2023%20PE/Inter_class_sports_and_games___Tchoukball.png)<i>Inter-class sports and games - Tchoukball</i>
