@@ -52,6 +52,8 @@ table, th, td, tr {
 </tbody>
 </table>
 
+<br>
+
 *  ### Mathematics
 
 <table style="width:100%">
@@ -76,6 +78,8 @@ table, th, td, tr {
 	</tr>
 </tbody>
 </table>
+
+<br>
 
 * ### Craft &amp; Technology; Nutrition &amp; Food Science
 
@@ -103,6 +107,8 @@ table, th, td, tr {
 	</tr>
 </tbody>
 </table>
+
+<br>
 
 * ### [Aeronautics Applied Learning Programme-ACES](/our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/)
 
@@ -137,6 +143,8 @@ table, th, td, tr {
 	
 </tbody>
 </table>
+
+<br>
 
 * ### Mathematics
 
