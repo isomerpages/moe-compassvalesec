@@ -78,6 +78,6 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 ![Our students from the Uniformed Groups at the National Day Observance ](/images/Character%20Life%20Skills/National_Day_Commemoration_2023.jpg)<i>Our students from the Uniformed Groups at the National Day Observance</i>
 
 
-### STAR
+### [STAR](our-programmes/distinctive-programmes/star/)
 
-### Digital Media Literacy
+### [Digital and Media Literacy Curriculum](/our-programmes/distinctive-programmes/digital-media-literacy/)
