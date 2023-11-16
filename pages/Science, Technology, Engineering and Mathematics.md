@@ -18,8 +18,6 @@ table, th, td, tr {
 	border: 1px solid black;
 	font-size:14px;
 	}
-
-	ol.small {list-style-type: lower-roman;font-size:14px;}
 	
 .tg-s7g5{background-color:#C5E0B3; vertical-align:top
 	}
@@ -126,7 +124,7 @@ table, th, td, tr {
 </li>
 </ul></td>
 		
-<td><ol><li>2023 International Elementz Fair / Elementz Science Research Competition
+<td><ol type="i"><li>2023 International Elementz Fair / Elementz Science Research Competition
      Upper Sec - 2 Silver
      Lower Sec - 1 Gold, 1 COC</li>
 
