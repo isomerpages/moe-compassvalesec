@@ -46,7 +46,7 @@ table, th, td, tr {
 	<tr>
 <td>For selected groups of students:</td>
 <td><ul><li>Talent development through competitions (e.g. Science Olympiads, Elementz Science Research competitions)</li></ul></td>
-<td><ul>Promotion of specific science disciplines through enrichment programmes and learning journeys</ul></td>
+<td><ul><li>Promotion of specific science disciplines through enrichment programmes and learning journeys</li></ul></td>
 	</tr>
 </tbody>
 </table>
