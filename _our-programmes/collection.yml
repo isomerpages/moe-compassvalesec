@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - The Compassvale Experience.md
-      - Instructional Programme/.keep
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/Science.md
-      - Instructional Programme/Humanities.md
-      - Instructional Programme/Craft and Technology.md
-      - Instructional Programme/Physical Education.md
+      - Competency Clusters/.keep
+      - Competency Clusters/Mathematics.md
+      - Competency Clusters/Science.md
+      - Competency Clusters/Humanities.md
+      - Competency Clusters/Craft and Technology.md
+      - Competency Clusters/Physical Education.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Enhanced Applied Learning Programme – (ALP –
         ACES).md
