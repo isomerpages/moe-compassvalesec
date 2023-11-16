@@ -162,10 +162,14 @@ table, th, td, tr {
 </tbody>
 </table>
 
+![](/images/2023%20Competency%20Clusters/STEM/Science_2b.png)
 
+![](/images/2023%20Competency%20Clusters/STEM/Science_2a.jpg)
 *Students working on their projects for the International Elementz Fair*
 
+![](/images/2023%20Competency%20Clusters/STEM/Science_4.jpg)
 *Students participating in “The Plastic Solution”, an inter-class plastic recycling competition*
+
 
 *Students working intently on problem solving in the Math Scene Investigation - Escape Room activity*
 
