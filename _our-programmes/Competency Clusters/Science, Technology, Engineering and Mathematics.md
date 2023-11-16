@@ -12,7 +12,7 @@ third_nav_title: Competency Clusters
 The STEM x Sustainability programme at CVSS aims to develop in our students competencies in critical, adaptive and inventive thinking. They will also be spurred to become more curious about how different things work and be provided with the skills to allow them to find out more about the world around them. Through the Craft and Technology, Mathematics and Science subjects, students will participate in the problem solving process, allowing them to work with their peers to identify the problem at hand, come up with possible solutions and test their solutions before providing their recommendations. These will be done through various curricular lessons, enrichment programmes and the school’s Applied Learning Programme, providing students with authentic contexts and real-world problems undergirded by the theme of Sustainability for them to explore and discuss
 
 
-### Science
+* ### Science
 
  <style type="text/css">
 table, th, td, tr {
@@ -52,7 +52,7 @@ table, th, td, tr {
 </tbody>
 </table>
 
-### Math
+*  ### Mathematics
 
 <table style="width:100%">
 
@@ -77,7 +77,7 @@ table, th, td, tr {
 </tbody>
 </table>
 
-### C&amp;T ; NFS
+* ### Craft &amp; Technology; Nutrition &amp; Food Science
 
 <table style="width:100%">
 
@@ -104,12 +104,12 @@ table, th, td, tr {
 </tbody>
 </table>
 
-### [ALP-ACES](/our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/)
+* ### [Aeronautics Applied Learning Programme-ACES](/our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/)
 
 
 ## Highlights and Achievements
 
-### Science
+* ### Science
 
 <table style="width:100%">
 <thead>  
@@ -138,7 +138,7 @@ table, th, td, tr {
 </tbody>
 </table>
 
-### Math
+* ### Mathematics
 
 <table style="width:100%">
 <thead>  
