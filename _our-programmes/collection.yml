@@ -3,21 +3,20 @@ collections:
     output: true
     order:
       - The Compassvale Experience.md
-      - Instructional Programme/.keep
-      - Instructional Programme/English.md
-      - Instructional Programme/Mother Tongue.md
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/Science.md
-      - Instructional Programme/Humanities.md
-      - Instructional Programme/Craft and Technology.md
-      - Instructional Programme/Physical Education.md
+      - Competency Clusters/.keep
+      - Competency Clusters/Languages, Literature and Humanities.md
+      - Competency Clusters/Science, Technology, Engineering and Mathematics.md
+      - Competency Clusters/Visual and Performing Arts.md
+      - Competency Clusters/Physical Education and Sports Nutrition.md
+      - Competency Clusters/Leadership and Service.md
+      - Competency Clusters/Character, Life Skills and Passion Development.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Enhanced Applied Learning Programme – (ALP –
         ACES).md
       - Distinctive Programmes/Learning for Life Programme – Green Compass
         Programme (LLP – GCP).md
-      - Distinctive Programmes/STAR.md
       - Distinctive Programmes/Digital and Media Literacy Curriculum (DML).md
+      - Distinctive Programmes/STAR.md
       - Student Development Programmes/.keep
       - Student Development Programmes/Character and Citizenship Education
         (CCE).md

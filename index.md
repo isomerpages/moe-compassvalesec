@@ -17,6 +17,16 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: Learn, Grow and Lead at Compassvale
+      subtitle: An invitation!
+      id: infopic
+      description: WATCH our newly released corporate video to learn more about The
+        Compassvale Experience at CVSS, where you'll Realise your Star Within.
+      button: Click to learn more
+      url: https://www.compassvalesec.moe.edu.sg/our-programmes/the-compassvale-experience/
+      alt: Image alt text
+      image: /images/Landing Page/video_capture_2.jpg
+  - infopic:
       title: CVSS Open House!
       subtitle: UPCOMING EVENT
       id: infopic
