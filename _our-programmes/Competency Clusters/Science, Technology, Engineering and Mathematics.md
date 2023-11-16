@@ -170,7 +170,8 @@ table, th, td, tr {
 ![](/images/2023%20Competency%20Clusters/STEM/Science_4.jpg)
 *Students participating in “The Plastic Solution”, an inter-class plastic recycling competition*
 
-
+![](/images/2023%20Competency%20Clusters/STEM/Math.jpg)
 *Students working intently on problem solving in the Math Scene Investigation - Escape Room activity*
 
+![](/images/2023%20Competency%20Clusters/STEM/DT_Learning_Journey_to_Temasek_Polytechnics_Robotic_Innovation_Centre.jpg)
 *D and T Learning Journey to Temasek Polytechnic’s Robotic Innovation Centre*
