@@ -11,22 +11,135 @@ The STEM x Sustainability programme at CVSS aims to develop in our students comp
 
 **
 
-**Science**
+## Science
 
-  <table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For all students:</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Environment education efforts - talks to deepen students’ understanding of environmental concerns, and activities and competitions to promote conservation effort</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Inquiry-based activities and problem solving tasks</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For selected groups of students:</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Talent development through competitions (e.g. Science Olympiads, Elementz Science Research competitions)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Promotion of specific science disciplines through enrichment programmes and learning journeys</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr></tbody></table>
+ <style type="text/css">
+table, th, td, tr {
+	border: 1px solid black;
+	font-size:14px;
+	}
 
-**
+	ol.small {list-style-type: lower-roman;font-size:14px;}
+	
+.tg-s7g5{background-color:#C5E0B3; vertical-align:top
+	}
 
-**
+	p.small{
+#   line-height: 1.0; font-style:italic; font-size: 16px;
+}
 
-**Math**
+	
+</style>
+<table style="width:100%">
 
- <table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For all students:</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Develop confidence and competence in students to be problem solvers for everyday living</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Students will experience solving problems in real world context; they will develop computational thinking to solve any given problem</span></p></li></ul><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For selected groups of students:</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">They will learn heuristics and problem solving capabilities through participation in competitions and specialized trainings such as&nbsp; Math Olympiad training and participation in Math Challenges</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Students will also have opportunities to learn coding skills and participate in compettions</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr></tbody></table>
+<tbody>
+  <tr>
+      <td>For all students:</td>
+		
+<td>
+<ul><li>Environment education efforts - talks to deepen students’ understanding of environmental concerns, and activities and competitions to promote conservation effort
+</li>
+</ul></td>
+		
+<td><ul><li>Inquiry-based activities and problem solving tasks</li>
+    
+</ul></td>
+</tr>
+	<tr>
+<td>For selected groups of students:</td>
+<td><ul><li>Talent development through competitions (e.g. Science Olympiads, Elementz Science Research competitions)</li></ul></td>
+<td>Promotion of specific science disciplines through enrichment programmes and learning journeys:</td>
+	</tr>
+</tbody>
+</table>
+
+## Math
+
+<table style="width:100%">
+
+<tbody>
+  <tr>
+      <td>For all students:</td>
+		
+<td>
+<ul><li>Develop confidence and competence in students to be problem solvers for everyday living</li>
+</ul></td>
+		
+<td><ul><li>Students will experience solving problems in real world context; they will develop computational thinking to solve any given problem</li>
+    
+</ul></td>
+</tr>
+	<tr>
+<td>For selected groups of students:</td>
+<td><ul><li>Learn heuristics and problem solving capabilities through participation in competitions and specializsed trainings such as  Math Olympiad training and participation in Math Challenges</li></ul></td>
+		
+<td><ul><li>Students will also have Opportunities to learn coding skills and participate in competition</li></ul></td>
+	</tr>
+</tbody>
+</table>
+
+## C&amp;T ; NFS
+
+<table style="width:100%">
+
+<tbody>
+  <tr>
+      <td>For all students:</td>
+		
+<td>
+<ul><li>Incorporation of Sustainability in curriculum through coursework and projects to deepen environmental awareness</li>
+</ul></td>
+		
+<td></td>
+</tr>
+<tr>
+<td>For selected groups of students:</td>
+<td><ul><li>STEM Project for D&amp;T S1 (Common Curriculum)</li>
+<li>Applied Module for Secondary One (Common Curriculum)
+</li></ul></td>
+		
+<td><ul><li>Talent development through competitions (e.g. Tan Kah Kee Innovation Competition, Temasek Engineering Olympiad etc)</li>
+<li>Learning journeys to deepen awareness of sustainability 
+</li></ul></td>
+	</tr>
+</tbody>
+</table>
+
+### ALP-ACES
 
 
-**
-**C&amp;T ; NFS
+## Highlights and Achievements
 
-  
+<table style="width:100%">
+<thead>  
+<tr>  
+<th class="tg-s7g5">Staff</th>  
+<th class="tg-s7g5">Students</th>  
+</tr>  
+</thead>
+<tbody>
+<tr>
+<td>
+<ul><li>2022 Outstanding STEM Teacher Award - Mrs Preeti Kulkarni (SH/Biology)</li>
 
-<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For all students:</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Incorporation of Sustainability in curriculum through coursework and projects to deepen environmental awareness</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For selected groups of students:</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">STEM Project for D&amp;T S1 (Common Curriculum)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Applied Module for Secondary One (Common Curriculum)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Talent development through competitions (e.g. Tan Kah Kee Innovation Competition, Temasek Engineering Olympiad etc)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Learning journeys to deepen awareness of sustainability&nbsp;</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr></tbody></table>**
+<li>2023 Associate of AST Award (Facilitator of Workshops) - Mdm Fazleen bte Mahmud (ST/Biology)
+</li>
+</ul></td>
+		
+<td><ol><li>2023 International Elementz Fair / Elementz Science Research Competition
+     Upper Sec - 2 Silver
+     Lower Sec - 1 Gold, 1 COC</li>
+
+<li>2023 Singapore Junior Biology Olympiads - 1 Silver, 1 Bronze</li>
+
+<li>2023 Singapore Junior Chemistry Olympiads - 1 Bronze</li></ol></td></tr>
+	
+<tr>
+<td>For selected groups of students:</td>
+<td><ul><li>STEM Project for D&amp;T S1 (Common Curriculum)</li>
+<li>Applied Module for Secondary One (Common Curriculum)
+</li></ul></td>
+		
+	</tr>
+</tbody>
+</table>
