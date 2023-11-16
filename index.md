@@ -17,6 +17,15 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: Learn, Grow and Lead at Compassvale
+      subtitle: About CVSS
+      id: infopic
+      description: WATCH our corporate video now to learn more about The Compassvale
+        Experience at CVSS, where you'll Realise your Star within.
+      button: Click to learn more
+      url: https://www.compassvalesec.moe.edu.sg/our-programmes/the-compassvale-experience/
+      image: /images/Landing Page/video_capture_2.jpg
+  - infopic:
       title: CVSS Open House!
       subtitle: UPCOMING EVENT
       id: infopic
@@ -35,13 +44,4 @@ sections:
       url: https://www.instagram.com/p/Cwe60yAxnMY/?igshid=MzRlODBiNWFlZA==
       image: /images/Landing Page/softball_c_div_4thplace_2023_cropped.jpeg
       alt: NSG Softball ('C' Div) 2023
-  - infopic:
-      title: Learn, Grow and Lead at Compassvale
-      subtitle: About CVSS
-      id: infopic
-      description: WATCH our corporate video now to learn more about The Compassvale
-        Experience at CVSS, where you'll Realise your Star within.
-      button: Click to learn more
-      url: https://www.compassvalesec.moe.edu.sg/our-programmes/the-compassvale-experience/
-      image: /images/Landing Page/video_capture_2.jpg
 ---
