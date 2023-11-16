@@ -2,6 +2,7 @@ collections:
   awards-and-achievements:
     output: true
     order:
+      - School Awards and Achievements (new).md
       - O levels/.keep
       - O levels/2021.md
       - O levels/2020.md
