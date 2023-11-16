@@ -12,10 +12,6 @@ We believe that developing our students in leadership and service equips them wi
 #### Key Programmes
 #### 
 
-Learning for Life Programme - Green Compass Programme (LLP-GCP)
+* [Learning for Life Programme - Green Compass Programme (LLP-GCP)](/our-programmes/distinctive-programmes/learning-for-life-programme-llp/)
 
-Student Leadership
-  
-
-
-
+* [Student Leadership](/our-programmes/student-development-programmes/student-leadership/)
