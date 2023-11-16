@@ -46,19 +46,22 @@ p.small{
 </ul></td>  
   
 <td><ul><u>Lower Secondary</u>
-<li>Sec 1 - Paper Quilling Project &amp; Poster Design Project
-Sec 2 - Clay Desktop Holder Project &amp; Van Gogh Impressionist Painting
-Sec 2 Art Enrichment - Mosaic Art Programme
-Upper Secondary
-basic photography
-graphic design and fine arts courses (pencil, colour pencil and paint)
-Mini coursework
-</li></ul></td>  
-  
+<li>Sec 1 - Paper Quilling Project &amp; Poster Design Project</li>
+<li>Sec 2 - Clay Desktop Holder Project &amp; Van Gogh Impressionist Painting</li>
+<li>Sec 2 Art Enrichment - Mosaic Art Programme</li></ul>
+<ul><u>Upper Secondary</u>
+<li>Basic photography</li>
+<li>Graphic design and fine arts courses (pencil, colour pencil and paint)</li>
+<li>Mini coursework</li></ul></td>  
 </tr>  
 <tr>  
 <td>For selected groups of students:</td>  
-<td colspan="3"><ul><li>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.</li></ul> </td>  
+<td><ul><li>Keppel Nights Scheme</li>
+<li>Talent development through competitions</li>
+<li>O Level Music</li></ul> </td>  
+<td><ul><li>Talent development through competitions</li> 
+<li>Art Elective Programme</li></ul></td> 
+
 </tr>  
 </tbody>  
 </table>
@@ -67,7 +70,7 @@ Mini coursework
 ## Highlights and Achievements
 ## 
 
-**Art**
+### Art
 
 
 *   LIVE ON Competition - Certificate of Participation
