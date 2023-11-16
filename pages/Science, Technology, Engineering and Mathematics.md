@@ -11,7 +11,7 @@ The STEM x Sustainability programme at CVSS aims to develop in our students comp
 
 **
 
-## Science
+### Science
 
  <style type="text/css">
 table, th, td, tr {
@@ -51,7 +51,7 @@ table, th, td, tr {
 </tbody>
 </table>
 
-## Math
+### Math
 
 <table style="width:100%">
 
@@ -76,7 +76,7 @@ table, th, td, tr {
 </tbody>
 </table>
 
-## C&amp;T ; NFS
+### C&amp;T ; NFS
 
 <table style="width:100%">
 
@@ -108,6 +108,8 @@ table, th, td, tr {
 
 ## Highlights and Achievements
 
+### Science
+
 <table style="width:100%">
 <thead>  
 <tr>  
@@ -124,20 +126,40 @@ table, th, td, tr {
 </li>
 </ul></td>
 		
-<td><ol type="i"><li>2023 International Elementz Fair / Elementz Science Research Competition
+<td><ul><li>2023 International Elementz Fair / Elementz Science Research Competition
      Upper Sec - 2 Silver
      Lower Sec - 1 Gold, 1 COC</li>
 
 <li>2023 Singapore Junior Biology Olympiads - 1 Silver, 1 Bronze</li>
 
-<li>2023 Singapore Junior Chemistry Olympiads - 1 Bronze</li></ol></td></tr>
+<li>2023 Singapore Junior Chemistry Olympiads - 1 Bronze</li></ul></td></tr>
 	
+</tbody>
+</table>
+
+<table style="width:100%">
+<thead>  
+<tr>  
+<th class="tg-s7g5">Staff</th>  
+<th class="tg-s7g5">Students</th>  
+</tr>  
+</thead>
+<tbody>
 <tr>
-<td>For selected groups of students:</td>
-<td><ul><li>STEM Project for D&amp;T S1 (Common Curriculum)</li>
-<li>Applied Module for Secondary One (Common Curriculum)
-</li></ul></td>
+<td>
+<ul><li>2022 Outstanding STEM Teacher Award - Mrs Preeti Kulkarni (SH/Biology)</li>
+
+<li>2023 Associate of AST Award (Facilitator of Workshops) - Mdm Fazleen bte Mahmud (ST/Biology)
+</li>
+</ul></td>
 		
-	</tr>
+<td><ul><li>2023 International Elementz Fair / Elementz Science Research Competition
+     Upper Sec - 2 Silver
+     Lower Sec - 1 Gold, 1 COC</li>
+
+<li>2023 Singapore Junior Biology Olympiads - 1 Silver, 1 Bronze</li>
+
+<li>2023 Singapore Junior Chemistry Olympiads - 1 Bronze</li></ul></td></tr>
+	
 </tbody>
 </table>
