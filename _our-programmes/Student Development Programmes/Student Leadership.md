@@ -3,15 +3,14 @@ title: Student Leadership
 permalink: /our-programmes/student-development-programmes/student-leadership/
 description: ""
 third_nav_title: Student Development Programmes
+variant: markdown
 ---
 # Student Leadership 
 
-![](/images/2023%20Student%20Dev%20Prog/Student%20Leadership/student%20leadership%20committee%20(3).jpg)
-            **Student Leadership Committee**
+Student Leadership Development in CVSS is student-centric and values driven where teachers and students both contribute to a culture of leadership development. Teachers mentor and guide students, and student leaders mentor and guide their peers and juniors. Our students discover and develop their leadership potential as they serve, lead and inspire through their time in CVSS.
 
-At CVSS, we believe in developing the leadership potential of each student so that they can become World Ready Youth. As our students “Serve to Lead, Lead to Inspire”, they grow to become confident, self-directed 21st Century leaders who Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act and Encourage the Heart.
-
-Student Leadership development in CVSS is guided by our Student Leadership Framework, MOE’s 21st Century Competencies Framework, and The Leadership Challenge by Kouzes and Posner. All students are equipped with a basic understanding of The Leadership Challenge (TLC) model through the TLC Workshop, and, depending on their readiness, embark on various authentic leadership opportunities in Class, CCA and the school to grow as leaders who serve, lead and inspire.
+Student Leadership development in CVSS is guided by our Student Leadership Framework, MOE’s 21st Century Competencies Framework, and The Leadership Challenge by Kouzes and Posner. Students learn different skills and hone themselves as Self-Leaders to manage different aspects of student life such as academic studies, CCA and their overall well-being. Students can take on different leadership opportunities and roles such as Class Leaders, CCA Leaders, Peer Support Leaders and Student Councillors as they progress on their personal leadership journey during their time in CVSS.
+           
 
 **CVSS Student Leadership Framework**
 ![](/images/2023%20Student%20Dev%20Prog/Student%20Leadership/sl%20framework.JPG)
