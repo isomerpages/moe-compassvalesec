@@ -5,12 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Competency Clusters
 ---
-#### Science, Technology, Engineering and Mathematics (STEM x Sustainability)
-#### 
+# Science, Technology, Engineering and Mathematics (STEM x Sustainability)
+# 
 
 The STEM x Sustainability programme at CVSS aims to develop in our students competencies in critical, adaptive and inventive thinking. They will also be spurred to become more curious about how different things work and be provided with the skills to allow them to find out more about the world around them. Through the Craft and Technology, Mathematics and Science subjects, students will participate in the problem solving process, allowing them to work with their peers to identify the problem at hand, come up with possible solutions and test their solutions before providing their recommendations. These will be done through various curricular lessons, enrichment programmes and the school’s Applied Learning Programme, providing students with authentic contexts and real-world problems undergirded by the theme of Sustainability for them to explore and discuss
 
-**
 
 ### Science
 
@@ -47,7 +46,7 @@ table, th, td, tr {
 	<tr>
 <td>For selected groups of students:</td>
 <td><ul><li>Talent development through competitions (e.g. Science Olympiads, Elementz Science Research competitions)</li></ul></td>
-<td>Promotion of specific science disciplines through enrichment programmes and learning journeys:</td>
+<td><ul>Promotion of specific science disciplines through enrichment programmes and learning journeys</ul></td>
 	</tr>
 </tbody>
 </table>
