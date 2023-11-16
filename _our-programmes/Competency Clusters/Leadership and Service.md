@@ -10,7 +10,7 @@ As part of our vision to develop World Ready Youth, we place a strong emphasis o
 We believe that developing our students in leadership and service equips them with a strong foundation to excel academically and develop into responsible, compassionate, and community-minded individuals who actively contribute to positive change in their everyday lives. Our Learning for Life Programme (LLP) - Green Compass Programme, and our Student Leadership Programme support our efforts to nurture upright, compassionate leaders who serve and contribute to the community.
 
 #### Key Programmes
-#### 
+
 
 * [Learning for Life Programme - Green Compass Programme (LLP-GCP)](/our-programmes/distinctive-programmes/learning-for-life-programme-llp/)
 
