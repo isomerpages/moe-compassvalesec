@@ -69,15 +69,15 @@ table, th, td, tr {
 </tbody>
 </table>
 
-![](/images/Competency%20Clusters/speaker.jpg)
+![](/images/2023%20Competency%20Clusters/speaker.jpg)
 <p class="small">Assembly talk by Singaporean author Cassandra Chiu</p>
     
 		
-![Huayi Chinese Festival](/images/Competency%20Clusters/huayichinesefestival.jpg)	
+![Huayi Chinese Festival](/images/2023%20Competency%20Clusters/huayichinesefestival.jpg)	
 
 <p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
  
- ![Learning Journey](/images/Competency%20Clusters/LJtoSungei_Buloh.jpg)
+ ![Learning Journey](/images/2023%20Competency%20Clusters/LJtoSungei_Buloh.jpg)
 <p class="small">Sec 1 Students on a Learning Journey to Sungei Buloh Wetland Reserve</p>
     
   
@@ -136,13 +136,13 @@ table, th, td, tr {
 
 <li> Prove It! Challenge 2023: Champion: Silver (2 teams)</li></ol></td></tr></tbody></table>
 
-![Compassvale winning team](/images/Competency%20Clusters/ChoralSpeaking.png)
+![Compassvale winning team](/images/2023%20Competency%20Clusters/ChoralSpeaking.png)
 		
 <p class="small"> Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the 2021 Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.</p>
 		
-![Our North Star](/images/Competency%20Clusters/studentWinner.jpg)
+![Our North Star](/images/2023%20Competency%20Clusters/studentWinner.jpg)
 <p class="small">Our North Star, Muhammad Syazwan Bin Mansor (3E4) has done us proud in demonstrating his writing talents by clinching the Tenth Position and Gold award in ‘Pena Emasku’ competition. </p>
 
 		
-![Winning Team](/images/Competency%20Clusters/prove%20it!%20contest.jpg) 
+![Winning Team](/images/2023%20Competency%20Clusters/prove%20it!%20contest.jpg) 
 <p class="small">Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB</p>
