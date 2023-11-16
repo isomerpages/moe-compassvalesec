@@ -137,29 +137,26 @@ table, th, td, tr {
 </tbody>
 </table>
 
+### Math
+
 <table style="width:100%">
 <thead>  
 <tr>  
-<th class="tg-s7g5">Staff</th>  
 <th class="tg-s7g5">Students</th>  
 </tr>  
 </thead>
 <tbody>
-<tr>
-<td>
-<ul><li>2022 Outstanding STEM Teacher Award - Mrs Preeti Kulkarni (SH/Biology)</li>
-
-<li>2023 Associate of AST Award (Facilitator of Workshops) - Mdm Fazleen bte Mahmud (ST/Biology)
-</li>
-</ul></td>
-		
-<td><ul><li>2023 International Elementz Fair / Elementz Science Research Competition
-     Upper Sec - 2 Silver
-     Lower Sec - 1 Gold, 1 COC</li>
-
-<li>2023 Singapore Junior Biology Olympiads - 1 Silver, 1 Bronze</li>
-
-<li>2023 Singapore Junior Chemistry Olympiads - 1 Bronze</li></ul></td></tr>
+<tr>	
+<td><ul><li>Mathematics Challenge 2023 by Ngee Ann Polytechnic - Team Winner for α Blast (the Kahoot quiz) Challenge</li>
+	
+<li>Singapore Mathematics Olympiad 2023 (Junior) - 1 Bronze and 3 Honourable Mentions</li>
+	
+<li>Singapore Mathematics Olympiad 2023 (Senior) - 1 Bronze and 1 Honourable Mention</li>
+	
+<li>National Digital Explorer 2023 - Secondary Level (Emerging Technologies Track) by ICDL Asia National Round  - Certificate in Cloud Computing, Emerging Technology and Artificial Intelligence – 1 Gold, 1 Silver</li>
+	
+<li>National Digital Explorer 2023 - ICDL Asia Digital Literacy Day by ICDL Asia International Round - Silver
+</li></ul></td></tr>
 	
 </tbody>
 </table>
