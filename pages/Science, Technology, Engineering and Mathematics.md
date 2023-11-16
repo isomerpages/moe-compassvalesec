@@ -160,3 +160,12 @@ table, th, td, tr {
 	
 </tbody>
 </table>
+
+
+*Students working on their projects for the International Elementz Fair*
+
+*Students participating in “The Plastic Solution”, an inter-class plastic recycling competition*
+
+*Students working intently on problem solving in the Math Scene Investigation - Escape Room activity*
+
+*D and T Learning Journey to Temasek Polytechnic’s Robotic Innovation Centre*
