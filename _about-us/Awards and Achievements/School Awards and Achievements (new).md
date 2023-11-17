@@ -13,10 +13,10 @@ third_nav_title: Awards and Achievements
 
 #### Student Achievements (National Awards)
 
-·       Lee Kuan Yew Award for All Round Excellence – 2 Awardees (2014 ; 2020)  
+* Lee Kuan Yew Award for All Round Excellence – 2 Awardees (2014 ; 2020)  
   
 
-·       Lee Kuan Yew Scholarship to Encourage Upgrading (STEP) and the Sultan Haji Omar Ali Saifuddien Book Prize – 1 Awardee (2023)
+* Lee Kuan Yew Scholarship to Encourage Upgrading (STEP) and the Sultan Haji Omar Ali Saifuddien Book Prize – 1 Awardee (2023)
 
 #### Curriculum-related Achievements
 
@@ -25,7 +25,7 @@ _\[Languages, Literature & Humanities\]_
 
 * World Scholar’s Cup (Singapore Regional Round) (2023 – 13 Individual Gold, 7 Team Gold, 10 Individual Silver, 12 Team Silver; 2022 - 10 Gold, 12 Silver)
 
-* National Schools Literature Festival 2023 – Choral Speaking & Flash Fiction (Bronze Awards); Unseen Debate (Winning Team)
+* National Schools Literature Festival (2023 – Choral Speaking & Flash Fiction (Bronze Awards), Unseen Debate (Winning Team); 2021 - Choral Speaking (Gold Award))
 
 * 2023 National Create Your Own Newspaper Competition – 3rd Position (Upper Sec)
 
