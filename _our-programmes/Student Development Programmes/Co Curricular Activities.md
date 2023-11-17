@@ -3,6 +3,7 @@ title: Co Curricular Activities
 permalink: /our-programmes/student-development-programmes/cca/
 description: ""
 third_nav_title: Student Development Programmes
+variant: markdown
 ---
 In Compassvale Secondary School, the main objectives of CCA are to:
 
@@ -20,4 +21,3 @@ The CCAs offered in CVSS are:
 
 
 <img src="/images/Combined%20CCA%20Shot%202_cropped.jpg">
-
