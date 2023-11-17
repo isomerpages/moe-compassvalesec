@@ -47,7 +47,7 @@ _\[Science, Technology, Engineering, Math\]_
 
 * 21st Elementz Science Project Competition 2023 – 1 Gold
 
-* Singapore Junior Biology Olympiad (2023 - 1 Silver, 1 Bronze; 
+* Singapore Junior Biology Olympiad (2023 - 1 Silver, 1 Bronze) 
 
 *  Singapore Junior Chemistry Olympiad (2023 - 1 Bronze)
 
@@ -144,7 +144,7 @@ _\[Character, Lifeskills &amp; Passion Development]_
 * Outstanding STEM Teacher Award &nbsp;-&nbsp; 1 Recipient (2022)  
   
 
-* National Awards (Covid-19) Covid-19 Resilience Medal – 2 Awardees  
+* National Awards (Covid-19) Covid-19 Resilience Medal (2023 - 2 Awardees)  
   
 
 * LEAP (Listening Educator for Advancement and Progress Award) - 2021 &amp; 2022 (2 Awardees) &amp; 2023 (Certificate of Commendation – 2 Awardees)
