@@ -27,7 +27,7 @@ _\[Languages, Literature & Humanities\]_
 
 * National Schools Literature Festival (2023 – Choral Speaking & Flash Fiction (Bronze Awards), Unseen Debate (Winning Team); 2021 - Choral Speaking (Gold Award))
 
-* National Create Your Own Newspaper Competition (2023 - 3rd Position (Upper Sec);)
+* National Create Your Own Newspaper Competition (2023 - 3rd Position (Upper Sec); 2022 - 2nd Position (Upper Sec), Commendation Award (Lower Sec))
 
 * 6th National Text Recital Competition (Chinese) (2023 - 1st Position & Gold Award, 1 Bronze Award;)
 
@@ -35,7 +35,7 @@ _\[Languages, Literature & Humanities\]_
 
 * 'Pena Emasku' Essay Writing Competition (2023 - 12 Gold) 
 
-* Historical Scene Investigation Challenge (2023 – 2 Silver Team awards; )
+* Historical Scene Investigation Challenge (2023 – 2 Silver Team awards; 2022 - Silver Award)
 
 * Istana Heritage Gallery Challenge – 1st Place
 
@@ -71,36 +71,42 @@ _\[Science, Technology, Engineering, Math__\]_
 
 * Temasek Engineering Olympiad (2022 - 1 Gold, 1 Silver, 1 Commendation ; 2023 - 1 Gold, 1 Silver, 2 Commendation) 
  
+_\[Character, Lifeskills & Passion Development]_
+* 12th & 13th Annual Design for Change Singapore Challenge (2022 - Top 3 Teams, Commendation Award)
+
+* National Cyber Wellness Advocacy Challenge (2022 - Silver Award)
+
+* MOE N.E.mation! (2021 - Top 10 entries)
+
+* Network for Teaching Entrepreneurship (NFTE) Global Young Entrepreneur (Singapore) (2022 - 1st runner up, Top 12 (Semi-finalist))
 
 #### Co-curriculum-related Achievements  
 
 
-* National Cadet Corps (NCC) (Air) Unit Recognition Award – Distinction  
+* National Cadet Corps (NCC) (Air) Unit Recognition Award - Distinction (2021, 2022)
+* NCC Outstanding Cadet Award (2022)
   
 
-* National Police Cadet Corps (NPCC) Unit Overall Proficiency Award – Distinction  
+* National Police Cadet Corps (NPCC) Unit Overall Proficiency Award – Distinction (2022), Gold (2021)
+* SPF-NPCC Badge Award - 2 students (2022)
   
 
-* Boys’ Brigade (BB) Company Recognition Award – Gold  
-  
+* Boys’ Brigade Company Recognition Award – Gold (2021, 2022)  
 
-* Boys’ Brigade (BB) Best Boy Award – 1 Awardee  
+* Boys’ Brigade Best Boy Award – 2 Awardees (2022 & 2023)
   
+* Boys’ Brigade Founder’s Award – 2 Awardees (2022), 4 Awardees (2023)
+  
+* Girl Guides (GG) Puan Noor Aishah Award (PNAA) – Gold (2023)
+  
+* Red Cross Youth (RCY) Unit Recognition Award – Gold (2023)  
+* Red Cross Youth (RCY) Director’s Award – 1 Awardee (2023) 
 
-* Boys’ Brigade (BB) Founder’s Award – 4 Awardees  
+* Singapore Youth Festival Arts Presentation 2023 
+Band - Certificate of Accomplishment (2021 & 2023)
+Dance - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
+Drama - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
   
-
-* Girl Guides (GG) Puan Noor Aishah Award (PNAA) – Gold  
-  
-
-* Red Cross Youth (RCY) Unit Recognition Award – Gold  
-  
-* Red Cross Youth (RCY) Director’s Award – 1 Awardee  
-  
-
-* Singapore Youth Festival Arts Presentation 2023 (Band, Choir, Dance & Drama) - Certificate of Accomplishment  
-  
-
 * National School Games Floorball (‘C’ Division Boys) 2022 – 3rd Placing  
   
 
