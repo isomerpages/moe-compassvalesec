@@ -102,10 +102,10 @@ _\[Character, Lifeskills & Passion Development]_
 * Red Cross Youth (RCY) Unit Recognition Award – Gold (2023)  
 * Red Cross Youth (RCY) Director’s Award – 1 Awardee (2023) 
 
-* Singapore Youth Festival Arts Presentation 2023 
-Band - Certificate of Accomplishment (2021 & 2023)
-Dance - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
-Drama - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
+* Singapore Youth Festival Arts Presentation (Band) - Certificate of Accomplishment (2021 & 2023)
+* Singapore Youth Festival Arts Presentation (Choir) - Certificate of Distinction (2019); Certificate of Accomplishment (2023)
+* Singapore Youth Festival Arts Presentation (Dance) - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
+* Singapore Youth Festival Arts Presentation (Drama) - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
   
 * National School Games Floorball (‘C’ Division Boys) 2022 – 3rd Placing  
   
