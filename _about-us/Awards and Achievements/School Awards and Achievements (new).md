@@ -27,13 +27,15 @@ _\[Languages, Literature & Humanities\]_
 
 * National Schools Literature Festival (2023 – Choral Speaking & Flash Fiction (Bronze Awards), Unseen Debate (Winning Team); 2021 - Choral Speaking (Gold Award))
 
-* 2023 National Create Your Own Newspaper Competition – 3rd Position (Upper Sec)
+* National Create Your Own Newspaper Competition (2023 - 3rd Position (Upper Sec);)
 
-* 6th National Text Recital Competition (Chinese) – 1st Position & Gold Award, 1 Bronze Award
+* 6th National Text Recital Competition (Chinese) (2023 - 1st Position & Gold Award, 1 Bronze Award;)
 
-* ‘Saya Boleh Mengarang’ 2023 Competition (Malay) – 3rd Position & Gold with Distinction, 3 Silver, 9 Bronze
+* ‘Saya Boleh Mengarang’ Competition (Malay) (2023 – 3rd Position & Gold with Distinction, 3 Silver, 9 Bronze)
 
-* Historical Scene Investigation Challenge 2023 – 2 Silver Team awards
+* 'Pena Emasku' Essay Writing Competition (2023 - 12 Gold) 
+
+* Historical Scene Investigation Challenge (2023 – 2 Silver Team awards; )
 
 * Istana Heritage Gallery Challenge – 1st Place
 
@@ -41,13 +43,23 @@ _\[Languages, Literature & Humanities\]_
 
 _\[Science, Technology, Engineering, Math__\]_
 
-* Temasek Engineering Olympiad 2023 – 1 Gold, 1 Silver, 2 Commendation
-
 * 24th International Elementz Fair 2023 – 2 Team Silver
 
 * 21st Elementz Science Project Competition 2023 – 1 Gold
 
+* Singapore Junior Biology Olympiad (2023 - 1 Silver, 1 Bronze; 
+
+*  Singapore Junior Chemistry Olympiad (2023 - 1 Bronze)
+
+*  Singapore Junior Physics Olympiad (2023 - 5 Individual Honourable Mentions; 1 Team Honourable Mention)
+
+* Temasek Engineering Olympiad 2023 – 1 Gold, 1 Silver, 2 Commendation
+
 * National Digital Explorer 2023 - ICDL Asia Digital Literacy Day – Silver
+
+* Singapore Mathematics Olympiad (Junior) (2023 - 1 Bronze, 3 Honourable Mentions; )
+
+* Singapore Mathematics Olympiad (Senior) (2023 - 1 Bronze, 1 Honourable Mention; )
 
 * Mathematics Challenge 2023 – Team Winner for α Blast (the Kahoot quiz) Challenge
 
@@ -56,6 +68,9 @@ _\[Science, Technology, Engineering, Math__\]_
 * Singapore Math Kangaroo Contest (SMKC) 2023 – 7 Silver, 9 Bronze, 6 Honorable Mention
 
 * Animation and Game Making (AGM) Competition 2023 – Silver
+
+* Temasek Engineering Olympiad (2022 - 1 Gold, 1 Silver, 1 Commendation ; 2023 - 1 Gold, 1 Silver, 2 Commendation) 
+ 
 
 #### Co-curriculum-related Achievements  
 
@@ -117,7 +132,7 @@ _\[Science, Technology, Engineering, Math__\]_
 * Caring Teacher Award – National Level – 1 Awardee (2018)  
   
 
-* Outstanding STEM Teacher Award  \-  1 Recipient (2022)  
+* Outstanding STEM Teacher Award  -  1 Recipient (2022)  
   
 
 * National Awards (Covid-19) Covid-19 Resilience Medal – 2 Awardees  
