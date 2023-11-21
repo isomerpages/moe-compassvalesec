@@ -9,6 +9,8 @@ The school’s Learning for Life Programme (LLP) was designed with the convictio
 
 Named the 'Green Compass Programme' (GCP), the LLP is thoughtfully crafted to ignite the spark of community and youth leadership in our students, motivating them to undertake meaningful actions that catalyse positive change in their everyday lives. This programme serves as the guiding light, illuminating the path to responsible citizenship, environmental stewardship, and deep personal growth.
 
+![](/images/2023%20Distinctive%20Programmes/ALP/Photos__1_.png)
+*LLP - GCP Committee*
 ### Theme
 
 Promoting Sustainable Living in the Community&nbsp;&nbsp;
