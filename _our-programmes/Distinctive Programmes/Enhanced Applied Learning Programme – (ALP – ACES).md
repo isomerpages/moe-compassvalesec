@@ -3,10 +3,13 @@ title: Enhanced Applied Learning Programme – (ALP – ACES)
 permalink: /our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 # Enhanced Applied Learning Programme – Aeronautics, Coding, Engineering, Sustainability (ALP-ACES)
 
 CVSS’s ALP-ACES in the domain of Science, Technology, Engineering and Mathematics (STEM) provides the opportunity for students to better appreciate the importance of sustainability in their everyday lives. Through the ALP, students sharpen their competencies in critical, adaptive and inventive thinking, and hone their problem-solving skills through linking what they have learnt in the core subjects of Physics, Design and Technology (D&amp;T), and Mathematics to hands-on learning in the ALP.
+![](/images/2023%20Distinctive%20Programmes/ALP/Photos__1_.png)
+*ALP Aeronautics Committee*
 
 ![](/images/Distinctive%20Programmes/enhanced%20alp.png)
 

@@ -2,6 +2,7 @@ collections:
   awards-and-achievements:
     output: true
     order:
+      - O levels/2022.md
       - O levels/.keep
       - O levels/2021.md
       - O levels/2020.md
@@ -22,6 +23,7 @@ collections:
       - O levels/2005.md
       - O levels/2004.md
       - O levels/2003.md
+      - N Levels/2022.md
       - N Levels/.keep
       - N Levels/2021.md
       - N Levels/2020.md
