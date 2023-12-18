@@ -15,4 +15,6 @@ variant: markdown
 
 * [2024 Sec 4 Booklist and Uniform Order Form](/files/2024%20Booklist/2024%20sec%204%20booklist%20with%20uniform%20order%20form.pdf)
 
+* [2024 Sec 5 Booklist and Uniform Order Form](/files/2024_Sec_5_Infosheet_with_Booklist_and_uniform_order_form.pdf)
+
 * [Uniform Measurement Chart](/files/2024%20Booklist/uniform%20measurement%20chart2.pdf)
