@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
-*   [2024 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5)  
+*   [2024 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5)
+*   
 
 * [2023 Schedule for Checking End-Of-Year Papers](/announcements/2023eoypapers)
 *  [2023 Semester 2 Timetables](/announcements/sem2timetables2023/)
