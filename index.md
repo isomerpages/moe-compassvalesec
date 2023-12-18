@@ -24,7 +24,7 @@ sections:
         (Wed), parents of incoming students will receive more details via
         Parents Gateway.
       button: Click to read more
-      url: https://www.compassvalesec.moe.edu.sg/useful-info-and-links/announcements/cvssregistrationfor2024sec1students
+      url: useful-info-and-links/announcements/cvssregistrationfor2024sec1students/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infopic:
