@@ -2,8 +2,9 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - Announcements/Announcements.md
       - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/CVSS Registration For 2024 Secondary 1 Students.md
       - Useful Links.md
       - Administrative Matters/.keep
       - Administrative Matters/Main.md

@@ -17,6 +17,17 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: CVSS Registration For 2024 Secondary 1 Students
+      subtitle: Announcement
+      id: infopic
+      description: When MOE has released the Sec 1 posting results on 20 Dec 2023
+        (Wed), parents of incoming students will receive more details via
+        Parents Gateway.
+      button: Click to read more
+      url: useful-info-and-links/announcements/cvssregistrationfor2024sec1students/
+      image: /images/Landing Page/overview - morning assembly.jpeg
+      alt: Image alt text
+  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -26,17 +37,6 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
-  - infopic:
-      title: CVSS Open House!
-      subtitle: UPCOMING EVENT
-      id: infopic
-      description: Come visit CVSS at our OPEN HOUSE on Sat, 18 Nov 2023, from 10 am
-        to 2.30 pm! Come and gain first-hand insights about the distinctive
-        Compassvale Experience.
-      button: Read more on Instagram
-      url: https://www.instagram.com/p/Cyzjmc4pnWy/?utm_source=ig_web_copy_link
-      image: /images/Landing Page/open house_banner_2023.jpeg
-      alt: Image alt text
   - infopic:
       title: National School Games Softball ('C' Div Boys) - 4th Placing
       subtitle: Achievement
