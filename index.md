@@ -38,9 +38,9 @@ sections:
       title: CVSS Registration For 2024 Secondary 1 Students
       subtitle: Announcement
       id: infopic
-      description: "When MOE has released the Sec 1 posting results on 20 Dec 2023
+      description: When MOE has released the Sec 1 posting results on 20 Dec 2023
         (Wed), parents of incoming students will receive more details via
-        Parents Gateway. "
+        Parents Gateway.
       button: Click to read more
       url: https://www.compassvalesec.moe.edu.sg/announcements/2023eoypapers/
       image: /images/Landing Page/overview - morning assembly.jpeg
