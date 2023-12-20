@@ -17,12 +17,11 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: CVSS Registration For 2024 Secondary 1 Students
+      title: Registration For 2024 Secondary 1 Students
       subtitle: Announcement
       id: infopic
-      description: When MOE has released the Sec 1 posting results on 20 Dec 2023
-        (Wed), parents of incoming students will receive more details via
-        Parents Gateway.
+      description: Parents of incoming Sec 1 students would receive the following from
+        us via Parents Gateway (PG) by Thursday, 21 December 2023
       button: Click to read more
       url: useful-info-and-links/announcements/cvssregistrationfor2024sec1students/
       image: /images/Landing Page/overview - morning assembly.jpeg
