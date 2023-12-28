@@ -52,7 +52,7 @@ variant: markdown
 		<td class="tg-ktyi">karpagam_thanabalan@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td class="tg-dgl5">Mother Tongue Languages (Acting)</td>
+    <td class="tg-dgl5">Mother Tongue Languages</td>
     <td class="tg-ktyi">Ms Koh Bee Choo</td>
 		 <td class="tg-ktyi">koh_bee_choo@moe.edu.sg</td>
   </tr>
@@ -129,16 +129,17 @@ variant: markdown
     <td class="tg-ktyi">Mrs Preeti Kulkarni<br></td>
 		<td class="tg-ktyi">preeti_vikas_palkar@moe.edu.sg</td>
   </tr>
-		<tr>
-    <td class="tg-dgl5">Geography (Acting)</td>
-    <td class="tg-ktyi">Mr Andrea Ang</td>
-			<td class="tg-ktyi">andrea_ang_chin_wei@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Project Work</td>
+	<tr>
+    <td class="tg-dgl5">Chemistry</td>
     <td class="tg-ktyi">Ms Tay Siew Woon</td>
 		<td class="tg-ktyi">tay_siew_woon@moe.edu.sg</td>
   </tr>
+		<tr>
+    <td class="tg-dgl5">Geography</td>
+    <td class="tg-ktyi">Mr Andrea Ang</td>
+			<td class="tg-ktyi">andrea_ang_chin_wei@moe.edu.sg</td>
+  </tr>
+  
   <tr>
     <td class="tg-dgl5">Educational Support</td>
     <td class="tg-ktyi">Ms Lee Han</td>
