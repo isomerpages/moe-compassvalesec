@@ -1,0 +1,13 @@
+collections:
+  useful-info-and-links:
+    output: true
+    order:
+      - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/Registration For 2024 Secondary 1 Students.md
+      - Useful Links.md
+      - Administrative Matters/.keep
+      - Administrative Matters/Main.md
+      - Administrative Matters/Termly Communications to Parents.md
+      - 2023 Direct School Admission (DSA).md
+      - MOE Communications.md
