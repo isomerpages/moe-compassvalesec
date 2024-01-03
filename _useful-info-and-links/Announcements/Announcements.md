@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
-*  [2024 Semester 1 Timetables](/announcements/sem2timetables2023/)
+*  [2024 Semester 1 Timetables](/announcements/sem1timetables2024/)
 
 *   [2023 N Level Results Release - ECG and Admin Briefing Slides](/files/Briefing_slides_for_2023_N_level_Results_Release__ECG_Applications_.pdf)
 
