@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2024 Semester 1 Timetables
+      subtitle: Announcement
+      id: infopic
+      button: Click here to access them
+      url: /announcements/sem1timetables2024/
+      image: /images/Landing Page/overview - morning assembly.jpeg
+      alt: Image alt text
+  - infopic:
       title: Registration For 2024 Secondary 1 Students
       subtitle: Announcement
       id: infopic
