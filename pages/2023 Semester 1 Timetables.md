@@ -3,7 +3,6 @@ title: 2023 Semester 1 Timetables
 permalink: /announcements/2023-semester-1-timetables/
 description: ""
 ---
-
 [2023 Semester 1 Secondary 1 Timetables](/files/Sec%201%20class%20TT_4%20Jan%202023.pdf)  
   
   
@@ -14,4 +13,3 @@ description: ""
   
   
 [2023 Semester 1 Secondary 4/5 Timetables (updated 2 Feb 2023)](/files/Sec%204_5%20classes%20Timetables_020223.pdf)
-
