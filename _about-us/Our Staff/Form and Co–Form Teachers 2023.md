@@ -3,6 +3,7 @@ title: Form and Co–Form Teachers 2023
 permalink: /about-us/our-staff/form-co-form-teachers-2023/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,39 +27,41 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-9hzb">1-1</td>
-		<td class="tg-dgl5">Ms Zhuang Chuzhen <br><i>zhuang_chuzhen@moe.edu.sg</i></td>
-		<td class="tg-dgl5">Mr Fauwaz Nurhelmy bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg</i></td>
-		<td class="tg-dgl5">Ms Toh Xuan Hui<br><i>toh_xuan_hui@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> </td>
+		<td class="tg-dgl5">Ms Tan Siew Hian (Yvonne)<br><i>tan_siew_hian@moe.edu.sg </i></td>
+		<td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei<br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
+		   <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-2</td>
-    <td class="tg-dgl5">Mdm Low E Soon<br><i>low_e_soon@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Kartik Gayan Rajaram<br><i>kartik_gayan_rajaram@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Yeo Seok Poh (Janet)<br><i>yeo_seok_poh@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Preeti Kulkarni<br><i>preeti_vikas_palkar@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-3</td>
-    <td class="tg-dgl5">Mdm Mohanajothi Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin)<br><i>por_ee_lian@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Chan Suz Yi (Mrs Khoo)
+<br><i>chan_suz_yi@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Noor Syafiq Bin Abdul Rashid<br><i>noor_syafiq_abdul_rashid@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-4</td>
-    <td class="tg-dgl5">Mdm Chitra Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Ms Jasmine Wong Shu Ting<br><i>Jasmine_wong_Shu_ting@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Noorhidayah Bte Md Taib<br><i>noorhidayah_md_taib@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Chee Joon Kit Kelvin<br><i>chee_joon_kit_kelvin@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Wan Fazithahariani Bte Wan Ahmad<br><i>wan_fazithahariani_wan_a@moe.edu.sg
+			   </i></td><td class="tg-dgl5"> </td>
+
+
   </tr>
   <tr>
     <td class="tg-9hzb">1-5</td>
-    <td class="tg-dgl5">Ms Leow Deng Li<br><i>leow_deng_li@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Ng Si Ying, Pamela<br><i>pamela_ng_si_ying@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Mohammad Firuz Bin Mustapha<br><i>mohammad_firuz_mustapha@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Ng Si Ying Pamela<br><i>pamela_ng_si_ying@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-6</td>
-    <td class="tg-dgl5">Mdm Sarah Ang En Ling (Mrs Chia)<br><i>sarah_ang_en_ling@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Winnie Chia (Mrs Lim)<br><i>chia_winnie@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Ang Si Min<br><i>Ang_si_min@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Wang Buay San Ellen<br><i>wang_buay_san_ellen@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
