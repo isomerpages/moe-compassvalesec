@@ -10,6 +10,7 @@ CCA
 * [CCA Schedule 2023](/files/cca%20daily%20schedule%202023-7feb.pdf) (correct as of 7 Feb)
 
 Miscellaneous
-* [2024 Group Personal Accident Insurance for Students (Updated 27 Dec 2023)](/files/Product%20Fact%20Sheet%20Year%202023_GPA%20Product%20Fact%20Sheet%20for%202023.pdf)
+
+* [2024 Group Personal Accident Insurance for Students (Updated 27 Dec 2023)](/files/Admin%20Matters%202024/Product_Fact_Sheet_Year_2024.pdf)
 * [Recommended Vehicle Drop-Off Point](/files/Recommended%20Drop%20Off%20Point.pdf)
 []()
