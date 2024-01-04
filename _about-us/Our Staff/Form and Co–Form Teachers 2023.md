@@ -145,7 +145,7 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">3E3</td>
 <td class="tg-dgl5"> Mr Chan Seong Hung (Jeremy)<br><i>chan_seong_hung@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif<br><i>muhammad_asyraf_zainol@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif<br><i>shahirah_muhammad_sharif@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
