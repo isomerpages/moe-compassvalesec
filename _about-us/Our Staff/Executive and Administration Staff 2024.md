@@ -1,8 +1,9 @@
 ---
-title: Executive and Administration Staff 2023
-permalink: /about-us/our-staff/executive-and-administration-staff-2023/
+title: Executive and Administration Staff 2024
+permalink: /about-us/our-staff/executive-and-administration-staff-2024/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

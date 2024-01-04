@@ -1,6 +1,6 @@
 ---
-title: School Management Committee 2023
-permalink: /about-us/our-staff/school-management-committee-2023/
+title: School Management Committee 2024
+permalink: /about-us/our-staff/school-management-committee-2024/
 description: ""
 third_nav_title: Our Staff
 variant: markdown
