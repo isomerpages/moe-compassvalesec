@@ -157,26 +157,26 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-9hzb">3N1</td>
-    <td class="tg-dgl5">Mr Wong Yew Chiang (Ryan)<br><i>chong_khiam_kiat@moe.edu.sg</i> </td>
-    <td class="tg-dgl5">Ms Liew Feng Lin<br><i>liew_feng_lin@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Audrey Leong<br><i>Leong_meng_wai@moe.edu.sg</i> </td>
+    <td class="tg-dgl5">Mr Wong Yew Chiang (Ryan)<br><i>ryan_wong@moe.edu.sg</i> </td>
+    <td class="tg-dgl5">Ms Ng Sin Yin Rebecca<br><i>ng_sin_yin_rebecca@moe.edu.sg</i></td>
+    <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N2</td>
-    <td class="tg-dgl5">Mr Ilanggo<br><i>veerabadran_chettiar_ilango@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mrs Viddyawati Gunalan<br><i>viddyawati_gunalan@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>amy_tso_shuk_yan@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Leong Kok Wai<br><i>Leong_kok_wai@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N3</td>
-    <td class="tg-dgl5">Ms Shirin Binte Shaik Muhyideen<br><i>shirin_shaik_muhyideen@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>nur_azam_jaffar@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin<br><i>Mohamed_fairoz_nordin@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Lee Han<br><i>lee_han@moe.edu.sg </i></td>
       </tr>
   <tr>
     <td class="tg-9hzb">3T1</td>
-    <td class="tg-dgl5">Mdm Jamaliah Bte Mohamad Saleh<br><i>jamaliah_mohamad_saleh@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Foo Chang Yong (John)<br><i>Foo_chang_yong_john@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Ng Sin Yin Rebecca <br><i>ng_sin_yin_rebecca@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Noranika Murni Bte Dol Karim<br><i>noranika_murni_dol_karim@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Chin Li Li (Mrs Koh)<br><i>chin_li_li@moe.edu.sg </i></td>
+    <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">4E1</td>
