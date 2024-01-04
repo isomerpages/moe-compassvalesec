@@ -131,31 +131,33 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-9hzb">3E1</td>
-    <td class="tg-dgl5">Mdm Lim Yiling Clarissa<br><i>lim_yiling_clarissa@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Tan Siew Hian Yvonne<br><i>tan_siew_hian@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> Ms Zhou Yuxi<br><i>zhou_yuxi@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Ng Hong Pin<br><i>ng_hong_pin@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Zubaidah Leyman<br><i>zubaidah_leyman@moe.edu.sg </i></td>
+    <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E2</td>
-    <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu<br><i>kulandayan_thirunavukarasu@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> Mdm Leow Pei Ying<br><i>leow_pei_ying@moe.edu.sg</i></td>
+		  <td class="tg-dgl5"> Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa
+<br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
 		<td class="tg-dgl5"></td>
 		</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
-    <td class="tg-dgl5">Mr Chua Choon Heong<br><i>chua_choon_heong@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Muhammad Asyraf Bin Zainol<br><i>muhammad_asyraf_zainol@moe.edu.sg</i></td>
+<td class="tg-dgl5"> Mr Chan Seong Hung (Jeremy)<br><i>chan_seong_hung@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Shahirah Bte Muhammad Sharif<br><i>muhammad_asyraf_zainol@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3E4</td>
-    <td class="tg-dgl5">Mr Yet Tun Quan (Sean)<br><i>yet_tun_quan@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Ms Fazleen Bte Mahmud<br><i>fazleen_mahmud@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Huang Shiying (April)
+<br><i>huang_shiying@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Ng Junjie<br><i>ng_junjie@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3N1</td>
-    <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick)<br><i>chong_khiam_kiat@moe.edu.sg</i> </td>
+    <td class="tg-dgl5">Mr Wong Yew Chiang (Ryan)<br><i>chong_khiam_kiat@moe.edu.sg</i> </td>
     <td class="tg-dgl5">Ms Liew Feng Lin<br><i>liew_feng_lin@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Audrey Leong<br><i>Leong_meng_wai@moe.edu.sg</i> </td>
   </tr>
