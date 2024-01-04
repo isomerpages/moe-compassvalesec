@@ -76,15 +76,10 @@ variant: markdown
   </tr>
 	  <tr>
     <td class="tg-9hzb">1-9</td>
-    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin)<br><i>por_ee_lian@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Tay Siew Woon<br><i>lim_soo_gek_geraldine@moe.edu.sg</i></td>
-    <td class="tg-dgl5"></td>
-  </tr>
-	  <tr>
-    <td class="tg-9hzb">1-8</td>
-    <td class="tg-dgl5">Mdm Lim Soo Gek Geraldine (Mrs Lee)<br><i>lim_soo_gek_geraldine@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Tay Siew Woon<br><i>lim_soo_gek_geraldine@moe.edu.sg</i></td>
-    <td class="tg-dgl5"></td>
+    <td class="tg-dgl5">Ms Koh Yi Ming<br><i>koh_yi_ming@moe.edu.sg  </i></td>
+    <td class="tg-dgl5">Mdm Ng Lay Hoon
+<br><i>ng_lay_hoon_b@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Chang Sin Yi Donna<br><i>chang_sin_yi_donna@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2-1</td>
