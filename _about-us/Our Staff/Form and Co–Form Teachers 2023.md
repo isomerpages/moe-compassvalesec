@@ -187,7 +187,7 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">4E2</td>
     <td class="tg-dgl5">Mr Kulandayan Thirunavukarasu
-<br><i>mohammad_firuz_mustapha@moe.edu.sg</i></td>
+<br><i>kulandayan_thirunavukarasu@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Leow Pei Ying<br><i>leow_pei_ying@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
