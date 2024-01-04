@@ -213,7 +213,7 @@ variant: markdown
     <td class="tg-9hzb">4N2</td>
     <td class="tg-dgl5">Mr Ilanggo<br><i>veerabadran_chettiar_ilango@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mrs Viddyawati Gunalan<br><i>viddyawati_gunalan@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee<br><i>mohamad_shalleh_bin_sujaee@moe.edu.sg</i></td>
+    <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">4N3</td>
