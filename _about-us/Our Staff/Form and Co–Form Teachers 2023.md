@@ -65,7 +65,7 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">1-7</td>
     <td class="tg-dgl5">Mr Sim Chay Whatt<br><i>sim_chay_whatt@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Miss Tow Junli, Natalie<br><i>Tow_junli_natalie@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Tow Junli, Natalie<br><i>tow_junli_natalie@moe.edu.sg </i></td>
 		<td class="tg-dgl5"></td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">2-5</td>
     <td class="tg-dgl5">Ms Leow Deng Li<br><i>leow_deng_li@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Miss Jasmine Wong Shu Ting<br><i>jasmine_wong_Shu_ting@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Miss Jasmine Wong Shu Ting<br><i>jasmine_wong_shu_ting@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
