@@ -17,21 +17,22 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: Release of GCE O-level results 2023
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      description: The GCE O-level results will be released in school on Thur, 11 Jan
+        2024.  Students are to report to the school hall punctually at 2.00
+        pm...
+      button: Click here to read more
+      url: /announcements/olevelresultsrelease2023/
+      image: /images/Landing Page/WhatsApp_Image_2024_01_05_at_4_23_08_PM.jpeg
+      alt: Image alt text
+  - infopic:
       title: 2024 Semester 1 Timetables
       subtitle: Announcement
       id: infopic
       button: Click here to access them
       url: /announcements/sem1timetables2024/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Registration For 2024 Secondary 1 Students
-      subtitle: Announcement
-      id: infopic
-      description: Parents of incoming Sec 1 students would receive the following from
-        us via Parents Gateway (PG) by Thursday, 21 December 2023
-      button: Click to read more
-      url: useful-info-and-links/announcements/cvssregistrationfor2024sec1students/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infopic:
