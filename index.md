@@ -18,7 +18,7 @@ sections:
           url: /useful-links/
   - infopic:
       title: Release of GCE O-level results 2023
-      subtitle: Add an image and text
+      subtitle: Announcement
       id: infopic
       description: The GCE O-level results will be released in school on Thur, 11 Jan
         2024.  Students are to report to the school hall punctually at 2.00
