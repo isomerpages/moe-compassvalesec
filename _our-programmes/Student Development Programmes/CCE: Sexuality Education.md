@@ -115,5 +115,70 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td>Term 3 Week 7</td>
 </tr></tbody>
 </table>
-or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
+
+
+#### 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 
+
+### SECONDARY 2
+<table style="width:100%">
+<thead>
+  <tr>
+    <th class="tg-s7g5">Unit</th>
+    <th class="tg-s7g5">Lesson Title / Duration</th>
+		   <th class="tg-s7g5">Lesson Overview</th>
+		   <th class="tg-s7g5">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+<th class="tg-s7g5">Time Period</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Respectful Relationships &amp; Safety</td>
+<td>A Role for Everyone 
+Lesson 1
+(60	mins)
+</td>
+		
+<td>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
+
+Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
+
+Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
+</td>
+
+<td>•	know that one’s understanding of gender roles should not be limited by gender stereotypes
+•	develop an appreciation of one’s own unique qualities and characteristics as a male or female
+•	understand what sexual orientation entails
+</td>
+	
+<td>Term 3 Week 8</td>
+</tr>
+	
+<tr>
+<td>Being Aware, Being Safe
+Lesson 2(60 mins)</td>
+<td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+	<td>•	understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+	<td>Term 3 Week 3</td>
+	</tr>
+	
+<tr>
+<td>More than Meets the Eye
+Lesson 3 
+(60 mins)</td>
+
+<td>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. 
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</td>
+	
+<td>
+•	understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>
+•	recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
+</td>
+	
+<td>Term 3 Week 7</td>
+</tr></tbody>
+</table>
+
+
 
