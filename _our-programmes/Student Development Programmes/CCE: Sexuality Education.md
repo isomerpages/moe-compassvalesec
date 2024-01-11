@@ -82,10 +82,10 @@ Lesson 1
 		
 <td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
 
-<td>•	recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br>
-•	recognise that there are different forms of love (e.g. familial, platonic, romantic love) <br>
-•	 recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>
-•	understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+<td>•	Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br>
+•	Recognise that there are different forms of love (e.g. familial, platonic, romantic love) <br>
+•	 Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>
+•	Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
 <td>Term 3 Week 2</td>
 </tr>
 	
@@ -94,7 +94,7 @@ Lesson 1
 Lesson 2(60 mins)</td>
 <td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-	<td>•	understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+	<td>•	Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
 	<td>Term 3 Week 3</td>
 	</tr>
 	
@@ -108,8 +108,8 @@ Lesson 3
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</td>
 	
 <td>
-•	understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>
-•	recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
+•	Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>
+•	Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
 </td>
 	
 <td>Term 3 Week 7</td></tr>
@@ -145,9 +145,9 @@ Students learn to focus on their personal strengths to pursue their interests an
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 </td>
 
-<td>•	know that one’s understanding of gender roles should not be limited by gender stereotypes
-•	develop an appreciation of one’s own unique qualities and characteristics as a male or female
-•	understand what sexual orientation entails
+<td>•	Know that one’s understanding of gender roles should not be limited by gender stereotypes
+•	Develop an appreciation of one’s own unique qualities and characteristics as a male or female
+•	Understand what sexual orientation entails
 </td>
 	
 <td>Term 3 Week 8</td>
@@ -163,7 +163,7 @@ Lesson 2A
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 
 </td>
-	<td>•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+	<td>•	Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
 	<td>Term 3 Week 9</td>
 	</tr>
 	
@@ -177,8 +177,8 @@ Lesson 2B
 <td>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
 	
 <td>
-•	recognise the importance of self-respect and respect for others in relating to members of the opposite sex 
-•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
+•	Recognise the importance of self-respect and respect for others in relating to members of the opposite sex 
+•	Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online
 
 </td>
 	
@@ -210,8 +210,8 @@ Lesson 1A
 <td>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  
 </td>
 
-<td>•	know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline 
-•	understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours
+<td>•	Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline 
+•	Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours
 •	recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship
 
 </td>
@@ -227,10 +227,10 @@ Lesson 1A
 <td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. 
 
 </td>
-	<td>•	know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges 
-•	know that a decision to end a relationship will have consequences on oneself and others
-•	know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience 
-•	know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support 
+	<td>•	Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges 
+•	Know that a decision to end a relationship will have consequences on oneself and others
+•	Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience 
+•	Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support 
 </td>
 	<td>Term 2 Week 1</td>
 	</tr>
@@ -314,7 +314,7 @@ Lesson 4
 	
 <td>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
 	
-<td>•	understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+<td>•	Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
 	
 	<td>Term 2 Week 2</td></tr>
 	
@@ -342,7 +342,7 @@ Lesson 4
 		
 <td>In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. </td>
 
-<td>•	understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+<td>•	Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
 <td>Term 2 Week 6</td>
 </tr>
 
@@ -376,6 +376,3 @@ b)	Managing relationships and risky situations in a healthy way.
 <td>Term 2 Week 8</td></tr>
 </tbody>
 </table>
-		
-
-
