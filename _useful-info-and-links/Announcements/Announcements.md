@@ -7,7 +7,7 @@ variant: markdown
 ---
 *  [2024 Semester 1 Timetables](/announcements/sem1timetables2024/)
 
-*[2024 O level Result Release - ECG Slides and Admin Slides](/files/O_Level_Results_Briefing__ECG_Applications_.pdf)
+* [2024 O level Result Release - ECG Slides and Admin Slides](/files/O_Level_Results_Briefing__ECG_Applications_.pdf)
 
 *   [2023 N Level Results Release - ECG and Admin Briefing Slides](/files/Briefing_slides_for_2023_N_level_Results_Release__ECG_Applications_.pdf)
 
