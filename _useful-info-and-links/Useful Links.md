@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
+variant: markdown
 ---
 ### For Students
 
@@ -27,6 +28,7 @@ description: ""
 *   [Haze](http://www.haze.gov.sg/)
 *   [MOE Website](http://www.moe.gov.sg/)
 *   [Education and Career Guidance (ECG) microsite](https://sites.google.com/moe.edu.sg/education-career-guidance/home)
+*   [2024 Sexuality Education](/our-programmes/student-development-programmes/sexuality-education-1/)
 
 ### For Teachers
 *   [iCON - Email for Teachers](https://icon.moe.edu.sg/)
