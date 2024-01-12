@@ -3,6 +3,7 @@ title: "CCE: Education and Career Guidance (ECG)"
 permalink: /our-programmes/student-development-programmes/education-and-career-guidance-ecg/
 description: ""
 third_nav_title: Student Development Programmes
+variant: markdown
 ---
 # **Education and Career Guidance (ECG) Programme**
 
@@ -34,7 +35,7 @@ With the ECG Counsellor, students may:
 * find out more about their career interests, strengths and passions
 
   
-An appointment can be made with the ECG Counsellor [here](https://go.gov.sg/ecg-cvss-efss).  
+An appointment can be made with the ECG Counsellor [here](https://sites.google.com/moe.edu.sg/education-career-guidance/home)
   
 **MySkillsFuture.sg** 
 * a web-based portal designed to facilitate education and career development among students in Singapore. It is premised on the ECG Development Model and contains features that facilitate identity development while bringing students through the process of career awareness, exploration and planning.  
