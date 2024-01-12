@@ -376,3 +376,14 @@ b)	Managing relationships and risky situations in a healthy way.
 <td>Term 2 Week 8</td></tr>
 </tbody>
 </table>
+
+### INFORMATION FOR PARENTS
+10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+11.	Parents who wish to opt their children out of the <strong>Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/659b7dbab1d298001203a885). The completed form is to be submitted by 31/01/2024. 
+
+12.	Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/659baa80fec9850012c2802f ). The completed form is to be submitted by 31/01/2024.
+
+13.	Parents can contact the school at 6881 5047 for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+
