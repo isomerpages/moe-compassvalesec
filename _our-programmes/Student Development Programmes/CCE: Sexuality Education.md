@@ -17,7 +17,7 @@ variant: markdown
 
 (c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
- 3. The **Key Messages** of Sexuality Education are:
+3. The **Key Messages** of Sexuality Education are:
 
 (a)	Love and respect yourself as you love and respect others;
 
@@ -32,7 +32,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more inform
 
 ### OVERVIEW OF COMPASSVALE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024
 
- 4. SSexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+ 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5.	The subjects that incorporate topics on sexuality include:
 
