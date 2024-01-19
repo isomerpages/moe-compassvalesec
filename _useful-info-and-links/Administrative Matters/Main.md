@@ -7,7 +7,7 @@ variant: markdown
 ---
 CCA
 
-* [CCA Schedule 2024](/files/cca%20daily%20schedule%202023-7feb.pdf) (correct as of 17 Jan)
+* [CCA Schedule 2024](/files/Admin%20Matters%202024/CCA_Schedule_and_Venues__a_a_17Jan2024_.pdf) (correct as of 17 Jan)
 
 Miscellaneous
 
