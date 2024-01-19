@@ -42,4 +42,13 @@ sections:
       url: https://www.instagram.com/p/Cwe60yAxnMY/?igshid=MzRlODBiNWFlZA==
       image: /images/Landing Page/softball_c_div_4thplace_2023_cropped.jpeg
       alt: NSG Softball ('C' Div) 2023
+  - infopic:
+      title: Achievement
+      subtitle: Add an image and text
+      id: infopic
+      description: North Stars from the Aeronautics Club emerged Champions in the DJI
+        Robomaster Drone Tournament, held in November 2023.
+      button: Read more on Instagram
+      url: https://www.instagram.com/p/C2O-fudRWky/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      alt: Image alt text
 ---
