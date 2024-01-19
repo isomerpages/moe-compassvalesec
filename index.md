@@ -25,7 +25,7 @@ sections:
       button: Read more on Instagram
       url: https://www.instagram.com/p/C2O-fudRWky/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
-      image: /images/Landing Page/Aeronautics_DJI_Challenge_Nov2023.jpeg
+      image: /images/Landing Page/Aeronautics_DJI_Challenge_Nov2023_cropped.jpeg
   - infopic:
       title: 2024 Semester 1 Timetables
       subtitle: Announcement
