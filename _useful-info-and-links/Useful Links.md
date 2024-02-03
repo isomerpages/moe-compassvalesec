@@ -22,6 +22,7 @@ variant: markdown
 ### For Parents
 
 *   [Parents Gateway](https://pg.moe.edu.sg/)
+*   [Understanding & supporting your child's transition to secondary school (Sharing at S1 Parents' Talk, 12 Jan 2024)](/files/Useful%20Info%20and%20Links/Overview__Assessment__CCA.pdf)
 *   [Stay Safe Online_Tip Sheet for Parents](/files/Stay%20safe%20online_Tip%20sheet%20for%20parents.pdf)
 *   [Parent Kit](https://www.moe.gov.sg/parentkit)
 *   [Edusave Scheme](https://www.moe.gov.sg/financial-matters/edusave-account)
