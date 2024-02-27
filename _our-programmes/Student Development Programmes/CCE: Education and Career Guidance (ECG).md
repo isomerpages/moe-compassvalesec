@@ -27,7 +27,7 @@ In addition, teachers are equipped with ECG facilitation skills and play a pivot
 
 **ECG Counsellor** 
 
-* Stationed at the school every Monday and Wednesday to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
+* Stationed at the school every Monday and Thursday to provide support to students (individually or in small groups) to help them make informed decisions on post-secondary education and career options.  
 
 With the ECG Counsellor, students may:
 * explore more info about subject choices
