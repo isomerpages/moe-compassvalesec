@@ -90,14 +90,15 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">2-2</td>
     <td class="tg-dgl5">Mdm Chew Biyu Mildred<br><i>chew_biyu_mildred@moe.edu.sg</i></td>
-        <td class="tg-dgl5">Mdm Kartik Gayan Rajaram<br><i>kartik_gayan_rajaram@moe.edu.sg </i></td>
-		 <td class="tg-dgl5"></td>
+        <td class="tg-dgl5">Mr Kartik Gayan Rajaram<br><i>kartik_gayan_rajaram@moe.edu.sg </i></td>
+		 <td class="tg-dgl5">Mr Ong Kok Hwee<br><i>ong_kok_hwee@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2-3</td>
     <td class="tg-dgl5">Mdm Mohanajothi d/o Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mdm Nurul Amirah Bte Ahmad<br><i>nurul_amirah_ahmad@moe.edu.sg 
 </i></td><td class="tg-dgl5"></td>
+		
     </tr>
   <tr>
     <td class="tg-9hzb">2-4</td>
