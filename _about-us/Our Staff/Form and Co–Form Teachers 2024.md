@@ -231,10 +231,11 @@ variant: markdown
   <tr>
       <td class="tg-9hzb">5N1/2</td>
     <td class="tg-dgl5">Mr Wang Tiancai, Richmond<br><i>wang_tiancai_richmond@moe.edu.sg </i></td>
+  <td class="tg-dgl5">Mr Ang Joon Boon, Andy<br><i>ang_joon_boon_andy@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee<br><i>mohamad_shalleh_bin_sujaee@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
 </tbody>
 </table>
 
-*updated 04 Jan 2024*
+*updated 20 Jan 2024*
