@@ -9,7 +9,7 @@ variant: markdown
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uuGxY10fJaw?si=q-OBla0UTlRvOTnH" height="315" width="560"></iframe></center>
 
-We offer a rich and personalised curricular and co-curricular dexperience for all our students, across the six Integrated Competency and Development Clusters.
+We offer a rich and personalised curricular and co-curricular experience for all our students, across the six Integrated Competency and Development Clusters.
 ![](/images/The%20Compassvale%20Experience/Copy_of_The_Compassvale_Experience_Oct2023_page_0001.jpg)
 
 
