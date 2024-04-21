@@ -51,7 +51,7 @@ Description automatically generated](https://lh7-us.googleusercontent.com/t8d5TA
 
   
 
-<h4>2.SPORTS AND GAMES: FLOORBALL (BOYS &amp; GIRLS), SOFTBALL (BOYS ONLY) and NETBALL (GIRLS ONLY)</h4>
+<h4>2. SPORTS AND GAMES: FLOORBALL (BOYS &amp; GIRLS), SOFTBALL (BOYS ONLY) and NETBALL (GIRLS ONLY)</h4>
 
   
 
