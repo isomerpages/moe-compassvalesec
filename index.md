@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2024 DIRECT SCHOOL ADMISSION
+      id: infopic
+      description: 2024 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE
+      button: Click for more details
+      url: /useful-info-and-links/2024-direct-school-admission-dsa-1/
+      image: /images/Landing Page/video_capture.JPG
+      alt: Image alt text
+  - infopic:
       title: Champions in the DJI Robomaster Drone Tournament
       subtitle: Achievement
       id: infopic
