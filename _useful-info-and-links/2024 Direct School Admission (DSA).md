@@ -21,7 +21,7 @@ We invite interested Primary 6 pupils to apply to join CVSS in Secondary One 202
 Compassvale Secondary School provides a range of exciting opportunities to develop our students’ interests, talents, and passions in STEM.&nbsp;
 
 
-The school's Applied Learning Programme in Aeronautics, Coding, Engineering and Sustainability (ACES) allows students to learn flight science and develop complementary competencies like coding and engineering. This is done through formal curriculum lessons, local and overseas learning experiences, hands-on projects, and participation in national-level competitions. Students can also join the Aeronautics Club, Robotics Club, and Environmental Science Club to further their interests.&nbsp;
+The school's [Applied Learning Programme in Aeronautics, Coding, Engineering and Sustainability (ACES)](https://www.compassvalesec.moe.edu.sg/our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/) allows students to learn flight science and develop complementary competencies like coding and engineering. This is done through formal curriculum lessons, local and overseas learning experiences, hands-on projects, and participation in national-level competitions. Students can also join the Aeronautics Club, Robotics Club, and Environmental Science Club to further their interests.&nbsp;
 
 
 The school actively trains STEM talents to participate in STEM-related competitions such as the Singapore Math/Science Olympiads, Elementz Science Research Competition, Tan Kah Kee Young Inventors Award, Singapore Amazing Flying Machine Competition, Drone Odyssey Challenge, and more.
