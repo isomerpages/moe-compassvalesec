@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: 2024 DSA
+      title: 2024 DIRECT SCHOOL ADMISSION
       id: infopic
       description: 2024 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE
       button: Click for more details
