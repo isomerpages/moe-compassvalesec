@@ -2,146 +2,119 @@
 title: 2023 Direct School Admission (DSA)
 permalink: /useful-info-and-links/2023-direct-school-admission-dsa-1/
 description: ""
+variant: markdown
 ---
 ## COMPASSVALE SECONDARY SCHOOL 
 
-### 2023 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE
+### 2024 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE
 
-Interested Primary 6 pupils may apply to join CVSS in Secondary One 2024 through the 2023 Direct School Admission – Secondary (DSA-Sec) Exercise under the school’s distinctive programmes:
 
-**DSA-SEC TALENTS OFFERED**
+We invite interested Primary 6 pupils to apply to join CVSS in Secondary One 2025 through the 2024 Direct School Admission – Secondary (DSA-Sec) Exercise under the school’s distinctive programmes and talent areas.
 
-**1.**&nbsp;&nbsp;&nbsp;&nbsp; **SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) – AERONAUTICS**
+<h3>DSA-SEC TALENTS OFFERED</h3>
 
-Students can look forward to a range of exciting opportunities to develop their interests, talents, and passions in STEM, with a particular focus on Aeronautics. Through the school's Applied Learning Programme in Aeronautics, students will have the chance to explore the science behind flight and develop relevant skills like coding. Additionally, they will be able to participate in a variety of STEM-related activities, including learning journeys and authentic learning experiences.
+  
 
-Students can also join the school's Aeronautics Club, Robotics Club, and Environment Club, where they can engage with like-minded peers and pursue their interests further. Furthermore, students will have the opportunity to participate actively in the school's various STEM/Aeronautics programs, including joining various STEM-related competitions such as the Math/Science Olympiads, NZ Elementz Science Research Competition, Tan Kah Kee Young Inventors Award, Singapore Amazing Flying Machine Competition, Drone Odyssey Challenge, and more.
+<h4>1.  SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM): AERONAUTICS, CODING, ENGINEERING, SUSTAINABILITY</h4>
+    
 
-Experts from STEM-related industries will be invited to give talks and engage in dialogues with students, allowing them to learn more about the latest developments in these fields. Finally, students will also have the chance to take part in student internships with a partner company in the aviation industry, giving them valuable hands-on experience and insights into potential future careers. Join us today to discover your true potential in STEM!
+Compassvale Secondary School provides a range of exciting opportunities to develop our students’ interests, talents, and passions in STEM.&nbsp;
 
-![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/science1.jpg)
 
-![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/science2.jpg)
+The school's Applied Learning Programme in Aeronautics, Coding, Engineering and Sustainability (ACES) allows students to learn flight science and develop complementary competencies like coding and engineering. This is done through formal curriculum lessons, local and overseas learning experiences, hands-on projects, and participation in national-level competitions. Students can also join the Aeronautics Club, Robotics Club, and Environmental Science Club to further their interests.&nbsp;
 
-        
-**SELECTION CRITERIA**
 
-a.&nbsp;&nbsp;&nbsp; Evidence of talent, passion and self-initiative to learn in the area of STEM and/or Aeronautics.
+The school actively trains STEM talents to participate in STEM-related competitions such as the Singapore Math/Science Olympiads, Elementz Science Research Competition, Tan Kah Kee Young Inventors Award, Singapore Amazing Flying Machine Competition, Drone Odyssey Challenge, and more.
 
-b.&nbsp;&nbsp;&nbsp; Participation/achievements in STEM and/or Aeronautics-related school programmes/events or external activities (e.g. CCAs/enrichment programmes/competitions/hobbies).
 
-c.&nbsp;&nbsp;&nbsp; Performance during the selection process which includes an assessment in STEM/aeronautics and an interview by a selection panel.
+Experts from STEM-related industries are invited to engage our students to allow them to learn more about the latest developments. Students will also have the chance to intern with partner companies in the STEM or aviation industry to gain first-hand experience and insights into potential future careers.&nbsp;
 
-d.&nbsp;&nbsp;&nbsp; Successful candidates are expected to participate actively and contribute to the school’s various STEM/Aeronautics programmes (e.g. STEM-related competitions, Aeronautics Applied Learning Programme, Aeronautics Club etc.).
 
-**SELECTION PROCESS**
+Join us today and grow your strengths and talents in STEM!
 
-a.&nbsp;&nbsp;&nbsp; Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.
+  
+![](https://lh7-us.googleusercontent.com/UB09zci3tngVAcLZuXOj4RmDWFE1tNGUDTTEygihhSNWOa92yPtQRdiRpxFG2vKAX_Sm03BPYN3RGlU7XVq7iaAMQTchdk4sYEjlSn_YgbO-SlmGK8lWCl64FeE1D6ikGOtVR1NFJFnkd7a0Oy2TpA)
 
-b.&nbsp;&nbsp;&nbsp; Shortlisted applicants will be notified via email by&nbsp;**7 July 2023**&nbsp;and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between&nbsp;**10 July 2023**&nbsp;and&nbsp;**11 August 2023**.
+*Champions in the DJI Robomaster Drone Tournament*
 
-c.&nbsp;&nbsp;&nbsp; Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders, pictures/videos of themselves during competitions etc.).
+  
 
-d.&nbsp;&nbsp;&nbsp; All applicants will be informed of the application outcome via email by&nbsp;**11 September 2023**.
+![](https://lh7-us.googleusercontent.com/dzybqxSntr1a49jd0Wy64tU5dhwc82-Ecn6rPMLG7dp1YUWzA_wTAAIBAG2WyyBodlFS2mEj8MvLWQFUHhv2kSaPvN2Utt2IFN3RBBhLm6-Tmb-j_yOvV3R2iL8DcjiIZ3GCPuT9lsLH_DXtZeax5w)
 
-e.&nbsp;&nbsp;&nbsp; The school’s decision is final and there will be no appeal process.
+*Prize winners in the Singapore Amazing Flying Machines Competition*
 
-**2. SPORTS AND GAMES: FLOORBALL (BOYS &amp; GIRLS) and SOFTBALL (BOYS ONLY)**
+  
 
-Compassvale Secondary School is dedicated to nurturing student-athletes, fostering positive character traits and sportsmanship, and achieving excellence in sports. Our team of highly committed teachers and instructors work tirelessly to encourage and support each individual's growth and development in sports.
+![A group of boys sitting on the floor
+Description automatically generated](https://lh7-us.googleusercontent.com/t8d5TAHUFYdM-eYtr_IyJztUX_Z5mAPSC0iFKneqAr2vTWlN8dQKLuf8yil983zh32YHKXy9Ef-qbykYOTqqcz9bt5pfbsCARCNsDhbItO-qfzIgLWm_aDX5lVbP--utP8EVG8RFSmC22GvU3zs52A)
 
-Our student-athletes have excelled in various National Inter-School Competitions, and many have gone on to compete at higher levels in their post-secondary institutions.
+*Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition*
 
-Our school provides students with a range of opportunities to develop their talent and passion in competitive Floorball/Softball. Through our collaborations with sporting organisations and Institutes of Higher Learning, students can participate in numerous competitions, receive top-notch training and guidance, and develop their leadership potential within their chosen sport.
+  
 
-In addition, students can look forward to participating in training programmes organised by the school to hone their skills and prepare for upcoming competitions. We are excited to announce the newly developed CCA nutrition curriculum, designed to help prepare students for competitions by providing education on sports nutrition.
+<h4>2.SPORTS AND GAMES: FLOORBALL (BOYS &amp; GIRLS), SOFTBALL (BOYS ONLY) and NETBALL (GIRLS ONLY)</h4>
 
-At Compassvale Secondary School, we believe in cultivating the full potential of our student-athletes, both on and off the field. We are committed to providing a holistic education that nurtures not only athletic skills but also character, leadership, and life skills. Join us today to discover your true potential in sports!
+  
 
-![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/b%20div%20boys%20in%20action%20(batting).jpg)
+Compassvale Secondary School nurtures student-athletes with positive character traits, sportsmanship, and excellence in sports. We have a team of highly committed teachers and instructors who support each student’s growth and development.
 
-![](/images/2023%20Useful%20Info%20and%20Links/DSA2023/floorball%20pic.JPG)
 
-        
-**SELECTION CRITERIA**
+Our Floorball, Netball and Softball student-athletes have excelled in various National Inter-School Competitions. Many have gone on to compete at higher levels in their post-secondary institutions. We are also very proud of our student-athletes who represent Singapore on the international stage.
 
-a.&nbsp;&nbsp; Evidence of talent and passion to develop in  competitive Floorball/Softball.
 
-b.&nbsp;&nbsp; Participation/achievement in Floorball/Softball competitions at school, National School Games or National Sports Association.
+We collaborate with sports organisations and Institutes of Higher Learning to allow our student-athletes to gain experience through competitions, receive top-level training and guidance, and develop their leadership potential within their chosen sport.
 
-**SELECTION PROCESS**
 
-a.&nbsp;&nbsp; Shortlisted applicants will be notified via email by&nbsp;**7 July 2023**&nbsp;and will be required to perform skills-based tasks and attend an interview in Compassvale Secondary School between&nbsp;**10 July 2023**&nbsp;and&nbsp;**11 August 2023.**
+In school, our newly developed CCA nutrition curriculum is designed to help prepare our student-athletes physically and mentally for competitions.&nbsp;
 
-b.&nbsp;&nbsp; Applicants may showcase any evidence of their pursuit of passion in Floorball/Softball that may support their application during the interview (e.g. Certificate of participation/ achievements in Floorball/Softball competitions, pictures/videos of themselves during competitions etc.).
 
-c.&nbsp;&nbsp; All applicants will be informed of the application outcome via email by&nbsp;**11 September 2023**.
+Join us today and grow your strengths and talents in Floorball, Softball and Netball!
 
-d.&nbsp;&nbsp; The school’s decision is final and there will be no appeal process.
+  
 
-*Notes:*
+![A group of people posing for a photo
+Description automatically generated](https://lh7-us.googleusercontent.com/RCQ1uFyCXHXakTThQePguTK4yK-yYyI0R4_d0GbfNTkEMqfRn4ImT-IFdL8PIroIYW96lXijYIqvNDz1EL4mzPhHGt8gqLz7K_gxTDeUO7od7M5u_997XivXpEkwx1jRVqgp_Adq-q_pnObWicV8Yg)
 
-a.&nbsp;&nbsp;&nbsp;&nbsp; Do note that meeting all criteria does not guarantee the applicant will be shortlisted/given an offer.
+*Floorball C Div Boys winning the NSG 2022 2nd Runner-up*
 
-b.&nbsp;&nbsp;&nbsp;&nbsp; Students who are successfully admitted to Compassvale Secondary School via DSA are expected to honour their commitment and participate in the activities related to the talent they are selected for.
+  
 
-**KEY DATES**
+![A group of people posing for a photo
+Description automatically generated](https://lh7-us.googleusercontent.com/4Mz8uFL9_uhEFJU6jlho6pG-nhMElDQL1GmBn79fgucjaN4e2o5_amW88EolOM6TO5p5_bTpwzbpV95jwA03NTXy3MqhcU2U1-j2kyDNHO_hsuT5fD1gmzmOPF67VYFnUmbuGyvNFx_8jnXXPJ7xVA)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="581" style="width:436.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="281" valign="top" style="width:211.0pt;border:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Application Period</span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"></span></p></td><td width="300" valign="top" style="width:225.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><b><span lang="EN-SG" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-SG">4 May 2023, 11am to 31 May 2023, 3pm</span></b><span style="mso-ascii-font-family:
-  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="281" valign="top" style="width:211.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Notification of Shortlisted Applicants</span><span style="mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">By&nbsp;<b>7 July 2023</b></span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="281" valign="top" style="width:211.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Selection of Shortlisted Applicants</span><span style="mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><b><span lang="EN-SG" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-SG">10 July 2023</span></b><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">&nbsp;to&nbsp;<b>11 August 2023</b></span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="281" valign="top" style="width:211.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Notification of Application Outcomes</span><span style="mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG">By&nbsp;<b>11 September 2023</b></span><span style="mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
-  mso-bidi-font-family:Calibri"></span></p></td></tr></tbody></table>
-	
-**ESSENTIAL INFORMATION**
+*Softball C Boys winning the NSG 2023 3rd Runner-up*
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
+  
 
-2.&nbsp;&nbsp;&nbsp;&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+![A group of people posing for a photo
+Description automatically generated](https://lh7-us.googleusercontent.com/YY-kJhPkKTaGFRPTFh9mfQt0nphqhxLAbVaAUSI1Bc5QZO86JM1Vc-r7WjybEvtOd49TN-WsqQArav1W2Pt8WXXlUyMdlM0FO5J6ic2vUHSpKzMFusBGVb_KCgFAskxZFEo9AAajqz08WDbJCOI3Aw)
 
-3.&nbsp;&nbsp;&nbsp;&nbsp; Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+Punggol Secondary School U14 Netball Carnival 2023 - CVSS Netball team posing with the winners' medals
 
-4.&nbsp;&nbsp;&nbsp;&nbsp; For any queries, please contact the following school personnel in charge:
+  
+<h3>SELECTION CRITERIA AND PROCESS</h3>
+ 
+
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
+ 
+
+<h3>ESSENTIAL INFORMATION</h3>
+
+ 
+1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
+    
+
+
+2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+    
+
+
+3.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
+ 
+  
+
+4.  For any queries, please contact the following school personnel in charge:
+    
 
 DSA-Sec Coordinator: Mdm Yeo Hui&nbsp;Lee, Administration Manager
 
