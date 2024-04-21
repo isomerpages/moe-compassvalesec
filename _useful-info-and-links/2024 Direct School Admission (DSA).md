@@ -31,9 +31,8 @@ Experts from STEM-related industries are invited to engage our students to allow
 
 
 Join us today and grow your strengths and talents in STEM!
-
+![](/images/DSA%202024/Aeronautics1.jpg)
   
-![](https://lh7-us.googleusercontent.com/UB09zci3tngVAcLZuXOj4RmDWFE1tNGUDTTEygihhSNWOa92yPtQRdiRpxFG2vKAX_Sm03BPYN3RGlU7XVq7iaAMQTchdk4sYEjlSn_YgbO-SlmGK8lWCl64FeE1D6ikGOtVR1NFJFnkd7a0Oy2TpA)
 
 *Champions in the DJI Robomaster Drone Tournament*
 
