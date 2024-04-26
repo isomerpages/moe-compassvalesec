@@ -44,4 +44,4 @@ variant: markdown
 *   [HR and Payroll portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
 *   [iExams](https://iexams.seab.gov.sg/login)
-*   [Teacher Hub](https://for.edu.sg/cvssteachershub)
+*   [Teacher's Hub](https://for.edu.sg/cvssteachershub)
