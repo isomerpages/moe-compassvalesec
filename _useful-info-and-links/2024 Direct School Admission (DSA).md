@@ -70,11 +70,10 @@ In school, our newly developed CCA nutrition curriculum is designed to help prep
 Join us today and grow your strengths and talents in Floorball, Softball and Netball!
 
   
+![Floorball B Girls ](/images/DSA%202024/floorball%20b%20girls%20.jpg)
 
-![A group of people posing for a photo
-Description automatically generated](https://lh7-us.googleusercontent.com/RCQ1uFyCXHXakTThQePguTK4yK-yYyI0R4_d0GbfNTkEMqfRn4ImT-IFdL8PIroIYW96lXijYIqvNDz1EL4mzPhHGt8gqLz7K_gxTDeUO7od7M5u_997XivXpEkwx1jRVqgp_Adq-q_pnObWicV8Yg)
+*Floorball B Girls winning the NSG 2024 3rd Runner-up*
 
-*Floorball C Div Boys winning the NSG 2022 2nd Runner-up*
 
   
 
