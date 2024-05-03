@@ -25,6 +25,16 @@ sections:
       image: /images/Landing Page/video_capture.JPG
       alt: Image alt text
   - infopic:
+      title: Learn, Grow and Lead at Compassvale
+      subtitle: An invitation!
+      id: infopic
+      description: WATCH our newly released corporate video to learn more about The
+        Compassvale Experience at CVSS, where you'll Realise your Star Within.
+      button: Click to learn more
+      url: /our-programmes/the-compassvale-experience/
+      alt: Image alt text
+      image: /images/Landing Page/video_capture_2.jpg
+  - infopic:
       title: Top 4 Placing in National School Games ('B' Div Floorball)
       subtitle: Achievement
       id: infopic
@@ -43,14 +53,4 @@ sections:
       url: /announcements/sem1timetables2024/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
-  - infopic:
-      title: Learn, Grow and Lead at Compassvale
-      subtitle: An invitation!
-      id: infopic
-      description: WATCH our newly released corporate video to learn more about The
-        Compassvale Experience at CVSS, where you'll Realise your Star Within.
-      button: Click to learn more
-      url: /our-programmes/the-compassvale-experience/
-      alt: Image alt text
-      image: /images/Landing Page/video_capture_2.jpg
 ---
