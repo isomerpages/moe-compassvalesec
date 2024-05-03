@@ -28,9 +28,9 @@ sections:
       title: Top 4 Placing in National School Games ('B' Div Floorball)
       subtitle: Achievement
       id: infopic
-      description: After a series of well-played matches, our 'B' Division Floorball
-        girls' team achieved Top 4 placing in the NSG 2024. Our heartiest
-        congratulations!
+      description: After a series of very well-played matches, our 'B' Division
+        Floorball girls' team achieved Top 4 placing in the NSG 2024. Our
+        heartiest congratulations!
       button: See more on Instagram
       url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
