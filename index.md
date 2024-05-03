@@ -25,13 +25,13 @@ sections:
       image: /images/Landing Page/video_capture.JPG
       alt: Image alt text
   - infopic:
-      title: Champions in the DJI Robomaster Drone Tournament
+      title: "Floorball Girls: Top 4 Placing in the National School Games"
       subtitle: Achievement
       id: infopic
-      description: Two North Stars from the Aeronautics Club emerged Champions in the
-        DJI Robomaster Drone Tournament, held in November 2023.
-      button: Read more on Instagram
-      url: https://www.instagram.com/p/C2O-fudRWky/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      description: After a series of well played games, our 'B' division floorball
+        girls achieved top 4 placing in the NSG 2024. Well done!
+      button: See more on Instagram
+      url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
       image: /images/Landing Page/Aeronautics_DJI_Challenge_Nov2023_cropped.jpeg
   - infopic:
