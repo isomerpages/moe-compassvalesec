@@ -25,24 +25,6 @@ sections:
       image: /images/Landing Page/video_capture.JPG
       alt: Image alt text
   - infopic:
-      title: Champions in the DJI Robomaster Drone Tournament
-      subtitle: Achievement
-      id: infopic
-      description: Two North Stars from the Aeronautics Club emerged Champions in the
-        DJI Robomaster Drone Tournament, held in November 2023.
-      button: Read more on Instagram
-      url: https://www.instagram.com/p/C2O-fudRWky/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-      alt: Image alt text
-      image: /images/Landing Page/Aeronautics_DJI_Challenge_Nov2023_cropped.jpeg
-  - infopic:
-      title: 2024 Semester 1 Timetables
-      subtitle: Announcement
-      id: infopic
-      button: Click here to access them
-      url: /announcements/sem1timetables2024/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      alt: Image alt text
-  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -52,4 +34,23 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
+  - infopic:
+      title: Top 4 Placing in National School Games ('B' Div Floorball)
+      subtitle: Achievement
+      id: infopic
+      description: After a series of very well-played matches, our 'B' Division
+        Floorball girls' team achieved Top 4 placing in the NSG 2024. Our
+        heartiest congratulations!
+      button: See more on Instagram
+      url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      alt: Image alt text
+      image: /images/DSA 2024/floorball b girls .jpg
+  - infopic:
+      title: 2024 Semester 1 Timetables
+      subtitle: Announcement
+      id: infopic
+      button: Click here to access them
+      url: /announcements/sem1timetables2024/
+      image: /images/Landing Page/overview - morning assembly.jpeg
+      alt: Image alt text
 ---
