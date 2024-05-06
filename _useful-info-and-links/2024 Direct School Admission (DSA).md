@@ -68,7 +68,7 @@ b.	Shortlisted applicants will be notified via email by **5 July 2024** and will
 
 c.	Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders/machines, pictures/videos of themselves during competitions etc.) 
 
-d.	All applicants will be informed of the application outcome via email by 9 September 2024.<br>
+d.	All applicants will be informed of the application outcome via email by **9 September 2024.**<br>
 
 e.	The school’s decision is final and there will be no appeal process.<br>
 
