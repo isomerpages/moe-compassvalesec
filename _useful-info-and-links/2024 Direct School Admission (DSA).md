@@ -136,19 +136,19 @@ b.	Students who are successfully admitted to Compassvale Secondary School via DS
  <table>
  <tbody><tr>
     <td>Application Period</td>
-    <td>**7 May 2024, 11am to 3 June 2024, 3pm**</td>
+	 <td><b>7 May 2024, 11am to 3 June 2024, 3pm</b></td>
   </tr>
   <tr>
     <td>Notification of Shortlisted Applicants</td>
-    <td>By **5 July 2024**</td>
+		<td>By <b>5 July 2024</b></td>
   </tr>
 	 <tr>
     <td>Selection of Shortlisted Applicants</td>
-    <td>**8 July 2024** to **16 August 2024**</td>
+		 <td><b>8 July 2024</b> to <b>16 August 2024</b></td>
   </tr>
 	 <tr>
     <td>Notification of Shortlisted Applicants</td>
-    <td>By **9 September 2024**</td>
+		 <td>By <b>9 September 2024</b></td>
   </tr>
 </tbody></table>
 
