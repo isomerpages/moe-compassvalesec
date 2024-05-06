@@ -155,7 +155,7 @@ b.	Students who are successfully admitted to Compassvale Secondary School via DS
 
 <h4>ESSENTIAL INFORMATION</h4>
 
- 1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
+ 1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
 
 2.	Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
