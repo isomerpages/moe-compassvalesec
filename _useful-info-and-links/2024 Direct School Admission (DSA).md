@@ -105,8 +105,8 @@ Punggol Secondary School U14 Netball Carnival 2023 - CVSS Netball team posing wi
 
 <h4>SELECTION CRITERIA </h4>
 
-a.	Evidence of talent and passion to develop in competitive Floorball/Netball/Softball.
-b.	Participation/achievements in Floorball/Netball/Softball competitions at school, National School Games or National Sports Association. 
+a.	Evidence of talent and passion to develop in competitive Floorball/Netball/Softball.<br>
+b.	Participation/achievements in Floorball/Netball/Softball competitions at school, National School Games or National Sports Association. <br>
  
 <h4>SELECTION PROCESS</h4>
 
