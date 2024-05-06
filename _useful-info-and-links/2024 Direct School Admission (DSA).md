@@ -59,9 +59,13 @@ d.	Successful candidates are expected to participate actively and contribute to 
 <h4>SELECTION PROCESS</h4> 
 
 a.	Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. <br>
+
 b.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between** 8 July 2024** and **16 August 2024**<br>
-c.	Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders/machines, pictures/videos of themselves during competitions etc.). 
+
+c.	Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders/machines, pictures/videos of themselves during competitions etc.) 
+
 d.	All applicants will be informed of the application outcome via email by 9 September 2024.<br>
+
 e.	The school’s decision is final and there will be no appeal process.<br>
 
 
@@ -106,13 +110,17 @@ Punggol Secondary School U14 Netball Carnival 2023 - CVSS Netball team posing wi
 <h4>SELECTION CRITERIA </h4>
 
 a.	Evidence of talent and passion to develop in competitive Floorball/Netball/Softball.<br>
+
 b.	Participation/achievements in Floorball/Netball/Softball competitions at school, National School Games or National Sports Association. <br>
  
 <h4>SELECTION PROCESS</h4>
 
 a.	Shortlisted applicants will be notified via email by** 5 July 2024** and will be required to perform skills-based tasks and attend an interview in Compassvale Secondary School between **8 July 2024** and **16 August 2024.**<br>
+
 b.	Applicants may showcase any evidence of their pursuit of passion in Floorball/Netball/Softball that may support their application during the interview (e.g. Certificate of participation/ achievements in Floorball/Netball/Softball competitions, pictures/videos of themselves during competitions etc.).<br>
+
 c.	All applicants will be informed of the application outcome via email by **9 September 2024.**
+
 d.	The school’s decision is final and there will be no appeal process.
 
 **Notes:**<br>
