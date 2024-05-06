@@ -49,12 +49,26 @@ Description automatically generated](https://lh7-us.googleusercontent.com/t8d5TA
 
 *Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition*
 
-  
+<h4>SELECTION CRITERIA</h4> 
+
+a.	Evidence of talent, passion and self-initiative to learn in the area of STEM and/or Aeronautics.
+b.	Participation/achievements in STEM and/or Aeronautics-related school programmes/events or external activities (e.g. CCAs/enrichment programmes/competitions/hobbies).
+c.	Performance during the selection process which includes an assessment in STEM/aeronautics and an interview by a selection panel.
+d.	Successful candidates are expected to participate actively and contribute to the school’s various STEM programmes (e.g. STEM-related competitions, Aeronautics Applied Learning Programme, Aeronautics/Robotics/Environment Science Club etc.).
+ 
+<h4>SELECTION PROCESS</h4> 
+
+a.	Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. 
+b.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between** 8 July 2024** and **16 August 2024**.
+c.	Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders/machines, pictures/videos of themselves during competitions etc.). 
+d.	All applicants will be informed of the application outcome via email by 9 September 2024.
+e.	The school’s decision is final and there will be no appeal process.
+
+
 
 <h4>2. SPORTS AND GAMES: FLOORBALL (BOYS &amp; GIRLS), SOFTBALL (BOYS ONLY) and NETBALL (GIRLS ONLY)</h4>
 
-  
-
+ 
 Compassvale Secondary School nurtures student-athletes with positive character traits, sportsmanship, and excellence in sports. We have a team of highly committed teachers and instructors who support each student’s growth and development.
 
 
@@ -89,33 +103,53 @@ Description automatically generated](https://lh7-us.googleusercontent.com/YY-kJh
 
 Punggol Secondary School U14 Netball Carnival 2023 - CVSS Netball team posing with the winners' medals
 
-  
-<h3>SELECTION CRITERIA AND PROCESS</h3>
+<h4>SELECTION CRITERIA </h4>
+
+a.	Evidence of talent and passion to develop in competitive Floorball/Netball/Softball.
+b.	Participation/achievements in Floorball/Netball/Softball competitions at school, National School Games or National Sports Association. 
  
+<h4>SELECTION PROCESS</h4>
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
- 
+a.	Shortlisted applicants will be notified via email by** 5 July 2024** and will be required to perform skills-based tasks and attend an interview in Compassvale Secondary School between **8 July 2024** and **16 August 2024.**<br>
+b.	Applicants may showcase any evidence of their pursuit of passion in Floorball/Netball/Softball that may support their application during the interview (e.g. Certificate of participation/ achievements in Floorball/Netball/Softball competitions, pictures/videos of themselves during competitions etc.).<br>
+c.	All applicants will be informed of the application outcome via email by **9 September 2024.**
+d.	The school’s decision is final and there will be no appeal process.
 
-<h3>ESSENTIAL INFORMATION</h3>
+**Notes:**<br>
+a.	Do note that meeting all criteria does not guarantee the applicant will be shortlisted/given an offer.<br>
 
- 
-1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
-    
+b.	Students who are successfully admitted to Compassvale Secondary School via DSA are expected to honour their commitment and participate in the activities related to the talent they are selected for.
+
+<h4>KEY DATES</h4>
+ <table>
+ <tbody><tr>
+    <td>Application Period</td>
+    <td>7 May 2024, 11am to 3 June 2024, 3pm</td>
+  </tr>
+  <tr>
+    <td>Notification of Shortlisted Applicants</td>
+    <td>By 5 July 2024</td>
+  </tr>
+	 <tr>
+    <td>Selection of Shortlisted Applicants</td>
+    <td>8 July 2024 to 16 August 2024</td>
+  </tr>
+	 <tr>
+    <td>Notification of Shortlisted Applicants</td>
+    <td>By 9 September 2024</td>
+  </tr>
+</tbody></table>
 
 
-2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-    
+<h4>ESSENTIAL INFORMATION</h4>
 
+ 1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
 
-3.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
- 
-  
+2.	Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-4.  For any queries, please contact the following school personnel in charge:
-    
+3.	Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
 
-DSA-Sec Coordinator: Mdm Yeo Hui&nbsp;Lee, Administration Manager
-
+4.	For any queries, please contact the following school personnel in charge:
+DSA-Sec Coordinator: Mdm Yeo Hui Lee, Administration Manager
 Tel: 6881 5047
-
-Email:&nbsp;[cvss@moe.edu.sg](mailto:cvss@moe.edu.sg)&nbsp;(Indicate the subject: “Direct School Admission” in your email)
+Email: [cvss@moe.edu.sg](cvss@moe.edu.sg) (Indicate the subject: “Direct School Admission” in your email)
