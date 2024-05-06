@@ -52,10 +52,14 @@ Description automatically generated](https://lh7-us.googleusercontent.com/t8d5TA
 <h4>SELECTION CRITERIA</h4> 
 
 a.	Evidence of talent, passion and self-initiative to learn in the area of STEM and/or Aeronautics.<br>
+
 b.	Participation/achievements in STEM and/or Aeronautics-related school programmes/events or external activities (e.g. CCAs/enrichment programmes/competitions/hobbies). <br>
+
 c.	Performance during the selection process which includes an assessment in STEM/aeronautics and an interview by a selection panel.<br>
+
 d.	Successful candidates are expected to participate actively and contribute to the school’s various STEM programmes (e.g. STEM-related competitions, Aeronautics Applied Learning Programme, Aeronautics/Robotics/Environment Science Club etc.)
  <br>
+ 
 <h4>SELECTION PROCESS</h4> 
 
 a.	Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. <br>
