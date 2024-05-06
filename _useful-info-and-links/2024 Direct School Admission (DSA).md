@@ -119,7 +119,7 @@ b.	Participation/achievements in Floorball/Netball/Softball competitions at scho
  
 <h4>SELECTION PROCESS</h4>
 
-a.	Shortlisted applicants will be notified via email by ** 5 July 2024** and will be required to perform skills-based tasks and attend an interview in Compassvale Secondary School between **8 July 2024** and **16 August 2024.**<br>
+a.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to perform skills-based tasks and attend an interview in Compassvale Secondary School between **8 July 2024** and **16 August 2024.**<br>
 
 b.	Applicants may showcase any evidence of their pursuit of passion in Floorball/Netball/Softball that may support their application during the interview (e.g. Certificate of participation/ achievements in Floorball/Netball/Softball competitions, pictures/videos of themselves during competitions etc.).<br>
 
