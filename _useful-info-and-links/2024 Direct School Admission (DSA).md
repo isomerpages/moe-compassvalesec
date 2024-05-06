@@ -51,18 +51,18 @@ Description automatically generated](https://lh7-us.googleusercontent.com/t8d5TA
 
 <h4>SELECTION CRITERIA</h4> 
 
-a.	Evidence of talent, passion and self-initiative to learn in the area of STEM and/or Aeronautics.
-b.	Participation/achievements in STEM and/or Aeronautics-related school programmes/events or external activities (e.g. CCAs/enrichment programmes/competitions/hobbies).
-c.	Performance during the selection process which includes an assessment in STEM/aeronautics and an interview by a selection panel.
-d.	Successful candidates are expected to participate actively and contribute to the school’s various STEM programmes (e.g. STEM-related competitions, Aeronautics Applied Learning Programme, Aeronautics/Robotics/Environment Science Club etc.).
- 
+a.	Evidence of talent, passion and self-initiative to learn in the area of STEM and/or Aeronautics.<br>
+b.	Participation/achievements in STEM and/or Aeronautics-related school programmes/events or external activities (e.g. CCAs/enrichment programmes/competitions/hobbies). <br>
+c.	Performance during the selection process which includes an assessment in STEM/aeronautics and an interview by a selection panel.<br>
+d.	Successful candidates are expected to participate actively and contribute to the school’s various STEM programmes (e.g. STEM-related competitions, Aeronautics Applied Learning Programme, Aeronautics/Robotics/Environment Science Club etc.)
+ <br>
 <h4>SELECTION PROCESS</h4> 
 
-a.	Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. 
-b.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between** 8 July 2024** and **16 August 2024**.
+a.	Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. <br>
+b.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between** 8 July 2024** and **16 August 2024**<br>
 c.	Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders/machines, pictures/videos of themselves during competitions etc.). 
-d.	All applicants will be informed of the application outcome via email by 9 September 2024.
-e.	The school’s decision is final and there will be no appeal process.
+d.	All applicants will be informed of the application outcome via email by 9 September 2024.<br>
+e.	The school’s decision is final and there will be no appeal process.<br>
 
 
 
@@ -72,7 +72,7 @@ e.	The school’s decision is final and there will be no appeal process.
 Compassvale Secondary School nurtures student-athletes with positive character traits, sportsmanship, and excellence in sports. We have a team of highly committed teachers and instructors who support each student’s growth and development.
 
 
-Our Floorball, Netball and Softball student-athletes have excelled in various National Inter-School Competitions. Many have gone on to compete at higher levels in their post-secondary institutions. We are also very proud of our student-athletes who represent Singapore on the international stage.
+Our Floorball, Netball and Softball student-athletes have excelled in various National Inter-School Competitions. Many have gone on to compete at higher levels in their post-secondary institutions. We are also very proud of our student-athletes who represent Singapore on the international stage.<br>
 
 
 We collaborate with sports organisations and Institutes of Higher Learning to allow our student-athletes to gain experience through competitions, receive top-level training and guidance, and develop their leadership potential within their chosen sport.
