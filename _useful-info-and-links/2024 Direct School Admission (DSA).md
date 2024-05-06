@@ -64,7 +64,7 @@ d.	Successful candidates are expected to participate actively and contribute to 
 
 a.	Please note that meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. <br>
 
-b.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between** 8 July 2024** and **16 August 2024**<br>
+b.	Shortlisted applicants will be notified via email by **5 July 2024** and will be required to sit for an assessment on STEM/Aeronautics and attend an interview in Compassvale Secondary School between ** 8 July 2024** and **16 August 2024**<br>
 
 c.	Applicants may showcase any evidence of their pursuit of passion in STEM/Aeronautics that may support their application during the interview (e.g. artefacts of drones/gliders/machines, pictures/videos of themselves during competitions etc.) 
 
