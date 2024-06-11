@@ -82,7 +82,11 @@ table, th, td, tr {
 
 As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives. 
 
-![](/images/Distinctive%20Programmes/llp%20gcp%2001.jpg)
+![](/images/2024%20Compassvale%20Experience/5a_LLP___change_pic_of_students_packing_bags.jpg)
+
+![](/images/2024%20Compassvale%20Experience/5b_LLP___change_pic_of_students_packing_bags.jpg)
+
+![](/images/2024%20Compassvale%20Experience/5c_LLP___change_pic_of_students_packing_bags.jpg)
 
 ![](/images/Distinctive%20Programmes/llp%20gcp%2002.jpg)
 <p class="small">Secondary 1 students participated in the GCP in May 2023, where they made a positive impact to the environment and the community through a variety of activities.</p>
