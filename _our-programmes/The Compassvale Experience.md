@@ -15,10 +15,7 @@ We offer a rich and personalised curricular and co-curricular experience for all
 
 ###### *Across these six Integrated Competency and Development Clusters,*
 
-<img style="width:70%" src="/images/The%20Compassvale%20Experience/row1_1_world%20scholars%20cup.jpg">
-<br>
-
-<img style="width:70%" src="/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg">
+![WSC](/images/2024%20Compassvale%20Experience/3_Compassvale_Experience___USE_THIS.jpg)
 
 We want our students to **Learn and Excel**.&nbsp; We achieve this through engaging, authentic learning experiences designed by our teachers.&nbsp; We leverage technology, and ground learning experience design on subject disciplinarity and real-world applications.&nbsp; Students explore connections between different disciplines, examine local and global issue to appreciate diversity, and develop 21st century competencies.&nbsp; In doing so, we cultivate in them learning dispositions of curiosity, self-directedness and resilience.&nbsp; This will ensure they become lifelong learners who are globally competent.
 
