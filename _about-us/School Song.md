@@ -2,6 +2,7 @@
 title: School Song
 permalink: /about-us/school-song/
 description: ""
+variant: markdown
 ---
 ## Realising the Star Within
 
@@ -29,4 +30,4 @@ description: ""
 
 **We will stand tall and proud, as the star of the north**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UscV3wBkunE?si=yxHyQrIdE6psCKox" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dU3sXM4AO28?si=304p2tDxGCYl8Dqw" height="315" width="560"></iframe>

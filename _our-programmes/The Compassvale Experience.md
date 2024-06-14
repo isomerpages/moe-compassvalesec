@@ -15,20 +15,19 @@ We offer a rich and personalised curricular and co-curricular experience for all
 
 ###### *Across these six Integrated Competency and Development Clusters,*
 
-<img style="width:70%" src="/images/The%20Compassvale%20Experience/row1_1_world%20scholars%20cup.jpg">
-<br>
+![WSC](/images/2024%20Compassvale%20Experience/3_Compassvale_Experience___USE_THIS.jpg)
 
-<img style="width:70%" src="/images/The%20Compassvale%20Experience/temasek%20engineering%20olympiad_2023_compressed.jpg">
+![](/images/2024%20Compassvale%20Experience/3b_EngineeringOlympiad___USE_THIS_plus_the_NEXT__Collage_.jpg)
+
+![](/images/2024%20Compassvale%20Experience/3c_EngineeringOlympiad___USE_THIS_plus_the_Previous__Collage_.jpg)
 
 We want our students to **Learn and Excel**.&nbsp; We achieve this through engaging, authentic learning experiences designed by our teachers.&nbsp; We leverage technology, and ground learning experience design on subject disciplinarity and real-world applications.&nbsp; Students explore connections between different disciplines, examine local and global issue to appreciate diversity, and develop 21st century competencies.&nbsp; In doing so, we cultivate in them learning dispositions of curiosity, self-directedness and resilience.&nbsp; This will ensure they become lifelong learners who are globally competent.
 
-<img style="width:70%" src="/images/The%20Compassvale%20Experience/student%20leaders1.JPG">
-<br>
+![](/images/2024%20Compassvale%20Experience/4a_Replace_Learn_and_Excel___first_aid_photo.jpg)
 
-<img style="width:70%" src="/images/The%20Compassvale%20Experience/student%20leaders2_cropped.jpg">
-<br>
+![](/images/2024%20Compassvale%20Experience/4b_Replace_Learn_and_Excel___add_this_below_4a.jpg)
 
-
+![](/images/2024%20Compassvale%20Experience/4c_Replace_Learn_and_Excel___CCA_booth_photo.jpg)
 
 We want our students to **Grow and Serve** the community as upright, compassionate leaders who make a positive difference.  We develop a strong moral compass in our students through a values-based curriculum.  This develops their empathy, and agency to serve and lead within and beyond the school community.  We are also intentional in our efforts to promote student well-being through experiential and reflective school practices. 
 

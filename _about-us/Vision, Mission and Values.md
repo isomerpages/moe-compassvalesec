@@ -48,9 +48,7 @@ Therefore, as a school:
 * We nurture citizens of good character who will serve the community;
 *	We foster a spirit of innovation and collaboration among students and our staff.
 
-
-
-![](/images/Landing%20Page/students_pledge3_jpeg.jpg)
+![](/images/2024%20VMV/1_VMV_update.jpg)
 	
 <h2> The North Stars' Pledge </h2>
 <center>

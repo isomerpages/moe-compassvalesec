@@ -17,12 +17,8 @@ Believing that our students have the innate potential to shine, the STAR program
 
 ![Sec 1 Outdoor Adventure Learning](/images/2023%20Distinctive%20Programmes/STAR/Sec_1_Outdoor_Adventure_Learning.jpg)<i>Sec 1 Outdoor Adventure Learning</i>
 
-![Creating the Tallest Standing Tower](/images/2023%20Distinctive%20Programmes/STAR/Sec_2_Creating_the_Tallest_Standing_Tower.jpg)<i>Creating the Tallest Standing Tower</i>
+![](/images/2024%20Compassvale%20Experience/6a_STAR__replace_last_3_images.jpg)
 
+![](/images/2024%20Compassvale%20Experience/6b_STAR__replace_last_3_images.jpg)
 
-![Mural Painting at Bethesda Care](/images/2023%20Distinctive%20Programmes/STAR/Sec_3_Mural_Painting_at_Bethesda_Care.jpg)
-<i>Mural Painting at Bethesda Care</i>
-
-
-![Creating a Lavender Sugar Scrub at Shatec](/images/2023%20Distinctive%20Programmes/STAR/Sec_4_Creating_A_Lavender_Sugar_Scrub_at_Shatec.JPG)
-<i>Creating a Lavender Sugar Scrub at Shatec</i>
+![](/images/2024%20Compassvale%20Experience/6c___replace_last_3_STAR_images.jpg)
