@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2024 Semester 2 Timetables
+      subtitle: Announcement
+      id: infopic
+      button: Click here to access them
+      url: /2024-semester-2-timetables/
+      image: /images/Landing Page/overview - morning assembly.jpeg
+      alt: Image alt text
+  - infopic:
       title: 2024 DIRECT SCHOOL ADMISSION
       id: infopic
       description: 2024 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE
@@ -45,12 +53,4 @@ sections:
       url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
       image: /images/DSA 2024/floorball b girls .jpg
-  - infopic:
-      title: 2024 Semester 1 Timetables
-      subtitle: Announcement
-      id: infopic
-      button: Click here to access them
-      url: /announcements/sem1timetables2024/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      alt: Image alt text
 ---
