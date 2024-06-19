@@ -21,7 +21,7 @@ sections:
       subtitle: Announcement
       id: infopic
       button: Click here to access them
-      url: /announcements/sem2timetables2024/
+      url: /2024-semester-2-timetables/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infopic:
