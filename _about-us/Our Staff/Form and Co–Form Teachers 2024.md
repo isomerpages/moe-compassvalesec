@@ -15,7 +15,7 @@ variant: markdown
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<br><i>jin_chan@moe.edu.sg</i><i>goh_wenjie_reuben@moe.edu.sg</i><table class="tg">
+<br><i>jin_chan@moe.edu.sg</i><i>goh_wenjie_reuben@moe.edu.sg</i><br><i>Jin_chan@moe.edu.sg</i><table class="tg">
 <thead>
   <tr>
     <th class="tg-s7g5">Class</th>
@@ -145,9 +145,9 @@ variant: markdown
 		  <td class="tg-dgl5"> Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa
 <br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
-		<td class="tg-dgl5">Mr Jin Chan</td>
-		
-		</tr>
+<td class="tg-dgl5">Mr Jin Chan</td>
+	
+</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
 <td class="tg-dgl5"> Mr Chan Seong Hung (Jeremy)<br><i>chan_seong_hung@moe.edu.sg </i></td>
