@@ -15,6 +15,7 @@ variant: markdown
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
  <tr>
@@ -22,7 +23,7 @@ variant: markdown
     <th class="tg-s7g5">Form Teacher</th>
     <th class="tg-s7g5">Co-Form Teacher</th>
     <th class="tg-s7g5">Co-Form Teacher</th>
-	</tr>
+</tr>
 </thead>
 <tbody>
   <tr>
@@ -169,7 +170,6 @@ variant: markdown
     <td class="tg-9hzb">3N2</td>
     <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>amy_tso_shuk_yan@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mr Leong Kok Wai<br><i>Leong_kok_wai@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mr Goh Wenjie Reuben</td>
 		
   </tr>
   <tr>
