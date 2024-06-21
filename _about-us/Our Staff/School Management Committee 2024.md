@@ -108,6 +108,11 @@ variant: markdown
   <tr>
     <td class="tg-s7g5" colspan="3">Subject Heads/Level Heads</td>
   </tr>
+	 <tr>
+    <td class="tg-dgl5">English Language</td>
+    <td class="tg-ktyi"> Ms Nah Cher Hui Faith</td>
+		<td class="tg-ktyi">nah_cher_hui_faith@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Literature</td>
     <td class="tg-ktyi">Ms Pamela Ng</td>
@@ -252,9 +257,5 @@ variant: markdown
     <td class="tg-ktyi">Mrs Winnie Lim</td>
 		<td class="tg-ktyi">chia_winnie@moe.edu.sg</td>
   </tr>
-
-  
-  
-
  
 </tbody></table>
