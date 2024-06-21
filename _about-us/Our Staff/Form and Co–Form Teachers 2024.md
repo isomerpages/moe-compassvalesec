@@ -145,8 +145,6 @@ variant: markdown
 		  <td class="tg-dgl5"> Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa
 <br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
-<td class="tg-dgl5">Mr Jin Chan</td>
-	
 </tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
