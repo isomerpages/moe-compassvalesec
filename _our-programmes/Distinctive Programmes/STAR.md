@@ -15,7 +15,7 @@ Believing that our students have the innate potential to shine, the STAR program
 
 <u>Sec 4/5:</u>  Emerge Stronger to be **Ready For the World**– North Stars will know how they can make a positive difference to others by preparing them to enter the post-secondary institutions, and by gaining knowledge of the developments in Singapore and beyond.
 
-![Sec 1 Outdoor Adventure Learning](/images/2023%20Distinctive%20Programmes/STAR/Sec_1_Outdoor_Adventure_Learning.jpg)<i>Sec 1 Outdoor Adventure Learning</i>
+![Sec 1 Outdoor Adventure Learning](/images/2023%20Distinctive%20Programmes/STAR/Sec_1_Outdoor_Adventure_Learning.jpg)
 
 ![](/images/2024%20Compassvale%20Experience/6a_STAR__replace_last_3_images.jpg)
 
