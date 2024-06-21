@@ -156,9 +156,9 @@ variant: markdown
 		<td class="tg-ktyi">wang_buay_san_ellen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Physical Education</td>
-    <td class="tg-ktyi">Mr Goh Keng Chuan</td>
-		<td class="tg-ktyi">goh_keng_chuan@moe.edu.sg</td>
+    <td class="tg-dgl5">Acting Physical Education</td>
+    <td class="tg-ktyi">Mr Soh Meng Le </td>
+		<td class="tg-ktyi">soh_meng_le@moe.edu.sg</td>
   </tr>
   
   <tr>
