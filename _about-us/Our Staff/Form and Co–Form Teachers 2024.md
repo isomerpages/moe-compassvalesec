@@ -15,7 +15,7 @@ variant: markdown
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<br><i>jin_chan@moe.edu.sg</i><table class="tg">
 <thead>
   <tr>
     <th class="tg-s7g5">Class</th>
@@ -97,7 +97,7 @@ variant: markdown
     <td class="tg-9hzb">2-3</td>
     <td class="tg-dgl5">Mdm Mohanajothi d/o Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg </i></td>
 		<td class="tg-dgl5">Patrick Ho Wee Kheat<br><i>ho_wee_kheat@moe.edu.sg 
-</i></td><td class="tg-dgl5"></td>
+</i></td>
     <td class="tg-dgl5">Mdm Nurul Amirah<br><i>nurul_amirah_ahmad@moe.edu.sg 
 </i></td><td class="tg-dgl5"></td>
 		
@@ -124,12 +124,14 @@ variant: markdown
     <td class="tg-9hzb">2-7</td>
     <td class="tg-dgl5">Mr Ang Chee Yong<br><i>ang_chee_yong@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)<br><i>lei_peishan@moe.edu.sg  </i></td>
+		  <td class="tg-dgl5">Anthony Yap Chee Ping<br><i>Yap_chee_ping@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">2-8</td>
     <td class="tg-dgl5">Mr Soh Meng Le<br><i>soh_meng_le@moe.edu.sg</i></td>
     <td class="tg-dgl5">Ms Tay Siew Woon<br><i>tay_siew_woon@moe.edu.sg</i></td>
+		 <td class="tg-dgl5">Clarissa Lim Yiling<br><i>lim_yiling_clarissa@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
@@ -143,7 +145,8 @@ variant: markdown
 		  <td class="tg-dgl5"> Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa
 <br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
-		<td class="tg-dgl5"></td>
+		<td class="tg-dgl5">Mr Jin Chan</td>
+		
 		</tr>
   <tr>
     <td class="tg-9hzb">3E3</td>
