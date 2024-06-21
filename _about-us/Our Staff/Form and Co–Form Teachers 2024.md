@@ -96,6 +96,8 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">2-3</td>
     <td class="tg-dgl5">Mdm Mohanajothi d/o Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg </i></td>
+		<td class="tg-dgl5">Patrick Ho Wee Kheat<br><i>ho_wee_kheat@moe.edu.sg 
+</i></td><td class="tg-dgl5"></td>
     <td class="tg-dgl5">Mdm Nurul Amirah<br><i>nurul_amirah_ahmad@moe.edu.sg 
 </i></td><td class="tg-dgl5"></td>
 		
