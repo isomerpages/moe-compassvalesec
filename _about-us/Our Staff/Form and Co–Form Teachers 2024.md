@@ -15,7 +15,7 @@ variant: markdown
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<br><i>jin_chan@moe.edu.sg</i><table class="tg">
+<br><i>jin_chan@moe.edu.sg</i><i>goh_wenjie_reuben@moe.edu.sg</i><table class="tg">
 <thead>
   <tr>
     <th class="tg-s7g5">Class</th>
@@ -171,12 +171,13 @@ variant: markdown
     <td class="tg-9hzb">3N2</td>
     <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>amy_tso_shuk_yan@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mr Leong Kok Wai<br><i>Leong_kok_wai@moe.edu.sg </i></td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5">Mr Goh Wenjie Reuben</td>
+		
   </tr>
   <tr>
     <td class="tg-9hzb">3N3</td>
     <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin<br><i>Mohamed_fairoz_nordin@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Lee Han<br><i>lee_han@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Nah Cher Hui Faith <br><i>nah_cher_hui_faith@moe.edu.sg</i></td>
       </tr>
   <tr>
     <td class="tg-9hzb">3T1</td>
