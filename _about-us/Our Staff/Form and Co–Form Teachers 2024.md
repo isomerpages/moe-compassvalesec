@@ -17,7 +17,7 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-  <tr>
+ <tr>
     <th class="tg-s7g5">Class</th>
     <th class="tg-s7g5">Form Teacher</th>
     <th class="tg-s7g5">Co-Form Teacher</th>
