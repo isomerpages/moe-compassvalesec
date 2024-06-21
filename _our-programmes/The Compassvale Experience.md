@@ -27,6 +27,8 @@ We want our students to **Learn and Excel**.&nbsp; We achieve this through engag
 
 ![](/images/2024%20Compassvale%20Experience/4b_Replace_Learn_and_Excel___add_this_below_4a.jpg)
 
+![S1 OAL Photo](/images/2024%20Compassvale%20Experience/WhatsApp_Image_2024_06_21_at_4_49_04_PM.jpg)
+
 ![](/images/2024%20Compassvale%20Experience/4c_Replace_Learn_and_Excel___CCA_booth_photo.jpg)
 
 We want our students to **Grow and Serve** the community as upright, compassionate leaders who make a positive difference.  We develop a strong moral compass in our students through a values-based curriculum.  This develops their empathy, and agency to serve and lead within and beyond the school community.  We are also intentional in our efforts to promote student well-being through experiential and reflective school practices. 
