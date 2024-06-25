@@ -125,7 +125,7 @@ variant: markdown
     <td class="tg-9hzb">2-7</td>
     <td class="tg-dgl5">Mr Ang Chee Yong<br><i>ang_chee_yong@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)<br><i>lei_peishan@moe.edu.sg  </i></td>
-		  <td class="tg-dgl5">Anthony Yap Chee Ping<br><i>Yap_chee_ping@moe.edu.sg</i></td>
+		  <td class="tg-dgl5">Anthony Yap Chee Ping<br><i>yap_chee_ping@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -172,13 +172,13 @@ variant: markdown
  <tr>
     <td class="tg-9hzb">3N2</td>
     <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>amy_tso_shuk_yan@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mr Leong Kok Wai<br><i>Leong_kok_wai@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Leong Kok Wai<br><i>leong_kok_wai@moe.edu.sg </i></td>
 		 <td class="tg-dgl5">Mr Goh Wenjie Reuben<br><i>goh_wenjie_reuben@moe.edu.sg</i></td>
 		
   </tr>
   <tr>
     <td class="tg-9hzb">3N3</td>
-    <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin<br><i>Mohamed_fairoz_nordin@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Mohamed Fairoz Bin Nordin<br><i>mohamed_fairoz_nordin@moe.edu.sg </i></td>
     <td class="tg-dgl5">Ms Nah Cher Hui Faith <br><i>nah_cher_hui_faith@moe.edu.sg</i></td>
       </tr>
   <tr>
