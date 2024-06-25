@@ -166,9 +166,10 @@ variant: markdown
     <td class="tg-9hzb">3N1</td>
     <td class="tg-dgl5">Mr Wong Yew Chiang (Ryan)<br><i>ryan_wong@moe.edu.sg</i> </td>
     <td class="tg-dgl5">Ms Ng Sin Yin Rebecca<br><i>ng_sin_yin_rebecca@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Daniel Chye<br><i>chye_yan_jin_daniel@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
-  </tr>
-  <tr>
+ </tr>
+ <tr>
     <td class="tg-9hzb">3N2</td>
     <td class="tg-dgl5">Mdm Tso Shuk Yan (Amy)<br><i>amy_tso_shuk_yan@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mr Leong Kok Wai<br><i>Leong_kok_wai@moe.edu.sg </i></td>
