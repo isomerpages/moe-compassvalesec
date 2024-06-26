@@ -5,7 +5,7 @@ variant: markdown
 ---
 ## Terms of Use
 
-Thank you for visiting https://www.compassvalesec.moe.edu.sg By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site. 
+Thank you for visiting www.compassvalesec.moe.edu.sg By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site. 
 #### General 
 2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 #### Proprietary Rights 
@@ -37,4 +37,4 @@ Disclaimer of Warranties and Liability
 17. <strong>Compassvale Secondary School</strong> reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. 
 18. <strong>Compassvale Secondary School</strong> reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. 
 Governing Law 
-19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
+19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
