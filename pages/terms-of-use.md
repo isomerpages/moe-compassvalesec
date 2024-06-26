@@ -11,7 +11,7 @@ Thank you for visiting www.compassvalesec.moe.edu.sg. By accessing and using thi
  
 #### Proprietary Rights 
 
-3.This Web Site is maintained by Compassvale Secondary School. It is owned by Compassvale Secondary School.
+3.This Web Site is maintained by Compassvale Secondary School. It is owned by Compassvale Secondary School.<br>
 4.The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Compassvale Secondary School.
 
 #### Privacy Policy 
