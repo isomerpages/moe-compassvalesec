@@ -61,7 +61,8 @@ variant: markdown
     <td class="tg-9hzb">1-6</td>
     <td class="tg-dgl5">Ms Ang Si Min<br><i>ang_si_min@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mdm Wang Buay San Ellen<br><i>wang_buay_san_ellen@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5">Mr Ang Joon Boon, Andy<br>
+			<i>ang_joon_boon_andy@moe.edu.sg</i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-7</td>
@@ -101,8 +102,7 @@ variant: markdown
 </i></td>
     <td class="tg-dgl5">Mdm Nurul Amirah<br><i>nurul_amirah_ahmad@moe.edu.sg 
 </i></td><td class="tg-dgl5"></td>
-		
-    </tr>
+</tr>
   <tr>
     <td class="tg-9hzb">2-4</td>
     <td class="tg-dgl5">Mdm Chitra d/o Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg </i></td>
