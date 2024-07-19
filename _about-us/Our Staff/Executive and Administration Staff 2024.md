@@ -45,7 +45,7 @@ variant: tiptap
 <p>Adjunct Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Sze Yung</p>
+<p>Mr Manimaran s/o Subramaniam</p>
 </td>
 </tr>
 <tr>
@@ -126,14 +126,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tang Kai Sia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Manimaran s/o Subramaniam</p>
 </td>
 </tr>
 <tr>
