@@ -24,6 +24,12 @@ sections:
       url: /2024-semester-2-timetables/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
+  - infobar:
+      title: School Canteen Vacancy
+      subtitle: Add informational text
+      id: infobar
+      button: Click for more information
+      url: /canteen
   - infopic:
       title: 2024 DIRECT SCHOOL ADMISSION
       id: infopic
