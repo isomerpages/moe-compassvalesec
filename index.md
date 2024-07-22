@@ -29,7 +29,7 @@ sections:
       subtitle: Add informational text
       id: infobar
       button: Click for more information
-      url: /canteen
+      url: /canteen-advertisement/
   - infopic:
       title: 2024 DIRECT SCHOOL ADMISSION
       id: infopic
