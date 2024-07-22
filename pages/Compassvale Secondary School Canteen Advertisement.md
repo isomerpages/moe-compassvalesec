@@ -4,8 +4,8 @@ permalink: /canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Type of Stall | Closing Date</strong></h3>
-<h4>Muslim Noodles Stall | 13 September 2024</h4>
+<h3><strong>|Type of Stall | Closing Date|</strong></h3>
+<h4>|Muslim Noodles Stall | 13 September 2024|</h4>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
