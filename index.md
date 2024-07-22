@@ -16,6 +16,11 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click for more information
+      url: /canteen-advertisement/
   - infopic:
       title: 2024 Semester 2 Timetables
       subtitle: Announcement
@@ -24,12 +29,6 @@ sections:
       url: /2024-semester-2-timetables/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      subtitle: Add informational text
-      id: infobar
-      button: Click for more information
-      url: /canteen-advertisement/
   - infopic:
       title: 2024 DIRECT SCHOOL ADMISSION
       id: infopic
