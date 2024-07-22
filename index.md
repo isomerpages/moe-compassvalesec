@@ -16,6 +16,11 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click for more information
+      url: /canteen-advertisement/
   - infopic:
       title: 2024 Semester 2 Timetables
       subtitle: Announcement
