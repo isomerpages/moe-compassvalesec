@@ -25,7 +25,7 @@ sections:
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infobar:
-      title: School Canteen Vacancy
+      title: School Canteen Advertisement
       subtitle: Add informational text
       id: infobar
       button: Click for more information
