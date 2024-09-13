@@ -9,6 +9,7 @@ variant: markdown
 * [2024 Term 1 - Letter to Parents](/files/2024%20Useful%20Links/2024_Start_of_Year_Letter_to_Parents.pdf)
 * [2024 Term 2 - Letter to Parents](/files/2024%20Useful%20Links/CVSS_2024_Term_2_Letter.pdf)
 * [2024 Term 3 - Letter to Parents](/files/Termly%20Comms%20to%20Parents/2024_Term_3_Letter_compressed.pdf)
+* [2024 Term 4 - Letter to Parents](/files/CVSS_2023_Term_4_Letter.pdf)
 
 
 # 2023
