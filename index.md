@@ -17,6 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: MOE-OBS Challenge Programme Briefing
+      id: infopic
+      button: Presentation SLides
+      url: Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
+      image: /images/2023 PE/Kayaking_experience.png
+      alt: Image alt text
+  - infopic:
       title: 2024 Semester 2 Timetables
       subtitle: Announcement
       id: infopic
