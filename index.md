@@ -20,9 +20,9 @@ sections:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
       button: Presentation SLides
-      url: /files/Homepage/Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
+      url: /moe-obs-challenge-programme-briefing/
       image: /images/2023 PE/Kayaking_experience.png
-      alt: Image alt text
+      alt: Kayaking
   - infopic:
       title: 2024 Semester 2 Timetables
       subtitle: Announcement
