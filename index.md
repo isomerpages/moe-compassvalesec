@@ -20,7 +20,7 @@ sections:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
       button: Presentation SLides
-      url: Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
+      url: /files/Homepage/Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
       image: /images/2023 PE/Kayaking_experience.png
       alt: Image alt text
   - infopic:
