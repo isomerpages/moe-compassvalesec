@@ -17,29 +17,6 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: MOE-OBS Challenge Programme Briefing
-      id: infopic
-      button: Presentation SLides
-      url: /moe-obs-challenge-programme-briefing/
-      image: /images/2023 PE/Kayaking_experience.png
-      alt: Kayaking
-  - infopic:
-      title: 2024 Semester 2 Timetables
-      subtitle: Announcement
-      id: infopic
-      button: Click here to access them
-      url: /2024-semester-2-timetables/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      alt: Image alt text
-  - infopic:
-      title: 2024 DIRECT SCHOOL ADMISSION
-      id: infopic
-      description: 2024 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE
-      button: Click for more details
-      url: /useful-info-and-links/2024-direct-school-admission-dsa-1/
-      image: /images/Landing Page/video_capture.JPG
-      alt: Image alt text
-  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -49,6 +26,26 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
+  - infopic:
+      title: MOE-OBS Challenge Programme Briefing
+      id: infopic
+      button: Presentation SLides
+      url: /moe-obs-challenge-programme-briefing/
+      image: /images/2023 PE/Kayaking_experience.png
+      alt: Kayaking
+      subtitle: Announcement
+      description: Click to view slides with more information.
+  - infopic:
+      title: Asia Pacific Debate Competition 2024
+      subtitle: Achievement
+      id: infopic
+      button: View more on Instagram
+      url: /2024-semester-2-timetables/
+      image: /images/Landing Page/Group_Photo_with_trainers.png
+      alt: Image alt text
+      description: 3 North Stars showcased their speaking and debate skills and
+        emerged as Champions in the Rookie Under 16 category! Watch a special
+        video sharing by them on IG.
   - infopic:
       title: Top 4 Placing in National School Games ('B' Div Floorball)
       subtitle: Achievement
