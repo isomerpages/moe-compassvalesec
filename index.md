@@ -39,13 +39,13 @@ sections:
       title: Asia Pacific Debate Competition 2024
       subtitle: Achievement
       id: infopic
-      button: Click to view more on IG
+      button: View more on Instagram
       url: /2024-semester-2-timetables/
-      image: /images/Landing Page/overview - morning assembly.jpeg
+      image: /images/Landing Page/Group_Photo_with_trainers.png
       alt: Image alt text
-      description: 3 students showcased their speaking and debate skills and emerged
-        as Champions in the Rookie Under 16 category! Hear their sharing over a
-        special video feature
+      description: 3 North Stars showcased their speaking and debate skills and
+        emerged as Champions in the Rookie Under 16 category! Watch a special
+        video sharing by them on IG.
   - infopic:
       title: Top 4 Placing in National School Games ('B' Div Floorball)
       subtitle: Achievement
