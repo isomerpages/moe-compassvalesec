@@ -23,6 +23,8 @@ sections:
       url: /moe-obs-challenge-programme-briefing/
       image: /images/2023 PE/Kayaking_experience.png
       alt: Kayaking
+      subtitle: Announcement
+      description: Click to view slides with more information.
   - infopic:
       title: 2024 Semester 2 Timetables
       subtitle: Announcement
