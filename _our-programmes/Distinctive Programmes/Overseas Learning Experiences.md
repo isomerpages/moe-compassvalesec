@@ -17,7 +17,7 @@ and global opportunities.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/Learning_Approach_diagram.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/Learning_Approach_diagram.png">
 </div>
 <p>At the heart of Perspectives is a neuroscience-informed introspective-comparative
 pedagogy. This approach encourages students to reflect on their experiences
