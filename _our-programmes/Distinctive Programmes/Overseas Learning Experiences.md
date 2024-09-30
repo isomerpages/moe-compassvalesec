@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Distinctive Programmes
 ---
+<h2>Perspectives: Overseas Learning Experiences (OLE) at CVSS</h2>
+<p></p>
 <p>The <strong>Perspectives (视界与世界 / Jauh Perjalanan, Luas Pengalaman) </strong>programme
 at CVSS offers an innovative overseas learning curriculum designed to expand
 students' world-view and deepen their understanding of global issues. Through
