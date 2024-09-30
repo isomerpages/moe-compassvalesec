@@ -25,7 +25,7 @@ societies and economies. Perspectives culminates in a capstone presentation,
 where students synthesise their learning and reflect on the diverse perspectives
 they have gained. These experiences hone important 21st century competencies
 such as problem-solving, cultural awareness, and communication skills.</p>
-<p>For more information on Perspectives, please visit our webpage at <a href="http://for.edu.sg/cvssole" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/cvssole</a> 
+<p>For more information on Perspectives, please visit our webpage at <a href="http://for.edu.sg/cvssole" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/cvssole</a>
 </p>
 <p><strong>Insert Photo</strong>
 </p>
