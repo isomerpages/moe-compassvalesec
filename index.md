@@ -30,7 +30,7 @@ sections:
       title: 2025 Booklist & Uniform Order Form
       id: infopic
       button: Click to download form
-      image: /images/School_books.jpg
+      image: /images/School_books2.jpg
       url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
       alt: Books
   - infopic:
