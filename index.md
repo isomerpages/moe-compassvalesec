@@ -27,7 +27,7 @@ sections:
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
   - infopic:
-      title: 2025 Booklist and Uniform Order Form
+      title: 2025 Booklist & Uniform Order Form
       id: infopic
       button: Click to download form
       image: /images/School_books.jpg
