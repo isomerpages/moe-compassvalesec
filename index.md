@@ -29,9 +29,9 @@ sections:
   - infopic:
       title: 2025 Booklist and Uniform Order Form
       id: infopic
-      button: Button Text
+      button: Click to download form
       image: /images/School_books.jpg
-      alt: Image alt text
+      url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
   - infopic:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
