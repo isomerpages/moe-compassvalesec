@@ -17,6 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2025 Booklist & Uniform Order Form
+      id: infopic
+      button: Click to download form
+      image: /images/School_books2.jpg
+      url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
+      alt: Books
+  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
