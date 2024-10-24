@@ -27,6 +27,12 @@ sections:
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
   - infopic:
+      title: 2025 Booklist and Uniform Order Form
+      id: infopic
+      button: Button Text
+      image: /images/School_books.jpg
+      alt: Image alt text
+  - infopic:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
       button: Presentation SLides
