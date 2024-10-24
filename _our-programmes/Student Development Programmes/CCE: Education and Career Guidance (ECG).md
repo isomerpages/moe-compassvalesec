@@ -42,7 +42,7 @@ An appointment can be made with the ECG Counsellor [here](https://sites.google.
   
 Start your exploration on MySkillsFuture.sg Portal, click [here](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html).
 
-![](/images/skill1.jpg)
+![Skill Future image](/images/MySFSec1200800.png)
 
 
 **POST SECONDARY PATHWAYS**
