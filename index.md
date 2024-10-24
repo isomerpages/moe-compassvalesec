@@ -32,6 +32,7 @@ sections:
       button: Click to download form
       image: /images/School_books.jpg
       url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
+      alt: Books
   - infopic:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
