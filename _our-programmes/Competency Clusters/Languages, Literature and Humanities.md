@@ -11,7 +11,7 @@ The Languages, Literature and Humanities programme at CVSS is designed to develo
 *EL Department*
 
 ![](/images/2023%20Competency%20Clusters/Languages%20Lit%20And%20Humanities/8.png)
-*Humanities Departmnet*
+*Humanities Department*
 
 ![](/images/2023%20Competency%20Clusters/Languages%20Lit%20And%20Humanities/6.png)
 *Mother Tongue Department*
