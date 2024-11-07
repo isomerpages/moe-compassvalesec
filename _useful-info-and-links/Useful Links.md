@@ -39,7 +39,7 @@ variant: markdown
 *   [IT Equipment Fault Reporting Form](https://goo.gl/forms/59zZ0fZLpvMCvoEF3)
 *   [Laptop & PC Troubleshooting & Password Resetting Form](http://tinyurl.com/Laptop-PC-Troubleshooting-an)
 *   [Request for PA/AVA Support Form](http://tinyurl.com/cvssparequest)
-*   [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)  
+*   [MOE Intranet](https://intranet.moe.gov.sg/)  
 *   [SC Mobile](https://scmobile.moe.edu.sg/)
 *   [HR and Payroll portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
