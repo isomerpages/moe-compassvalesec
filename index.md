@@ -34,15 +34,6 @@ sections:
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
   - infopic:
-      title: MOE-OBS Challenge Programme Briefing
-      id: infopic
-      button: Presentation SLides
-      url: /moe-obs-challenge-programme-briefing/
-      image: /images/2023 PE/Kayaking_experience.png
-      alt: Kayaking
-      subtitle: Announcement
-      description: Click to view slides with more information.
-  - infopic:
       title: Asia Pacific Debate Competition 2024
       subtitle: Achievement
       id: infopic
@@ -64,4 +55,23 @@ sections:
       url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
       image: /images/DSA 2024/floorball b girls .jpg
+  - infopic:
+      title: MOE-OBS Challenge Programme Briefing
+      id: infopic
+      button: Presentation SLides
+      url: /moe-obs-challenge-programme-briefing/
+      image: /images/2023 PE/Kayaking_experience.png
+      alt: Kayaking
+      subtitle: Announcement
+      description: Click to view slides with more information.
+  - infopic:
+      title: OPEN HOUSE 2024
+      subtitle: CVSS Warmly Welcomes You!
+      id: infopic
+      description: ✨Discover what makes The Compassvale Experience truly special
+        through guided tours by student docents, interactive booths &
+        performances on 16 Nov, from 10am.✨
+      button: Click to view more on IG
+      url: https://www.instagram.com/p/DBzxZP-TFOf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      alt: Image alt text
 ---
