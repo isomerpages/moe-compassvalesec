@@ -16,7 +16,7 @@ variant: markdown
 *   [Library Catalogue](https://schoolibrary.moe.edu.sg/compassvalesec)  
     
 *   [IT Equipment Fault Reporting Form](https://goo.gl/forms/1YHHgbX6uu6j6IZm2)
-*   [Laptop & PC Troubleshooting & Password Resetting Form](http://tinyurl.com/Laptop-PC-Troubleshooting-an)
+
 *   [Request Form to Reset Password/Unlock IAMS (Google Student ICON)](https://go.gov.sg/cvss-sls-iams-reset2)
 
 ### For Parents
@@ -37,9 +37,7 @@ variant: markdown
 *   [OPAL2.0](https://www.opal2.moe.edu.sg/)
 *   [Mobile IT Device Loan Form](https://docs.google.com/forms/d/1UPJac2HIQb3Y5X8NV8ufsBAjucUb5a-8aG3KyTklCUg/viewform?edit_requested=true)
 *   [IT Equipment Fault Reporting Form](https://goo.gl/forms/59zZ0fZLpvMCvoEF3)
-*   [Laptop & PC Troubleshooting & Password Resetting Form](http://tinyurl.com/Laptop-PC-Troubleshooting-an)
 *   [Request for PA/AVA Support Form](http://tinyurl.com/cvssparequest)
-*   [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)  
 *   [SC Mobile](https://scmobile.moe.edu.sg/)
 *   [HR and Payroll portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)

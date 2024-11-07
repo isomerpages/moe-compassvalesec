@@ -3,6 +3,7 @@ title: Community Youth Leaders Club
 permalink: /our-programmes/cca/clubs-n-societies/community-youth-leaders-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/001_CVSS%20Community%20Youth%20Leaders%202021.jpg)
 
@@ -73,7 +74,7 @@ Members delivered some festive cheer to the patients by engaging them in convers
 
 2.     **Project Encourage**
 
-Members championed the ‘Do Good, Feel Good, Spread Good’ movement by encouraging Secondary 1 students to express compliments to their classmates and loved ones through writing notes. This project is featured in the Design For Change World website. Click [here](https://stories.dfcworld.com/STORY/previewstory?entry_code=SIN-ENG-302391820-2020)* to visit.
+Members championed the ‘Do Good, Feel Good, Spread Good’ movement by encouraging Secondary 1 students to express compliments to their classmates and loved ones through writing notes. This project is featured in the Design For Change World website. 
 
 ![](/images/Picture%203.jpg)
 *CYL club members briefing their classmates about Project Encourage.*

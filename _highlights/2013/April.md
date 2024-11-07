@@ -3,21 +3,22 @@ title: April
 permalink: /highlights/2013/april/
 description: ""
 third_nav_title: "2013"
+variant: markdown
 ---
 # 13th Anniversary and Awards Day held on 26 April 2013
 
-On the evening of 26 April 2013 (Friday), CVSS celebrated our 13th Anniversary and Awards Day (A&A Day) with the School Advisory Committee members, staff, students and graduands of 2012 and their parents. Many who were present at the event would unanimously agree that the star of the evening were the students. The theme for the celebration was _Realising the Star Within_ which speaks about how our school has helped the students who passed through our gates to realise their true potential.
+On the evening of 26 April 2013 (Friday), CVSS celebrated our 13th&nbsp;Anniversary and Awards Day (A&amp;A Day) with the School Advisory Committee members, staff, students and graduands of 2012 and their parents. Many who were present at the event would unanimously agree that the star of the evening were the students. The theme for the celebration was&nbsp;_Realising the Star Within_&nbsp;which speaks about how our school has helped the students who passed through our gates to realise their true potential.
 
-Through the various segments of the evening’s celebration (e.g. prize presentation, concert exhibition, live-performances) our stakeholders could see for themselves how the school has developed our students holistically in the 6 domains of Cognitive, Aesthetics, Physical, Social & Moral, Student Leadership and Student Morale under our holistic North Star Education Programme. Our stake-holders were impressed with not just the school’s achievements, but the exemplary behaviour of our students. Many commented that our North Stars are confident, talented and articulate. Our students are a living testimony of the success of our holistic North Star Education Programme.
+Through the various segments of the evening’s celebration (e.g. prize presentation, concert exhibition, live-performances) our stakeholders could see for themselves how the school has developed our students holistically in the&nbsp;6 domains of Cognitive, Aesthetics,&nbsp;Physical, Social &amp;&nbsp;Moral, Student&nbsp;Leadership and Student&nbsp;Morale under our holistic North Star Education Programme. Our stake-holders&nbsp;were impressed with not just the school’s achievements, but the exemplary behaviour of our students. Many commented that our North Stars are confident, talented and articulate. Our students are a living testimony of the success of our holistic North Star Education Programme.
 
-The A&A day was also a day when the graduands of 2012 showed their gratitude and appreciation towards the school. This could be summed up clearly in a verse taken from the poem composed and presented to the school by Amirah of 4H (2012):
+The A&amp;A day was also a day when the graduands of 2012 showed their gratitude and appreciation towards the school. This could be summed up clearly in a verse taken from the poem composed and presented to the school by Amirah of 4H (2012):
 
 _“A place I miss <br>
 A shelter, a second home <br>
 A sky of opportunities  <br>
 Where so many stars have shone”_
 
-As we bring our 13th A&A celebration to a close, the school wishes to thank all parents and stakeholders for their unwavering support and partnerships in helping our students to realise the star within.
+As we bring our 13th&nbsp;A&amp;A celebration to a close, the school wishes to thank all parents and stakeholders for their unwavering support and partnerships in helping our students to realise the star within.
 
 ![](/images/13th01.jpeg)
 
@@ -25,17 +26,17 @@ As we bring our 13th A&A celebration to a close, the school wishes to thank all
 The Elementz Science Research Conference and Exhibition is an annual event that accords recognition to students from secondary school (upper secondary levels) and Junior Colleges who have conducted scientific research to showcase their findings. This event is organized by Anderson Junior College which houses Elementz laboratory, the MOE North Zone Centre of Excellence in Science.  
   
 
-The theme for this year conference is **“Advancing Science, Benefitting Society”.**
+The theme for this year conference is&nbsp;**“Advancing Science, Benefitting Society”.**
 
 Indeed, two teams from Compassvale Secondary School had made us proud by clinching the Gold awards for their Research projects.  
   
 The two projects are as follows:  
   
-1)    Investigation on generation of useful electrical energy from the writing action (mechanical energy) produced by the pen (Gold Award)  
+1)&nbsp;&nbsp;&nbsp; Investigation on generation of useful electrical energy from the writing action (mechanical energy) produced by the pen (Gold Award)  
   
 Team Members: Ong Zheng Jie, Koh Kai Xin, Poon Ching Hong, Perry Ng Ming Wei, Keith Cheng Yukang  
   
-2)    An investigation on the use of different fruit peels in the production of bioethanol through fermentation (Gold Award)
+2)&nbsp;&nbsp;&nbsp; An investigation on the use of different fruit peels in the production of bioethanol through fermentation (Gold Award)
 
 Team Members: Quek Zheng Yi, Lim Si Sheng Cider, Muhammad Afiq Bin Zaid, Lim Ying Ying Veronica, Leo Xin Yi
 
@@ -53,6 +54,6 @@ Well done, Red Cross Youth Cadets!
 ![](/images/rcy02.png)
 
 # Visit CVSS exhibition booth at the MOE ExCel Fest 2013
-MOE ExCEL Fest is an annual event that celebrates exciting and innovative practices in schools. It is also a platform for parents and members of the public to find out more about the latest developments in our education landscape. This year, the event will be held on 5 April and 6 April (10am to 6pm) at ITE College Central.
+MOE ExCEL Fest is an annual event that celebrates exciting and innovative practices in schools. It is also a platform for parents and members of the public to find out more about the latest developments in our education landscape. This year, the event will be held on&nbsp;5 April and 6 April (10am to 6pm)&nbsp;at&nbsp;ITE College Central.
 
-Compassvale Secondary is one of the 30 schools selected for the MOE ExCEL Fest 2013. We will set up an exhibition booth which showcases the school's environment education. You can find the details on the No 1 item at the following link: [http://www.excelfest.com/programme/exhibitions/exhibition](http://www.excelfest.com/programme/exhibitions/exhibition). 11 Environment Champions will have the opportunity to present our schools' innovative practices and special environment projects to the VIPs and the visitors for the two-day event. You are cordially invited to visit us at our CVSS booth (and pledge your support for sustainable living).
+Compassvale Secondary is one of the 30 schools selected for the MOE ExCEL Fest 2013. We will set up an exhibition booth which showcases the school's environment education. Environment Champions will have the opportunity to present our schools' innovative practices and special environment projects to the VIPs and the visitors for the two-day event. You are cordially invited to visit us at our CVSS booth (and pledge your support for sustainable living).
