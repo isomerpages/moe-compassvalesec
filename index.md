@@ -26,6 +26,7 @@ sections:
       button: Click to view more on IG
       url: https://www.instagram.com/p/DBzxZP-TFOf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
+      image: /images/Banners/IGOH24.jpg
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
