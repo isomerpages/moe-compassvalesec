@@ -3,6 +3,7 @@ title: 2021 O & N Level Results
 permalink: /highlights/2022/2021-o-n-n-level-results/
 description: ""
 third_nav_title: "2022"
+variant: markdown
 ---
 # 2021 O level results
 
@@ -31,7 +32,6 @@ At the release of the results, the school also affirmed Gina Chong Yi Ting who a
 
 **Our heartiest congratulations to all our North Stars for their achievements!**
 
-_For more details on our school’s performance in the GCE ‘O’ Level exams 2021, please click [here](https://compassvalesec-moe-edu-sg-admin.cwp.sg/our-purpose/awards-achievements/academics/o-levels/2021) to access the information on the school website._
 
 # 2021 N level results
 **Achievements in the 2021 GCE ‘N’ Level Examinations**
@@ -88,5 +88,3 @@ Despite the challenges faced in learning, Charis Tan Qi En possessed great tenac
 This year, the school also saw the graduation of its second cohort of students who took subjects at a higher level than their respective course. Samantha Seak Hui Lin and Fung Li Ying of 4T1 took up Chinese Language and Mathematics at the NA level respectively and both of them attained a Distinction grade.  Josh Lim Yi Cheng of 4T1 took up Science (Physics, Chemistry) at the NA level also attained a distinction.
 
  **Our _heartiest congratulations to all our North Stars for their achievements!_**
-
-_For more details on our school’s performance in the GCE ‘N’ Level exams 2021, please click [here](https://compassvalesec-moe-edu-sg-admin.cwp.sg/our-purpose/awards-achievements/academics/n-levels/2021) to access the information on the school website_
