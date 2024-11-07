@@ -17,12 +17,15 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: 2025 Booklist & Uniform Order Form
+      title: OPEN HOUSE 2024
+      subtitle: CVSS Warmly Welcomes You!
       id: infopic
-      button: Click to download form
-      image: /images/School_books2.jpg
-      url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
-      alt: Books
+      description: ✨Discover what makes The Compassvale Experience truly special
+        through guided tours by student docents, interactive booths &
+        performances on 16 Nov, from 10am.✨
+      button: Click to view more on IG
+      url: https://www.instagram.com/p/DBzxZP-TFOf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      alt: Image alt text
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
@@ -33,6 +36,13 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
+  - infopic:
+      title: 2025 Booklist & Uniform Order Form
+      id: infopic
+      button: Click to download form
+      image: /images/School_books2.jpg
+      url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
+      alt: Books
   - infopic:
       title: Asia Pacific Debate Competition 2024
       subtitle: Achievement
@@ -64,14 +74,4 @@ sections:
       alt: Kayaking
       subtitle: Announcement
       description: Click to view slides with more information.
-  - infopic:
-      title: OPEN HOUSE 2024
-      subtitle: CVSS Warmly Welcomes You!
-      id: infopic
-      description: ✨Discover what makes The Compassvale Experience truly special
-        through guided tours by student docents, interactive booths &
-        performances on 16 Nov, from 10am.✨
-      button: Click to view more on IG
-      url: https://www.instagram.com/p/DBzxZP-TFOf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-      alt: Image alt text
 ---
