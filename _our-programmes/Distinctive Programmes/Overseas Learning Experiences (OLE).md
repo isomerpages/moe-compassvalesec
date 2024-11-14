@@ -32,6 +32,19 @@ they have gained. These experiences hone important 21st century competencies
 such as problem-solving, cultural awareness, and communication skills.</p>
 <p>For more information on Perspectives, please visit our webpage at <a href="http://for.edu.sg/cvssole" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/cvssole</a>
 </p>
+<p><u>Perspectives SG-Indonesia Overseas Learning Experiences</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/Teacher_with_student.jpg">
+</div>
+<p><em><sub>As part of the Indonesia OLE Pre-Trip Learning Modules, our North Stars had a hands-on lesson on Plate Tectonics and Volcanicity! Through interactive activities, they explored the forces that shape our Earth.</sub></em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group Photo" src="/images/2023 Distinctive Programmes/OLE/Bukit_timah_group_photo.jpg">
+</div>
+<p><em><sub>As part of the Indonesia OLE Pre-Trip Learning Modules, our North Stars engaged in a hike from MacRitchie Reservoir to Bukit Timah Hill to prepare them for their hiking expedition in Bandung. This local trek helped build their stamina, resilience, and team spirit as they geared up for the upcoming adventure.</sub></em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/Indonesia_OLE.jpg">
