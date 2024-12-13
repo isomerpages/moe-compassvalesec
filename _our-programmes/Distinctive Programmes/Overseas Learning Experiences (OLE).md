@@ -57,6 +57,7 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>As part of the Indonesia OLE, our North Stars had the opportunity to travel from Jakarta to Bandung on the Whoosh!, Indonesia and Southeast Asia’s first highspeed rail.</sub></em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/North_Stars_Apple_Singapore.jpg">
 </div>
