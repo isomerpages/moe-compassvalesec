@@ -18,6 +18,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/2025 Booklist/Sec_5_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2024%20Booklist/uniform%20measurement%20chart2.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Measurement Chart</a>
 </p>
 </li>
