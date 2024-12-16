@@ -29,7 +29,6 @@ sections:
       image: /images/Banners/IGOH24.jpg
   - infopic:
       title: Registration For 2025 Secondary 1 Students
-      subtitle: Add an image and text
       id: infopic
       description: Infopic description
       button: Click to know more
