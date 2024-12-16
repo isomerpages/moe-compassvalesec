@@ -28,7 +28,7 @@ sections:
       alt: Image alt text
       image: /images/Banners/IGOH24.jpg
   - infopic:
-      title: Registration For 2025 Secondary 1 Students
+      title: Information For 2025 Secondary 1 Students
       id: infopic
       button: Click to know more
       url: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
