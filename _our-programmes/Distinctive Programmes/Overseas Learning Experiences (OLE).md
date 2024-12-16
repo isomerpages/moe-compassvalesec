@@ -74,9 +74,12 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>After an adventurous hike at Dago Pakar, our North Stars took a well-deserved break to recharge and reflect on the natural beauty surrounding them.</sub></em>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/6.jpg">
+</div>
 <p><em><sub>Our North Stars had a chance to work on their own Batik pieces at a workshop, learning the intricate art of wax-resist dyeing and gaining an appreciation for this traditional Indonesian craft.</sub></em>
 </p>
+<p></p>
 <p><u>Perspectives SG-China Overseas Learning Experiences</u>
 </p>
 <div class="isomer-image-wrapper">
@@ -84,7 +87,6 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>As part of the China OLE Pre-Trip Learning Modules, our North Stars visited Apple Singapore to gain insights into the company's innovation and technology leadership.</sub></em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/China_OLE_Trip.jpg">
 </div>
@@ -101,5 +103,30 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>Our North Stars visited SAIC Volkswagen in Shanghai, witnessing the production process of iconic Volkswagen and Audi cars and gaining insight into China's strategic role in the automotive industry.</sub></em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/3.jpg">
+</div>
+<p><em><sub>Our North Stars attended classes with their buddies at SIP Xingyang and SIP Xinggang School, immersing themselves in the local study environment and culture.</sub></em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/2.jpg">
+</div>
+<p><em><sub>Our North Stars enjoyed a hands-on dumpling-making session with their buddies at SIP Xingyang School, sharing culture and friendship.</sub></em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/1.jpg">
+</div>
+<p><em><sub>Our North Stars had a meaningful and enriching China OLE, broadening their PERSPECTIVES through cultural exchanges and new experiences.</sub></em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>jjjgg</p>
