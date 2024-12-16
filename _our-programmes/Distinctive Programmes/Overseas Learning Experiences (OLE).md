@@ -101,10 +101,5 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>Our North Stars visited SAIC Volkswagen in Shanghai, witnessing the production process of iconic Volkswagen and Audi cars and gaining insight into China's strategic role in the automotive industry.</sub></em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/4.jpg">
-</div>
 <p></p>
+<p>jjjgg</p>
