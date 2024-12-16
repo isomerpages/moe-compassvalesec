@@ -60,7 +60,7 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/10.jpg">
 </div>
-<p><em><sub>Our North Stars visited the Huawei Innovation Centre in Jakarta to learn more about its role in driving technological advancements and fostering digital transformation across the region. </sub></em>
+<p><em><sub>Our North Stars visited the Huawei Innovation Centre in Jakarta to learn more about its role in driving technological advancements and fostering digital transformation across the region.</sub></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -91,7 +91,20 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 <p><em><sub>As part of the China OLE Pre-Trip Learning Modules, our North Stars learned about China's remarkable economic transformation, offering essential background for deeper understanding before they embark for the China OLE trip.</sub></em>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/8.jpg">
+</div>
+<p><em><sub>CVSS is the first school in Singapore to visit the Alibaba Visitor Centre in Xixi, Hangzhou, gaining an inspiring glimpse into Alibaba’s cutting-edge technology and innovation.</sub></em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/7.jpg">
+</div>
+<p><em><sub>Our North Stars visited SAIC Volkswagen in Shanghai, witnessing the production process of iconic Volkswagen and Audi cars and gaining insight into China's strategic role in the automotive industry.</sub></em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/4.jpg">
+</div>
 <p></p>
