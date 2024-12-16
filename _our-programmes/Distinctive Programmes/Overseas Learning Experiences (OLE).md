@@ -126,4 +126,3 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>Our North Stars had a meaningful and enriching China OLE, broadening their PERSPECTIVES through cultural exchanges and new experiences.</sub></em>
 </p>
-<p>jjjgg</p>
