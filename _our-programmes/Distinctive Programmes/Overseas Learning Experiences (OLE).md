@@ -106,9 +106,11 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/3.jpg">
 </div>
@@ -124,9 +126,5 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </div>
 <p><em><sub>Our North Stars had a meaningful and enriching China OLE, broadening their PERSPECTIVES through cultural exchanges and new experiences.</sub></em>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>jjjgg</p>
