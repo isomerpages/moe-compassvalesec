@@ -11,10 +11,7 @@ parents of incoming students will receive more details from the school
 via PG by Thursday, 19 Dec 2024. CVSS uses PG as its main communication
 channel with parents.</p>
 <p>For parents who are not on PG yet, you can onboard by following the instructions
-<a href="/files/Useful Info and Links/Sec_1_registration.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
-</a>
-</p>
-<p>For parents who have not received any information via PG by Thursday,
+<a href="/files/Useful Info and Links/Parents_Gateway_Letter_for_Parents.pdf" rel="noopener nofollow" target="_blank">here.</a>For parents who have not received any information via PG by Thursday,
 19 Dec 2024, 5pm, you can email the following details to <a rel="noopener noreferrer nofollow" target="_blank">cvss@moe.edu.sg</a> using the email header
 “Request for Sec 1 Registration Details”:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name of your child as on BC/FIN</p>
