@@ -28,6 +28,15 @@ sections:
       alt: Image alt text
       image: /images/Banners/IGOH24.jpg
   - infopic:
+      title: Registration For 2025 Secondary 1 Students
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Click to know more
+      url: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
+      image: /images/Landing Page/overview - morning assembly.jpeg
+      alt: Image alt text
+  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -75,13 +84,4 @@ sections:
       alt: Kayaking
       subtitle: Announcement
       description: Click to view slides with more information.
-  - infopic:
-      title: Registration For 2025 Secondary 1 Students
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Click to know more
-      url: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      alt: Image alt text
 ---
