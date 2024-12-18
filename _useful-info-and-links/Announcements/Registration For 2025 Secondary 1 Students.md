@@ -44,7 +44,8 @@ more information.</p>
 submit an appeal <a href="https://form.gov.sg/5fbf1ed5922a0c00110ede7d" rel="noopener noreferrer nofollow" target="_blank">here</a> between <strong>18 Dec 2024, 9 am and 27 Dec 2024, 12 noon</strong>.
 As stipulated by MOE, please note that students must meet the school’s
 actual cut-off point (COP) of the current year’s S1 posting before they
-can be considered for transfer. This ensures that the S1 Posting remains
-fair, transparent and objective to all who participated.</p>
+can be considered for transfer. <strong>Posting Group 3-18, Posting Group 2-24 and Posting Group 1-27.</strong> This
+ensures that the S1 Posting remains fair, transparent and objective to
+all who participated.</p>
 <p><strong>&nbsp;</strong>
 </p>
