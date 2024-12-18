@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025 Booklist/Booklists___Uniform_Order___S1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+<p><a href="/files/2025 Booklist/Booklist___Uniform_Order.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
 </p>
 </li>
 <li>
