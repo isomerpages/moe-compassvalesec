@@ -34,6 +34,7 @@ sections:
       url: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
+      subtitle: WELCOME!
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
