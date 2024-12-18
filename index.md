@@ -28,14 +28,13 @@ sections:
       alt: Image alt text
       image: /images/Banners/IGOH24.jpg
   - infopic:
-      title: Registration For 2025 Secondary 1 Students
-      subtitle: Add an image and text
+      title: Information for 2025 Secondary 1 Students
       id: infopic
-      description: Infopic description
       button: Click to know more
       url: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
+      subtitle: WELCOME!
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
@@ -51,7 +50,7 @@ sections:
       id: infopic
       button: Click to download form
       image: /images/School_books2.jpg
-      url: /announcements/2023-booklist-and-uniform-order-form-sec-1-to-sec-5/
+      url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
       alt: Books
   - infopic:
       title: Asia Pacific Debate Competition 2024
