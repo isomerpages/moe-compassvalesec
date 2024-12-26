@@ -36,6 +36,13 @@ sections:
       alt: Image alt text
       subtitle: WELCOME!
   - infopic:
+      title: 2025 Semester 1 Timetables
+      id: infopic
+      button: Click to access them
+      url: /announcements/
+      image: /images/Untitled_design__2_.png
+      alt: Image alt text
+  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -83,11 +90,4 @@ sections:
       alt: Kayaking
       subtitle: Announcement
       description: Click to view slides with more information.
-  - infopic:
-      title: 2025 Semester 1 Timetables
-      id: infopic
-      button: Click to access them
-      url: /announcements/
-      image: /images/Untitled_design__2_.png
-      alt: Image alt text
 ---
