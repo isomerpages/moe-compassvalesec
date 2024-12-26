@@ -1,6 +1,6 @@
 ---
-title: Registration For 2025 Secondary 1 Students
-permalink: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
+title: Information for 2025 Secondary 1 Students
+permalink: /useful-info-and-links/announcements/cvssinfofor2025sec1students/
 variant: tiptap
 description: ""
 third_nav_title: Announcements
