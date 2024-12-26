@@ -101,7 +101,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-9hzb">2-1</td>
-    <td class="tg-dgl5">Mr Fauwaz Nurhelmy Bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Yeo Seok Poh Janet<br><i>yeo_seok_poh@moe.edu.sg </i></td>
     <td class="tg-dgl5">Ms Tan Hui Min<br><i>tan_hui_min@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
