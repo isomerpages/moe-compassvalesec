@@ -88,6 +88,6 @@ sections:
       id: infopic
       button: Click to access them
       url: /announcements/
-      image: /images/School_books2.jpg
+      image: /images/Untitled_design__2_.png
       alt: Image alt text
 ---
