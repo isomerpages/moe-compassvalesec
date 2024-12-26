@@ -28,13 +28,13 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-9hzb">1-1</td>
-		<td class="tg-dgl5">Ms Tan Siew Hian (Yvonne)<br><i>tan_siew_hian@moe.edu.sg </i></td>
-		<td class="tg-dgl5">Mr Andrea Brendan Ang Chin Wei<br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
+		<td class="tg-dgl5">Mohamed Fairoz Bin Nordin<br><i>mohamed_fairoz_nordin@moe.edu.sg </i></td>
+		<td class="tg-dgl5"><br><i>andrea_ang_chin_wei@moe.edu.sg</i></td>
 		   <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">1-2</td>
-    <td class="tg-dgl5">Mdm Yeo Seok Poh (Janet)<br><i>yeo_seok_poh@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm	Tan Yi <br><i>tan_yi_ming@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mdm Preeti Kulkarni<br><i>preeti_vikas_palkar@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
