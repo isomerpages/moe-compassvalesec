@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
-
 *   [2025 Semester 1 Sec 1 Timetables](/files/2025%20Time%20tables/2025_Sem_1_TT_Sec_1.pdf)
 *   [2025 Semester 1 Sec 2 Timetables](/files/2025%20Time%20tables/2025_Sem_1_TT_Sec_2.pdf)
 
