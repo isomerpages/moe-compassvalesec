@@ -20,7 +20,7 @@ sections:
       title: Information for 2025 Secondary 1 Students
       id: infopic
       button: Click to know more
-      url: /useful-info-and-links/announcements/cvssregistrationfor2025sec1students/
+      url: /useful-info-and-links/announcements/cvssinfofor2025sec1students/
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
       subtitle: WELCOME!
