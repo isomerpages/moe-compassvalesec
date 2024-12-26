@@ -5,13 +5,12 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
-* [2024 Semester 2 Timetables](/2024-semester-2-timetables/)
+*   [2025 Semester 1 Sec 1 Timetables](/files/2025%20Time%20tables/2025_Sem_1_TT_Sec_1.pdf)
+*   [2025 Semester 1 Sec 2 Timetables](/files/2025%20Time%20tables/2025_Sem_1_TT_Sec_2.pdf)
 
-*  [2024 Semester 1 Timetables](/announcements/sem1timetables2024/)
+* [2025 Semester 1 Sec 3 Timetables](/files/2025%20Time%20tables/2025_Sem_1_TT_Sec_3.pdf)
 
-* [2023 O level Result Release - ECG and Admin Briefing Slides](/files/O_Level_Results_Briefing__ECG_Applications_.pdf)
-
-*   [2023 N Level Results Release - ECG and Admin Briefing Slides](/files/Briefing_slides_for_2023_N_level_Results_Release__ECG_Applications_.pdf)
+* [2025 Semester 1 Sec 4/5 Timetables](/files/2025%20Time%20tables/2025_Sem_1_TT_Sec_4_5.pdf)
 
 *   [2025 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/)
            
