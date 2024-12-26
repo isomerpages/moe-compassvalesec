@@ -83,4 +83,11 @@ sections:
       alt: Kayaking
       subtitle: Announcement
       description: Click to view slides with more information.
+  - infopic:
+      title: 2025 Semester 1 Timetables
+      id: infopic
+      button: Click to access them
+      url: /announcements/
+      image: /images/School_books2.jpg
+      alt: Image alt text
 ---
