@@ -97,7 +97,7 @@ variant: markdown
     <td class="tg-dgl5">Mr Chen Changjin Zac<br><i>chen_changjin@moe.edu.sg </i></td>
     <td class="tg-dgl5">Miss Jasmine Wong Shu Ting
 <br><i>jasmine_wong_shu_ting@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mdm Ng Xiang Ming<i>ng_xiang_ming@moe.edu.sg </i> </td>
+    <td class="tg-dgl5">Mdm Ng Xiang Ming<br><i>ng_xiang_ming@moe.edu.sg </i> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">2-1</td>
