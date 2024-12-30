@@ -15,8 +15,6 @@ variant: markdown
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-
-\
     <table class="tg">
 <thead>
  <tr>
