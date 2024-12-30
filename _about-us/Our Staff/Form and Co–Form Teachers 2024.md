@@ -16,7 +16,8 @@ variant: markdown
 	.tg .tg-s7g5{background-color:#C5E0B3;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 
-<table class="tg">
+\
+    <table class="tg">
 <thead>
  <tr>
     <th class="tg-s7g5">Class</th>
@@ -162,12 +163,11 @@ variant: markdown
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
-    <td class="tg-9hzb">3-2</td>
-		  <td class="tg-dgl5"> Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Wang Tiancai, Richmond
+    <td class="tg-9hzb">3-2</td><td class="tg-dgl5">Mr Wang Tiancai, Richmond
 <br><i>wang_tiancai_richmond@moe.edu.sg </i></td>
  <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)
 <br><i>lei_peishan@moe.edu.sg  </i></td>
+		<td class="tg-dgl5"> </td>
 </tr>
   <tr>
     <td class="tg-9hzb">3-3</td>
