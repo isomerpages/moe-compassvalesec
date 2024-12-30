@@ -46,15 +46,16 @@ variant: markdown
     <td class="tg-ktyi">Ms Tham Jia Xin</td>
 		<td class="tg-ktyi">tham_jia_xin@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Mathematics</td>
-    <td class="tg-ktyi">Mrs Yoga</td>
-		<td class="tg-ktyi">karpagam_thanabalan@moe.edu.sg</td>
-  </tr>
 	 <tr>
     <td class="tg-dgl5">Mother Tongue Languages</td>
     <td class="tg-ktyi">Ms Koh Bee Choo</td>
 		 <td class="tg-ktyi">koh_bee_choo@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-dgl5">Mathematics</td>
+    <td class="tg-ktyi">Mrs Yoga</td>
+		<td class="tg-ktyi">karpagam_thanabalan@moe.edu.sg</td>
+
   </tr>
   <tr>
     <td class="tg-dgl5">Science</td>
