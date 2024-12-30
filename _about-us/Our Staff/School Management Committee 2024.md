@@ -72,11 +72,22 @@ variant: markdown
     <td class="tg-ktyi">Mr Yap Kim Hon</td>
 		<td class="tg-ktyi">yap_kim_hon@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Physical Education/CCA</td>
-    <td class="tg-ktyi">Mr Leong Hon Fai</td>
-			<td class="tg-ktyi">leong_hon_fai@moe.edu.sg</td>
+	  <tr>
+    <td class="tg-dgl5">Infocomm Technology</td>
+    <td class="tg-ktyi">Mr Kuan Wai Kit</td>
+		<td class="tg-ktyi">kuan_wai_kit@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-dgl5">Student Management</td>
+    <td class="tg-ktyi">Mr Lim Chang Huat Timothy</td>
+		<td class="tg-ktyi">lim_chang_huat_timothy@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-dgl5">Character and Citizenship Education</td>
+    <td class="tg-ktyi">Mdm Seow Yi Shan</td>
+		<td class="tg-ktyi">seow_yi_shan@moe.edu.sg</td>
+  </tr>
+ 
   <tr>
     <td class="tg-dgl5">Year Head 1</td>
     <td class="tg-ktyi">Mrs Lee Sing Yee</td>
@@ -87,21 +98,13 @@ variant: markdown
     <td class="tg-ktyi">Mdm Edwina Cheng</td>
 		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Character and Citizenship Education</td>
-    <td class="tg-ktyi">Mdm Seow Yi Shan</td>
-		<td class="tg-ktyi">seow_yi_shan@moe.edu.sg</td>
+
+ <tr>
+    <td class="tg-dgl5">Physical Education/CCA</td>
+    <td class="tg-ktyi">Mr Leong Hon Fai</td>
+			<td class="tg-ktyi">leong_hon_fai@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Infocomm Technology</td>
-    <td class="tg-ktyi">Mr Kuan Wai Kit</td>
-		<td class="tg-ktyi">kuan_wai_kit@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Student Management</td>
-    <td class="tg-ktyi">Mr Lim Chang Huat Timothy</td>
-		<td class="tg-ktyi">lim_chang_huat_timothy@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td class="tg-dgl5">School Staff Developer</td>
     <td class="tg-ktyi">Mr Chan Haw Ling</td>
