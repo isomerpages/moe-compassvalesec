@@ -29,7 +29,7 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">1-1</td>
 		<td class="tg-dgl5">Mohamed Fairoz Bin Nordin<br><i>mohamed_fairoz_nordin@moe.edu.sg </i></td>
-		<td class="tg-dgl5">Mdm	Tan Yi <br><i>tan_yi_ming@moe.edu.sg</i></td>
+		<td class="tg-dgl5">Mdm	Tan Yi Ming <br><i>tan_yi_ming@moe.edu.sg</i></td>
 		   <td class="tg-dgl5"> </td>
   </tr>
   <tr>
