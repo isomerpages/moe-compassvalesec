@@ -170,14 +170,15 @@ variant: markdown
 </tr>
   <tr>
     <td class="tg-9hzb">3-3</td>
+		    <td class="tg-dgl5">Mrs Viddyawati Gunalan
+<br><i>viddyawati_gunalan@moe.edu.sg </i></td>
 <td class="tg-dgl5"> Mr Fauwaz Nurhelmy Bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mdm Chia Winnie (Mrs Lim)<br><i>chia_winnie@moe.edu.sg </i></td>
+   
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3-4</td>
-    <td class="tg-dgl5">Mrs Viddyawati Gunalan
-<br><i>viddyawati_gunalan@moe.edu.sg </i></td>
+		 <td class="tg-dgl5">Mdm Chia Winnie (Mrs Lim)<br><i>chia_winnie@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mr Por Ee Lian Benjamin<br><i>por_ee_lian@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
