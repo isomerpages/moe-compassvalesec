@@ -89,8 +89,8 @@ variant: markdown
   </tr>
  
   <tr>
-    <td class="tg-dgl5">Year Head 1</td>
-    <td class="tg-ktyi">Mrs Lee Sing Yee</td>
+    <td class="tg-dgl5">Year Head 1 (Acting)</td>
+    <td class="tg-ktyi">Mdm Donna Chang </td>
 		<td class="tg-ktyi">ang_sing_yee@moe.edu.sg</td>
   </tr>
   <tr>
@@ -99,12 +99,6 @@ variant: markdown
 		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
   </tr>
 
- <tr>
-    <td class="tg-dgl5">Physical Education/CCA</td>
-    <td class="tg-ktyi">Mr Leong Hon Fai</td>
-			<td class="tg-ktyi">leong_hon_fai@moe.edu.sg</td>
-  </tr>
- 
   <tr>
     <td class="tg-dgl5">School Staff Developer</td>
     <td class="tg-ktyi">Mr Chan Haw Ling</td>
@@ -129,7 +123,7 @@ variant: markdown
 		<td class="tg-ktyi">lei_pei_shan@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-dgl5">Malay Language (Acting)</td>
+    <td class="tg-dgl5">Malay Language </td>
     <td class="tg-ktyi">Mdm Noorhidayah Bte Md. Taib</td>
 		<td class="tg-ktyi">noorhidayah_md_taib@moe.edu.sg</td>
   </tr>
@@ -150,25 +144,20 @@ variant: markdown
   </tr>
   
   <tr>
-    <td class="tg-dgl5">Educational Support</td>
-    <td class="tg-ktyi">Ms Lee Han</td>
-		<td class="tg-ktyi">lee_han@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td class="tg-dgl5">Aesthetics</td>
     <td class="tg-ktyi">Mdm Ellen Wang Buay San</td>
 		<td class="tg-ktyi">wang_buay_san_ellen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Acting Physical Education</td>
+    <td class="tg-dgl5">Physical Education/CCA (Acting)</td>
     <td class="tg-ktyi">Mr Soh Meng Le </td>
 		<td class="tg-ktyi">soh_meng_le@moe.edu.sg</td>
   </tr>
   
   <tr>
     <td class="tg-dgl5">Assistant Year Head 1</td>
-    <td class="tg-ktyi">Mdm Donna Chang</td>
-		<td class="tg-ktyi">chang_sin_yi_donna@moe.edu.sg</td>
+    <td class="tg-ktyi">Mr Kartik</td>
+		<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Assistant Year Head 2</td>
@@ -190,12 +179,12 @@ variant: markdown
 	<td class="tg-ktyi">nur_ellyna_md_isa@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Character and Citizenship Education</td>
-    <td class="tg-ktyi">Mr Kartik Gayan Rajaram</td>
-	<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
+    <td class="tg-dgl5">Character and Citizenship Education (Acting)</td>
+    <td class="tg-ktyi">Mdm Nurul Amirah Bte Ahmad</td>
+		<td class="tg-ktyi">nurul_amirah_ahmad@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-dgl5">Student Management (Acting)</td>
+    <td class="tg-dgl5">Student Management</td>
     <td class="tg-ktyi">Mdm Rebecca Ng</td>
 	<td class="tg-ktyi">ng_sin_yin_rebecca@moe.edu.sg
 
@@ -261,5 +250,11 @@ variant: markdown
     <td class="tg-ktyi">Mrs Winnie Lim</td>
 		<td class="tg-ktyi">chia_winnie@moe.edu.sg</td>
   </tr>
+		 <tr>
+    <td class="tg-dgl5">Character and Citizenship Education</td>
+    <td class="tg-ktyi">Mdm Chitra Panneer Selvam</td>
+			<td class="tg-ktyi">chitra_panneer_selvam@moe.edu.sg</td>
+  </tr>
+
  
 </tbody></table>
