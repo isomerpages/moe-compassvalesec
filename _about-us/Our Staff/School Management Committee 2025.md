@@ -91,7 +91,7 @@ variant: markdown
   <tr>
     <td class="tg-dgl5">Year Head 1 (Acting)</td>
     <td class="tg-ktyi">Mdm Donna Chang </td>
-		<td class="tg-ktyi">ang_sing_yee@moe.edu.sg</td>
+		<td class="tg-ktyi">chang_sin_yi_donna@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Year Head 2</td>
