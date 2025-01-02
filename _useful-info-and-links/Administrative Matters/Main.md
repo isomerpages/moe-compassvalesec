@@ -11,6 +11,6 @@ CCA
 
 Miscellaneous
 
-* [2024 Group Personal Accident Insurance for Students (Updated  9 May 2024)](/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf)
+* [2025 Group Personal Accident Insurance for Students](/files/Product_Fact_Sheet__Year_2025_.pdf)
 * [Recommended Vehicle Drop-Off Point](/files/Recommended%20Drop%20Off%20Point.pdf)
 []()
