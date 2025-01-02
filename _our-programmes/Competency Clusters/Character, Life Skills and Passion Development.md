@@ -83,7 +83,7 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 
 <br>
 
-* #### [STAR](our-programmes/distinctive-programmes/star/)
+* #### [STAR](/star/)
 
 <br>
 
