@@ -68,7 +68,7 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">1-7</td>
     <td class="tg-dgl5">Mr Anthony Yap Chee Ping<br><i>yap_chee_ping@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mdm Nurul Amirah Bte Ahmad <br><i>nurul_amirah_ahmad@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Nurul Amirah <br><i>nurul_amirah_ahmad@moe.edu.sg</i></td>
 		<td class="tg-dgl5"></td>
   </tr>
   <tr>
