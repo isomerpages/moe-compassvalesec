@@ -89,12 +89,17 @@ variant: markdown
   </tr>
  
   <tr>
-    <td class="tg-dgl5">Year Head 1 (Acting)</td>
+    <td class="tg-dgl5">Year Head (Lower Sec) (Acting)</td>
     <td class="tg-ktyi">Mdm Donna Chang </td>
 		<td class="tg-ktyi">chang_sin_yi_donna@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-dgl5">Year Head (Upper Sec) (Acting) </td>
+    <td class="tg-ktyi">Mr Kartik</td>
+		<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
+  </tr>
   <tr>
-    <td class="tg-dgl5">Year Head 2</td>
+    <td class="tg-dgl5">Year Head 2 </td>
     <td class="tg-ktyi">Mdm Edwina Cheng</td>
 		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
   </tr>
@@ -149,18 +154,13 @@ variant: markdown
 		<td class="tg-ktyi">wang_buay_san_ellen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Physical Education/CCA (Acting)</td>
+    <td class="tg-dgl5">Physical Education /CCA (Acting)</td>
     <td class="tg-ktyi">Mr Soh Meng Le </td>
 		<td class="tg-ktyi">soh_meng_le@moe.edu.sg</td>
   </tr>
   
   <tr>
-    <td class="tg-dgl5">Assistant Year Head 1</td>
-    <td class="tg-ktyi">Mr Kartik</td>
-		<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Assistant Year Head 2</td>
+    <td class="tg-dgl5">Assistant Year Head </td>
     <td class="tg-ktyi">Mdm Audrey Leong Meng Wai</td>
 		<td class="tg-ktyi">leong_meng_wai@moe.edu.sg</td>
   </tr>
@@ -180,7 +180,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-dgl5">Character and Citizenship Education (Acting)</td>
-    <td class="tg-ktyi">Mdm Nurul Amirah Bte Ahmad</td>
+    <td class="tg-ktyi">Mdm Nurul Amirah</td>
 		<td class="tg-ktyi">nurul_amirah_ahmad@moe.edu.sg</td>
   </tr>
 	<tr>
@@ -228,12 +228,7 @@ variant: markdown
     <td class="tg-ktyi">Mdm Wan Fazithahariani</td>
 		<td class="tg-ktyi">wan_fazithahariani_wan_a@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5"> Chinese Language</td>
-    <td class="tg-ktyi">Mrs Koh Li Li</td>
-	<td class="tg-ktyi">chin_li_li@moe.edu.sg</td>	
-  </tr>
- 
+
   <tr>
     <td class="tg-dgl5">Biology</td>
     <td class="tg-ktyi">Mdm Fazleen Mahmud</td>
