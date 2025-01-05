@@ -20,8 +20,8 @@ variant: markdown
  <tr>
     <th class="tg-s7g5">Class</th>
     <th class="tg-s7g5">Form Teacher</th>
-    <th class="tg-s7g5">Co-Form Teacher</th>
-    <th class="tg-s7g5">Co-Form Teacher</th>
+    <th class="tg-s7g5">Form Teacher</th>
+    <th class="tg-s7g5">Form Teacher</th>
 </tr>
 </thead>
 <tbody>
@@ -265,4 +265,4 @@ variant: markdown
 </tbody>
 </table>
 
-*updated 30 Dec 2024*
+*updated 5 Jan 2024*
