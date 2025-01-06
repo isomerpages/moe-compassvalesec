@@ -10,7 +10,7 @@ variant: markdown
 
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
 
-*   [Education and Career Guidance (ECG) microsite](https://sites.google.com/moe.edu.sg/education-career-guidance/home)  
+*   [Education and Career Guidance (ECG) microsite](https://sites.google.com/moe.edu.sg/cvss-ecg-site/home)  
     
 *   [MySkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [Library Catalogue](https://schoolibrary.moe.edu.sg/compassvalesec)  
