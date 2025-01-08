@@ -28,7 +28,7 @@ variant: markdown
 *   [Edusave Scheme](https://www.moe.gov.sg/financial-matters/edusave-account)
 *   [Haze](http://www.haze.gov.sg/)
 *   [MOE Website](http://www.moe.gov.sg/)
-*   [Education and Career Guidance (ECG) microsite](https://sites.google.com/moe.edu.sg/education-career-guidance/home)
+*   [Education and Career Guidance (ECG) microsite](https://sites.google.com/moe.edu.sg/cvss-ecg-site/home)
 *   [2024 Sexuality Education](/our-programmes/student-development-programmes/sexuality-education-1/)
 
 ### For Teachers
