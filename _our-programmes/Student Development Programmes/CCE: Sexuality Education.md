@@ -109,7 +109,7 @@ which are of prime concern at this age.</p>
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period (e.g Term 1 Week 2)</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ etc.)</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
 <h4>2025 SEXUALITY EDUCATION LESSONS IN CCE</h4>
-<h3>SECONDARY 2</h3>
+<h3><strong>SECONDARY 2</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -267,7 +267,7 @@ and characteristics as a male or female •understand what sexual orientation
 entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ both offline and online</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
-<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE </h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE</h4>
 <h3>SECONDARY 3</h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -440,7 +440,7 @@ and act in alignment with our beliefs</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
 <p></p>
-<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE </h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE</h4>
 <h3>SECONDARY 4</h3>
 <p></p>
 <table style="minWidth: 125px">
