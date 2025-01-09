@@ -314,7 +314,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -376,7 +376,7 @@ healthy dating relationships involve and know that readiness is important
 when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -404,7 +404,7 @@ normal and one can recover from the experience</p>
 family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +431,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -488,14 +488,14 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>• understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations</p>
-<p>• Know that imposing gender stereotypes on oneself and others can limit
+<p>• know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -514,13 +514,14 @@ school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Know there are healthy ways of coping with broken relationships, and
-family and friends are important pillars of support •Recognise emotions
+<p>• know there are healthy ways of coping with broken relationships, and
+family and friends are important pillars of support •recognise emotions
 caused by traumatic situations, e.g. bullying, abuse and dating violence,
-and understand the physiological and psychological, social impact on victims•Understand
-that we need moral courage and wisdom to recognise and end relationships
-that are unhealthy and cause harm to our mental and emotional well-being</p>
-<p>• Understand the importance of ensuring that non-verbal messages match
+and understand the physiological and psychological, social impact on victims
+•understand that we need moral courage and wisdom to recognise and end
+relationships that are unhealthy and cause harm to our mental and emotional
+well-being</p>
+<p>•understand the importance of ensuring that non-verbal messages match
 with verbal ones, when communicating personal and emotional boundaries
 in a relationship</p>
 </td>
@@ -543,12 +544,12 @@ to marriage is understanding the other person’s perspective and effectively
 communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Know that long-term romantic relationships leading to marriage involve
+<p>• know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions</p>
-<p>• Know that marriage entails a union between a man and a woman based on
+<p>• know that marriage entails a union between a man and a woman based on
 love, trust, commitment, and requires mutual effort</p>
-<p>• Understand that conflicts are normal in any relationship, including
+<p>• understand that conflicts are normal in any relationship, including
 marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 </td>
@@ -569,17 +570,21 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Understand that we strengthen our character when we commit to sound
+<p>• understand that we strengthen our character when we commit to sound
 values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
+</div>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE </h4>
 <h3>SECONDARY 5</h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -630,7 +635,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
