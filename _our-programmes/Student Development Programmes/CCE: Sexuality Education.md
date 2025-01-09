@@ -584,7 +584,7 @@ and act in alignment with our beliefs</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
-<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE </h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE</h4>
 <h3>SECONDARY 5</h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -655,7 +655,8 @@ are empowered to make wise, informed and sensible decisions.</p>
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.
+Abstinence and upholding family values are the key messages.</p>
+<p>
 <br><strong>At Compassvale Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
 </p>
 </li>
@@ -680,7 +681,7 @@ Abstinence and upholding family values are the key messages.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:
@@ -690,7 +691,7 @@ and consistent condom use).
 <br>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -702,33 +703,26 @@ and consistent condom use).
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>INFORMATION FOR PARENTS</h3>
-<ol start="10">
-<li>
-<p>Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons </strong>need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://form.gov.sg/659b7dbab1d298001203a885" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 31/01/2024.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://form.gov.sg/659baa80fec9850012c2802f" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 31/01/2024.</p>
-</li>
-<li>
-<p>Parents can contact the school at 6881 5047 for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
-</li>
-</ol>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="https://form.gov.sg/677c7158747434c040b95578" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 31/01/2025.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="https://form.gov.sg/677c7409c6c73c07107795e8" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 31/01/2025.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6881
+5047 for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
 <p></p>
