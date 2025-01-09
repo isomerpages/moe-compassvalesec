@@ -82,7 +82,7 @@ which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
-<h4> 2025 Sexuality Education Lessons in CCE</h4>
+<h4>2025 Sexuality Education Lessons in CCE</h4>
 <h3><strong>Secondary 1</strong></h3>
 <p></p>
 <table style="minWidth: 125px">
@@ -206,7 +206,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<h4>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</h4>
+<h4>2025 SEXUALITY EDUCATION LESSONS IN CCE</h4>
 <h3>SECONDARY 2</h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -316,7 +316,7 @@ both offline and online</p>
 </tbody>
 </table>
 <h4>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</h4>
-<h3>SECONDARY 3</h3>
+<h3>SECONDARY 2</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
