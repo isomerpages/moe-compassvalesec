@@ -84,7 +84,7 @@ sections:
       title: 2024 GCE O Levels Results Release Briefing
       id: infopic
       button: Download here
-      url: /
+      url: /files/2024 O Level Matters/2024_O_level__ecg_admin_.pdf
       image: /images/Students_pledge.jpg
       alt: Image alt text
 ---
