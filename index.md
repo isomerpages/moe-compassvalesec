@@ -80,4 +80,11 @@ sections:
       alt: Kayaking
       subtitle: Announcement
       description: Click to view slides with more information.
+  - infopic:
+      title: 2024 GCE O Levels Results Release Briefing
+      id: infopic
+      button: Download here
+      url: /
+      image: /images/Students_pledge.jpg
+      alt: Image alt text
 ---
