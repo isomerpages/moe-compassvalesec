@@ -87,5 +87,5 @@ sections:
       image: /images/2023 PE/Kayaking_experience.png
       alt: Kayaking
       subtitle: Announcement
-      description: Click to view slides with more information.
+      description: Click to download slides
 ---
