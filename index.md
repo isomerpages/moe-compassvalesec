@@ -85,6 +85,6 @@ sections:
       id: infopic
       button: Download here
       url: /files/2024 O Level Matters/2024_O_level__ecg_admin_.pdf
-      image: /images/Students_pledge.jpg
+      image: /images/Screenshot_2025_01_14_at_1_28_50_PM.png
       alt: Image alt text
 ---
