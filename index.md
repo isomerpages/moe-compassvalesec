@@ -25,12 +25,13 @@ sections:
       alt: Image alt text
       subtitle: WELCOME!
   - infopic:
-      title: 2024 GCE O Levels Results Release Briefing
+      title: "Release of 2024 GCE O-Level Results: Briefing Slides"
       id: infopic
       button: Download here
       url: /files/2024 O Level Matters/2024_O_level__ecg_admin_.pdf
       image: /images/Screenshot_2025_01_14_at_1_28_50_PM.png
       alt: Image alt text
+      subtitle: Announcement
   - infopic:
       title: 2025 Semester 1 Timetables
       id: infopic
@@ -81,7 +82,7 @@ sections:
   - infopic:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
-      button: Presentation SLides
+      button: Presentation Slides
       url: /moe-obs-challenge-programme-briefing/
       image: /images/2023 PE/Kayaking_experience.png
       alt: Kayaking
