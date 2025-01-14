@@ -83,7 +83,7 @@ sections:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
       button: Presentation Slides
-      url: /moe-obs-challenge-programme-briefing/
+      url: /files/Homepage/Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
       image: /images/2023 PE/Kayaking_experience.png
       alt: Kayaking
       subtitle: Announcement
