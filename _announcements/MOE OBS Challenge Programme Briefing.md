@@ -1,7 +1,7 @@
 ---
 title: MOE OBS Challenge Programme Briefing
 permalink: /moe-obs-challenge-programme-briefing/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <ul data-tight="true" class="tight">

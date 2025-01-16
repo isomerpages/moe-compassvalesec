@@ -27,8 +27,8 @@ sections:
   - infopic:
       title: "Release of 2024 GCE O-Level Results: Briefing Slides"
       id: infopic
-      button: Download here
-      url: /files/2024 O Level Matters/2024_O_level__ecg_admin_.pdf
+      button: Click to download slides
+      url: /announcements/
       image: /images/Screenshot_2025_01_14_at_1_28_50_PM.png
       alt: Image alt text
       subtitle: Announcement
@@ -83,9 +83,9 @@ sections:
       title: MOE-OBS Challenge Programme Briefing
       id: infopic
       button: Presentation Slides
-      url: /moe-obs-challenge-programme-briefing/
+      url: /files/Homepage/Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
       image: /images/2023 PE/Kayaking_experience.png
       alt: Kayaking
       subtitle: Announcement
-      description: Click to view slides with more information.
+      description: Click to download slides
 ---
