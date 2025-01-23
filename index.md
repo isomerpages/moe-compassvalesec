@@ -62,7 +62,7 @@ sections:
       subtitle: Achievement
       id: infopic
       button: View more on Instagram
-      url: /2024-semester-2-timetables/
+      url: https://www.instagram.com/reel/C_GY4JTib6m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       image: /images/Landing Page/Group_Photo_with_trainers.png
       alt: Image alt text
       description: 3 North Stars showcased their speaking and debate skills and
@@ -79,13 +79,4 @@ sections:
       url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
       image: /images/DSA 2024/floorball b girls .jpg
-  - infopic:
-      title: MOE-OBS Challenge Programme Briefing
-      id: infopic
-      button: Presentation Slides
-      url: /files/Homepage/Parents_Briefing_Slides__2025_MOC___CVSS_.pdf
-      image: /images/2023 PE/Kayaking_experience.png
-      alt: Kayaking
-      subtitle: Announcement
-      description: Click to download slides
 ---
