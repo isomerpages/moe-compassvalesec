@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h3>2025</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal_Message_image.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Principal_Message_image.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal_Message_image2.jpg">
 </div>
@@ -20,8 +21,8 @@ school.&nbsp; We continue to build on the strengths developed and sharpened
 over the past two years, to design excellent learning experiences and growth
 opportunities for all our students. All learning in the school is organised
 into <a href="https://www.compassvalesec.moe.edu.sg/our-programmes/the-compassvale-experience/" rel="noopener noreferrer nofollow" target="_blank">Six Integrated Competencies and Development Clusters</a> to
-ensure a close knit of the disciplines; students also gain knowledge, competencies
-and skillsets for world-ready relevance through our <a href="https://www.compassvalesec.moe.edu.sg/our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/" rel="noopener noreferrer nofollow" target="_blank">Enhanced ALP ACES (Aeronautics, Coding, Engineering)</a>,
+ensure a close interweaving of the disciplines; students also gain knowledge,
+competencies and skillsets for world-ready relevance through our <a href="https://www.compassvalesec.moe.edu.sg/our-programmes/distinctive-programmes/aeronautics-applied-learning-programme-alp/" rel="noopener noreferrer nofollow" target="_blank">Enhanced ALP ACES (Aeronautics, Coding, Engineering)</a>,
 <a href="https://www.compassvalesec.moe.edu.sg/our-programmes/distinctive-programmes/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">sustainability-focused LLP – Green Compass Programme</a>, <a href="https://www.compassvalesec.moe.edu.sg/our-programmes/distinctive-programmes/digital-media-literacy/" rel="noopener noreferrer nofollow" target="_blank">Digital Media Literacies</a>,
 and <a href="https://for.edu.sg/perspectives" rel="noopener noreferrer nofollow" target="_blank">Perspectives Overseas Learning Experiences</a>.
 This total learning experience ensures all our students are agile and nimble,
