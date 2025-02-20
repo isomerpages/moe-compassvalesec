@@ -58,14 +58,10 @@ will Learn, Grow and Lead, to realise their star within.&nbsp; To find
 out more and have a glimpse into the CVSS experience, visit our social
 media pages: <a href="https://www.instagram.com/compassvalesecsch" rel="noopener noreferrer nofollow" target="_blank">Instagram (Compassvalesecsch)</a> or
 <a href="https://www.facebook.com/cvssfacebook/" rel="noopener noreferrer nofollow" target="_blank">FaceBook (cvssfacebook)</a>.</p>
-<p>&nbsp;</p>
 <p><strong>In partnership with you,</strong>
-</p>
-<p><strong>Chua Tung Kian</strong>
-</p>
-<p><strong>Principal</strong>
-</p>
-<p><strong>Compassvale Secondary School</strong>
+<br><strong>Chua Tung Kian</strong>
+<br><strong>Principal</strong>
+<br><strong>Compassvale Secondary School</strong>
 </p>
 <p><em><sub>^ Did you know that 2025 is a perfect square, 45 x 45?&nbsp; Which also means that it can be prime factorised into 3 x 3 x 3 x 3 x 5 x 5, because it is (5 x 9) x (5 x 9) or (5 x 3 x 3) x (5 x 3 x 3)!&nbsp; Join us to learn the different school subjects in ways that make learning relevant and future-oriented!</sub></em>
 </p>
