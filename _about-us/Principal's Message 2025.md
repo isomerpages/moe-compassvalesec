@@ -67,6 +67,6 @@ media pages: <a href="https://www.instagram.com/compassvalesecsch" rel="noopener
 </p>
 <p><strong>Compassvale Secondary School</strong>
 </p>
-<p><em><sub>^ Did you know that 2025 is a perfect square, 45 x 45?&nbsp; Which also means that can be prime factorised into 3 x 3 x 3 x 3 x 5 x 5, because it is (5 x 9) x (5 x 9) or (5 x 3 x 3) x (5 x 3 x 3)!&nbsp; Join us to learn the different school subjects in ways that make learning relevant and future-oriented!</sub></em>
+<p><em><sub>^ Did you know that 2025 is a perfect square, 45 x 45?&nbsp; Which also means that it can be prime factorised into 3 x 3 x 3 x 3 x 5 x 5, because it is (5 x 9) x (5 x 9) or (5 x 3 x 3) x (5 x 3 x 3)!&nbsp; Join us to learn the different school subjects in ways that make learning relevant and future-oriented!</sub></em>
 </p>
 <p></p>
