@@ -17,14 +17,6 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: Information for 2025 Secondary 1 Students
-      id: infopic
-      button: Click to know more
-      url: /useful-info-and-links/announcements/cvssinfofor2025sec1students/
-      image: /images/Landing Page/overview - morning assembly.jpeg
-      alt: Image alt text
-      subtitle: WELCOME!
-  - infopic:
       title: "Release of 2024 GCE O-Level Results: Briefing Slides"
       id: infopic
       button: Click to download slides
@@ -58,11 +50,11 @@ sections:
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
   - infopic:
-      title: Asia Pacific Debate Competition 2024
+      title: CCA Open House 2025
       subtitle: Achievement
       id: infopic
       button: View more on Instagram
-      url: https://www.instagram.com/reel/C_GY4JTib6m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      url: https://www.instagram.com/p/DEwiZkfxGzk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       image: /images/Landing Page/Group_Photo_with_trainers.png
       alt: Image alt text
       description: 3 North Stars showcased their speaking and debate skills and
@@ -79,4 +71,14 @@ sections:
       url: https://www.instagram.com/p/C6fXr1mx6O-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
       image: /images/DSA 2024/floorball b girls .jpg
+  - infopic:
+      title: CVSS 25th Anniversary Launch
+      subtitle: Celebration
+      id: infopic
+      description: On 8 Jan, CVSS proudly launched its 25th anniversary celebrations
+        with a dazzling ‘CVSS 25’ light-up ceremony, and a stunning ‘CVSS 25’
+        formation.
+      button: Read more on instagram
+      url: https://www.instagram.com/p/DEj1SjbTjqU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      alt: Image alt text
 ---
