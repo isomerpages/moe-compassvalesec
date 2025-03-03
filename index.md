@@ -17,28 +17,27 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: "Release of 2024 GCE O-Level Results: Briefing Slides"
+      title: CVSS 25th Anniversary Launch
+      subtitle: Celebration
       id: infopic
-      button: Click to download slides
-      url: /announcements/
-      image: /images/Screenshot_2025_01_14_at_1_28_50_PM.png
+      description: On 8 Jan, CVSS proudly launched its 25th anniversary celebrations
+        with a light-up ceremony, and staff & students coming together for a
+        ‘CVSS 25’ formation!
+      button: Read more on instagram
+      url: https://www.instagram.com/p/DEj1SjbTjqU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
-      subtitle: Announcement
+      image: /images/Landing Page/formation2.jpg
   - infopic:
-      title: 2025 Semester 1 Timetables
+      title: CCA Open House 2025
+      subtitle: Highlight
       id: infopic
-      button: Click here to access them
-      url: /announcements/
-      image: /images/Untitled_design__2_.png
+      button: View more on Instagram
+      url: https://www.instagram.com/p/DEwiZkfxGzk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      image: /images/Landing Page/Group_Photo_with_trainers.png
       alt: Image alt text
-      subtitle: Announcement
-  - infopic:
-      title: 2025 Booklist & Uniform Order Form
-      id: infopic
-      button: Click to download form
-      image: /images/School_books2.jpg
-      url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
-      alt: Books
+      description: 3 North Stars showcased their speaking and debate skills and
+        emerged as Champions in the Rookie Under 16 category! Watch a special
+        video sharing by them on IG.
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
@@ -50,16 +49,15 @@ sections:
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
   - infopic:
-      title: CCA Open House 2025
-      subtitle: Achievement
+      title: Singapore Sports Council Awardess 2024
+      subtitle: Add an image and text
       id: infopic
-      button: View more on Instagram
-      url: https://www.instagram.com/p/DEwiZkfxGzk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-      image: /images/Landing Page/Group_Photo_with_trainers.png
+      description: Congratulations Quek Wei Lok (5N1) & our ‘B’ Div Girls Floorball
+        Team for attaining the prestigious Colours Award for their outstanding
+        performance at NSG 2024.
+      button: Read more on Instagram
+      url: https://www.instagram.com/p/DA8UvcczOri/?img_index=1
       alt: Image alt text
-      description: 3 North Stars showcased their speaking and debate skills and
-        emerged as Champions in the Rookie Under 16 category! Watch a special
-        video sharing by them on IG.
   - infopic:
       title: Top 4 Placing in National School Games ('B' Div Floorball)
       subtitle: Achievement
@@ -72,13 +70,11 @@ sections:
       alt: Image alt text
       image: /images/DSA 2024/floorball b girls .jpg
   - infopic:
-      title: CVSS 25th Anniversary Launch
-      subtitle: Celebration
+      title: 2025 Semester 1 Timetables
       id: infopic
-      description: On 8 Jan, CVSS proudly launched its 25th anniversary celebrations
-        with a dazzling ‘CVSS 25’ light-up ceremony, and a stunning ‘CVSS 25’
-        formation.
-      button: Read more on instagram
-      url: https://www.instagram.com/p/DEj1SjbTjqU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+      button: Click here to access them
+      url: /announcements/
+      image: /images/Untitled_design__2_.png
       alt: Image alt text
+      subtitle: Announcement
 ---
