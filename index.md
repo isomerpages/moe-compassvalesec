@@ -40,7 +40,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Singapore Sports Council Awardess 2024
-      subtitle: Add an image and text
+      subtitle: Achievement
       id: infopic
       description: Congratulations Quek Wei Lok (5N1) & our ‘B’ Div Girls Floorball
         Team for attaining the prestigious Colours Award for their outstanding
