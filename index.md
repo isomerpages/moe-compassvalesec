@@ -26,7 +26,7 @@ sections:
       button: Read more on instagram
       url: https://www.instagram.com/p/DEj1SjbTjqU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
-      image: /images/Landing Page/formation2.jpg
+      image: /images/Landing Page/Unity_Formation___students_looking_up_5.png
   - infopic:
       title: Refreshed Learning Spaces @ CVSS
       subtitle: Announcement
