@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/website banner_updated_april2023.gif
+      background: /images/AA_Banner_preview.png
       url: /contact-us/
       key_highlights:
         - title: Announcements
