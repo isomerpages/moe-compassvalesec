@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/website banner_updated_april2023.gif
+      background: /images/AA_Banner_preview.png
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -26,7 +26,7 @@ sections:
       button: Read more on instagram
       url: https://www.instagram.com/p/DEj1SjbTjqU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
       alt: Image alt text
-      image: /images/Landing Page/formation2.jpg
+      image: /images/Landing Page/Unity_Formation___students_looking_up_5.png
   - infopic:
       title: Refreshed Learning Spaces @ CVSS
       subtitle: Announcement
