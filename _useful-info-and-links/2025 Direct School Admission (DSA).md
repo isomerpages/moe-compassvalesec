@@ -130,6 +130,54 @@ d.	All applicants will be informed of the application outcome via email between 
 
 e.	The school’s decision is final and there will be no appeal process.
 
+#### KEY DATES
+
+
+
+
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
+
+
+<table>
+  <tbody><tr>
+    <td>Application Period</td>
+    <td><b>7 May 2025, 11am to 3 June 2025, 3pm</b></td>
+  </tr>
+  <tr>
+    <td>Notification of Shortlisted Applicants</td>  
+    <td>By <b>11 July 2025</b></td>      
+  </tr>  
+  <tr>
+    <td>Selection of Shortlisted Applicants</td>
+    <td><b>14 July 2025 to 15 August 2025</b></td>
+  </tr>
+  <tr>
+  <td>Notification of Application Outcomes</td>
+    <td><b>25 August 2025</b> to <b>4 September 2025</b></td>
+  </tr>
+</tbody></table>
+
+
+
+
+#### ESSENTIAL INFORMATION
+
+1.	Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec[www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
+
+2.	Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+3.	Students who are successfully admitted to the school via DSA are required to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
+
+4.	For any queries, please contact the following school personnel in charge:
+DSA-Sec Coordinator: Mdm Yeo Hui Lee, Administration Manager
+Tel: 6881 5047
+Email: cvss@moe.edu.sg (Indicate the subject: “Direct School Admission” in your email)
 
 
 
