@@ -20,6 +20,7 @@ We offer DSA-SEC via 2 routes: STEM (Aeronautics, Environmental Science, Robotic
 ##### 1.	STEM: AERONAUTICS 
 		
 The school's Applied Learning Programme in Aeronautics, Coding, Engineering and Sustainability (ACES) allows students to learn flight science and develop complementary competencies like coding and engineering. This is done through formal curriculum lessons, local and overseas learning experiences, hands-on projects, and participation in national-level competitions. Students can choose from the Aeronautics Club, Robotics Club, and Environmental Science Club to further their interests.
+<img width="200" src="/images/2025%20DSA/1.png">
 
 ![](/images/2025%20DSA/1.png)
 Prize winners in the Singapore Amazing Flying Machines Competition 2025
@@ -178,5 +179,3 @@ table, th, td {
 DSA-Sec Coordinator: Mdm Yeo Hui Lee, Administration Manager
 Tel: 6881 5047
 Email: cvss@moe.edu.sg (Indicate the subject: “Direct School Admission” in your email)
-
-
