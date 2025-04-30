@@ -180,5 +180,3 @@ Tel: 6881 5047
 Email: cvss@moe.edu.sg (Indicate the subject: “Direct School Admission” in your email)
 
 
-
-
