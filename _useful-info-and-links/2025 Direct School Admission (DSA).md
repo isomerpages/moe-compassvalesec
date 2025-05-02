@@ -45,9 +45,9 @@ for example using sensors to monitor water quality, which allow them to
 apply STEM concepts. These projects encourage critical thinking, data analysis,
 and creative problem-solving, making STEM more engaging and relevant to
 everyday life.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
-</div>
+
+<img style="width: 50%;float:left;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Girl Student holding plant" src="/images/2025%20DSA/Picture4.jpg">
