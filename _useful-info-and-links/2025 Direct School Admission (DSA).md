@@ -25,8 +25,8 @@ Club to further their interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Prize Winners" src="/images/2025 DSA/1.png">
 </div>
-<p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2025!</sup>
-</p>
+<center><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2025!</sup>
+</center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
 </div>
