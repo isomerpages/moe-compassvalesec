@@ -245,9 +245,9 @@ between<strong> 25 August 2025</strong> and <strong>4 September 2025.</strong>
 <ol>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025</strong>,
-11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website
-– www.moe.gov.sg/dsa-sec <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
+<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 </li>
 <li>
 <p>Parents and students are encouraged to choose schools wisely based on
