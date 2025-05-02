@@ -30,8 +30,8 @@ Club to further their interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;float:left" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
 </div>
-<p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition 2025</sup>
-</p>
+<sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition 2025</sup>
+
 <p>Members of the Aeronautics Club further their interests in the theories
 of flight and drone technology. Students engage in hands-on aeromodelling,
 drone operations and flight simulation lessons to better understand how
