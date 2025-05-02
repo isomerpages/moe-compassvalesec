@@ -82,8 +82,7 @@ future careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture10.jpg">
 </div>
-<p><sup>Students from Robotics club preparing for the First Lego League competition 2025</sup>
-</p>
+<center><sup>Students from Robotics club preparing for the First Lego League competition 2025</sup></center>
 <p>Join us today and grow your strengths and talents in STEM!</p>
 <h3><strong>SELECTION CRITERIA</strong></h3>
 <p>a. Evidence of talent, passion and self-initiative to learn in the area
