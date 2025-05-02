@@ -135,44 +135,40 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 Netball and Softball, join us!</b></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture11.png">
+	<center><sup>Badminton B Boys in action during the National School Games</sup></center>
 </div>
-<p><sup>Badminton B Boys in action during the National School Games</sup>
-</p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture12.png">
+	<center><sup>Badminton B Girls in action during the National School Games</sup>
+</center>
 </div>
-<p><sup>Badminton B Girls in action during the National School Games</sup>
-</p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture13.png">
 </div>
-<p><sup>Floorball B Girls winning the 2024 National School Games - 3rd Runner-up</sup>
-</p>
+<center><sup>Floorball B Girls winning the 2024 National School Games - 3rd Runner-up</sup>
+</center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture14.png">
 </div>
-<p><sup>Floorball C Div Captain Yann Herng taking a faceoff during friendly match with Pasir Ris Secondary School</sup>
-</p>
+<center><sup>Floorball C Div Captain Yann Herng taking a faceoff during friendly match with Pasir Ris Secondary School</sup></center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
 </div>
-<p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
-</p>
+<center><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup></center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture16.jpg">
 </div>
-<p><sup>Netball team reflection session with coach after every match</sup>
-</p>
+<center><sup>Netball team reflection session with coach after every match</sup></center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture17.png">
 </div>
-<p><sup>Softball C Div in action in Singapore Recreation Club Softball Championship 2025</sup>
-</p>
+<center><sup>Softball C Div in action in Singapore Recreation Club Softball Championship 2025</sup></center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture18.png">
 </div>
-<p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
-</p>
+<center><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup></center>
 <h3><strong>SELECTION CRITERIA</strong></h3>
 <p>a. Evidence of talent and passion to develop in competitive Badminton/Floorball/Netball/Softball.</p>
 <p>b. Participation/achievements in Badminton/Floorball/Netball/Softball
