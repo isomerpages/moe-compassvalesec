@@ -10,9 +10,9 @@ variant: markdown
 One 2026 through the 2025 Direct School Admission – Secondary (DSA-Sec)
 Exercise under the school’s distinctive programmes and talent areas.</p>
 <h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
-<p>We offer DSA-SEC via 2 routes: STEM (Aeronautics, Environmental Science,
-Robotics) and Sports &amp; Games (Floorball - Boys and Girls, Netball,
-Softball - Boys, Badminton - Boys and Girls).</p>
+<p>We offer DSA-SEC via 2 routes:<b> STEM (Aeronautics, Environmental Science,
+	Robotics)</b> and <b>Sports &amp; Games (Floorball - Boys and Girls, Netball,
+	Softball - Boys, Badminton - Boys and Girls).</b></p>
 <h3><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
 <h3><strong>1. STEM: AERONAUTICS</strong></h3>
 <p>The school's Applied Learning Programme in Aeronautics, Coding, Engineering
