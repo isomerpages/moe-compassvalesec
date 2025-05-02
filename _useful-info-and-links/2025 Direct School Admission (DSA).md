@@ -10,11 +10,11 @@ variant: markdown
 One 2026 through the 2025 Direct School Admission – Secondary (DSA-Sec)
 Exercise under the school’s distinctive programmes and talent areas.</p>
 <h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
-<p>We offer DSA-SEC via 2 routes:<b> STEM (Aeronautics, Environmental Science,
-	Robotics)</b> and <b>Sports &amp; Games (Floorball - Boys and Girls, Netball,
-	Softball - Boys, Badminton - Boys and Girls).</b></p>
+<p>We offer DSA-SEC via 2 routes:<b> <a href="#STEM">STEM (Aeronautics, Environmental Science,
+	Robotics)</a></b>and <a href="#SPORTS"><b>Sports &amp; Games (Floorball - Boys and Girls, Netball,
+	Softball - Boys, Badminton - Boys and Girls).</b></a></p>
 <h3><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
-<h3><strong>1. STEM: AERONAUTICS</strong></h3>
+<h3 id="STEM"><strong>1. STEM: AERONAUTICS</strong></h3>
 <p>The school's Applied Learning Programme in Aeronautics, Coding, Engineering
 and Sustainability (ACES) allows students to learn flight science and develop
 complementary competencies like coding and engineering. This is done through
@@ -113,7 +113,7 @@ pictures/videos of themselves during competitions etc.).</p>
 between <strong>25 August 2025 </strong>and <strong>4 September 2025.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h3><strong><u>SPORTS AND GAMES</u></strong></h3>
+<h3 id="STEM"><strong><u>SPORTS AND GAMES</u></strong></h3>
 <h3><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h3>
 <p>We nurture student-athletes with positive character traits, sportsmanship,
 and excellence in sports. We have a team of highly committed teachers and
