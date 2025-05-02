@@ -4,17 +4,17 @@ permalink: /useful-info-and-links/2025-direct-school-admission-dsa-1/
 description: ""
 variant: tiptap
 ---
-<h3>COMPASSVALE SECONDARY SCHOOL</h3>
-<h3>2025 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</h3>
+<h3><strong>COMPASSVALE SECONDARY SCHOOL</strong></h3>
+<h3><strong>2025 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</strong></h3>
 <p>We invite interested Primary 6 pupils to apply to join CVSS in Secondary
 One 2026 through the 2025 Direct School Admission – Secondary (DSA-Sec)
 Exercise under the school’s distinctive programmes and talent areas.</p>
-<h3>DSA-SEC TALENTS OFFERED</h3>
+<h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
 <p>We offer DSA-SEC via 2 routes: STEM (Aeronautics, Environmental Science,
 Robotics) and Sports &amp; Games (Floorball - Boys and Girls, Netball,
 Softball - Boys, Badminton - Boys and Girls).</p>
-<h4>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</h4>
-<h5><strong>1. STEM: AERONAUTICS</strong></h5>
+<h3><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
+<h3><strong>1. STEM: AERONAUTICS</strong></h3>
 <p>The school's Applied Learning Programme in Aeronautics, Coding, Engineering
 and Sustainability (ACES) allows students to learn flight science and develop
 complementary competencies like coding and engineering. This is done through
@@ -37,7 +37,7 @@ of flight and drone technology. Students engage in hands-on aeromodelling,
 drone operations and flight simulation lessons to better understand how
 aircrafts work and deeply appreciate the development of drone technology
 in recent years. <strong>Our students do very well in national competitions like the Singapore Amazing Flying Machine Competition (SAFMC) and the Drone Odyssey Challenge</strong>.</p>
-<h5><strong>2. STEM: ENVIRONMENTAL SCIENCE</strong></h5>
+<h3><strong>2. STEM: ENVIRONMENTAL SCIENCE</strong></h3>
 <p>Members of the Environmental Science Club explore how science, technology,
 engineering, and mathematics can be used to solve real-world problems related
 to the environment and sustainability. Members conduct investigations,
@@ -59,7 +59,7 @@ everyday life.</p>
 </div>
 <p><sup>Students from Environmental Science Club participating in Every Singaporean A Naturalist Programme 2025</sup>
 </p>
-<h5><strong>3. STEM: ROBOTICS</strong></h5>
+<h3><strong>3. STEM: ROBOTICS</strong></h3>
 <p>Robotics Club members develop critical, adaptive and inventive thinking
 skills as they tinker with robot sets and creatively code their creations
 to complete the tasks assigned. Students participate in various robotics
@@ -86,7 +86,7 @@ future careers.</p>
 <p><sup>Students from Robotics club preparing for the First Lego League competition 2025</sup>
 </p>
 <p>Join us today and grow your strengths and talents in STEM!</p>
-<h5><strong>SELECTION CRITERIA</strong></h5>
+<h3><strong>SELECTION CRITERIA</strong></h3>
 <p>a. Evidence of talent, passion and self-initiative to learn in the area
 of STEM (Aeronautics, Environmental Science, Robotics).</p>
 <p>b. Participation/achievements in STEM school programmes/events or external
@@ -100,7 +100,7 @@ clubs etc.).</p>
 <p>e. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<h5><strong>SELECTION PROCESS</strong></h5>
+<h3><strong>SELECTION PROCESS</strong></h3>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
 <p>b. Shortlisted applicants will be notified via email by<strong> 11 July 2025 </strong>and
@@ -115,8 +115,8 @@ pictures/videos of themselves during competitions etc.).</p>
 between <strong>25 August 2025 </strong>and <strong>4 September 2025.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h5><strong>SPORTS AND GAMES</strong></h5>
-<h6><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h6>
+<h3><strong><u>SPORTS AND GAMES</u></strong></h3>
+<h3><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h3>
 <p>We nurture student-athletes with positive character traits, sportsmanship,
 and excellence in sports. We have a team of highly committed teachers and
 instructors who support each student’s growth and development.</p>
@@ -173,14 +173,14 @@ Netball and Softball, join us!</p>
 </div>
 <p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
 </p>
-<h5><strong>SELECTION CRITERIA</strong></h5>
+<h3><strong>SELECTION CRITERIA</strong></h3>
 <p>a. Evidence of talent and passion to develop in competitive Badminton/Floorball/Netball/Softball.</p>
 <p>b. Participation/achievements in Badminton/Floorball/Netball/Softball
 competitions at school, National School Games or National Sports Association.</p>
 <p>c. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<h5><strong>SELECTION PROCESS</strong></h5>
+<h3><strong>SELECTION PROCESS</strong></h3>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
 <p>b. Shortlisted applicants will be notified via email by <strong>11 July 2025 </strong>and
@@ -196,7 +196,7 @@ during competitions etc.).</p>
 between<strong> 25 August 2025</strong> and <strong>4 September 2025.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h4><strong>KEY DATES</strong></h4>
+<h3><strong>KEY DATES</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -241,7 +241,7 @@ between<strong> 25 August 2025</strong> and <strong>4 September 2025.</strong>
 </tr>
 </tbody>
 </table>
-<h4><strong>ESSENTIAL INFORMATION</strong></h4>
+<h3><strong>ESSENTIAL INFORMATION</strong></h3>
 <ol>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
