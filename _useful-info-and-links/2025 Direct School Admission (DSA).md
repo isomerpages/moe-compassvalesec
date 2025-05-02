@@ -28,9 +28,9 @@ Club to further their interests.</p>
 <p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2025!</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;float:left;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
 </div>
-<sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition 2025</sup>
+<center><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition 2025</sup></center>
 
 <p>Members of the Aeronautics Club further their interests in the theories
 of flight and drone technology. Students engage in hands-on aeromodelling,
@@ -45,20 +45,20 @@ for example using sensors to monitor water quality, which allow them to
 apply STEM concepts. These projects encourage critical thinking, data analysis,
 and creative problem-solving, making STEM more engaging and relevant to
 everyday life.</p>
-
-<img style="width: 50%;align:left;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg"></div>
 
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Girl Student holding plant" src="/images/2025%20DSA/Picture4.jpg">
 </div>
-<p><sup>Students from Environmental Science Club monitoring the water quality of our hydroponics system</sup>
-</p>
+<center><sup>Students from Environmental Science Club monitoring the water quality of our hydroponics system</sup></center>
+
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture7.jpg">
 </div>
-<p><sup>Students from Environmental Science Club participating in Every Singaporean A Naturalist Programme 2025</sup>
-</p>
+<center><sup>Students from Environmental Science Club participating in Every Singaporean A Naturalist Programme 2025</sup>
+</center>
 <h3><strong>3. STEM: ROBOTICS</strong></h3>
 <p>Robotics Club members develop critical, adaptive and inventive thinking
 skills as they tinker with robot sets and creatively code their creations
