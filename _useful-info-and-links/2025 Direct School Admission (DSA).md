@@ -113,7 +113,7 @@ pictures/videos of themselves during competitions etc.).</p>
 between <strong>25 August 2025 </strong>and <strong>4 September 2025.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h3 id="STEM"><strong><u>SPORTS AND GAMES</u></strong></h3>
+<h3 id="SPORTS"><strong><u>SPORTS AND GAMES</u></strong></h3>
 <h3><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h3>
 <p>We nurture student-athletes with positive character traits, sportsmanship,
 and excellence in sports. We have a team of highly committed teachers and
