@@ -4,7 +4,7 @@ permalink: /useful-info-and-links/2025-direct-school-admission-dsa-1/
 description: ""
 variant: tiptap
 ---
-<h2>COMPASSVALE SECONDARY SCHOOL</h2>
+<h3>COMPASSVALE SECONDARY SCHOOL</h3>
 <h3>2025 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</h3>
 <p>We invite interested Primary 6 pupils to apply to join CVSS in Secondary
 One 2026 through the 2025 Direct School Admission – Secondary (DSA-Sec)
