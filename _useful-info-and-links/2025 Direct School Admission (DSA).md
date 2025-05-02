@@ -14,7 +14,7 @@ Exercise under the school’s distinctive programmes and talent areas.</p>
 Robotics) and Sports &amp; Games (Floorball - Boys and Girls, Netball,
 Softball - Boys, Badminton - Boys and Girls).</p>
 <h4>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</h4>
-<h5>1. STEM: AERONAUTICS</h5>
+<h5><strong>1. STEM: AERONAUTICS</strong></h5>
 <p>The school's Applied Learning Programme in Aeronautics, Coding, Engineering
 and Sustainability (ACES) allows students to learn flight science and develop
 complementary competencies like coding and engineering. This is done through
@@ -36,7 +36,7 @@ of flight and drone technology. Students engage in hands-on aeromodelling,
 drone operations and flight simulation lessons to better understand how
 aircrafts work and deeply appreciate the development of drone technology
 in recent years. <strong>Our students do very well in national competitions like the Singapore Amazing Flying Machine Competition (SAFMC) and the Drone Odyssey Challenge</strong>.</p>
-<h5>2. STEM: ENVIRONMENTAL SCIENCE</h5>
+<h5><strong>2. STEM: ENVIRONMENTAL SCIENCE</strong></h5>
 <p>Members of the Environmental Science Club explore how science, technology,
 engineering, and mathematics can be used to solve real-world problems related
 to the environment and sustainability. Members conduct investigations,
@@ -59,7 +59,7 @@ of our hydroponics system</p>
 </div>
 <p>Students from Environmental Science Club participating in Every Singaporean
 A Naturalist Programme 2025</p>
-<h5>3. STEM: ROBOTICS</h5>
+<h5><strong>3. STEM: ROBOTICS</strong></h5>
 <p>Robotics Club members develop critical, adaptive and inventive thinking
 skills as they tinker with robot sets and creatively code their creations
 to complete the tasks assigned. Students participate in various robotics
@@ -74,9 +74,11 @@ future careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture8.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture9.jpg">
 </div>
+<p></p>
 <p>Prize winners in the First Lego League Competition 2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture10.jpg">
@@ -84,7 +86,7 @@ future careers.</p>
 <p>Students from Robotics club preparing for the First Lego League competition
 2025</p>
 <p>Join us today and grow your strengths and talents in STEM!</p>
-<h5>SELECTION CRITERIA</h5>
+<h5><strong>SELECTION CRITERIA</strong></h5>
 <p>a. Evidence of talent, passion and self-initiative to learn in the area
 of STEM (Aeronautics, Environmental Science, Robotics).</p>
 <p>b. Participation/achievements in STEM school programmes/events or external
@@ -98,7 +100,7 @@ clubs etc.).</p>
 <p>e. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<h5>SELECTION PROCESS</h5>
+<h5><strong>SELECTION PROCESS</strong></h5>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
 <p>b. Shortlisted applicants will be notified via email by 11 July 2025 and
@@ -111,8 +113,8 @@ pictures/videos of themselves during competitions etc.).</p>
 <p>d. All applicants will be informed of the application outcome via email
 between 25 August 2025 and 4 September 2025.</p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h5>SPORTS AND GAMES</h5>
-<h6>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</h6>
+<h5><strong>SPORTS AND GAMES</strong></h5>
+<h6><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h6>
 <p>We nurture student-athletes with positive character traits, sportsmanship,
 and excellence in sports. We have a team of highly committed teachers and
 instructors who support each student’s growth and development.</p>
@@ -164,14 +166,14 @@ with Pasir Ris Secondary School</p>
 </div>
 <p>Softball C Div Singapore Recreation Club Softball Championship 2025 -
 3rd Position</p>
-<h5>SELECTION CRITERIA</h5>
+<h5><strong>SELECTION CRITERIA</strong></h5>
 <p>a. Evidence of talent and passion to develop in competitive Badminton/Floorball/Netball/Softball.</p>
 <p>b. Participation/achievements in Badminton/Floorball/Netball/Softball
 competitions at school, National School Games or National Sports Association.</p>
 <p>c. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<h5>SELECTION PROCESS</h5>
+<h5><strong>SELECTION PROCESS</strong></h5>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
 <p>b. Shortlisted applicants will be notified via email by 11 July 2025 and
@@ -185,7 +187,7 @@ during competitions etc.).</p>
 <p>d. All applicants will be informed of the application outcome via email
 between 25 August 2025 and 4 September 2025.</p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h4>KEY DATES</h4>
+<h4><strong>KEY DATES</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -230,7 +232,7 @@ between 25 August 2025 and 4 September 2025.</p>
 </tr>
 </tbody>
 </table>
-<h4>ESSENTIAL INFORMATION</h4>
+<h4><strong>ESSENTIAL INFORMATION</strong></h4>
 <ol>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
