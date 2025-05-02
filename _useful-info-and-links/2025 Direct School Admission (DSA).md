@@ -46,7 +46,7 @@ apply STEM concepts. These projects encourage critical thinking, data analysis,
 and creative problem-solving, making STEM more engaging and relevant to
 everyday life.</p>
 
-<img style="width: 50%;float:left;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
+<img style="width: 50%;align:left;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
 
 <p></p>
 <div class="isomer-image-wrapper">
