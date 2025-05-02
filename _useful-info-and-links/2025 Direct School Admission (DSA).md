@@ -78,8 +78,7 @@ future careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture9.jpg">
 </div>
-<p><sup>Prize winners in the First Lego League Competition 2025</sup>
-</p>
+<center><sup>Prize winners in the First Lego League Competition 2025</sup></center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture10.jpg">
 </div>
