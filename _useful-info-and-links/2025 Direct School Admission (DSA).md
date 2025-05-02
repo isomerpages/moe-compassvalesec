@@ -131,8 +131,8 @@ receive top-level training and guidance, and develop their leadership potential
 within their chosen sport.</p>
 <p>In school, our newly developed CCA nutrition curriculum is designed to
 help prepare our student-athletes physically and mentally for competitions.</p>
-<p>If you want to grow your strengths and talents in Badminton, Floorball,
-Netball and Softball, join us!</p>
+<p><b>If you want to grow your strengths and talents in Badminton, Floorball,
+Netball and Softball, join us!</b></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture11.png">
 </div>
