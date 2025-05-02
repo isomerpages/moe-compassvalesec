@@ -25,12 +25,13 @@ Club to further their interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Prize Winners" src="/images/2025 DSA/1.png">
 </div>
-<p>Prize winners in the Singapore Amazing Flying Machines Competition 2025!</p>
+<p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2025!</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
 </div>
-<p>Students from Aeronautics Club preparing for the Singapore Amazing Flying
-Machines Competition 2025</p>
+<p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition 2025</sup>
+</p>
 <p>Members of the Aeronautics Club further their interests in the theories
 of flight and drone technology. Students engage in hands-on aeromodelling,
 drone operations and flight simulation lessons to better understand how
@@ -51,14 +52,13 @@ everyday life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Girl Student holding plant" src="/images/2025%20DSA/Picture4.jpg">
 </div>
-<p></p>
-<p>Students from Environmental Science Club monitoring the water quality
-of our hydroponics system</p>
+<p><sup>Students from Environmental Science Club monitoring the water quality of our hydroponics system</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture7.jpg">
 </div>
-<p>Students from Environmental Science Club participating in Every Singaporean
-A Naturalist Programme 2025</p>
+<p><sup>Students from Environmental Science Club participating in Every Singaporean A Naturalist Programme 2025</sup>
+</p>
 <h5><strong>3. STEM: ROBOTICS</strong></h5>
 <p>Robotics Club members develop critical, adaptive and inventive thinking
 skills as they tinker with robot sets and creatively code their creations
@@ -78,13 +78,13 @@ future careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture9.jpg">
 </div>
-<p></p>
-<p>Prize winners in the First Lego League Competition 2025</p>
+<p><sup>Prize winners in the First Lego League Competition 2025</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture10.jpg">
 </div>
-<p>Students from Robotics club preparing for the First Lego League competition
-2025</p>
+<p><sup>Students from Robotics club preparing for the First Lego League competition 2025</sup>
+</p>
 <p>Join us today and grow your strengths and talents in STEM!</p>
 <h5><strong>SELECTION CRITERIA</strong></h5>
 <p>a. Evidence of talent, passion and self-initiative to learn in the area
@@ -103,15 +103,17 @@ assessing the potential of the applicants.</p>
 <h5><strong>SELECTION PROCESS</strong></h5>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
-<p>b. Shortlisted applicants will be notified via email by 11 July 2025 and
+<p>b. Shortlisted applicants will be notified via email by<strong> 11 July 2025 </strong>and
 will be required to sit for an assessment on STEM and attend an interview
-in Compassvale Secondary School between 14 July 2025 and 15 August 2025.</p>
+in Compassvale Secondary School between <strong>14 July 2025</strong> and <strong>15 August 2025.</strong>
+</p>
 <p>c. Applicants may showcase any evidence of their pursuit of passion in
 STEM (Aeronautics, Environment Science, Robotics) that may support their
 application during the interview (e.g. artefacts of drones/gliders/machines,
 pictures/videos of themselves during competitions etc.).</p>
 <p>d. All applicants will be informed of the application outcome via email
-between 25 August 2025 and 4 September 2025.</p>
+between <strong>25 August 2025 </strong>and <strong>4 September 2025.</strong>
+</p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
 <h5><strong>SPORTS AND GAMES</strong></h5>
 <h6><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h6>
@@ -134,38 +136,43 @@ Netball and Softball, join us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture11.png">
 </div>
-<p>Badminton B Boys in action during the National School Games</p>
+<p><sup>Badminton B Boys in action during the National School Games</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture12.png">
 </div>
-<p>Badminton B Girls in action during the National School Games</p>
+<p><sup>Badminton B Girls in action during the National School Games</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture13.png">
 </div>
-<p>Floorball B Girls winning the 2024 National School Games - 3rd Runner-up</p>
+<p><sup>Floorball B Girls winning the 2024 National School Games - 3rd Runner-up</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture14.png">
 </div>
-<p>Floorball C Div Captain Yann Herng taking a faceoff during friendly match
-with Pasir Ris Secondary School</p>
+<p><sup>Floorball C Div Captain Yann Herng taking a faceoff during friendly match with Pasir Ris Secondary School</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
 </div>
-<p>Netball Netops Carnival 2025 U17 Team - 3rd Place</p>
+<p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture16.jpg">
 </div>
-<p>Netball team reflection session with coach after every match</p>
+<p><sup>Netball team reflection session with coach after every match</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture17.png">
 </div>
-<p>Softball C Div in action in Singapore Recreation Club Softball Championship
-2025</p>
+<p><sup>Softball C Div in action in Singapore Recreation Club Softball Championship 2025</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture18.png">
 </div>
-<p>Softball C Div Singapore Recreation Club Softball Championship 2025 -
-3rd Position</p>
+<p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
+</p>
 <h5><strong>SELECTION CRITERIA</strong></h5>
 <p>a. Evidence of talent and passion to develop in competitive Badminton/Floorball/Netball/Softball.</p>
 <p>b. Participation/achievements in Badminton/Floorball/Netball/Softball
@@ -176,16 +183,18 @@ assessing the potential of the applicants.</p>
 <h5><strong>SELECTION PROCESS</strong></h5>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
-<p>b. Shortlisted applicants will be notified via email by 11 July 2025 and
+<p>b. Shortlisted applicants will be notified via email by <strong>11 July 2025 </strong>and
 will be required to perform skills-based tasks and attend an interview
-in Compassvale Secondary School between 14 July 2025 and 15 August 2025.</p>
+in Compassvale Secondary School between <strong>14 July 2025</strong> and <strong>15 August 2025.</strong>
+</p>
 <p>c. Applicants may showcase any evidence of their pursuit of passion in
 Badminton/Floorball/Netball/Softball that may support their application
 during the interview (e.g. Certificate of participation/ achievements in
 Badminton/Floorball/Netball/Softball competitions, pictures/videos of themselves
 during competitions etc.).</p>
 <p>d. All applicants will be informed of the application outcome via email
-between 25 August 2025 and 4 September 2025.</p>
+between<strong> 25 August 2025</strong> and <strong>4 September 2025.</strong>
+</p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
 <h4><strong>KEY DATES</strong></h4>
 <table style="minWidth: 50px">
@@ -236,9 +245,9 @@ between 25 August 2025 and 4 September 2025.</p>
 <ol>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
-<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from <strong>7 May 2025</strong>,
+11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website
+– www.moe.gov.sg/dsa-sec <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 </li>
 <li>
 <p>Parents and students are encouraged to choose schools wisely based on
