@@ -113,7 +113,7 @@ pictures/videos of themselves during competitions etc.).</p>
 between <strong>25 August 2025 </strong>and <strong>4 September 2025.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<center><b><a href="#TOP">Back to top</a></b></center>
+<center><b><a href="#K">Key dates and essential information</a></b></center>
 
 <h3 id="SPORTS"><strong><u>SPORTS AND GAMES</u></strong></h3>
 <h3><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h3>
@@ -192,7 +192,7 @@ during competitions etc.).</p>
 between<strong> 25 August 2025</strong> and <strong>4 September 2025.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h3><strong>KEY DATES</strong></h3>
+<h3 id="K"><strong>KEY DATES</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -264,6 +264,3 @@ in your email)</p>
 </li>
 </ol>
 <center><b><a href="#TOP">Back to top</a></b></center>
-
-
-
