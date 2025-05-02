@@ -22,7 +22,6 @@ formal curriculum lessons, local and overseas learning experiences, hands-on
 projects, and participation in national-level competitions. Students can
 choose from the Aeronautics Club, Robotics Club, and Environmental Science
 Club to further their interests.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Prize Winners" src="/images/2025 DSA/1.png">
 </div>
@@ -48,9 +47,11 @@ everyday life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Girl Student holding plant" src="/images/2025%20DSA/Picture4.jpg">
 </div>
+<p></p>
 <p>Students from Environmental Science Club monitoring the water quality
 of our hydroponics system</p>
 <div class="isomer-image-wrapper">
