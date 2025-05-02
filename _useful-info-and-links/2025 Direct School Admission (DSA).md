@@ -28,7 +28,7 @@ Club to further their interests.</p>
 <p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2025!</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
+<img style="width: 50%;float:left" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture2.jpg">
 </div>
 <p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition 2025</sup>
 </p>
