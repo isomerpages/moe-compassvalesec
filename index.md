@@ -22,7 +22,7 @@ sections:
       id: infopic
       description: The Semester 2 timetables may be viewed in the 'Announcements' section.
       button: Click to access Announcements
-      url: https://www.instagram.com/p/DA8UvcczOri/?img_index=1
+      url: https://compassvalesec.moe.edu.sg/announcements/
       alt: Image alt text
       image: /images/Landing Page/overview - morning assembly.jpeg
   - infopic:
