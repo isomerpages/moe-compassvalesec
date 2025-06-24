@@ -17,6 +17,15 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2025 Semester 2 Timetables
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      description: The Semester 2 timetables may be viewed in the 'Announcements' section.
+      button: Click to access Announcements
+      url: https://compassvalesec.moe.edu.sg/announcements/
+      alt: Image alt text
+      image: /images/Landing Page/overview - morning assembly.jpeg
+  - infopic:
       title: CVSS 25th Anniversary Launch
       subtitle: Celebration
       id: infopic
@@ -38,17 +47,6 @@ sections:
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
       alt: Image alt text
-  - infopic:
-      title: Singapore Sports Council Awardess 2024
-      subtitle: Achievement
-      id: infopic
-      description: Congratulations Quek Wei Lok (5N1) & our ‘B’ Div Girls Floorball
-        Team for attaining the prestigious Colours Award for their outstanding
-        performance at NSG 2024!
-      button: Read more on Instagram
-      url: https://www.instagram.com/p/DA8UvcczOri/?img_index=1
-      alt: Image alt text
-      image: /images/Landing Page/ssc_awards_2024.png
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
