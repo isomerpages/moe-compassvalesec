@@ -96,6 +96,7 @@ variant: markdown
     <td class="tg-9hzb">1-11</td>
 	<td class="tg-dgl5">Mr Chen Changjin Zac<br><i>chen_changjin@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mdm Ng Xiang Ming<br><i>ng_xiang_ming@moe.edu.sg </i> </td>
+				<td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2-1</td>
@@ -109,8 +110,7 @@ variant: markdown
 <br><i>yeo_seok_poh@moe.edu.sg </i></td>
        <td class="tg-dgl5">Ms Wang Xiaoya<br>
 				 <i>wang_xiaoya_a@moe.edu.sg </i>
-</td> 
-	<td class="tg-dgl5">Mdm Preeti Kulkarni<br><i>preeti_vikas_palkar@moe.edu.sg </i></td>
+</td><td class="tg-dgl5">Mdm Preeti Kulkarni<br><i>preeti_vikas_palkar@moe.edu.sg </i></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2-3</td>
@@ -169,8 +169,7 @@ variant: markdown
 <br><i>wang_tiancai_richmond@moe.edu.sg </i></td>
  <td class="tg-dgl5">Ms Nur Nasyrah Ahmad<br>
 <i>nur_nasyrah_ahmad@moe.edu.sg</i></td>
-
-	<td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)
+<td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)
 <br><i>lei_peishan@moe.edu.sg </i></td>
 </tr>
   <tr>
@@ -178,8 +177,7 @@ variant: markdown
 		    <td class="tg-dgl5">Mrs Viddyawati Gunalan
 <br><i>viddyawati_gunalan@moe.edu.sg </i></td>
 <td class="tg-dgl5"> Mr Fauwaz Nurhelmy Bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg </i></td>
-   
-    <td class="tg-dgl5"> </td>
+		<td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3-4</td>
@@ -200,7 +198,7 @@ variant: markdown
     <td class="tg-dgl5">Mdm Chew Biyu Mildred <br><i>chew_biyu_mildred@moe.edu.sg </i></td>
 		 <td class="tg-dgl5">Ms Ng Hwee Kiang<br>
 			 <i>ng_hwee_kianghuang_huijuan@moe.edu.sg</i>
-</td>
+</td><td class="tg-dgl5"></td>
 		
   </tr>
   <tr>
