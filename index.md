@@ -24,7 +24,7 @@ sections:
       button: Click to access Announcements
       url: https://compassvalesec.moe.edu.sg/announcements/
       alt: Image alt text
-      image: /images/Landing Page/overview - morning assembly.jpeg
+      image: /images/JF_03930.jpg
   - infopic:
       title: CVSS 25th Anniversary Launch
       subtitle: Celebration
