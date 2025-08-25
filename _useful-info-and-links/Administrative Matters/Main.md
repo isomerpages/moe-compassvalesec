@@ -7,7 +7,7 @@ variant: markdown
 ---
 CCA
 
-*  [CCA Schedule 2024](/files/CCA_Schedule_and_Venues__a_a_26Jun2024_.pdf) (correct as of 28 June 2024)
+* [CCA Schedule 2025](/files/2025_CCA_schedule___Venues___Schedule.pdf) (correct as of 21 August 2025)
 
 Miscellaneous
 
