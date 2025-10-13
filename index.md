@@ -21,7 +21,7 @@ sections:
       subtitle: Announcement
       id: infopic
       button: Click to know more
-      url: https://compassvalesec.moe.edu.sg/announcements/
+      url: https://compassvalesec.moe.edu.sg/cvss-open-house-2025/
       image: /images/Landing Page/2025_Open_House_Banner.jpg
       alt: Image alt text
   - infopic:
