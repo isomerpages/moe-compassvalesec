@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - CVSS OPEN HOUSE 2025.md
       - 2025 Booklist and Uniform Order Form Sec 1 to Sec 5 Levels.md
       - MOE OBS Challenge Programme Briefing.md
       - Release of GCE O Level Results 2023.md
