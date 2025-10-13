@@ -57,4 +57,8 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
 ---
