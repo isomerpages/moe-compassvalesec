@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: CVSS OPEN HOUSE 2025
+      subtitle: Announcement
+      id: infopic
+      button: Click to know more
+      url: https://compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/2025_Open_House_Banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Semester 2 Timetables
       subtitle: ANNOUNCEMENT
       id: infopic
@@ -57,8 +65,4 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/video_capture_2.jpg
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
 ---
