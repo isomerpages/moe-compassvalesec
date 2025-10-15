@@ -23,7 +23,7 @@ sections:
       description: Join us TODAY at this online event to gain exclusive insights on
         the Compassvale Experience through the eyes of our students! LIVE on
         CVSS Youtube.
-      button: Click to access CVSS Youtube channel
+      button: Click to access CVSS Youtube!
       url: https://for.edu.sg/cvssyoutube
       image: /images/actual_day_countdown_cvss_live_ig.jpg
       alt: Image alt text
