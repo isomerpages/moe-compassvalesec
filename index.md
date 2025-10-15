@@ -17,22 +17,37 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: CVSS LIVE!
+      subtitle: Announcement
+      id: infopic
+      description: Join us TODAY at this online event to gain exclusive insights on
+        the Compassvale Experience through the eyes of our students! LIVE on
+        CVSS Youtube.
+      button: Click to access CVSS Youtube channel
+      url: https://for.edu.sg/cvssyoutube
+      image: /images/actual_day_countdown_cvss_live_ig.jpg
+      alt: Image alt text
+  - infopic:
       title: CVSS OPEN HOUSE 2025
       subtitle: Announcement
       id: infopic
-      button: Click to know more
-      url: https://compassvalesec.moe.edu.sg/cvss-open-house-2025/
+      button: Visit us on IG!
+      url: https://www.instagram.com/compassvalesecsch?igsh=d2Jza3R0eGptOWVs&utm_source=qr
       image: /images/Landing Page/2025_Open_House_Banner.jpg
       alt: Image alt text
+      description: Visit our booths to learn about our distinctive programmes, and go
+        on a school tour to learn more about what makes CVSS a vibrant place to
+        Learn, Grow & Lead!
   - infopic:
-      title: 2025 Semester 2 Timetables
-      subtitle: ANNOUNCEMENT
+      title: Learn, Grow and Lead at Compassvale
+      subtitle: An invitation!
       id: infopic
-      description: The Semester 2 timetables may be viewed in the 'Announcements' section.
-      button: Click to access Announcements
-      url: https://compassvalesec.moe.edu.sg/announcements/
+      description: WATCH our newly released corporate video to learn more about The
+        Compassvale Experience at CVSS, where you'll Realise your Star Within.
+      button: Click to learn more
+      url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
-      image: /images/JF_03930.jpg
+      image: /images/Landing Page/video_capture_2.jpg
   - infopic:
       title: CVSS 25th Anniversary Launch
       subtitle: Celebration
@@ -55,14 +70,4 @@ sections:
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
       alt: Image alt text
-  - infopic:
-      title: Learn, Grow and Lead at Compassvale
-      subtitle: An invitation!
-      id: infopic
-      description: WATCH our newly released corporate video to learn more about The
-        Compassvale Experience at CVSS, where you'll Realise your Star Within.
-      button: Click to learn more
-      url: /our-programmes/the-compassvale-experience/
-      alt: Image alt text
-      image: /images/Landing Page/video_capture_2.jpg
 ---
