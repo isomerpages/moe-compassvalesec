@@ -31,7 +31,7 @@ sections:
       title: CVSS OPEN HOUSE 2025
       subtitle: Announcement
       id: infopic
-      button: Visit CVSS on IG!
+      button: Visit CVSS on Instagram!
       url: https://www.instagram.com/compassvalesecsch?igsh=d2Jza3R0eGptOWVs&utm_source=qr
       image: /images/Landing Page/2025_Open_House_Banner.jpg
       alt: Image alt text
