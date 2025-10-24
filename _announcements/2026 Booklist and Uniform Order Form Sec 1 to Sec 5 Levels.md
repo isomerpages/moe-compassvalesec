@@ -6,10 +6,6 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025 Booklist/Booklist___Uniform_Order.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
-</p>
-</li>
-<li>
 <p><a href="/files/2025 Booklist/CVSS_Sec_2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </li>
@@ -19,10 +15,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/2025 Booklist/CVSS_Sec_4_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Booklist/Sec_5_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
 </p>
 </li>
 <li>
