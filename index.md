@@ -33,6 +33,7 @@ sections:
       button: Click for more info
       url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
       image: /images/School_books2.jpg
+      alt: Booklist
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
