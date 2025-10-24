@@ -66,9 +66,4 @@ sections:
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
       alt: Image alt text
-  - infobar:
-      title: CVSS Youtube Channel
-      id: infobar
-      button: Visit our channel here
-      url: https://www.youtube.com/@CompassvaleSecSch
 ---
