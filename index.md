@@ -28,6 +28,12 @@ sections:
         on a school tour to learn more about what makes CVSS a vibrant place to
         Learn, Grow & Lead!
   - infopic:
+      title: 2026 CVSS BOOKLIST
+      id: infopic
+      button: Click for more info
+      url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
+      image: /images/School_books2.jpg
+  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
