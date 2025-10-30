@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Booklist/CVSS_Sec_4_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
+<p><a href="/files/2026 Booklist/Compassvale_Secondary_2026___Sec_4_Purple___uniform___info_Revised.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
 </p>
 </li>
 <li>
