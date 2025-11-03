@@ -17,17 +17,6 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: CVSS LIVE!
-      subtitle: Announcement
-      id: infopic
-      description: Join us TODAY at this online event to gain exclusive insights on
-        the Compassvale Experience through the eyes of our students! LIVE on
-        CVSS Youtube.
-      button: Click to access CVSS Youtube!
-      url: https://for.edu.sg/cvssyoutube
-      image: /images/actual_day_countdown_cvss_live_ig.jpg
-      alt: Image alt text
-  - infopic:
       title: CVSS OPEN HOUSE 2025
       subtitle: Announcement
       id: infopic
@@ -38,6 +27,13 @@ sections:
       description: Visit our booths to learn about our distinctive programmes, and go
         on a school tour to learn more about what makes CVSS a vibrant place to
         Learn, Grow & Lead!
+  - infopic:
+      title: 2026 CVSS BOOKLIST
+      id: infopic
+      button: Click for more info
+      url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
+      image: /images/School_books2.jpg
+      alt: Booklist
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
