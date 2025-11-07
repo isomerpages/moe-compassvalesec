@@ -16,7 +16,7 @@ The STEM x Sustainability programme at CVSS aims to develop in our students comp
 
 ![](/images/2023%20Competency%20Clusters/STEM/9.png) *Mathematics Department*
 
-![](/images/2023%20Competency%20Clusters/STEM/10.png) *Craft &amp; Technology Department*
+![Craft and Tech Department Photo](/images/2026%20Competency%20Clusters/TO_REPLACE__Craft___Technology_Department.jpg)*Craft &amp; Technology Department*
 
 
 <h3>Science</h3>
