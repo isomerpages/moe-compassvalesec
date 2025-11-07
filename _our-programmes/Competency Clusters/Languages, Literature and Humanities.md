@@ -63,17 +63,17 @@ table, th, td, tr {
     
 <li>Conversational Chinese and Malay (CCM) Programme</li></ul></td>
 		
-<td><ul><li>Humanities-Mathematics Challenge</li>
+<td><ul><li>Secondary 2 Battlefield Tour</li>
     
-<li>`In Conversation With’ - Dialogue session with invited speakers</li>
+<li>Secondary 1 Geographical Fieldwork Investigation at Singapore Botanic Gardens and Sungei Buloh Wetland Reserve</li>
     
-<li>Secondary 1 Learning Journey to Sungei Buloh</li>
+<li>Secondary 3 and 4 Geography Learning Journeys to URA</li>
     
-<li>Secondary 3 Geography Learning Journey to URA</li></ul>
+<li>Sec 4 and 5 Natural Hazard Crisis Management Workshop at the Science Centre</li></ul>
     	</td></tr>
 	<tr>
     <td>For selected groups of students:</td>
-		<td colspan="3"><ul><li>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.</li></ul>  </td>
+		<td colspan="3"><ul><li>Talent development through competitions</li></ul></td>
 	</tr>
 </tbody>
 </table>
@@ -118,20 +118,24 @@ table, th, td, tr {
 </td>
 		
 <td>
-<ol class="small"><li>6th National Text Recital Competition （全国课文朗诵比赛)
-<br>First Position and Gold Award in the Upper Secondary
-<br>Chinese Language ‘B’ / Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary- Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
+<ol class="small"><li>2025 Create Your Own Newspaper Competition 2025年全国中学编采比赛 (Upper Secondary) - Second Position &amp; Best Theme Award (2025)<br>
+<br>(Lower Secondary) - Third Position (2025)
+</li>
 
-<li>National Create Your Own Newspaper Competition （全国编采比赛）
-	<br>Upper Secondary: Second Position (2022), Third Position (2023)</li>
+<li>1st National Chinese Reading Competition for Primary and Secondary Schools - Top 10 winners (Kee Jun Yi Brayden) (2025)</li>
 
-<li> ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition 
-	<br>- 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards</li>
+<li>8th National Text Recital Competition - Chinese Language ‘B’, Basic Chinese, Chinese NA - Aw Yu Xuan, Ivy (3-1) (2025)
+</li>
 
-<li> ‘Pena Emasku’ 2023- Essay Writing Competition
-10th Position and 11 Gold Awards:</li>
+<li>Piala Cendekia Sahibba 2025 (National Malay Scrabble Competition 2025) - Third Position in Zonal
+</li>
 
-<li> N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</li></ol></td>
+	<li>Pertandingan Sahibba Zon Utara 2025 (North Zone Malay Scrabble Competition 2025) - Third Position
+</li>
+	
+<li>Peraduan Mengarang Pena Emasku 2025 (Writing Competition Pena Emasku 2025) - 4 Gold and 40 Silver</li>
+
+	</ol></td>
 	
 <td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
   
