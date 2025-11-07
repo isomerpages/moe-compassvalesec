@@ -91,7 +91,7 @@ table, th, td, tr {
     
   
 ### Highlights and Achievements
-<table style="width:100%">
+<table border="1" style="width:100%">
 <thead>
   <tr>
     <th class="tg-s7g5">EL &amp; Literature</th>
@@ -146,7 +146,12 @@ table, th, td, tr {
 <li> Istana Heritage Gallery Challenge: First Prize (2023)</li>
 	<li>Prove It! Challenge 2023: Champion: Silver (2 teams</li>
 
-<li> MOE History Challenge (2 Sec.3 students were selected for the History Talent Development Programme in 2023, 1 student in 2025). </li></ol></td></tr></tbody></table>
+<li> MOE History Challenge (2 Sec.3 students were selected for the History Talent Development Programme in 2023, 1 student in 2025). </li></ol></td></tr>
+
+<tr>
+<td colspan="3"><ul><li>World Scholars Cup (2023): 21 Team Gold Medals; 33 Individual Gold Medals; Top 5 Overall Team – Junior Division; Top 5 Overall Individual – Junior Division</li></ul></td></tr>
+
+</tbody></table>
 
 ![Compassvale winning team](/images/2023%20Competency%20Clusters/ChoralSpeaking.png)
 		
