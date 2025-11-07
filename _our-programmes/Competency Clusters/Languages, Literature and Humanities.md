@@ -133,21 +133,20 @@ table, th, td, tr {
 	<li>Pertandingan Sahibba Zon Utara 2025 (North Zone Malay Scrabble Competition 2025) - Third Position
 </li>
 	
-<li>Peraduan Mengarang Pena Emasku 2025 (Writing Competition Pena Emasku 2025) - 4 Gold and 40 Silver</li>
-
-	</ol></td>
+<li>Peraduan Mengarang Pena Emasku 2025 (Writing Competition Pena Emasku 2025) - 4 Gold and 40 Silver</li></ol></td>
 	
-<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
+<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Gold Award (2025), Silver Award (2021, 2022, 2023, 2024, 2025), Bronze Award (2024)</li>
   
 
-<li> NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
+<li>NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
   
 
 <li>SG75: Our Singapore (2nd prize in the Dynamic Presentation Category (animation &amp; video) (2021), Shortlisted (2022)</li>
 
-<li> Istana Heritage Gallery Challenge: First Prize</li>
+<li> Istana Heritage Gallery Challenge: First Prize (2023)</li>
+	<li>Prove It! Challenge 2023: Champion: Silver (2 teams</li>
 
-<li> Prove It! Challenge 2023: Champion: Silver (2 teams)</li></ol></td></tr></tbody></table>
+<li> MOE History Challenge (2 Sec.3 students were selected for the History Talent Development Programme in 2023, 1 student in 2025). </li></ol></td></tr></tbody></table>
 
 ![Compassvale winning team](/images/2023%20Competency%20Clusters/ChoralSpeaking.png)
 		
