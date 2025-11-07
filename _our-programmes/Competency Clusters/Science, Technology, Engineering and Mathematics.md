@@ -88,7 +88,7 @@ table, th, td, tr {
 
 <br>
 
-### Craft &amp; Technology; Nutrition &amp; Food Science
+### Craft &amp; Technology; 
 
 <table style="width:100%">
 
@@ -108,7 +108,7 @@ table, th, td, tr {
 <li>Applied Module for Secondary One (Common Curriculum)
 </li></ul></td>
 		
-<td><ul><li>Talent development through competitions (e.g. Tan Kah Kee Innovation Competition, Temasek Engineering Olympiad etc)</li>
+<td><ul><li>Talent development through competitions (Tan Kah Kee Young Inventors' Award, Temasek Engineering Olympiad etc)</li>
 <li>Learning journeys to deepen awareness of sustainability 
 </li></ul></td>
 	</tr>
