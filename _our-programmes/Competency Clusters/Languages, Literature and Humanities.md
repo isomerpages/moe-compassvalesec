@@ -86,6 +86,13 @@ table, th, td, tr {
 		
 ![Kee Jun Yi Brayden Top 10 winners in the 1st National Chinese Reading Competition](/images/2026%20Competency%20Clusters/MTL/3.jpg)
 <p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
+
+
+![ National Scrabble Competition](/images/2026%20Competency%20Clusters/MTL/4.jpg)
+<p class="small">Achieving 3rd place in the Zonal round of the National Scrabble Competition, the Upper Secondary team displayed remarkable word mastery, strategic thinking and collaboration in their pursuit of excellence.</p>
+		
+![3rd place in the North Zone Competition](/images/2026%20Competency%20Clusters/MTL/5.jpg)
+<p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
    
   
 ### Highlights and Achievements
@@ -151,12 +158,11 @@ table, th, td, tr {
 
 </tbody></table>
 
-![Compassvale winning team](/images/2023%20Competency%20Clusters/ChoralSpeaking.png)
+![ National Scrabble Competition](/images/2026%20Competency%20Clusters/MTL/4.jpg)
+<p class="small">Achieving 3rd place in the Zonal round of the National Scrabble Competition, the Upper Secondary team displayed remarkable word mastery, strategic thinking and collaboration in their pursuit of excellence.</p>
 		
-<p class="small"> Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the 2021 Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.</p>
-		
-![Our North Star](/images/2023%20Competency%20Clusters/studentWinner.jpg)
-<p class="small">Our North Star, Muhammad Syazwan Bin Mansor (3E4) has done us proud in demonstrating his writing talents by clinching the Tenth Position and Gold award in ‘Pena Emasku’ competition. </p>
+![3rd place in the North Zone Competition](/images/2026%20Competency%20Clusters/MTL/5.jpg)
+<p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
 
 		
 ![Winning Team](/images/2023%20Competency%20Clusters/prove%20it!%20contest.jpg) 
