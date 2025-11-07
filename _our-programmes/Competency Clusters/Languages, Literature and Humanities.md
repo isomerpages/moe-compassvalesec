@@ -78,17 +78,15 @@ table, th, td, tr {
 </tbody>
 </table>
 
-![](/images/2023%20Competency%20Clusters/speaker.jpg)
-<p class="small">Assembly talk by Singaporean author Cassandra Chiu</p>
-    
-		
-![Huayi Chinese Festival](/images/2023%20Competency%20Clusters/huayichinesefestival.jpg)	
+![Interviewing Mr Aloysius Gan Kai Hong](/images/2026%20Competency%20Clusters/MTL/1.jpg)
+<p class="small">Our Lower Secondary team had the privilege of interviewing Mr Aloysius Gan Kai Hong, a dedicated para-athlete who plays Boccia and clinched the Bronze Award.</p>
 
+![Students interviewed the dedicated nurses from the Palliative Ward](/images/2026%20Competency%20Clusters/MTL/2.jpg)
+<p class="small">Our Upper Secondary students interviewed the dedicated nurses from the Palliative Ward of Alexandra Hospital to learn how they provide care and comfort to terminally ill patients. Their meaningful project earned them the Second Position and the Best Theme Award.</p>
+		
+![Kee Jun Yi Brayden Top 10 winners in the 1st National Chinese Reading Competition](/images/2026%20Competency%20Clusters/MTL/3.jpg)
 <p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
- 
- ![Learning Journey](/images/2023%20Competency%20Clusters/LJtoSungei_Buloh.jpg)
-<p class="small">Sec 1 Students on a Learning Journey to Sungei Buloh Wetland Reserve</p>
-    
+   
   
 ### Highlights and Achievements
 <table border="1" style="width:100%">
