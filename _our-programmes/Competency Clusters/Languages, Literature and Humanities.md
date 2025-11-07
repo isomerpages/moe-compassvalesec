@@ -158,12 +158,18 @@ table, th, td, tr {
 
 </tbody></table>
 
-![ National Scrabble Competition](/images/2026%20Competency%20Clusters/MTL/4.jpg)
-<p class="small">Achieving 3rd place in the Zonal round of the National Scrabble Competition, the Upper Secondary team displayed remarkable word mastery, strategic thinking and collaboration in their pursuit of excellence.</p>
+![At Changi Chapel and Museum](/images/2026%20Competency%20Clusters/Humanities/At_Changi_Chapel_and_Museum.jpg)
+<p class="small">Secondary 2 students exploring wartime artefacts at Changi Museum and Chapel to understand Singapore’s history during World War II.</p>
 		
-![3rd place in the North Zone Competition](/images/2026%20Competency%20Clusters/MTL/5.jpg)
+![ City Trail at the Singapore National Gallery](/images/2026%20Competency%20Clusters/Humanities/City_Trail_National_Gallery_Former_City_Hall.jpg)
 <p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
 
-		
-![Winning Team](/images/2023%20Competency%20Clusters/prove%20it!%20contest.jpg) 
-<p class="small">Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB</p>
+
+![A snapshot from Fort Siloso](/images/2026%20Competency%20Clusters/Humanities/Fort_Siloso.jpg)
+<p class="small">A snapshot from Fort Siloso – Secondary 2 students exploring Singapore’s only preserved coastal fort and its historic artillery guns.</p>
+
+![Remembrance ceremony at Kranji War Memorial.](/images/2026%20Competency%20Clusters/Humanities/Memorial_Ceremony.jpg)
+<p class="small">Commemorating courage and sacrifice — students participate in a remembrance ceremony at Kranji War Memorial.</p>
+
+![Winners of the Historical Scene Investigation](/images/2026%20Competency%20Clusters/Humanities/HSI_Silver_and_Bronze_Award_Presentation_2024.jpg)
+<p class="small">Congratulations to our Secondary 2 winners of the Historical Scene Investigation (H.S.I) Challenge 2024! This annual competition gives students a fun and meaningful platform to showcase their historical inquiry and research skills.</p>
