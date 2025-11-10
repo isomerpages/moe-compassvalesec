@@ -30,20 +30,27 @@ societies and economies. Perspectives culminates in a capstone presentation,
 where students synthesise their learning and reflect on the diverse perspectives
 they have gained. These experiences hone important 21st century competencies
 such as problem-solving, cultural awareness, and communication skills.</p>
-<p>For more information on Perspectives, please visit our webpage at <a href="http://for.edu.sg/cvssole" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/cvssole</a>
+<p>For more information on Perspectives, please visit our webpage at <a href="http://for.edu.sg/cvssole" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/perspectives</a>
 </p>
 <p><u>Perspectives SG-Indonesia Overseas Learning Experiences</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/Teacher_with_student.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026%20Distinctive%20Programmes/OLE/Photo_1.jpg">
 </div>
-<p><em><sub>As part of the Indonesia OLE Pre-Trip Learning Modules, our North Stars had a hands-on lesson on Plate Tectonics and Volcanicity! Through interactive activities, they explored the forces that shape our Earth.</sub></em>
+<p><em><sub>As part of the Indonesia OLE Pre-Trip Learning Modules, our North Stars had a hands-on lesson on Plate Tectonics and Volcanicity! They also had the opportunity to visit the ‘Earth Alive!’ Exhibition at the Singapore Science Centre. Through interactive activities, they explored the forces that shape our Earth.</sub></em>
 </p>
 <p></p>
+
+
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Photo" src="/images/2023 Distinctive Programmes/OLE/Bukit_timah_group_photo.jpg">
-</div>
-<p><em><sub>As part of the Indonesia OLE Pre-Trip Learning Modules, our North Stars engaged in a hike from MacRitchie Reservoir to Bukit Timah Hill to prepare them for their hiking expedition in Bandung. This local trek helped build their stamina, resilience, and team spirit as they geared up for the upcoming adventure.</sub></em>
+<img style="width: 100%" height="auto" width="100%" alt="Group Photo" src="/images/2026 Distinctive Programmes/Photo_2.jpg"></div>
+<br>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group Photo" src="/images/2026 Distinctive Programmes/OLE/Photo_3.jpg"></div>
+	
+
+<p><em><sub>Our students also visited the Urban Redevelopment Authority (URA) to deepen their understanding of Singapore’s planning priorities and to contrast that with urban development in Indonesia.</sub></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -81,6 +88,11 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </p>
 <p></p>
 <p><u>Perspectives SG-China Overseas Learning Experiences</u>
+	
+	![](/images/2026%20Distinctive%20Programmes/OLE/Photo_4.jpg)
+	
+	![](/images/2026%20Distinctive%20Programmes/OLE/Photo_5.jpg)
+	
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/North_Stars_Apple_Singapore.jpg">
