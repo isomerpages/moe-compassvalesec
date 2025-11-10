@@ -5,7 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Competency Clusters
 ---
-Character, Life Skills and Passion Development at CVSS seeks to instil in our North Stars core values that will serve as the foundation for their character and provide a compass for their conduct. Programmes aim to grow the social and emotional competencies, digital media literacy and 21st century competencies of our North Stars to be able to manage themselves and their relationships more effectively. Believing that our students have the innate potential to shine, the school provides ample opportunities to help students uncover and nurture their personal values, interests, passions, skills and strengths to work towards their aspirations. This will prepare them to be ready for the world beyond their secondary school years. 
+At Compassvale Secondary School, Character, Life Skills and Passion Development seeks to instil in our North Stars strong core values that serve as the foundation of their character and the compass for their conduct. <br>
+Our programmes are designed to develop our students’ social and emotional competencies, digital media literacy and 21st Century Competencies (including Emerging 21st Century Competencies), enabling them to manage themselves effectively and build positive relationships with others. <br>
+Believing that every North Star has the innate potential to shine, we provide authentic and diverse opportunities for students to uncover and nurture their values, interests, passions, skills and strengths. Through these experiences, they grow in confidence and purpose, equipping them to thrive and make a positive impact in the world beyond their secondary school years. 
+
+
 
 ## Key Programmes
 
@@ -50,8 +54,8 @@ line-height: 1.0; font-style:italic; font-size: 16px;
   
 <td><ul><li>NE Commemorative Days</li></ul></td>  
   
-<td><ul><li>Post-Sec Educational Institutes (PSEIs) showcase</li>  
-<li>Industry showcase</li></ul>  
+<td><ul><li>Post-Secondary Education Institutions  (PSEIs) showcase</li>  
+</ul>  
 </td></tr>  
 <tr>  
 <td>For selected groups of students:</td>  
@@ -62,11 +66,18 @@ line-height: 1.0; font-style:italic; font-size: 16px;
 <li>Sec 3 NRIC Ceremony</li>
 <li>Sec 2 CCE Cohort Learning Journey</li></ul></td>
 
-<td><ul><li>Sec 2: ECG Human Library with Alumni</li>
-<li>Sec 3: ECG Human Library with School Advisory Committee (SAC) members</li>
+<td><ul><li>Sec 1 &amp; 3: ECG Human Library with SAC, PSG and Alumni
+</li>
+<li>Sec 2: Seniors Sharing on Upper Sec Subjects</li>
 <li>Sec 3: Applied Learning Modules (ApLM)</li>
-<li>Upper Sec: Learning Journeys to PSEIs</li>
-<li>Upper Sec: Workshops / talks on education pathways and admission exercises</li></ul></td>	</tr>  </tbody></table>
+<li>Sec 2-3: Experience ITE Programme</li>
+<li>Sec 3: Applied Learning Modules (ApLM)</li>
+	<li>Sec 3-5: Industry Visits
+</li>
+<li>Sec 3: Work Attachments and Workshops
+</li>
+	<li>ECG Counsellor Engagements</li>
+	</ul></td>	</tr>  </tbody></table>
 
 ![Students exploring the pilot controls inside a plane's cockpit](/images/Character%20Life%20Skills/IMG_0484.jpg)
 <i>Students exploring the pilot controls inside a plane's cockpit at the Aviation Research Centre, Temasek Polytechnic.</i>
