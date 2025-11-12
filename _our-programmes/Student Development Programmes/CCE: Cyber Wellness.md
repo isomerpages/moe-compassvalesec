@@ -3,6 +3,7 @@ title: "CCE: Cyber Wellness"
 permalink: /our-programmes/student-development-programmes/cyber-wellness/
 description: ""
 third_nav_title: Student Development Programmes
+variant: markdown
 ---
 ### Cyber Wellness Programme
 
@@ -19,7 +20,7 @@ The school adopts a three-pronged approach to Cyber Wellness Education:
     * Upper secondary students participate in student advocacy for cyber wellness (such as by creating podcasts, videos or digital toolkits to raise awareness about anti-cyberbullying). Students also attend talks about the opportunities and dangers in the cyber world.
     
 
-*   Professional development for Teachers - CVSS teachers attended training to effectively deliver the CCE2021 curriculum since last year. This year, teachers can pick up facilitation skills for upper secondary students on discussion of contemporary issues like cyber wellness. They will also develop blended learning modules on the topic of cyber wellness.
+*   Professional development for Teachers - CVSS teachers attended training to effectively deliver the CCE2021 curriculum. This year, teachers can pick up facilitation skills for upper secondary students on discussion of contemporary issues like cyber wellness. They will also develop blended learning modules on the topic of cyber wellness.
     
 
 *   Partnership with Parents - Parents of CVSS students are encouraged to work in close partnership with the school on cyber wellness education. For example, parents can benefit from resources on cyber wellness. CVSS will also work alongside parents to resolve any issues involving their children.
@@ -43,10 +44,11 @@ The Secondary 4/5 students participated in the Cyber Smart Programme that focuse
 
 **Cyber Wellness Ambassadors Programme**
 
-In addition, a group of cyber wellness ambassadors participated in the National Challenge Advocacy Competition where participants were tasked to create a toolkit and outreach project to raise awareness of and guard against fake news.  Our North Stars, have achieved the Silver Award among 105 participating primary and secondary schools.**
+In addition, a group of cyber wellness ambassadors take the lead in promoting positive Cyber Wellness practices across the school. They participated in the Prove It! Contest, focusing on educating their peers about guarding against online scams.
+
+The Cyber Wellness ambassadors have also participated in the Singapore Schools Cyber Wellness Challenge since 2023. They mentored a team of primary school participants to create media content illustrating key messages, effectively conveying them to the target audience.
+
 ![](/images/Cyber%20Wellness%20Quest.jpg)
+
 ![](/images/Cyber%20Wellness%20Quest%202.jpg)
 *Cyber Wellness Quest*
-
-![](/images/2023%20Student%20Dev%20Prog/Cyber%20Wellness/ncac%20competition.jpg)
-*National Challenge Advocacy Competition 2022*
