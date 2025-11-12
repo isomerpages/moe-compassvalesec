@@ -17,3 +17,14 @@ The STAR Programme is designed to grow their sphere of influence, with the follo
 
 **Sec 4/5:** Emerge Stronger to be Ready For the World – North Stars will learn how they can make a positive difference to others by preparing themselves for post-secondary education and by gaining awareness of the developments in Singapore and beyond.
 
+![Sec 1 Outdoor Adventure Learning](/images/2026%20Distinctive%20Programmes/Star/camp_4.jpg)
+Sec 1 Outdoor Adventure Learning
+
+![Sec 2 Team Bonding Games](/images/2026%20Distinctive%20Programmes/Star/20250102_091914.jpg)
+Sec 2 Team Bonding Games
+
+![Sec 3 Applied Learning Module](/images/2026%20Distinctive%20Programmes/Star/IMG_20250527_WA0021.jpg)
+Sec 3 Applied Learning Module
+
+![Sec 4/5 Interview Skills Workshop](/images/2026%20Distinctive%20Programmes/Star/Sec_4.jpg)
+Sec 4/5 Interview Skills Workshop
