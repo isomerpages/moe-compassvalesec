@@ -7,17 +7,21 @@ variant: markdown
 ---
 # **Education and Career Guidance (ECG) Programme**
 
-In the ECG programme, a whole-school approach is adopted to equip our students with the knowledge, values and skills on education and career matters so that they can make informed decisions as they work towards their aspirations. Through customised student development experiences, students are engaged to discover their interests and passions, gain greater awareness and understanding of tertiary courses and trending industries and develop the necessary skills needed for future world of work. 
+In the ECG programme, a whole-school approach is adopted to equip our students with the knowledge, values and skills on education and career matters so that they can make informed decisions as they work towards their aspirations. Through customised student development experiences, students are engaged to discover their strengths, interests and passions, gain greater awareness and understanding of tertiary courses and trending industries and develop the necessary skills needed for the future world of work. 
 
 In addition, teachers are equipped with ECG facilitation skills and play a pivotal role in helping students connect their academic and co-curricular experiences with their education and career goals. With the support from our ECG counsellor and partnership with various tertiary institutions, our students are provided with opportunities to participate in online ECG events and workshops. 
 
   
 **Key Programmes:**
-*   Annual ECG seminar
+*   E-PEC (Electronic-Personal Education and Career) Plan 
     
-*   Dialogue sessions with School Advisory Committee (SAC) members
+*   Post-Secondary Education Institutions (PSEI) showcase
     
-*   Learning journeys to post-secondary institutions 
+*   Human Library with School Advisory Committee (SAC) members, Alumni and PSG members 
+*   Learning journeys to post-secondary institutions
+*   Industry visits 
+*   Applied Learning Modules (ApLM)
+*   Work attachments
     
 *   Workshops and talks such as Early Admissions Exercise (EAE) Talks/workshops, Direct School Admission (DSA) for Junior College talks, 12 Choices Talk
     
