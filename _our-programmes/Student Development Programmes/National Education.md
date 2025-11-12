@@ -26,25 +26,52 @@ Through these sustained efforts, Compassvale Secondary aims to develop World Rea
 The following are various key student learning experiences that help them to extend their learning within and beyond the classroom:
 
 
-*   Key NE Commemorative Day Programmes
-    
+**Total Defence Day Carnival and Exercise SG Ready**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_1.jpg)
+Members of the Uniformed Group CCAs distributing Ready to Eat (RTE) meals as part of Exercise SG Ready.
 
-      * Secondary 1 International Friendship Day Carnival
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_2.jpg)
+*Sec 1 students learning CPR while supervised by Sec 3 Red Cross Youth (RCY) cadets.*
 
-     * Secondary 2 Racial Harmony Day Carnival
-     
-      * Secondary 3 Total Defence Day Carnival
-    
+**International Friendship Day**
 
-*   Secondary 2 CCE Cohort Learning Journey
-    
-*   NE Quiz
-    
-*   NE Budget Lesson and Quiz
-    
-*   Secondary 4/5 NSF Engagement Session
-    
-*   Secondary 3 NRIC Ceremony**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_3.jpg)*Students were serenaded with flute tunes from various ASEAN countries*
+
+**Racial Harmony Day**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_4.jpg)
+
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_5.jpg)*Students dressed in their ethnic attire, highlighting our multiracial roots*
+
+
+**National Day**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_6.jpg) *Members of the Uniform Group CCA participating in the National Day Observance Ceremony*
+
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_7.jpg)*Staff belting out familiar National Day songs as North Stars sang in unison*
+
+
+**Secondary 2 CCE Cohort Learning Journey**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_8.jpg)
+
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_9.jpg)
+*Sec 2 students listening with rapt attention to the stories shared by adult volunteers at the National Museum of Singapore*
+
+
+**International Students Programme**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_10.jpg)*Sec 1 International Students and Singaporean PRs taking part in icebreakers and having Nasi Lemak as part of the Welcome Breakfast*
+
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_11.jpg) *The Sec 1 International Students visited Gardens by the Bay to learn more about its sustainability initiatives*
+
+**Secondary 4/5 NSF Engagement Session**
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_12.jpg)
+
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_13.jpg)
+*Our graduating cohorts benefit from NSF/Men engagement sessions featuring alumni who have stepped up to serve in various uniformed services*
+
+**Secondary 3 NRIC Ceremony**
+
+![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_14.jpg)*Students reciting the National Pledge in the 4 National Languages*
+
+
 
 ![](/images/TDD3%20-%20Unit%20Sergeant%20Major%20Sachin%20introducing%20students%20to%20Military%20Defence.jpg)
 *Unit Sergeant Major Sachin introducing students to Military Defence*
