@@ -79,16 +79,16 @@ table, th, td, tr {
 </tr>
 	<tr>
 <td>For selected groups of students:</td>
-<td><ul><li>Learn heuristics and problem solving capabilities through participation in competitions and specializsed trainings such as  Math Olympiad training and participation in Math Challenges</li></ul></td>
+<td><ul><li>Learn heuristics and problem solving capabilities through participation in competitions and specialised training sessions such as  Math Olympiad training and participation in Math Challenges</li></ul></td>
 		
-<td><ul><li>Students will also have Opportunities to learn coding skills and participate in competition</li></ul></td>
+<td><ul><li>Students will also have opportunities to learn coding skills and participate in competitions</li></ul></td>
 	</tr>
 </tbody>
 </table>
 
 <br>
 
-### Craft &amp; Technology; 
+### Craft &amp; Technology
 
 <table style="width:100%">
 
@@ -108,7 +108,7 @@ table, th, td, tr {
 <li>Applied Module for Secondary One (Common Curriculum)
 </li></ul></td>
 		
-<td><ul><li>Talent development through competitions (Tan Kah Kee Young Inventors' Award, Temasek Engineering Olympiad etc)</li>
+<td><ul><li>Talent development through competitions (Tan Kah Kee Young Inventors' Award, Temasek Engineering Olympiad, etc)</li>
 <li>Learning journeys to deepen awareness of sustainability 
 </li></ul></td>
 	</tr>
