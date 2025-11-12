@@ -28,8 +28,8 @@ Our vision, ‘Every Student a Champion for Change’, drives our efforts to pro
     
 Ultimately, the various VIA experiences instill a strong moral compass in our students and nurture them to be World-Ready Youths who are innovative contributors and upright citizens with a global outlook. We envision our North Stars to continue their passion for community service beyond their 4-5 years in CVSS and be active agents of change for the betterment of others.
 
-![](/images/2023%20Student%20Dev%20Prog/VIA%20Experiences/via_students%20interacted%20with%20elderly%20at%20a%20senior%20activity%20centre.jpg)
-*Students interacted with the elderly at a Senior Activity Centre through games and a sing-a-long session*
+![](/images/2026%20Student%20Development/CCE%20VIA/Photo_1.jpg)
+*Students used storytelling to inspire young children to develop simple and fun sustainable habits.*
 
-![](/images/2023%20Student%20Dev%20Prog/VIA%20Experiences/via_students%20created%20upcycled%20artefacts%20from%20waste%20materials.JPG)
-*Students created upcycled artefacts from waste materials. The upcycled artefacts include juice carton coin pouch, snack pack pencil case and T-shirt tote bag.*
+![](/images/2026%20Student%20Development/CCE%20VIA/Photo_2.jpg)
+*Our students got creative at a level-wide workshop on plastic recycling. Using the bottle caps they collected, they designed unique coasters and carabiners — turning waste into meaningful school corporate gifts.*
