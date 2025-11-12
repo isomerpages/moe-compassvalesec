@@ -35,7 +35,7 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 <p><u>Perspectives SG-Indonesia Overseas Learning Experiences</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026%20Distinctive%20Programmes/OLE/Photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_1.jpg">
 </div>
 <p><em><sub>As part of the Indonesia OLE Pre-Trip Learning Modules, our North Stars had a hands-on lesson on Plate Tectonics and Volcanicity! They also had the opportunity to visit the ‘Earth Alive!’ Exhibition at the Singapore Science Centre. Through interactive activities, they explored the forces that shape our Earth.</sub></em>
 </p>
@@ -88,22 +88,29 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 </p>
 <p></p>
 <p><u>Perspectives SG-China Overseas Learning Experiences</u>
-	
-	![](/images/2026%20Distinctive%20Programmes/OLE/Photo_4.jpg)
-	
-	![](/images/2026%20Distinctive%20Programmes/OLE/Photo_5.jpg)
-	
+		
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/North_Stars_Apple_Singapore.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_4.jpg">
 </div>
-<p><em><sub>As part of the China OLE Pre-Trip Learning Modules, our North Stars visited Apple Singapore to gain insights into the company's innovation and technology leadership.</sub></em>
-</p>
+<br>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/China_OLE_Trip.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_5.jpg">
 </div>
-<p><em><sub>As part of the China OLE Pre-Trip Learning Modules, our North Stars learned about China's remarkable economic transformation, offering essential background for deeper understanding before they embark for the China OLE trip.</sub></em>
+<p><em><sub>As part of the China OLE Pre-Trip Learning Modules, our North Stars visited the Huawei Singapore Innovations and Sustainability Centre, where they gained insights into how Huawei has evolved from a telecommunications company into a global tech leader, branching into areas such as Artificial Intelligence (AI), cloud computing, and smart city solutions.</sub></em>
 </p>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_6.jpg">
+</div>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_7.jpg">
+</div>
+
+<p><em><sub>The students also visited Gardens by the Bay to learn about its sustainability efforts, from energy-efficient cooling systems to biodiversity conservation. The visit also showcased how the attraction blends nature, technology, and design to draw visitors worldwide.</sub></em>
+</p>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/8.jpg">
@@ -137,4 +144,28 @@ such as problem-solving, cultural awareness, and communication skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Distinctive Programmes/OLE/1.jpg">
 </div>
 <p><em><sub>Our North Stars had a meaningful and enriching China OLE, broadening their PERSPECTIVES through cultural exchanges and new experiences.</sub></em>
+</p>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_8.jpg">
+</div>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_9.jpg">
+</div>
+
+<p><em><sub>For one of the Vietnam OLE pre-trip learning module, our North Stars studied the vital role of the Mekong Delta in Vietnam’s agriculture and economy, while learning about the environmental challenges it faces. Students were tasked to visit local supermarkets to identify food products originating from Vietnam, sparking curiosity about the country’s agricultural exports. They then took on the perspectives of farmers, businessmen, environmentalists, policymakers, and youth, in a simulated town hall meeting where they voiced challenges, shared aspirations, and sought common ground for sustainable solutions. To round off the session, staff and students enjoyed a spread of authentic Vietnamese food, including Banh Mi and spring rolls.
+</sub></em>
+</p>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_10.jpg">
+</div>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Distinctive Programmes/OLE/Photo_11.jpg">
+</div>
+
+<p><em><sub>Participants had the opportunity to visit the Hyundai Motor Group Innovation Center to explore innovations in sustainable mobility and future transport solutions. This visit not only highlighted Singapore’s commitment to sustainable transport but also encouraged students to contrast these approaches with the transport challenges faced in Vietnam, deepening their appreciation of the different pathways countries take towards development.
+</sub></em>
 </p>
