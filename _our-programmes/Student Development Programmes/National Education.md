@@ -3,16 +3,28 @@ title: National Education
 permalink: /our-programmes/student-development-programmes/national-education/
 description: ""
 third_nav_title: Student Development Programmes
+variant: markdown
 ---
 # National Education Programme
+At Compassvale Secondary School, the National Education (NE) programme is a key part of Character and Citizenship Education (CCE). It nurtures in our students a strong sense of belonging, reality, hope, and the will to act — dispositions that shape them into confident, compassionate, and committed citizens.
+Through thoughtfully designed commemorative events and experiential learning such as Total Defence Day, National Day, and the NRIC Presentation Ceremony, students explore what it means to be Singaporean and reflect on their roles in safeguarding and shaping our shared future.
+Our approach goes beyond commemoration. By engaging students in authentic, student-led experiences that connect Singapore’s past, present, and future, we seek to:
+Foster a Sense of Belonging through understanding our shared heritage and values;
 
- 
-As part of the CCE programme, the NE programme acts as a platform for the achievement of the school’s thrust of \`a holistic values-driven learning experience for student-centric meritocracy’. Compassvale Secondary School (CVSS) sets itself to mould World Ready Youths – Innovative contributors, upright citizens with a global outlook as the direction for its National Education pursuit. The \`Head, Heart and Hands’ approach is deployed in its organisation of Citizenship programmes which will help develop students’ citizenship dispositions through a variety of Key Student Development Experiences such as NE Commemorative Days, Cohort Learning Journey and NRIC Presentation Ceremony which will contribute towards the holistic development of all students.
 
-The following are various key student learning experiences that help them to extend their learning within and beyond the classroom.
+Cultivate a Sense of Reality by examining the challenges and trade-offs Singapore faces in an evolving world;
 
-  
-**Key Programmes**
+
+Inspire a Sense of Hope by celebrating the resilience and innovation that drive our nation forward; and
+
+
+Empower the Will to Act by encouraging students to play an active role in building a cohesive and sustainable Singapore.
+
+
+Through these sustained efforts, Compassvale Secondary aims to develop World Ready Youths — innovative contributors and upright citizens with a global outlook, grounded in their identity and ready to serve with purpose.
+
+The following are various key student learning experiences that help them to extend their learning within and beyond the classroom:
+
 
 *   Key NE Commemorative Day Programmes
     
