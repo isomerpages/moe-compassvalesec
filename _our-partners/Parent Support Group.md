@@ -2,21 +2,19 @@
 title: Parent Support Group
 permalink: /our-partners/partnership-with-parents/
 description: ""
+variant: markdown
 ---
 ## Partnership with Parents
 ![](/images/2023%20Our%20Partners/PSG/picture%201.jpg)
 
-Partnership involves parents, families, and school working together to benefit children. Each recognises, respects and values what the other party does and says. Partnership involves responsibility from all parties. In CVSS, we value this partnership and are appreciative of the firm support from our parents. This year, with the lifting of COVID-19 regulations, our school is resuming our face-to-face interaction and partnership with our parents. With our newly formed Parent Support Group (PSG) EXCO, they will gradually be involved in school programmes that showcased positive role-modelling for our students to see that their parents are always ready to support them in achieving their fullest potential.
- 
+Partnership involves parents, families, and school working together to benefit children. Each recognises, respects and values what the other party does and says. Partnership involves responsibility from all parties. Our Parent Support Group (PSG) Exco actively supports school programmes and showcases. positive role-modelling for our students to see that their parents are always ready to support them in achieving their fullest potential. This year, our PSG initiated the CNY Donation Drive where parents came together to prepare goodie bags for seniors from Bethesda Care Centre at our school’s Lunar New Year Celebration. Parents also surprised our students with a Youth Day Celebration and prepared a CVSS25 Balloon Sculpture in celebration of our school’s 25th Anniversary. In CVSS, we value this partnership and are appreciative of the firm support from our parents.
+
 
 ## Parent Support Group (PSG)
 
  ### Who are we?
 
 We are parents of CVSS students who are keen to take an active role in shaping the crucial teenage years of our children.
-
-![](/images/2023%20Our%20Partners/PSG/psg%20exco_2023.JPG)
-![](/images/2023%20Our%20Partners/PSG/psg%20exco_2023_2.JPG)
 
 ### What is CVSS-PSG’s purpose?
 
@@ -58,8 +56,8 @@ For more information or queries, please email us at cvss@moe.edu.sg.
 ### Parent Support Group Events
 
 
-**1. Sec 1 Parents’ Talk**
-![](/images/Sec%201%20PSG%20talks.png)
+**1. Chinese New Year Celebration**
+
 
 **2. Chinese New Year Celebration**
 ![](/images/2023%20Our%20Partners/PSG/balloon%20scrulpture.jpg)
