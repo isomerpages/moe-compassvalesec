@@ -64,4 +64,55 @@ For more information or queries, please email us at cvss@moe.edu.sg.
 ![](/images/2026%20Our%20Partners/OUR%20PSG/PSG_Kacang_store_during_Youth_Day_2025.jpg)
 *Snacks prepared by Parent volunteers to enhance the Youth Day festivity mood.*
 
+## Parent Engagement Policy
 
+Policy Statement
+
+Our school values strong partnerships between parents and educators. We believe that mutual respect, open communication, and shared responsibility are essential to supporting every child’s growth and well-being. We uphold professionalism and promote communication that is respectful, timely, and purposeful.
+
+  
+
+Guidelines
+
+1\. Professionalism and Respect
+
+*   Communication between staff and parents should be respectful, constructive, and student-focused.
+    
+*   Teachers and parents share a common goal of supporting students’ learning, well-being, and character development.
+    
+*   The school reserves the right to manage or restrict communications that are offensive, threatening, or disruptive.
+    
+
+2\. Contact and Response Timings
+
+*   The school operates from 8.00 a.m. to 5.30 p.m. on weekdays (excluding school holidays). Unless there is an emergency, please respect our teachers’ personal time and avoid contacting them outside of these hours. 
+    
+*   Teachers may not always be able to respond immediately as they are engaged in lessons and school duties during the day.
+    
+*   Parents are encouraged to allow time for teachers to reply; staff will aim to acknowledge or respond to messages within three working days.
+    
+*   Urgent matters (e.g. safety or emergency situations) should be directed to the General Office for immediate attention.
+    
+*   Messages sent after school hours, on weekends, or during school holidays will be attended to on the next working day.
+    
+*   During extended school holidays, the General Office remains the main point of contact for parents.
+    
+
+3\. Communication Channels
+
+*   Parents may contact the school via official channels such as school email or the General Office.
+    
+*   Teachers are not required to share their personal mobile numbers with the students or parents. 
+    
+*   The Form Teacher should be the first point of contact for most student-related matters.
+    
+*   School updates and announcements will be shared through Parents Gateway, the school website, termly letters, and the school’s official social media channels.
+    
+
+4\. Collaboration and Engagement
+
+*   The school values parent partnership through feedback and participation in platforms such as the Parent Support Group (PSG).
+    
+*   Constructive and collaborative engagement enhances the school environment and strengthens student outcomes.
+    
+*   Parents are encouraged to model positive communication and trust in the school’s professional judgment.
