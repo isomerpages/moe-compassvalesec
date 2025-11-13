@@ -36,10 +36,10 @@ Some of the key student well-being programmes that our North Stars experience in
 
 	* Our Special Educational Needs (SEN) Team works closely with teachers, parents and external partners to support students with diverse learning needs. We focus on building access, understanding and confidence by providing classroom accommodations, targeted strategies and socio-emotional support. The team also advocates for inclusive practices across the school. One such platform is the annual Purple Parade Carnival which aims to promotes inclusion and celebrates the abilities and contributions of persons with disabilities.
 
-**The Guiding and Empowering Students for Affiliation and Resilience to Unlock their Potential (GEAR-UP) Programme**  - The year-long programme, comprising weekly activities and leadership opportunities to guide high needs students to find a place in the community. Teachers helming this programme support students throughout their 4-year secondary school journey in terms of their socio-emotional wellbeing, and their learning of self-awareness, self-management, social awareness, relationship management and responsible decision-making. The After School Centre is also within the purview of the GEAR-UP programme, providing a safe space for students to engage in recreational activities or self-study.
+* **The Guiding and Empowering Students for Affiliation and Resilience to Unlock their Potential (GEAR-UP) Programme**  - The year-long programme, comprising weekly activities and leadership opportunities to guide high needs students to find a place in the community. Teachers helming this programme support students throughout their 4-year secondary school journey in terms of their socio-emotional wellbeing, and their learning of self-awareness, self-management, social awareness, relationship management and responsible decision-making. The After School Centre is also within the purview of the GEAR-UP programme, providing a safe space for students to engage in recreational activities or self-study.
 
 ![](/images/2026%20Student%20Development/Student%20Well%20Being/Photo_1_GEAR_UP_Teambuilding_activty_with_BTAC.jpg)
-*GEAR-UP students learning to work as a team during their Adventure-Based Gratitude programme. *
+*GEAR-UP students learning to work as a team during their Adventure-Based Gratitude programme.*
 
 ![](/images/2026%20Student%20Development/Student%20Well%20Being/Photo_2_GEAR_UP_members___Experiential_Learning_in_Arts.jpg)
 *GEAR-UP students have Experiential Learning in Arts through graffiti spraying painting.*
