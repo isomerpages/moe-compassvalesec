@@ -3,18 +3,18 @@ title: Student Well Being
 permalink: /our-programmes/student-development-programmes/
 description: ""
 third_nav_title: Student Development Programmes
+variant: markdown
 ---
 ### Student Well-Being
 
-![](/images/2023%20Student%20Dev%20Prog/student%20development-year%20head%20team%20(3).jpg)
-
 The Student Development Team (SDT) aims to promote the holistic development and well-being of all students by:
 
-1.  Delivering a student-centric and values-driven education through age-appropriate programmes and strategies to support the holistic development of all students;
-    
-2.  Enhancing the quality of school experience for students, with greater emphasis on, and attention to, values education and students’ social emotional needs and development; 
-    
-3.  Creating a caring and enabling school culture, where all all members of the school community feel safe and cared for, have a sense of belonging to the school, and feel connected to one another.
+1. Delivering a student-centric and values-driven education through age-appropriate programmes and strategies to support the holistic development of every student.
+
+2. Enhancing the quality of students’ school experience by placing greater emphasis on values education and supporting their social-emotional needs and growth. 
+
+3. Fostering a caring and enabling school culture where every member of the school community feels safe, cared for, and connected, with a strong sense of belonging.
+
     
 
 Some of the key student well-being programmes that our North Stars experience include: 
