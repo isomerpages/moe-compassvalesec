@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 ## Partnership with Parents
-![](/images/2023%20Our%20Partners/PSG/picture%201.jpg)
-
 Partnership involves parents, families, and school working together to benefit children. Each recognises, respects and values what the other party does and says. Partnership involves responsibility from all parties. Our Parent Support Group (PSG) Exco actively supports school programmes and showcases. positive role-modelling for our students to see that their parents are always ready to support them in achieving their fullest potential. This year, our PSG initiated the CNY Donation Drive where parents came together to prepare goodie bags for seniors from Bethesda Care Centre at our school’s Lunar New Year Celebration. Parents also surprised our students with a Youth Day Celebration and prepared a CVSS25 Balloon Sculpture in celebration of our school’s 25th Anniversary. In CVSS, we value this partnership and are appreciative of the firm support from our parents.
 
 
@@ -57,17 +55,13 @@ For more information or queries, please email us at cvss@moe.edu.sg.
 
 
 **1. Chinese New Year Celebration**
+![](/images/2026%20Our%20Partners/OUR%20PSG/PSG_CNY_Celebration_2025.jpg)
+
+**2. Youth Day celebrations**
+![](/images/2026%20Our%20Partners/OUR%20PSG/PSG_Preparing_Balloons_for_the_Balloon_Sculpting_Station.jpg)
+*Parent volunteers in preparation for teaching our students to do balloon sculpting during recess on Youth Day.*
+
+![](/images/2026%20Our%20Partners/OUR%20PSG/PSG_Kacang_store_during_Youth_Day_2025.jpg)
+*Snacks prepared by Parent volunteers to enhance the Youth Day festivity mood.*
 
 
-**2. Chinese New Year Celebration**
-![](/images/2023%20Our%20Partners/PSG/balloon%20scrulpture.jpg)
-*In 2023, PSG member, Ms Agnes Yap, volunteered to make a balloon sculpture by hand as décor for the CNY celebration.*
-
-![](/images/2023%20Our%20Partners/PSG/psg%20with%20elderly.jpg)
-*Parents with elderly guests at the school's CNY Celebrations*
-
-**3. Sec 1 Parents’ Welcome Brunch**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAQoQTszvnzjI9kxaU-B6rYXw-_JOdH_3t8b59zXdzUVCbwIU4c5FGDqN1E_xjgy4mCy5g7jWQMpor/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="550" height="500" allowfullscreen="true"></iframe>
-
-**4. Racial Harmony Day Carnival**
-<iframe allowfullscreen="true" height="500" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxN8Op3CBewMusviYBQ62IuCJh2-ntPeeklP9g9jEppqW6CZniFRNuW98GLPIOTUNH27WOkt9QPETZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
