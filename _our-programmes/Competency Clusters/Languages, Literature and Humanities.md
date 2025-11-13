@@ -78,22 +78,27 @@ table, th, td, tr {
 </tbody>
 </table>
 
+![At Changi Chapel and Museum](/images/2026%20Competency%20Clusters/Humanities/At_Changi_Chapel_and_Museum.jpg)
+<p class="small">Secondary 2 students exploring wartime artefacts at Changi Museum and Chapel to understand Singapore’s history during World War II.</p>
+		
+![ City Trail at the Singapore National Gallery](/images/2026%20Competency%20Clusters/Humanities/City_Trail_National_Gallery_Former_City_Hall.jpg)
+<p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
+
+
+![A snapshot from Fort Siloso](/images/2026%20Competency%20Clusters/Humanities/Fort_Siloso.jpg)
+<p class="small">A snapshot from Fort Siloso – Secondary 2 students exploring Singapore’s only preserved coastal fort and its historic artillery guns.</p>
+
+![Remembrance ceremony at Kranji War Memorial.](/images/2026%20Competency%20Clusters/Humanities/Memorial_Ceremony.jpg)
+<p class="small">Commemorating courage and sacrifice — students participate in a remembrance ceremony at Kranji War Memorial.</p>
+
+
 ![Interviewing Mr Aloysius Gan Kai Hong](/images/2026%20Competency%20Clusters/MTL/1.jpg)
 <p class="small">Our Lower Secondary team had the privilege of interviewing Mr Aloysius Gan Kai Hong, a dedicated para-athlete who plays Boccia and clinched the Bronze Award.</p>
 
 ![Students interviewed the dedicated nurses from the Palliative Ward](/images/2026%20Competency%20Clusters/MTL/2.jpg)
 <p class="small">Our Upper Secondary students interviewed the dedicated nurses from the Palliative Ward of Alexandra Hospital to learn how they provide care and comfort to terminally ill patients. Their meaningful project earned them the Second Position and the Best Theme Award.</p>
 		
-![Kee Jun Yi Brayden Top 10 winners in the 1st National Chinese Reading Competition](/images/2026%20Competency%20Clusters/MTL/3.jpg)
-<p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
 
-
-![ National Scrabble Competition](/images/2026%20Competency%20Clusters/MTL/4.jpg)
-<p class="small">Achieving 3rd place in the Zonal round of the National Scrabble Competition, the Upper Secondary team displayed remarkable word mastery, strategic thinking and collaboration in their pursuit of excellence.</p>
-		
-![3rd place in the North Zone Competition](/images/2026%20Competency%20Clusters/MTL/5.jpg)
-<p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
-   
   
 ### Highlights and Achievements
 <table border="1" style="width:100%">
@@ -158,18 +163,19 @@ table, th, td, tr {
 
 </tbody></table>
 
-![At Changi Chapel and Museum](/images/2026%20Competency%20Clusters/Humanities/At_Changi_Chapel_and_Museum.jpg)
-<p class="small">Secondary 2 students exploring wartime artefacts at Changi Museum and Chapel to understand Singapore’s history during World War II.</p>
+![Kee Jun Yi Brayden Top 10 winners in the 1st National Chinese Reading Competition](/images/2026%20Competency%20Clusters/MTL/3.jpg)
+<p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
+
+
+![ National Scrabble Competition](/images/2026%20Competency%20Clusters/MTL/4.jpg)
+<p class="small">Achieving 3rd place in the Zonal round of the National Scrabble Competition, the Upper Secondary team displayed remarkable word mastery, strategic thinking and collaboration in their pursuit of excellence.</p>
 		
-![ City Trail at the Singapore National Gallery](/images/2026%20Competency%20Clusters/Humanities/City_Trail_National_Gallery_Former_City_Hall.jpg)
+![3rd place in the North Zone Competition](/images/2026%20Competency%20Clusters/MTL/5.jpg)
 <p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
+   
 
 
-![A snapshot from Fort Siloso](/images/2026%20Competency%20Clusters/Humanities/Fort_Siloso.jpg)
-<p class="small">A snapshot from Fort Siloso – Secondary 2 students exploring Singapore’s only preserved coastal fort and its historic artillery guns.</p>
 
-![Remembrance ceremony at Kranji War Memorial.](/images/2026%20Competency%20Clusters/Humanities/Memorial_Ceremony.jpg)
-<p class="small">Commemorating courage and sacrifice — students participate in a remembrance ceremony at Kranji War Memorial.</p>
 
 ![Winners of the Historical Scene Investigation](/images/2026%20Competency%20Clusters/Humanities/HSI_Silver_and_Bronze_Award_Presentation_2024.jpg)
 <p class="small">Congratulations to our Secondary 2 winners of the Historical Scene Investigation (H.S.I) Challenge 2024! This annual competition gives students a fun and meaningful platform to showcase their historical inquiry and research skills.</p>
