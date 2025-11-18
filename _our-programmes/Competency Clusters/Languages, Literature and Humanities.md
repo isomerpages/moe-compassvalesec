@@ -78,6 +78,9 @@ table, th, td, tr {
 </tbody>
 </table>
 
+![](/images/2026%20Competency%20Clusters/EL%20Dept/Checkpoint_theatre.jpg)
+<p class="small">Students were enthralled by a dramatised reading of 'Normal' (a play by Faith Ng) and a post-show dialogue with Checkpoint Theatre.</p>
+
 ![At Changi Chapel and Museum](/images/2026%20Competency%20Clusters/Humanities/At_Changi_Chapel_and_Museum.jpg)
 <p class="small">Secondary 2 students exploring wartime artefacts at Changi Museum and Chapel to understand Singapore’s history during World War II.</p>
 		
