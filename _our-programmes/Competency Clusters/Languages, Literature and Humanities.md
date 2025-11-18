@@ -114,7 +114,7 @@ table, th, td, tr {
   </tr>
 </thead>
 <tbody>
-<tr><td><ol class="small"><li>National Schools Literature Festival</li>
+<tr><td><ol class="small"><li>National Schools Literature Festival (NSLF)</li>
 
 <ul><li>Choral Speaking – Gold Award (2021);  
     Bronze Award (2022)</li>
@@ -164,6 +164,9 @@ table, th, td, tr {
 <td colspan="3"><ul><li>World Scholars Cup (2023): 21 Team Gold Medals; 33 Individual Gold Medals; Top 5 Overall Team – Junior Division; Top 5 Overall Individual – Junior Division</li></ul></td></tr>
 
 </tbody></table>
+
+![](/images/2026%20Competency%20Clusters/EL%20Dept/NSLF_Flash_Fiction_YongXing.jpg)
+<p class="small"> Tan Yong Xing (4E2 2025) presented his award -winning flash fiction piece at school assembly (NSLF 2025 - Flash Fiction: Bronze Award).</p>
 
 ![Kee Jun Yi Brayden Top 10 winners in the 1st National Chinese Reading Competition](/images/2026%20Competency%20Clusters/MTL/3.jpg)
 <p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
