@@ -64,4 +64,4 @@ For more information or queries, please email us at cvss@moe.edu.sg.
 ![](/images/2026%20Our%20Partners/OUR%20PSG/PSG_Kacang_store_during_Youth_Day_2025.jpg)
 *Snacks prepared by Parent volunteers to enhance the Youth Day festivity mood.*
 
-Parent Engagement Policy (link)
+###### * [Parent Engagement Policy](https://compassvalesec.moe.edu.sg/parent-engagement-policy/) 
