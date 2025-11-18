@@ -2,6 +2,7 @@ collections:
   useful-info-and-links:
     output: true
     order:
+      - Announcements/Parent Engagement Policy.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Information for 2025 Secondary 1 Students.md
