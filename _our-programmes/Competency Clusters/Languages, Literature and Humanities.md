@@ -116,14 +116,13 @@ table, th, td, tr {
 <ul><li>Choral Speaking – Gold Award (2021);  
     Bronze Award (2022)</li>
     
-<li>  Flash Fiction - Bronze Award (Lower &amp; Upper Sec) (2022; 2025); Silver Award (Upper Sec, 2025)</li>
+<li>  Flash Fiction - Bronze Award (Lower Sec, 2022; Upper Sec, 2025)</li>
     
 <li>  Unseen Poetry Debate - Winner (2022; 2025)</li>
     
 <li>Book Trailer - Commendation Award (2022)</li></ul>
     
-
-<li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
+<li>World Scholar's Cup –  18 Gold &amp; 46 Silver Medals (2025)</li></ol>
 
 </td>
 		
