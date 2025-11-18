@@ -27,7 +27,7 @@ Some of the key student well-being programmes that our North Stars experience in
 
 	* Sec 3: Ready for the Community - Students understand the various post-secondary and career opportunities available for them.  They gain awareness of the needs of the local community as they step up and strive to meet their needs.
 
-	* Sec 4/5: Ready for the World - Students prepare themselves to enter identified post-secondary pathway and an aspirational career. They emerge stronger as they gain knowledge of Singapore, Southeast Asia and the world. 
+	* Sec 4/5: Ready for the World - Students prepare themselves to enter an identified post-secondary pathway and an aspirational career. They emerge stronger as they gain knowledge of Singapore, Southeast Asia and the world. 
 
 * **Teacher-Student Chats** – Fosters meaningful connections and positive Teacher-Student Relationships. Form Teachers engage students in small groups or one-on-one conversations on Tuesdays and Thursdays. Students can communicate their needs to their form teacher during these sessions, receive advice on making education and career choices, as well as feedback on character development. 
 
