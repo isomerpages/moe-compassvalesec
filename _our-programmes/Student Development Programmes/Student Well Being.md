@@ -31,7 +31,7 @@ Some of the key student well-being programmes that our North Stars experience in
 
 * **Teacher-Student Chats** – Fosters meaningful connections and positive Teacher-Student Relationships. Form Teachers engage students in small groups or one-on-one conversations on Tuesdays and Thursdays. Students can communicate their needs to their form teacher during these sessions, receive advice on making education and career choices, as well as feedback on character development. 
 
-* CARE: 
+* **CARE**: 
 	* Our Counselling Team provides a safe environment for students to share their challenges and work through social, emotional, behavioural and mental health issues. We help them learn and use strategies to manage and cope with their emotions or situation. Students may be referred to the School Counsellor by their teacher or they may approach our School Counsellor for support.
 
 	* Our Special Educational Needs (SEN) Team works closely with teachers, parents and external partners to support students with diverse learning needs. We focus on building access, understanding and confidence by providing classroom accommodations, targeted strategies and socio-emotional support. The team also advocates for inclusive practices across the school. One such platform is the annual Purple Parade Carnival which aims to promotes inclusion and celebrates the abilities and contributions of persons with disabilities.
