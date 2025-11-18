@@ -124,7 +124,7 @@ Our Values in Action (VIA) experiences equips our students with a solid foundati
 
 ### Key Programmes: 
 * Green Compass Programme  
-* Environmental Science Club  
+* Environmental Science Leaders Club  
  
 Our overarching vision, ‘Every Student a Champion for Change’, is the driving force behind our efforts. It provides a platform for our students' voices to be heard, encourages exploration of social innovation, and nurtures enduring partnerships with our community collaborators. This collaboration leads to the co-creation of service projects that directly address pressing concerns, fostering a sense of ownership and an enduring dedication to serving others. 
 
