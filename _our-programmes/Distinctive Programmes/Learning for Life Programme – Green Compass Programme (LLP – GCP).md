@@ -80,6 +80,8 @@ table, th, td, tr {
 
 As our North Stars journey through the Green Compass Programme, they will be equipped with the knowledge, skills, and inspiration to lead meaningful environmental and community initiatives. 
 
+![](/images/2026%20Distinctive%20Programmes/LLP/LLP_photo.jpg)
+
 ![](/images/2026%20Distinctive%20Programmes/LLP/coaster.jpg)
 
 ![](/images/2026%20Distinctive%20Programmes/LLP/carabiners.jpg)
