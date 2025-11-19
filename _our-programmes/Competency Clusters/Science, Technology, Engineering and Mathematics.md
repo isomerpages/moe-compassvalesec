@@ -11,12 +11,15 @@ third_nav_title: Competency Clusters
 
 The STEM x Sustainability programme at CVSS aims to develop in our students competencies in critical, adaptive and inventive thinking. They will also be spurred to become more curious about how different things work and be provided with the skills to allow them to find out more about the world around them. Through the Craft and Technology, Mathematics and Science subjects, students will participate in the problem solving process, allowing them to work with their peers to identify the problem at hand, come up with possible solutions and test their solutions before providing their recommendations. These will be done through various curricular lessons, enrichment programmes and the school’s Applied Learning Programme, providing students with authentic contexts and real-world problems undergirded by the theme of Sustainability for them to explore and discuss
 
-![](/images/2023%20Competency%20Clusters/STEM/11.png)
+
+![Science Department](/images/2026%20Competency%20Clusters/Department%20Photos/science_department_2.jpg)
 *Science Department*
 
-![](/images/2023%20Competency%20Clusters/STEM/9.png) *Mathematics Department*
+![Math Department](/images/2026%20Competency%20Clusters/Department%20Photos/mathematics_department_2.jpg)
+*Mathematics Department*
 
-![Craft and Tech Department Photo](/images/2026%20Competency%20Clusters/TO_REPLACE__Craft___Technology_Department.jpg)*Craft &amp; Technology Department*
+![Craft Department](/images/2026%20Competency%20Clusters/TO_REPLACE__Craft___Technology_Department.jpg)
+*Craft &amp; Technology Department*
 
 
 <h3>Science</h3>
