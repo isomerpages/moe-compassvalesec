@@ -28,8 +28,8 @@ The following are various key student learning experiences that help them to ext
 
 
 **Total Defence Day Carnival and Exercise SG Ready**
-![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_1.jpg)
-Members of the Uniformed Group CCAs distributing Ready to Eat (RTE) meals as part of Exercise SG Ready.
+![RTE Meals](/images/2026%20Student%20Development/CCE%20National%20Education/RTE.jpg)
+*Members of the Uniformed Group CCAs distributing Ready to Eat (RTE) meals as part of Exercise SG Ready.*
 
 ![](/images/2026%20Student%20Development/CCE%20National%20Education/Photo_2.jpg)
 *Sec 1 students learning CPR while supervised by Sec 3 Red Cross Youth (RCY) cadets.*
