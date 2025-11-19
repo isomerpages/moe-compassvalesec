@@ -7,13 +7,13 @@ third_nav_title: Competency Clusters
 ---
 The Languages, Literature and Humanities programme at CVSS is designed to develop in our students a strong foundation of language competencies, critical thinking and effective communication skills. They will also gain knowledge and understanding of society and the world, as well as important dispositions and values for them to make positive contributions to the community, nation and world. Through the English Language, Mother Tongue Languages, Literature and Humanities subjects, students will learn to critically read and appreciate a variety of texts and culture.&nbsp; They will engage with diverse perspectives on contemporary local and global issues.&nbsp; These are done through authentic, immersive and vibrant learning experiences involving class-based projects, field-based and investigative assignments, innovative performance tasks and learning journeys
 
-![English Department Photo](/images/2023%20Competency%20Clusters/Languages%20Lit%20And%20Humanities/7.png)
+![English deparment](/images/2026%20Competency%20Clusters/Department%20Photos/english_language_department_2.jpg)
 *EL Department*
 
-![](/images/2023%20Competency%20Clusters/Languages%20Lit%20And%20Humanities/8.png)
+![Humanities Department](/images/2026%20Competency%20Clusters/Department%20Photos/humanities_department_2.jpg)
 *Humanities Department*
 
-![](/images/2023%20Competency%20Clusters/Languages%20Lit%20And%20Humanities/6.png)
+![MT Language](/images/2026%20Competency%20Clusters/Department%20Photos/mother_tongue_language_department_2.jpg)
 *Mother Tongue Department*
 ### Key Programmes
 
