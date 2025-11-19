@@ -9,7 +9,7 @@ The Physical Education (PE) and Sports Nutrition curriculum is aimed at enabling
 
 The curriculum also incorporates aspects of sports science, including nutrition, injuries prevention and management  to equip our students with the knowledge to develop self-directedness in pursuit of life-long healthy living.
 
-![](/images/2023%20Competency%20Clusters/PE/12.png)
+![PE Department](/images/2026%20Competency%20Clusters/Department%20Photos/Physical_Education___Sports_Nutrition___physical_education_department_2.jpg)
 *Physical Education Department*
 ## Key Programmes
 
