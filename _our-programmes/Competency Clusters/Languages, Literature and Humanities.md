@@ -63,35 +63,48 @@ table, th, td, tr {
     
 <li>Conversational Chinese and Malay (CCM) Programme</li></ul></td>
 		
-<td><ul><li>Humanities-Mathematics Challenge</li>
+<td><ul><li>Secondary 2 Battlefield Tour</li>
     
-<li>`In Conversation With’ - Dialogue session with invited speakers</li>
+<li>Secondary 1 Geographical Fieldwork Investigation at Singapore Botanic Gardens and Sungei Buloh Wetland Reserve</li>
     
-<li>Secondary 1 Learning Journey to Sungei Buloh</li>
+<li>Secondary 3 and 4 Geography Learning Journeys to URA</li>
     
-<li>Secondary 3 Geography Learning Journey to URA</li></ul>
+<li>Sec 4 and 5 Natural Hazard Crisis Management Workshop at the Science Centre</li></ul>
     	</td></tr>
 	<tr>
     <td>For selected groups of students:</td>
-		<td colspan="3"><ul><li>Sustainable Food Sources – Through traditional soil farming, hydroponics and aeroponics,&nbsp; students will explore&nbsp; experiential learning on different sustainable food sources.</li></ul>  </td>
+		<td colspan="3"><ul><li>Talent development through competitions</li></ul></td>
 	</tr>
 </tbody>
 </table>
 
-![](/images/2023%20Competency%20Clusters/speaker.jpg)
-<p class="small">Assembly talk by Singaporean author Cassandra Chiu</p>
-    
-		
-![Huayi Chinese Festival](/images/2023%20Competency%20Clusters/huayichinesefestival.jpg)	
+![](/images/2026%20Competency%20Clusters/EL%20Dept/Checkpoint_theatre.jpg)
+<p class="small">Students were enthralled by a dramatised reading of 'Normal' (a play by Faith Ng) and a post-show dialogue with Checkpoint Theatre.</p>
 
-<p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
- 
- ![Learning Journey](/images/2023%20Competency%20Clusters/LJtoSungei_Buloh.jpg)
-<p class="small">Sec 1 Students on a Learning Journey to Sungei Buloh Wetland Reserve</p>
-    
+![At Changi Chapel and Museum](/images/2026%20Competency%20Clusters/Humanities/At_Changi_Chapel_and_Museum.jpg)
+<p class="small">Secondary 2 students exploring wartime artefacts at Changi Museum and Chapel to understand Singapore’s history during World War II.</p>
+		
+![ City Trail at the Singapore National Gallery](/images/2026%20Competency%20Clusters/Humanities/City_Trail_National_Gallery_Former_City_Hall.jpg)
+<p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
+
+
+![A snapshot from Fort Siloso](/images/2026%20Competency%20Clusters/Humanities/Fort_Siloso.jpg)
+<p class="small">A snapshot from Fort Siloso – Secondary 2 students exploring Singapore’s only preserved coastal fort and its historic artillery guns.</p>
+
+![Remembrance ceremony at Kranji War Memorial.](/images/2026%20Competency%20Clusters/Humanities/Memorial_Ceremony.jpg)
+<p class="small">Commemorating courage and sacrifice — students participate in a remembrance ceremony at Kranji War Memorial.</p>
+
+
+![Interviewing Mr Aloysius Gan Kai Hong](/images/2026%20Competency%20Clusters/MTL/1.jpg)
+<p class="small">Our Lower Secondary team had the privilege of interviewing Mr Aloysius Gan Kai Hong, a dedicated para-athlete who plays Boccia and clinched the Bronze Award.</p>
+
+![Students interviewed the dedicated nurses from the Palliative Ward](/images/2026%20Competency%20Clusters/MTL/2.jpg)
+<p class="small">Our Upper Secondary students interviewed the dedicated nurses from the Palliative Ward of Alexandra Hospital to learn how they provide care and comfort to terminally ill patients. Their meaningful project earned them the Second Position and the Best Theme Award.</p>
+		
+
   
 ### Highlights and Achievements
-<table style="width:100%">
+<table border="1" style="width:100%">
 <thead>
   <tr>
     <th class="tg-s7g5">EL &amp; Literature</th>
@@ -101,57 +114,73 @@ table, th, td, tr {
   </tr>
 </thead>
 <tbody>
-<tr><td><ol class="small"><li>National Schools Literature Festival</li>
+<tr><td><ol class="small"><li>National Schools Literature Festival (NSLF)</li>
 
 <ul><li>Choral Speaking – Gold Award (2021);  
     Bronze Award (2022)</li>
     
-<li>  Flash Fiction - Bronze Award (Lower &amp; Upper Sec) (2022)</li>
+<li>  Flash Fiction - Bronze Award (Lower Sec, 2022; Upper Sec, 2025)</li>
     
-<li>  Unseen Poetry Debate - Winner (2022)</li>
+<li>  Unseen Poetry Debate - Winner (2022; 2025)</li>
     
 <li>Book Trailer - Commendation Award (2022)</li></ul>
     
-
-<li>ACJC Orator’s Trophy – advanced into semi-finals (2020, 2022)</li></ol>
+<li>World Scholar's Cup –  18 Gold &amp; 46 Silver Medals (2025)</li></ol>
 
 </td>
 		
 <td>
-<ol class="small"><li>6th National Text Recital Competition （全国课文朗诵比赛)
-<br>First Position and Gold Award in the Upper Secondary
-<br>Chinese Language ‘B’ / Basic Chinese Language/ Chinese Special Programme (Individual) (2023)<br>Bronze Award in the Upper Secondary- Higher Chinese/ Express/ Normal Academic (Individual) category (2023)</li>
+<ol class="small"><li>2025 Create Your Own Newspaper Competition 2025年全国中学编采比赛 (Upper Secondary) - Second Position &amp; Best Theme Award (2025)<br>
+<br>(Lower Secondary) - Third Position (2025)
+</li>
 
-<li>National Create Your Own Newspaper Competition （全国编采比赛）
-	<br>Upper Secondary: Second Position (2022), Third Position (2023)</li>
+<li>1st National Chinese Reading Competition for Primary and Secondary Schools - Top 10 winners (Kee Jun Yi Brayden) (2025)</li>
 
-<li> ‘Saya Boleh Mengarang’ 2023 Essay Writing Competition 
-	<br>- 3rd Position and Gold with Distinction, 3 Silver Awards, 9 Bronze Awards</li>
+<li>8th National Text Recital Competition - Chinese Language ‘B’, Basic Chinese, Chinese NA - Aw Yu Xuan, Ivy (3-1) (2025)
+</li>
 
-<li> ‘Pena Emasku’ 2023- Essay Writing Competition
-10th Position and 11 Gold Awards:</li>
+<li>Piala Cendekia Sahibba 2025 (National Malay Scrabble Competition 2025) - Third Position in Zonal
+</li>
 
-<li> N3 Malay Language Scrabble 2023- 3rd placing for Upper Secondary Category</li></ol></td>
+	<li>Pertandingan Sahibba Zon Utara 2025 (North Zone Malay Scrabble Competition 2025) - Third Position
+</li>
 	
-<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Silver Award (2021, 2022, 2023)  </li>
+<li>Peraduan Mengarang Pena Emasku 2025 (Writing Competition Pena Emasku 2025) - 4 Gold and 40 Silver</li></ol></td>
+	
+<td><ol class="small"><li>Historical Scene Investigation (HSI) Challenge – Gold Award (2025), Silver Award (2021, 2022, 2023, 2024, 2025), Bronze Award (2024)</li>
   
 
-<li> NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
+<li>NUS Geography Challenge – 2 Silver Awards, 1 selected for Geography Talent Development Programme (2021) and 1 Silver, 1 Commendation, 1 selected for Geography Talent Development Programme (2020) </li> 
   
 
 <li>SG75: Our Singapore (2nd prize in the Dynamic Presentation Category (animation &amp; video) (2021), Shortlisted (2022)</li>
 
-<li> Istana Heritage Gallery Challenge: First Prize</li>
+<li> Istana Heritage Gallery Challenge: First Prize (2023)</li>
+	<li>Prove It! Challenge 2023: Champion: Silver (2 teams</li>
 
-<li> Prove It! Challenge 2023: Champion: Silver (2 teams)</li></ol></td></tr></tbody></table>
+<li> MOE History Challenge (2 Sec.3 students were selected for the History Talent Development Programme in 2023, 1 student in 2025). </li></ol></td></tr>
 
-![Compassvale winning team](/images/2023%20Competency%20Clusters/ChoralSpeaking.png)
-		
-<p class="small"> Screenshot of the school’s video submission, featuring the team of talented Secondary One students who represented the school in the 2021 Choral Speaking category. They performed ‘First Day at School’ by Roger McGough.</p>
-		
-![Our North Star](/images/2023%20Competency%20Clusters/studentWinner.jpg)
-<p class="small">Our North Star, Muhammad Syazwan Bin Mansor (3E4) has done us proud in demonstrating his writing talents by clinching the Tenth Position and Gold award in ‘Pena Emasku’ competition. </p>
+<tr>
+<td colspan="3"><ul><li>World Scholars Cup (2023): 21 Team Gold Medals; 33 Individual Gold Medals; Top 5 Overall Team – Junior Division; Top 5 Overall Individual – Junior Division</li></ul></td></tr>
 
+</tbody></table>
+
+![](/images/2026%20Competency%20Clusters/EL%20Dept/NSLF_Flash_Fiction_YongXing.jpg)
+<p class="small"> Tan Yong Xing (4E2 2025) presented his award -winning flash fiction piece at school assembly (NSLF 2025 - Flash Fiction: Bronze Award).</p>
+
+![Kee Jun Yi Brayden Top 10 winners in the 1st National Chinese Reading Competition](/images/2026%20Competency%20Clusters/MTL/3.jpg)
+<p class="small"> As part of Huayi Chinese Festival of the Arts 2023, our North Stars were treated to Godot Theatre Company’s Mandarin adaption of Yasmina Reza’s hit play “Art”.</p>
+
+
+![ National Scrabble Competition](/images/2026%20Competency%20Clusters/MTL/4.jpg)
+<p class="small">Achieving 3rd place in the Zonal round of the National Scrabble Competition, the Upper Secondary team displayed remarkable word mastery, strategic thinking and collaboration in their pursuit of excellence.</p>
 		
-![Winning Team](/images/2023%20Competency%20Clusters/prove%20it!%20contest.jpg) 
-<p class="small">Sec 2 Exp students were presented with the Champion Award at the Prove It! Contest 2023 organised by NLB</p>
+![3rd place in the North Zone Competition](/images/2026%20Competency%20Clusters/MTL/5.jpg)
+<p class="small">Our Lower Secondary students achieved 3rd place in the North Zone Competition, showcasing commendable effort, teamwork and enthusiasm throughout the event.</p>
+   
+
+
+
+
+![Winners of the Historical Scene Investigation](/images/2026%20Competency%20Clusters/Humanities/HSI_Silver_and_Bronze_Award_Presentation_2024.jpg)
+<p class="small">Congratulations to our Secondary 2 winners of the Historical Scene Investigation (H.S.I) Challenge 2024! This annual competition gives students a fun and meaningful platform to showcase their historical inquiry and research skills.</p>

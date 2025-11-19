@@ -41,7 +41,7 @@ table, th, td, tr {
  <td>For all students:</td>
 		
 <td>
-<ul><li>Various sports categories - net/barrier; territorial invasion, striking/fielding</li>
+<ul><li>10 Sports across various sports categories - net/barrier; territorial invasion, striking/fielding</li>
 <li>Outdoor Education</li>
 <li> Physical &amp; Health Fitness</li>
 <ul><li>Sleeping health</li>
@@ -50,17 +50,17 @@ table, th, td, tr {
 	
 <td>
 <ul><li>BMI - energy input vs output</li>
-<li>Basic sports first-aid</li></ul></td></tr>
+<li>Basic sports first-aid</li>
+<li>Nutrition for performance</li></ul></td></tr>
 	
 <tr>
-<td>For selected groups of students:</td><td>
-</td>
+<td>For selected groups of students:</td>
+<td><ul><li>Sports Education Program</li>
+<li>Active Youth Recharge</li></ul></td>
+
 <td>
 
-<ul><li>Nutrition for performance</li>
-    
-<li>Sports injuries prevention and management</li>
-    
+<ul>
 <li>Sports training principles</li>
     
 <li>Strength training with apparatus</li>

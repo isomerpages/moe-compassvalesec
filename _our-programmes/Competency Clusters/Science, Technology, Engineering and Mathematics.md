@@ -16,7 +16,7 @@ The STEM x Sustainability programme at CVSS aims to develop in our students comp
 
 ![](/images/2023%20Competency%20Clusters/STEM/9.png) *Mathematics Department*
 
-![](/images/2023%20Competency%20Clusters/STEM/10.png) *Craft &amp; Technology Department*
+![Craft and Tech Department Photo](/images/2026%20Competency%20Clusters/TO_REPLACE__Craft___Technology_Department.jpg)*Craft &amp; Technology Department*
 
 
 <h3>Science</h3>
@@ -79,16 +79,16 @@ table, th, td, tr {
 </tr>
 	<tr>
 <td>For selected groups of students:</td>
-<td><ul><li>Learn heuristics and problem solving capabilities through participation in competitions and specializsed trainings such as  Math Olympiad training and participation in Math Challenges</li></ul></td>
+<td><ul><li>Learn heuristics and problem solving capabilities through participation in competitions and specialised training sessions such as  Math Olympiad training and participation in Math Challenges</li></ul></td>
 		
-<td><ul><li>Students will also have Opportunities to learn coding skills and participate in competition</li></ul></td>
+<td><ul><li>Students will also have opportunities to learn coding skills and participate in competitions</li></ul></td>
 	</tr>
 </tbody>
 </table>
 
 <br>
 
-### Craft &amp; Technology; Nutrition &amp; Food Science
+### Craft &amp; Technology
 
 <table style="width:100%">
 
@@ -108,7 +108,7 @@ table, th, td, tr {
 <li>Applied Module for Secondary One (Common Curriculum)
 </li></ul></td>
 		
-<td><ul><li>Talent development through competitions (e.g. Tan Kah Kee Innovation Competition, Temasek Engineering Olympiad etc)</li>
+<td><ul><li>Talent development through competitions (Tan Kah Kee Young Inventors' Award, Temasek Engineering Olympiad, etc)</li>
 <li>Learning journeys to deepen awareness of sustainability 
 </li></ul></td>
 	</tr>
