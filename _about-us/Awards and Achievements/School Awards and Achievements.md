@@ -83,47 +83,50 @@ _\[Character, Lifeskills &amp; Passion Development]_
 #### Co-curriculum-related Achievements  
 
 
-* National Cadet Corps (NCC) (Air) Unit Recognition Award - Distinction (2021, 2022)
+* National Cadet Corps (NCC) (Air) Unit Recognition Award - Distinction (2021, 2022, 2025); Gold (2024)
 * NCC Outstanding Cadet Award (2022)
   
 
-* National Police Cadet Corps (NPCC) Unit Overall Proficiency Award – Distinction (2022), Gold (2021)
+* National Police Cadet Corps (NPCC) Unit Overall Proficiency Award – Distinction (2022), Gold (2021, 2024)
 * SPF-NPCC Badge Award - 2 students (2022)
   
 
 * Boys’ Brigade Company Recognition Award – Gold (2021, 2022)  
 
-* Boys’ Brigade Best Boy Award – 2 Awardees (2022 &amp; 2023)
+* Boys’ Brigade Best Boy Award – 3 Awardees (2022, 2023, 2025)
   
 * Boys’ Brigade Founder’s Award – 2 Awardees (2022), 4 Awardees (2023)
   
-* Girl Guides (GG) Puan Noor Aishah Award (PNAA) – Gold (2023)
+* Girl Guides (GG) Puan Noor Aishah Award (PNAA) – Gold (2023, 2024, 2025)
   
-* Red Cross Youth (RCY) Unit Recognition Award – Gold (2023)  
+* Red Cross Youth (RCY) Unit Recognition Award – Gold (2023); Silver (2024)  
 * Red Cross Youth (RCY) Director’s Award – 1 Awardee (2023) 
 
-* Singapore Youth Festival Arts Presentation (Band) - Certificate of Accomplishment (2021 &amp; 2023)
-* Singapore Youth Festival Arts Presentation (Choir) - Certificate of Distinction (2019); Certificate of Accomplishment (2023)
-* Singapore Youth Festival Arts Presentation (Dance) - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
-* Singapore Youth Festival Arts Presentation (Drama) - Certificate of Distinction (2021); Certificate of Accomplishment (2023)
+* Singapore Youth Festival Arts Presentation (Band) - Certificate of Accomplishment (2021; 2023); Certificate of Distinction (2025)
+* Singapore Youth Festival Arts Presentation (Choir) - Certificate of Distinction (2019); Certificate of Accomplishment (2023, 2025)
+* Singapore Youth Festival Arts Presentation (Dance) - Certificate of Distinction (2021, 2025); Certificate of Accomplishment (2023)
+* Singapore Youth Festival Arts Presentation (Drama) - Certificate of Distinction (2021); Certificate of Accomplishment (2023, 2025)
   
-* National School Games Floorball (‘C’ Division Boys) 2022 – 3rd Placing  
+* National School Games Basketball ('C' Division Boys): League 6 Championships 2025 - Champion 
+
+* National School Games Floorball (‘C’ Division Boys) 2022 – 3rd Placing  ; ('C' Division Girls) League 2 2025 - 2nd Placing
   
 
-* National School Games Softball ('C' Division Boys) 2023 - 4th Placing  
+* National School Games Softball ('C' Division Boys) 2023 - 4th Placing  ; ('B' Division Boys) 2025 - Top 6th (National)
+* Softball U16 National Squad 2025 - 1 student selected
   
 
 * Yio Chu Kang Secondary School Netball Carnival 2023 – ‘C’ Division Champions  
   
 
-* Netball Combined Schools Selection 2023 – 1 student selected for 17 &amp; Under Zone Development Squad  
+* Netball Combined Schools Selection 2023 – 1 student selected for 17 Under Zone Development Squad  
   
 
 * Singapore Olympic Foundation– Peter Lim Scholarship 2023 – 2 Awardees  
   
 
 * Singapore Amazing Flying Machine Competition (SAFMC) <br> 
-2023 - 1st Placing &amp; Best Performance Award for Cat B (Unpowered Gliders) / 3rd Placing for Cat C1 (Fixed-wing Radio Controlled Flight) / 12th Placing for Cat C2 (First-Person-View Drone Racing); 
+2023 - 1st Placing ; Best Performance Award for Cat B (Unpowered Gliders) / 3rd Placing for Cat C1 (Fixed-wing Radio Controlled Flight) / 12th Placing for Cat C2 (First-Person-View Drone Racing); 
 <br>
 2022 - Cat B: Best Presentation Award, 1st / Cat B: Best Performance Award, 2nd / Cat B: Best Aesthetic Award, 2nd / Cat C: Best Performance Award, 3rd
 
@@ -132,19 +135,19 @@ _\[Character, Lifeskills &amp; Passion Development]_
 * MOE Innergy Award – Silver (2020); Bronze (2017, 2018 &amp; 2023); Commendation (2017; 2020; 2021)  
   
 
-* President’s Award for Teachers – 1 Recipient (2021)  
+* President’s Award for Teachers – 1 Recipient (2021); 1 Finalist (2024)
   
 
-* Outstanding Youth in Education Award – 1 Recipient (2011); Finalists (2019 &amp; 2020)  
+* Outstanding Youth in Education Award – 2 Recipients (2011; 2025); Finalists (2019, 2020, 2024)  
   
 
 * Caring Teacher Award – National Level – 1 Awardee (2018)  
   
 
-* Outstanding STEM Teacher Award &nbsp;-&nbsp; 1 Recipient (2022)  
+* Outstanding STEM Teacher Award - 1 Recipient (2022)  
   
 
 * National Awards (Covid-19) Covid-19 Resilience Medal (2023 - 2 Awardees)  
   
 
-* LEAP (Listening Educator for Advancement and Progress Award) - 2021 &amp; 2022 (2 Awardees) &amp; 2023 (Certificate of Commendation – 2 Awardees)
+* LEAP (Listening Educator for Advancement and Progress Award) - 2021; 2022 (2 Awardees); 2023 (Certificate of Commendation – 2 Awardees)
