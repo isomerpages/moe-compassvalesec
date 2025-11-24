@@ -23,21 +23,25 @@ third_nav_title: Awards and Achievements
   
 _\[Languages, Literature &amp; Humanities\]_
 
-* World Scholar’s Cup (Singapore Regional Round) (2023 – 13 Individual Gold, 7 Team Gold, 10 Individual Silver, 12 Team Silver; 2022 - 10 Gold, 12 Silver)
+* Asia Pacific Debate Championships (2024) - Rookie Under 16 category (Champion)
+ 
+* World Scholar’s Cup (Singapore Regional Round) (2025 - 18 Gold; 46 Silver Medals; 2023 – 13 Individual Gold, 7 Team Gold, 10 Individual Silver, 12 Team Silver; 2022 - 10 Gold, 12 Silver)
 
-* National Schools Literature Festival (2023 – Choral Speaking &amp; Flash Fiction (Bronze Awards), Unseen Debate (Winning Team); 2021 - Choral Speaking (Gold Award))
+* National Schools Literature Festival (2025 - Flash Fiction (Bronze Award); Unseen Debate (Winning Team); 2023 – Choral Speaking; Flash Fiction (Bronze Awards), Unseen Debate (Winning Team); 2021 - Choral Speaking (Gold Award))
 
-* National Create Your Own Newspaper Competition (2023 - 3rd Position (Upper Sec); 2022 - 2nd Position (Upper Sec), Commendation Award (Lower Sec))
+* National Create Your Own Newspaper Competition (2025 - 2nd Position &amp; Best Theme Award; 2023 - 3rd Position (Upper Sec); 2022 - 2nd Position (Upper Sec), Commendation Award (Lower Sec))
 
-* 6th National Text Recital Competition (Chinese) (2023 - 1st Position &amp; Gold Award, 1 Bronze Award)
+* 6th National Text Recital Competition (Chinese) (2023 - 1st Position; Gold Award, 1 Bronze Award)
 
 * ‘Saya Boleh Mengarang’ Competition (Malay) (2023 – 3rd Position &amp; Gold with Distinction, 3 Silver, 9 Bronze)
 
-* 'Pena Emasku' Essay Writing Competition (2023 - 12 Gold) 
+* 'Pena Emasku' Essay Writing Competition (2025 - 4 Gold, 40 Silver; 2023 - 12 Gold) 
 
-* Historical Scene Investigation Challenge (2023 – 2 Silver Team awards; 2022 - Silver Award)
+* Historical Scene Investigation Challenge (2025 - Gold; 2023 – 2 Silver Team awards; 2022 - Silver Award)
 
-* Istana Heritage Gallery Challenge – 1st Place
+*  MOE History Challenge (2025- 1 student was selected for the History Talent Development Programme; 2023 - 2 Sec 3 students were selected).
+
+* Istana Heritage Gallery Challenge – (2023 - 1st Place)
 
 * NLB Prove It! Challenge 2023- 1st Place
 
