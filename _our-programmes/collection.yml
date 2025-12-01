@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - AI Policy.md
       - The Compassvale Experience.md
       - Competency Clusters/.keep
       - Competency Clusters/Languages, Literature and Humanities.md
@@ -11,8 +10,8 @@ collections:
       - Competency Clusters/Physical Education and Sports Nutrition.md
       - Competency Clusters/Leadership and Service.md
       - Competency Clusters/Character, Life Skills and Passion Development.md
-      - Distinctive Programmes/Overseas Learning Experiences (OLE).md
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/Overseas Learning Experiences (OLE).md
       - Distinctive Programmes/Enhanced Applied Learning Programme – (ALP –
         ACES).md
       - Distinctive Programmes/Learning for Life Programme – Green Compass
@@ -31,3 +30,4 @@ collections:
       - Student Development Programmes/Student Well Being.md
       - Student Development Programmes/Student Leadership.md
       - Student Development Programmes/Co Curricular Activities.md
+      - AI Policy.md
