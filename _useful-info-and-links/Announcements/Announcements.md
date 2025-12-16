@@ -7,10 +7,13 @@ variant: markdown
 ---
 * [2024 GCE O Levels Results Release Briefing Slides](/files/2024%20O%20Level%20Matters/2024_O_level__ecg_admin_.pdf)
 
-* [2025 Semester 2 Sec 1 Timetables](/files/2025%20Time%20tables/2025_Sem_2_Sec_1_caa_250626.pdf)
-* [2025 Semester 2 Sec 2 Timetables](/files/2025%20Time%20tables/2025_Sem_2_Sec_2_caa_250626.pdf)
-* [2025 Semester 2 Sec 3 Timetables](/files/2025%20Time%20tables/2025_Sem_2_Sec_3.pdf)
-* [2025 Semester 2 Sec 4/5 Timetables](/files/2025%20Time%20tables/2025_Sem_2_Sec_45.pdf)
+* [2026 Semester 1 Sec 1 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_1.pdf)
+
+* [2026 Semester 1 Sec 2 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_2.pdf)
+
+* [2026 Semester 1 Sec 3 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_3.pdf)
+
+* [2026 Semester 1 Sec 4/5 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_4_5.pdf)
 
 *   [2026 Booklist and Uniform Order Form (Sec 1 to Sec 5)](/announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/)
            
