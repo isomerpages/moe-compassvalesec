@@ -36,7 +36,7 @@ sections:
       id: infopic
       button: Click to view
       url: /2025-n-level-results-briefing/
-      image: /images/Landing Page/WhatsApp_Image_2025_12_18_at_17_23_47.jpg
+      image: /images/Landing Page/n level results edit.png
       alt: Image alt text
   - infopic:
       title: 2026 Semester 1 Timetables
