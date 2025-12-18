@@ -32,6 +32,14 @@ sections:
       alt: Booklist
       description: Booklists for Secondary 1 to 5 levels
   - infopic:
+      title: 2026 Semester 1 Timetables
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      button: Click to view them
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/sch_building__values_4Cs.jpg
+      alt: Image alt text
+  - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -62,13 +70,5 @@ sections:
       button: See full video on CVSS Youtube
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
-      alt: Image alt text
-  - infopic:
-      title: 2026 Semester 1 Timetables
-      subtitle: ANNOUNCEMENT
-      id: infopic
-      button: Click to view them
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/sch_building__values_4Cs.jpg
       alt: Image alt text
 ---
