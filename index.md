@@ -24,17 +24,6 @@ sections:
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infopic:
-      title: CVSS OPEN HOUSE 2025
-      subtitle: Announcement
-      id: infopic
-      button: Visit CVSS on Instagram!
-      url: https://www.instagram.com/compassvalesecsch?igsh=d2Jza3R0eGptOWVs&utm_source=qr
-      image: /images/Landing Page/2025_Open_House_Banner.jpg
-      alt: Image alt text
-      description: Visit our booths to learn about our distinctive programmes, and go
-        on a school tour to learn more about what makes CVSS a vibrant place to
-        Learn, Grow & Lead!
-  - infopic:
       title: 2026 CVSS BOOKLIST
       id: infopic
       button: Click for more info
