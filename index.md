@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
-      image: /images/Landing Page/overview - morning assembly.jpeg
+      image: /images/Landing Page/sch_facade___entrance.jpg
       alt: Image alt text
   - infopic:
       title: 2026 CVSS BOOKLISTS
@@ -37,7 +37,7 @@ sections:
       id: infopic
       button: Click to view them
       url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/sch_facade___entrance.jpg
+      image: /images/Landing Page/sch_building__values_4Cs.jpg
       alt: Image alt text
   - infopic:
       title: Learn, Grow and Lead at Compassvale
