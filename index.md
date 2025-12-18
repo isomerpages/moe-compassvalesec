@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
-      image: /images/Landing Page/sch_facade___entrance.jpg
+      image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infopic:
       title: 2026 CVSS BOOKLISTS
@@ -31,14 +31,6 @@ sections:
       image: /images/School_books2.jpg
       alt: Booklist
       description: Booklists for Secondary 1 to 5 levels
-  - infopic:
-      title: 2026 Semester 1 Timetables
-      subtitle: announcement
-      id: infopic
-      button: Click to view them
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/sch_building__values_4Cs.jpg
-      alt: Image alt text
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
@@ -70,5 +62,13 @@ sections:
       button: See full video on CVSS Youtube
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
+      alt: Image alt text
+  - infopic:
+      title: 2026 Semester 1 Timetables
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      button: Click to view them
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/sch_building__values_4Cs.jpg
       alt: Image alt text
 ---
