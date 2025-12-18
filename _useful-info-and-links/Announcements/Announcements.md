@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
-* [Information 2026 Secondary 1 Students and Parents](https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage)
+* [Information for 2026 Sec 1 Students and Parents](https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage)
 
 * [2026 Semester 1 Sec 1 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_1.pdf)
 
