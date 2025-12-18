@@ -17,23 +17,28 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: CVSS OPEN HOUSE 2025
-      subtitle: Announcement
+      title: Information for 2026 S1 Students & Parents
       id: infopic
-      button: Visit CVSS on Instagram!
-      url: https://www.instagram.com/compassvalesecsch?igsh=d2Jza3R0eGptOWVs&utm_source=qr
-      image: /images/Landing Page/2025_Open_House_Banner.jpg
+      button: Click Here
+      url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
+      image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
-      description: Visit our booths to learn about our distinctive programmes, and go
-        on a school tour to learn more about what makes CVSS a vibrant place to
-        Learn, Grow & Lead!
   - infopic:
-      title: 2026 CVSS BOOKLIST
+      title: 2026 CVSS BOOKLISTS
       id: infopic
-      button: Click for more info
+      button: Click to view them
       url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
       image: /images/School_books2.jpg
       alt: Booklist
+      description: Booklists for Secondary 1 to 5 levels
+  - infopic:
+      title: 2026 Semester 1 Timetables
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      button: Click to view them
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/sch_building__values_4Cs.jpg
+      alt: Image alt text
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!

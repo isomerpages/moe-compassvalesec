@@ -1,11 +1,14 @@
 ---
-title: 2026 Booklist and Uniform Order Form Sec 1 to Sec 5 Levels
+title: 2026 Booklist and Uniform Order Form (Sec 1 to Sec 5)
 permalink: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026 Booklist/CVSS_Sec_1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+</p>
+</li>
 <li>
 <p><a href="/files/2026 Booklist/CVSS_Sec_2_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
@@ -16,6 +19,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/2026 Booklist/Compassvale_Secondary_2026___Sec_4_Purple___uniform___info_Revised.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 Booklist/CVSS_Sec_5_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
 </p>
 </li>
 <li>
