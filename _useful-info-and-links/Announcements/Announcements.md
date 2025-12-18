@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
-* [2024 GCE O Levels Results Release Briefing Slides](/files/2024%20O%20Level%20Matters/2024_O_level__ecg_admin_.pdf)
-
 * [2026 Semester 1 Sec 1 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_1.pdf)
 
 * [2026 Semester 1 Sec 2 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_2.pdf)
