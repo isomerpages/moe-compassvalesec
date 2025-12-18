@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Information for 2026 S1 Students & Parents
       id: infopic
-      button: Click Here
+      button: Click Here for more info
       url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
