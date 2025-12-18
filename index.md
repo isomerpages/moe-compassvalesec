@@ -32,6 +32,13 @@ sections:
       alt: Booklist
       description: Booklists for Secondary 1 to 5 levels
   - infopic:
+      title: 2025 N-Level Briefing Slides
+      id: infopic
+      button: Click to view
+      url: /2025-n-level-results-briefing/
+      image: /images/Landing Page/WhatsApp_Image_2025_12_18_at_17_23_47.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 Semester 1 Timetables
       subtitle: ANNOUNCEMENT
       id: infopic
