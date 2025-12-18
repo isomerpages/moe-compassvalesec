@@ -24,12 +24,13 @@ sections:
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
   - infopic:
-      title: 2026 CVSS BOOKLIST
+      title: 2026 CVSS BOOKLISTS
       id: infopic
-      button: Click for more info
+      button: Click to view them
       url: /announcements/booklist-and-uniform-order-form-sec-1-to-sec-5/
       image: /images/School_books2.jpg
       alt: Booklist
+      description: Booklists for Secondary 1 to 5 levels
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
