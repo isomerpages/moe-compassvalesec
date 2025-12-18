@@ -17,6 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: Information for 2026 S1 Students & Parents
+      id: infopic
+      button: Click Here
+      url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
+      image: /images/Landing Page/overview - morning assembly.jpeg
+      alt: Image alt text
+  - infopic:
       title: CVSS OPEN HOUSE 2025
       subtitle: Announcement
       id: infopic
@@ -65,12 +72,5 @@ sections:
       button: See full video on CVSS Youtube
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
-      alt: Image alt text
-  - infopic:
-      title: Information for 2026 S1 Students & Parents
-      id: infopic
-      button: Click Here
-      url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
-      image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
 ---
