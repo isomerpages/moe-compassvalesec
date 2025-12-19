@@ -28,11 +28,7 @@ variant: markdown
     <td class="tg-ktyi">Mr Chua Tung Kian</td>
 		<td class="tg-ktyi">chua_tung_kian@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Vice-Principal (Academic)</td>
-    <td class="tg-ktyi">Mr Sukhdev Singh</td>
-		<td class="tg-ktyi">sukhdev_singh_a@moe.edu.sg</td>
-  </tr>
+
   <tr>
     <td class="tg-dgl5">Vice-Principal (Academic)</td>
     <td class="tg-ktyi">Mrs Jacqueline Tang</td>
