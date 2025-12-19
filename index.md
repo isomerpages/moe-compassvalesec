@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Information for 2026 S1 Students & Parents
       id: infopic
-      button: Click Here
+      button: Click Here for more info
       url: https://sites.google.com/moe.edu.sg/cvss2026sec1registration/homepage
       image: /images/Landing Page/overview - morning assembly.jpeg
       alt: Image alt text
@@ -39,6 +39,13 @@ sections:
       url: https://www.compassvalesec.moe.edu.sg/announcements/
       image: /images/Landing Page/sch_building__values_4Cs.jpg
       alt: Image alt text
+  - infopic:
+      title: 2025 GCE N-Level Briefing Slides
+      id: infopic
+      button: Click to view
+      url: /2025-n-level-results-briefing/
+      image: /images/Landing Page/n level results edit.png
+      alt: Students holding NLevel Result
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
