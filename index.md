@@ -32,13 +32,6 @@ sections:
       alt: Booklist
       description: Booklists for Secondary 1 to 5 levels
   - infopic:
-      title: 2025 N-Level Briefing Slides
-      id: infopic
-      button: Click to view
-      url: /2025-n-level-results-briefing/
-      image: /images/Landing Page/n level results edit.png
-      alt: Students holding NLevel Result
-  - infopic:
       title: 2026 Semester 1 Timetables
       subtitle: ANNOUNCEMENT
       id: infopic
@@ -46,6 +39,13 @@ sections:
       url: https://www.compassvalesec.moe.edu.sg/announcements/
       image: /images/Landing Page/sch_building__values_4Cs.jpg
       alt: Image alt text
+  - infopic:
+      title: 2025 GCE N-Level Briefing Slides
+      id: infopic
+      button: Click to view
+      url: /2025-n-level-results-briefing/
+      image: /images/Landing Page/n level results edit.png
+      alt: Students holding NLevel Result
   - infopic:
       title: Learn, Grow and Lead at Compassvale
       subtitle: An invitation!
