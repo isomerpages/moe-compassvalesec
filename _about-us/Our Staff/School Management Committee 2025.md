@@ -34,6 +34,16 @@ variant: markdown
     <td class="tg-ktyi">Mrs Jacqueline Tang</td>
 		<td class="tg-ktyi">lee_wui_lin_jacqueline@moe.edu.sg</td>
   </tr>
+	  <tr>
+    <td class="tg-dgl5">Vice-Principal (Academic)</td>
+    <td class="tg-ktyi">Mr Sze Guan Kiat</td>
+		<td class="tg-ktyi">sze_guan_kiat@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-dgl5">Vice-Principal (Academic)</td>
+    <td class="tg-ktyi">Mdm Ng Siew Chin</td>
+		<td class="tg-ktyi">ng_siew_chin_a@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-s7g5" colspan="3">Heads of Department</td>
   </tr>
