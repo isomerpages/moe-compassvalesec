@@ -4,7 +4,6 @@ collections:
     order:
       - Announcements/.keep
       - Announcements/Announcements.md
-      - Announcements/Parent Engagement Policy.md
       - Useful Links.md
       - Administrative Matters/.keep
       - Administrative Matters/Main.md

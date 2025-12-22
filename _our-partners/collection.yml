@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
+      - Parent Engagement Policy.md
       - Parent Support Group.md
       - Alumni.md
