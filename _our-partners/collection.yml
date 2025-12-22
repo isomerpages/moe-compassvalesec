@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - Parent Engagement Policy.md
       - School Advisory Committee.md
+      - Parent Engagement Policy.md
       - Parent Support Group.md
       - Alumni.md
