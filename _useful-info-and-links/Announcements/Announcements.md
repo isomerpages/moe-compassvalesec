@@ -9,7 +9,8 @@ variant: markdown
 
 * [2026 Semester 1 Sec 1 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_1.pdf)
 
-* [2026 Semester 1 Sec 2 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_2.pdf)
+
+* [2026 Semester 1 Sec 2 Timetables](/files/2026%20Timetable/2026_sem_1_Sec_2_caa_251223.pdf)
 
 * [2026 Semester 1 Sec 3 Timetables](/files/2026%20Timetable/2026_Sem_1_TT_Sec_3.pdf)
 
