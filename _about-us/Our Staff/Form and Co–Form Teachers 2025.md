@@ -198,14 +198,20 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-9hzb">3-7</td>
-    <td class="tg-dgl5">Chan Seong Hung (Jeremy)<br><i>chan_seong_hung@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Chan Seong Hung (Jeremy)<br><i>chan_seong_hung@moe.edu.sg</i></td>
     <td class="tg-dgl5">Ms Tow Junli, Natalie<br><i>Tow_junli_natalie@moe.edu.sg </i></td>
 	 <td class="tg-dgl5"></td>
       </tr>
   <tr>
     <td class="tg-9hzb">3-8</td>
-    <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick)<br><i>chong_khiam_kiat@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Mdm Fazleen Bte Mahmud<br><i>fazleen_mahmud@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Koh Yi Ming<br><i>Koh_yi_ming@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Ng Junjie<br><i>ng_junjie@moe.edu.sg </i></td>
+    <td class="tg-dgl5"></td>
+  </tr>
+	 <tr>
+    <td class="tg-9hzb">3-9</td>
+    <td class="tg-dgl5">Mr Ng Hong Pin<br><i>ng_hong_pin@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Chan Suz Yi (Mrs Khoo)<br><i>chan_suz_yi@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
