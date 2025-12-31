@@ -215,50 +215,50 @@ variant: markdown
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4E1</td>
+    <td class="tg-9hzb">4-1</td>
     <td class="tg-dgl5">Mr Ng Hong Pin<br><i>ng_hong_pin@moe.edu.sg  </i></td>
     <td class="tg-dgl5">Mdm Zubaidah Leyman<br><i>zubaidah_leyman@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4E2</td>
+    <td class="tg-9hzb">4-2</td>
     <td class="tg-dgl5">Mr Arman Sujak
 <br><i>arman_sujak@moe.edu.sg </i></td>
     <td class="tg-dgl5">Ms Jin Chan<br><i>jin_chan@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4E3</td>
+    <td class="tg-9hzb">4-3</td>
     <td class="tg-dgl5">Mr Chan Seong Hung Jeremy<br><i>chan_seong_hung@moe.edu.sg </i></td>
     <td class="tg-dgl5">Ms Shahirah Bte Muhammad Sharif<br><i>shahirah_muhammad_sharif@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4E4</td>
+    <td class="tg-9hzb">4-4</td>
     <td class="tg-dgl5">Mdm Huang Shiying April<br><i>huang_shiying@moe.edu.sg  </i></td>
     <td class="tg-dgl5">Mr Ng Junjie<br><i>ng_junjie@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4N1</td>
+    <td class="tg-9hzb">4-5</td>
     <td class="tg-dgl5">Mr Wong Yew Chiang Ryan<br><i>ryan_wong@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mdm Ng Sin Yin Rebecca<br><i>ng_sin_yin_rebecca@moe.edu.sg  </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4N2</td>
+    <td class="tg-9hzb">4-6</td>
     <td class="tg-dgl5">Mdm Tso Shuk Yan Amy<br><i>amy_tso_shuk_yan@moe.edu.sg  </i></td>
     <td class="tg-dgl5">Mr Leong Kok Wai<br><i>leong_kok_wai@moe.edu.sg  </i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
-    <td class="tg-9hzb">4N3</td>
+    <td class="tg-9hzb">4-7</td>
     <td class="tg-dgl5">Ms Mohanajothi Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg </i></td>
     <td class="tg-dgl5">Ms Nah Cher Hui Faith <br><i>nah_cher_hui_faith@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
   </tr>
 	 <tr>
-    <td class="tg-9hzb">4T1</td>
+    <td class="tg-9hzb">4-8</td>
     <td class="tg-dgl5">Mdm Noranika Murni Bte Dol Karim<br><i>noranika_murni_dol_karim@moe.edu.sg  </i></td>
     <td class="tg-dgl5">Mdm Chin Li Li (Mrs Koh)<br><i>chin_li_li@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
@@ -273,4 +273,4 @@ variant: markdown
 </tbody>
 </table>
 
-*updated 5 Jan 2024*
+*updated 31 December 2025*
