@@ -139,14 +139,12 @@ variant: markdown
     <td class="tg-dgl5">Mr Patrick Ho Wee Kheat <br><i>ho_wee_kheat@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
   </tr>
-	
 	<tr>
     <td class="tg-9hzb">2-10</td>
     <td class="tg-dgl5">Mdm Clarissa Lim Yiling<br><i>lim_yiling_clarissa@moe.edu.sg</i></td>
     <td class="tg-dgl5">Mr Kwan Mun Wai Mark<br><i>kwan_mun_wai@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
   </tr>
-	
 	<tr>
     <td class="tg-9hzb">2-11</td>
     <td class="tg-dgl5">Mdm Chitra Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg</i></td>
@@ -155,52 +153,53 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-9hzb">3-1</td>
-    <td class="tg-dgl5">Miss Leow Deng Li<br><i>leow_deng_li@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>nur_azam_jaffar@moe.edu.sg  </i></td>
+    <td class="tg-dgl5">Ms Zhou Yuxi<br><i>Zhou_yuxi@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Nur Nasyrah Bte Ahmad <br><i>nur_nasyrah_ahmad@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">3-2</td>
-		<td class="tg-dgl5">Mr Wang Tiancai, Richmond
-<br><i>wang_tiancai_richmond@moe.edu.sg </i></td>
- <td class="tg-dgl5">Ms Nur Nasyrah Ahmad<br>
-<i>nur_nasyrah_ahmad@moe.edu.sg</i></td>
-<td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow)
-<br><i>lei_peishan@moe.edu.sg </i></td>
+		<td class="tg-dgl5">Miss Tan Siew Hian Yvonne
+<br><i>tan_siew_hian@moe.edu.sg</i></td>
+ <td class="tg-dgl5">Mr Noor Syafiq<br>
+<i>noor_syafiq_abdul_rashid@moe.edu.sg </i></td>
+<td class="tg-dgl5">
+<br><i></i></td>
 </tr>
   <tr>
     <td class="tg-9hzb">3-3</td>
-		    <td class="tg-dgl5">Mrs Viddyawati Gunalan
-<br><i>viddyawati_gunalan@moe.edu.sg </i></td>
-<td class="tg-dgl5"> Mr Fauwaz Nurhelmy Bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg </i></td>
+		    <td class="tg-dgl5">Miss Ang Si Min
+<br><i>Ang_si_min@moe.edu.sg</i></td>
+<td class="tg-dgl5"> Mdm Choo Wui Kee (Mrs Vicki Koh)<br><i>choo_wui_kee@moe.edu.sg
+
+</i></td>
 		<td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3-4</td>
-		 <td class="tg-dgl5">Mdm Chia Winnie (Mrs Lim)<br><i>chia_winnie@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mr Por Ee Lian Benjamin<br><i>por_ee_lian@moe.edu.sg </i></td>
+		 <td class="tg-dgl5">Ms Ng Hwee Kiang <br><i>ng_hwee_kianghuang_huijuan@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">3-5</td>
-    <td class="tg-dgl5">Mr Ang Chee Yong<br><i>ang_chee_yong@moe.edu.sg</i> </td>
-    <td class="tg-dgl5">Mr Foo Chang Yong (John)<br><i>foo_chang_yong_john@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Goh Hui Shi<br><i>
-			goh_hui_shi_a@moe.edu.sg</i>
+    <td class="tg-dgl5">Mdm Zubaidah Leyman<br><i>zubaidah_leyman@moe.edu.sg</i> </td>
+    <td class="tg-dgl5">Ms Goh Hui Shi<br><i>Goh_hui_shi_a@moe.edu.sg </i></td>
+    <td class="tg-dgl5"> 
 </td>
  </tr>
  <tr>
     <td class="tg-9hzb">3-6</td>
-    <td class="tg-dgl5">Mdm Chew Biyu Mildred <br><i>chew_biyu_mildred@moe.edu.sg </i></td>
-		 <td class="tg-dgl5">Ms Ng Hwee Kiang<br>
-			 <i>ng_hwee_kianghuang_huijuan@moe.edu.sg</i>
+    <td class="tg-dgl5">Mdm Chin Li Li (Mrs Koh)<br><i>chin_li_li@moe.edu.sg </i></td>
+		 <td class="tg-dgl5">Ms Shahirah Bte Muhammad Sharif<br>
+			 <i>shahirah_muhammad_sharif@moe.edu.sg </i>
 </td><td class="tg-dgl5"></td>
 		
   </tr>
   <tr>
     <td class="tg-9hzb">3-7</td>
-    <td class="tg-dgl5">Mr Goh Wenjie Reuben<br><i>goh_wenjie_reuben@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mdm Nur Ellyna Bte Mohamed Isa<br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Chan Seong Hung (Jeremy)<br><i>chan_seong_hung@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Ms Tow Junli, Natalie<br><i>Tow_junli_natalie@moe.edu.sg </i></td>
 	 <td class="tg-dgl5"></td>
       </tr>
   <tr>
