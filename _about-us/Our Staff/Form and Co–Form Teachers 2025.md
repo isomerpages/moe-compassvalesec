@@ -139,6 +139,20 @@ variant: markdown
     <td class="tg-dgl5">Mr Patrick Ho Wee Kheat <br><i>ho_wee_kheat@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
   </tr>
+	
+	<tr>
+    <td class="tg-9hzb">2-10</td>
+    <td class="tg-dgl5">Mdm Clarissa Lim Yiling<br><i>lim_yiling_clarissa@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Kwan Mun Wai Mark<br><i>kwan_mun_wai@moe.edu.sg </i></td>
+    <td class="tg-dgl5"></td>
+  </tr>
+	
+	<tr>
+    <td class="tg-9hzb">2-11</td>
+    <td class="tg-dgl5">Mdm Chitra Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Patrick Ho Wee Kheat <br><i>ho_wee_kheat@moe.edu.sg </i></td>
+    <td class="tg-dgl5"></td>
+  </tr>
   <tr>
     <td class="tg-9hzb">3-1</td>
     <td class="tg-dgl5">Miss Leow Deng Li<br><i>leow_deng_li@moe.edu.sg </i></td>
