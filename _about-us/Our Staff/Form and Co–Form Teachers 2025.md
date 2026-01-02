@@ -224,7 +224,7 @@ variant: markdown
     <td class="tg-9hzb">4-2</td>
     <td class="tg-dgl5">Mr Wang Tiancai, Richmond
 <br><i>wang_tiancai_richmond@moe.edu.sg</i></td>
-    <td class="tg-dgl5">MdmLei Peishan (Mrs Seow) <br><i>lei_peishan@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Lei Peishan (Mrs Seow) <br><i>lei_peishan@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
@@ -236,8 +236,8 @@ variant: markdown
   <tr>
     <td class="tg-9hzb">4-4</td>
     <td class="tg-dgl5">Mdm Noranika Murni Bte Dol Karim<br><i>noranika_murni_dol_karim@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin) <br><i>por_ee_lian@moe.edu.sg</i></td>
-    <td class="tg-dgl5"> </td>
+    <td class="tg-dgl5">Mdm Chia Winnie (Mrs Lim)<br><i>chia_winnie@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin) <br><i>por_ee_lian@moe.edu.sg</i> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-5</td>
