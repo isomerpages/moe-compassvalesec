@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-![](/images/About%20Us%20%20%20Staff/national%20day_staff_2023_edited.jpg)
+![](/images/All_staff_fun_shot_cropped.jpg)
 
 * [School Management Committee](https://www.compassvalesec.moe.edu.sg/about-us/our-staff/school-management-committee-2026/)
 
