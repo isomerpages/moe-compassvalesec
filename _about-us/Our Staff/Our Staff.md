@@ -7,7 +7,6 @@ variant: markdown
 ---
 ![](/images/All_staff_fun_shot_cropped.jpg)
 
-
 * [School Management Committee](https://www.compassvalesec.moe.edu.sg/about-us/our-staff/school-management-committee-2026/)
 
 * [Form / Co-Form Teachers](https://www.compassvalesec.moe.edu.sg/about-us/our-staff/form-co-form-teachers-2026/)
