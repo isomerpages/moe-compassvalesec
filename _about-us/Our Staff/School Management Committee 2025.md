@@ -115,12 +115,6 @@ variant: markdown
 		<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Year Head 2 </td>
-    <td class="tg-ktyi">Mdm Edwina Cheng</td>
-		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
-  </tr>
-
-  <tr>
     <td class="tg-dgl5">School Staff Developer</td>
     <td class="tg-ktyi">Mr Chan Haw Ling</td>
   	<td class="tg-ktyi">chan_haw_ling@moe.edu.sg</td></tr>
@@ -239,7 +233,11 @@ variant: markdown
     <td class="tg-ktyi">Mdm Zhang Wei</td>
 		<td class="tg-ktyi">zhang_wei@moe.edu.sg</td>
   </tr>
-  
+    <tr>
+    <td class="tg-dgl5">Educational Support (Acting)</td>
+    <td class="tg-ktyi">Mdm Edwina Cheng</td>
+		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-s7g5" colspan="3">Senior Teachers</td>
   </tr>
