@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Manimaran s/o Subramaniam</p>
