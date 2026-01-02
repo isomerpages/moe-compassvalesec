@@ -1,6 +1,6 @@
 ---
-title: Executive and Administration Staff 2025
-permalink: /about-us/our-staff/executive-and-administration-staff-2025/
+title: Executive and Administration Staff 2026
+permalink: /about-us/our-staff/executive-and-administration-staff-2026/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap
@@ -35,14 +35,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Phua Hock Chuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Manimaran s/o Subramaniam</p>

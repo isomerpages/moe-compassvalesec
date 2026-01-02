@@ -1,6 +1,6 @@
 ---
-title: School Management Committee 2025
-permalink: /about-us/our-staff/school-management-committee-2025/
+title: School Management Committee 2026
+permalink: /about-us/our-staff/school-management-committee-2026/
 description: ""
 third_nav_title: Our Staff
 variant: markdown
@@ -83,33 +83,37 @@ variant: markdown
     <td class="tg-ktyi">Mr Kuan Wai Kit</td>
 		<td class="tg-ktyi">kuan_wai_kit@moe.edu.sg</td>
   </tr>
-	 <tr>
-    <td class="tg-dgl5">Student Management</td>
-    <td class="tg-ktyi">Mr Lim Chang Huat Timothy</td>
-		<td class="tg-ktyi">lim_chang_huat_timothy@moe.edu.sg</td>
-  </tr>
-	  <tr>
+		<tr>
+    <td class="tg-dgl5">Physical Education and CCA </td>
+    <td class="tg-ktyi">Mr Paul Tham Chun Kit</td>
+		<td class="tg-ktyi">tham_chun_kit@moe.edu.sg</td>
+  </tr> 
+			<tr>
     <td class="tg-dgl5">Character and Citizenship Education</td>
     <td class="tg-ktyi">Mdm Seow Yi Shan</td>
 		<td class="tg-ktyi">seow_yi_shan@moe.edu.sg</td>
   </tr>
- 
-  <tr>
-    <td class="tg-dgl5">Year Head (Lower Sec) (Acting)</td>
+	<tr>
+    <td class="tg-dgl5">Student Management</td>
+    <td class="tg-ktyi">Mr Lim Chang Huat Timothy</td>
+		<td class="tg-ktyi">lim_chang_huat_timothy@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Student Leadership (Acting)</td>
+    <td class="tg-ktyi">Mr Benjamin Por</td>
+		<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
+    </tr><tr>
+	  
+  </tr><tr>
+    <td class="tg-dgl5">Year Head (Lower Sec) </td>
     <td class="tg-ktyi">Mdm Donna Chang </td>
 		<td class="tg-ktyi">chang_sin_yi_donna@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-dgl5">Year Head (Upper Sec) (Acting) </td>
+    <td class="tg-dgl5">Year Head (Upper Sec) </td>
     <td class="tg-ktyi">Mr Kartik</td>
 		<td class="tg-ktyi">kartik_gayan_rajaram@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Year Head 2 </td>
-    <td class="tg-ktyi">Mdm Edwina Cheng</td>
-		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
-  </tr>
-
   <tr>
     <td class="tg-dgl5">School Staff Developer</td>
     <td class="tg-ktyi">Mr Chan Haw Ling</td>
@@ -127,7 +131,11 @@ variant: markdown
     <td class="tg-ktyi">Ms Pamela Ng</td>
 		<td class="tg-ktyi">pamela_ng_si_ying@moe.edu.sg</td>
   </tr>
- 
+ 	  <tr>
+    <td class="tg-dgl5">Chinese Language</td>
+    <td class="tg-ktyi">Mr Ng Seng Hong</td>
+		<td class="tg-ktyi">ng_seng_hong@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Mathematics </td>
     <td class="tg-ktyi">Mrs Seow Peishan</td>
@@ -149,9 +157,9 @@ variant: markdown
 		<td class="tg-ktyi">tay_siew_woon@moe.edu.sg</td>
   </tr>
 		<tr>
-    <td class="tg-dgl5">Geography</td>
-    <td class="tg-ktyi">Mr Andrea Ang</td>
-			<td class="tg-ktyi">andrea_ang_chin_wei@moe.edu.sg</td>
+    <td class="tg-dgl5">Geography (Acting)</td>
+    <td class="tg-ktyi">Ms Goh Hui Shi</td>
+			<td class="tg-ktyi"> goh_hui_shi_a@moe.edu.sg</td>
   </tr>
   
   <tr>
@@ -160,7 +168,7 @@ variant: markdown
 		<td class="tg-ktyi">wang_buay_san_ellen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Physical Education /CCA (Acting)</td>
+    <td class="tg-dgl5">Physical Education /CCA</td>
     <td class="tg-ktyi">Mr Soh Meng Le </td>
 		<td class="tg-ktyi">soh_meng_le@moe.edu.sg</td>
   </tr>
@@ -170,12 +178,7 @@ variant: markdown
     <td class="tg-ktyi">Mdm Audrey Leong Meng Wai</td>
 		<td class="tg-ktyi">leong_meng_wai@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-dgl5">Student Leadership</td>
-    <td class="tg-ktyi">Mr Benjamin Por</td>
-		<td class="tg-ktyi">por_ee_lian@moe.edu.sg</td>
-    </tr><tr>
-    <td class="tg-dgl5">Values in Action</td>
+      <tr><td class="tg-dgl5">Values in Action</td>
     <td class="tg-ktyi">Ms Tan Hui Min</td>
 			<td class="tg-ktyi">tan_hui_min@moe.edu.sg</td>
   </tr>
@@ -221,19 +224,24 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Chinese Language</td>
-    <td class="tg-ktyi">Mdm Zhang Wei</td>
-		<td class="tg-ktyi">zhang_wei@moe.edu.sg</td>
-  </tr>
-  
-  <tr>
-    <td class="tg-s7g5" colspan="3">Senior Teachers</td>
-  </tr>
-  <tr>
     <td class="tg-dgl5">English Language</td>
     <td class="tg-ktyi">Mdm Wan Fazithahariani</td>
 		<td class="tg-ktyi">wan_fazithahariani_wan_a@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-dgl5">Chinese Language</td>
+    <td class="tg-ktyi">Mdm Zhang Wei</td>
+		<td class="tg-ktyi">zhang_wei@moe.edu.sg</td>
+  </tr>
+    <tr>
+    <td class="tg-dgl5">Educational Support (Acting)</td>
+    <td class="tg-ktyi">Mdm Edwina Cheng</td>
+		<td class="tg-ktyi">edwina_cheng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-s7g5" colspan="3">Senior Teachers</td>
+  </tr>
+  
 
   <tr>
     <td class="tg-dgl5">Biology</td>
