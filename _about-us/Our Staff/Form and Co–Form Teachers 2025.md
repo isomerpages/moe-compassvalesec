@@ -216,61 +216,62 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-9hzb">4-1</td>
-    <td class="tg-dgl5">Mr Ng Hong Pin<br><i>ng_hong_pin@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Mdm Zubaidah Leyman<br><i>zubaidah_leyman@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Miss Leow Deng Li<br><i>leow_deng_li@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Nur Azam Bin Jaffar<br><i>nur_azam_jaffar@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-2</td>
-    <td class="tg-dgl5">Mr Arman Sujak
-<br><i>arman_sujak@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Jin Chan<br><i>jin_chan@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Wang Tiancai, Richmond
+<br><i>wang_tiancai_richmond@moe.edu.sg</i></td>
+    <td class="tg-dgl5">MdmLei Peishan (Mrs Seow) <br><i>lei_peishan@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-3</td>
-    <td class="tg-dgl5">Mr Chan Seong Hung Jeremy<br><i>chan_seong_hung@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Shahirah Bte Muhammad Sharif<br><i>shahirah_muhammad_sharif@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Fauwaz Nurhelmy Bin Maaroof<br><i>fauwaz_nurhelmy_maaroof@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mrs Viddyawati Gunalan<br><i>viddyawati_gunalan@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-4</td>
-    <td class="tg-dgl5">Mdm Huang Shiying April<br><i>huang_shiying@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Mr Ng Junjie<br><i>ng_junjie@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Noranika Murni Bte Dol Karim<br><i>noranika_murni_dol_karim@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mr Por Ee Lian (Benjamin) <br><i>por_ee_lian@moe.edu.sg</i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-5</td>
-    <td class="tg-dgl5">Mr Wong Yew Chiang Ryan<br><i>ryan_wong@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mdm Ng Sin Yin Rebecca<br><i>ng_sin_yin_rebecca@moe.edu.sg  </i></td>
+    <td class="tg-dgl5">Mr Ang Chee Yong<br><i>ang_chee_yong@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Foo Chang Yong (John)<br><i>foo_chang_yong_john@moe.edu.sg </i></td>
     <td class="tg-dgl5"> </td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-6</td>
-    <td class="tg-dgl5">Mdm Tso Shuk Yan Amy<br><i>amy_tso_shuk_yan@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Mr Leong Kok Wai<br><i>leong_kok_wai@moe.edu.sg  </i></td>
+    <td class="tg-dgl5">Mdm Huang Shiying (April)<br><i>Huang_shiying@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Chew Biyu Mildred<br><i>chew_biyu_mildred@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
     <td class="tg-9hzb">4-7</td>
-    <td class="tg-dgl5">Ms Mohanajothi Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Ms Nah Cher Hui Faith <br><i>nah_cher_hui_faith@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Goh Wenjie Reuben<br><i>goh_wenjie_reuben@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Nur Ellyna Bte Mohamed Isa
+<br><i>nur_ellyna_md_isa@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
   </tr>
 	 <tr>
     <td class="tg-9hzb">4-8</td>
-    <td class="tg-dgl5">Mdm Noranika Murni Bte Dol Karim<br><i>noranika_murni_dol_karim@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Mdm Chin Li Li (Mrs Koh)<br><i>chin_li_li@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Chong Khiam Kiat (Patrick)<br><i>chong_khiam_kiat@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mdm Fazleen Bte Mahmud<br><i>fazleen_mahmud@moe.edu.sg </i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
       <td class="tg-9hzb">5N1</td>
-    <td class="tg-dgl5">Mr Seow Ching Hui Lawrence<br><i>seow_ching_hui@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Ms Mohanajothi Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg</i></td>
   <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee<br><i>mohamad_shalleh_bin_sujaee@moe.edu.sg </i></td>
-    <td class="tg-dgl5">Mdm Leong Meng Wai (Audrey)<br><i>leong_meng_wai@moe.edu.sg</i></td>
+    <td class="tg-dgl5"></td>
 
   </tr>
 </tbody>
 </table>
 
-*updated 31 December 2025*
+*updated 02 January 2026*
