@@ -147,8 +147,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-9hzb">2-11</td>
-    <td class="tg-dgl5">Mdm Chitra Panneer Selvam<br><i>chitra_panneer_selvam@moe.edu.sg</i></td>
-    <td class="tg-dgl5">Mr Patrick Ho Wee Kheat <br><i>ho_wee_kheat@moe.edu.sg </i></td>
+    <td class="tg-dgl5">Mr Chen Changjin (Zac)<br><i>Chen_changjin@moe.edu.sg</i></td>
+    <td class="tg-dgl5">Mdm Ng Xiang Ming <br><i>       Ng_xiang_ming@moe.edu.sg</i></td>
     <td class="tg-dgl5"></td>
   </tr>
   <tr>
@@ -171,11 +171,8 @@ variant: markdown
 		    <td class="tg-dgl5">Miss Ang Si Min
 <br><i>Ang_si_min@moe.edu.sg</i></td>
 <td class="tg-dgl5"> Mdm Choo Wui Kee (Mrs Vicki Koh)<br><i>choo_wui_kee@moe.edu.sg
-
 </i></td>
-		<td class="tg-dgl5"> </td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-9hzb">3-4</td>
 		 <td class="tg-dgl5">Ms Ng Hwee Kiang <br><i>ng_hwee_kianghuang_huijuan@moe.edu.sg </i></td>
     <td class="tg-dgl5">Mr Arman Sujak<br><i>arman_sujak@moe.edu.sg </i></td>
