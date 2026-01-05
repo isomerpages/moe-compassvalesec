@@ -3,11 +3,23 @@ title: Our Staff
 permalink: /about-us/our-staff/our-staff/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-![](/images/About%20Us%20%20%20Staff/national%20day_staff_2023_edited.jpg)
-
-* [School Management Committee](https://www.compassvalesec.moe.edu.sg/about-us/our-staff/school-management-committee-2024/)
-* [Form / Co-Form Teachers](https://www.compassvalesec.moe.edu.sg/about-us/our-staff/form-co-form-teachers-2024/)
-
-* [Executive and Administration Staff](https://www.compassvalesec.moe.edu.sg/about-us/our-staff/executive-and-administration-staff-2024/)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_staff_fun_shot_cropped.jpg">
+</div>
+<ul>
+<li>
+<p><a href="https://www.compassvalesec.moe.edu.sg/about-us/our-staff/school-management-committee-2026/" rel="noopener noreferrer nofollow" target="_blank">School Management Committee</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.compassvalesec.moe.edu.sg/about-us/our-staff/form-co-form-teachers-2026/" rel="noopener noreferrer nofollow" target="_blank">Form / Co-Form Teachers</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.compassvalesec.moe.edu.sg/about-us/our-staff/executive-and-administration-staff-2026/" rel="noopener noreferrer nofollow" target="_blank">Executive and Administration Staff</a>
+</p>
+</li>
+</ul>
+<p></p>
