@@ -48,10 +48,10 @@ will learn to pave their own paths to realise the star within themselves.</p>
 <p>I look forward to building this vibrant and uplifting community with everyone,
 where every North Star can <strong>Learn, Grow and Lead!</strong>
 </p>
+<p></p>
 <p>In partnership with you,</p>
 <p>Tung Kian</p>
 <p>Principal</p>
 <p>Compassvale Secondary School</p>
-<p><a href="mailto:chua_tung_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_tung_kian@moe.edu.sg</a>
-</p>
+<p>chua_tung_kian@moe.edu.sg</p>
 <p></p>
