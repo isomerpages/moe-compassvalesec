@@ -650,7 +650,7 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p>
-<br><strong>At Compassvale Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<br><strong>At Compassvale Secondary School, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 </li>
 </ol>
