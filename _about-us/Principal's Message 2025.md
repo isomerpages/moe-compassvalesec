@@ -31,13 +31,13 @@ and <a href="https://for.edu.sg/perspectives" rel="noopener noreferrer nofollow"
 <p>In an era of constant flux, this total learning experience ensures our
 students become agile and nimble, ready to thrive in futures that are yet
 to be defined.</p>
-<p><strong>Will it be demanding?  Undoubtedly.  </strong>But we will be walking
+<p><strong>Will it be demanding? Undoubtedly. </strong>But we will be walking
 beside them, supporting them both cognitively and socioemotionally. Persisting
 through struggle and challenge is important, because this is the magic
 ingredient to do well in the future. The school provides a safe and controlled
 environment where our students – your children – can learn this vital life
 lesson.</p>
-<p>Beyond the rigour, the <strong>CVSS experience is also filled with countless moments of joy, laughter and camaraderie.  </strong>This
+<p>Beyond the rigour, the <strong>CVSS experience is also filled with countless moments of joy, laughter and camaraderie. </strong>This
 is what our alumni recall fondly. A rich range of experiences and opportunities
 awaits all our students. From inquiry-based academic lessons to leadership
 roles within our myriad of school activities, students will be spoilt for
@@ -46,12 +46,12 @@ choice. They only need to take the first step.</p>
 build lasting friendships and learn how to lead. Most importantly, they
 will learn to pave their own paths to realise the star within themselves.</p>
 <p>I look forward to building this vibrant and uplifting community with everyone,
-where every North Star can <strong>Learn, Grow and Lead! </strong>
+where every North Star can <strong>Learn, Grow and Lead!</strong>
 </p>
 <p>In partnership with you,</p>
 <p>Tung Kian</p>
 <p>Principal</p>
 <p>Compassvale Secondary School</p>
-<p><a href="mailto:chua_tung_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_tung_kian@moe.edu.sg</a> 
+<p><a href="mailto:chua_tung_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_tung_kian@moe.edu.sg</a>
 </p>
 <p></p>
