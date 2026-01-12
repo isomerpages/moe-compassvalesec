@@ -6,8 +6,6 @@ third_nav_title: Student Development Programmes
 variant: tiptap
 ---
 <h3><strong>Moe Sexuality Education in Schools</strong></h3>
-<p>COMPASSVALE SECONDARY SCHOOL</p>
-<p>MOE SEXUALITY EDUCATION IN SCHOOLS</p>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
