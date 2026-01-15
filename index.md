@@ -17,6 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: "2025 O-Level Results Release: Briefing slides"
+      id: infopic
+      button: Click to view slides
+      url: /o-level-results-release-briefing-slides/
+      image: /images/WhatsApp_Image_2026_01_15_at_10_31_34_AM.jpg
+      alt: Image alt text
+  - infopic:
       title: Information for 2026 S1 Students & Parents
       id: infopic
       button: Click Here for more info
