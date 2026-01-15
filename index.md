@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: O level Results Release Briefing slides
+      title: "2025 O level Results Release: Briefing slides"
       id: infopic
       button: Click to view slides
       url: /o-level-results-release-briefing-slides/
