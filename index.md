@@ -20,7 +20,7 @@ sections:
       title: O level Results Release Briefing slides
       id: infopic
       button: Click to view slides
-      url: 2026_O_Level_Results_Release_for_4E5N_students.pdf
+      url: /o-level-results-release-briefing-slides/
       image: /images/WhatsApp_Image_2026_01_15_at_10_31_34_AM.jpg
       alt: Image alt text
   - infopic:
