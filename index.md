@@ -17,6 +17,13 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: O level Results Release Briefing slides
+      id: infopic
+      button: Click to view slides
+      url: 2026_O_Level_Results_Release_for_4E5N_students.pdf
+      image: /images/WhatsApp_Image_2026_01_15_at_10_31_34_AM.jpg
+      alt: Image alt text
+  - infopic:
       title: Information for 2026 S1 Students & Parents
       id: infopic
       button: Click Here for more info
@@ -77,12 +84,5 @@ sections:
       button: See full video on CVSS Youtube
       url: https://for.edu.sg/learningspaces
       image: /images/Landing Page/Refreshed_Learning_Spaces_2.png
-      alt: Image alt text
-  - infopic:
-      title: O level Results Release Briefing slides
-      id: infopic
-      button: Click to view slides
-      url: 2026_O_Level_Results_Release_for_4E5N_students.pdf
-      image: /images/WhatsApp_Image_2026_01_15_at_10_31_34_AM.jpg
       alt: Image alt text
 ---
