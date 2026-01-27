@@ -14,12 +14,13 @@ variant: tiptap
 25 years of outstanding achievements and growth. As we move into 2026,
 we embrace the power of “+1”.</p>
 <p>Adding 1 to 2025 is extremely powerful! For CVSS, 2026 can be beautifully
-represented as (13 + 23 + 33 + 43 + 53 + 63 + 73 + 83 + 93) + 1. The integers
-2 to 9, raised to the power of 3, represents the suite of skills and capabilities
-we have built; the integer 1 raised to the power of 3, represents the timeless,
-unchanging will of education. The “+1” symbolises building-on – leveraging
-our strengths and capabilities honed over the past 25 years to reach the
-next level.</p>
+represented as (1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> + 4<sup>3</sup> +
+5<sup>3</sup> + 6<sup>3</sup> + 7<sup>3</sup> + 8<sup>3</sup> + 9<sup>3</sup>)
++ 1. The integers 2 to 9, raised to the power of 3, represents the suite
+of skills and capabilities we have built; the integer 1 raised to the power
+of 3, represents the timeless, unchanging will of education. The “+1” symbolises
+building-on – leveraging our strengths and capabilities honed over the
+past 25 years to reach the next level.</p>
 <p>What this means is that CVSS is poised to deliver learning experiences
 to ensure our students are World-Ready Youths. All learning in the school
 is organised into <a href="https://www.compassvalesec.moe.edu.sg/our-programmes/the-compassvale-experience/" rel="noopener noreferrer nofollow" target="_blank">Six Integrated Competencies and Development Clusters</a> and
