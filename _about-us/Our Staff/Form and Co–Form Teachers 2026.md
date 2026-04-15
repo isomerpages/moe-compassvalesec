@@ -264,11 +264,10 @@ variant: markdown
   <tr>
       <td class="tg-9hzb">5N1</td>
     <td class="tg-dgl5">Ms Mohanajothi Kesavan<br><i>mohanajothi_kesavan@moe.edu.sg</i></td>
-  <td class="tg-dgl5">Mr Mohamad Shalleh Bin Suja’ee<br><i>mohamad_shalleh_bin_sujaee@moe.edu.sg </i></td>
-    <td class="tg-dgl5"></td>
+      <td class="tg-dgl5"></td>
 
   </tr>
 </tbody>
 </table>
 
-*updated 02 January 2026*
+*updated 15 April  2026*
