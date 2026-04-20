@@ -2,7 +2,6 @@ collections:
   useful-info-and-links:
     output: true
     order:
-      - 2026 Direct School Admission.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Useful Links.md
