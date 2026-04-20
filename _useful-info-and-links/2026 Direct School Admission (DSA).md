@@ -12,7 +12,7 @@ Exercise under the school’s distinctive programmes and talent areas.</p>
 <h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
 <p>We offer DSA-SEC via 2 routes:<strong> <a href="#STEM">STEM (Aeronautics, Environmental Science, Robotics)</a></strong>and <strong><a href="#SPORTS">Sports and Games (Floorball - Boys and Girls, Netball, Softball - Boys, Badminton - Boys and Girls).</a></strong>
 </p>
-<h3><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
+<h3 id="STEM"><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
 <h3><strong>1. STEM: AERONAUTICS</strong></h3>
 <p>The school's Applied Learning Programme in Aeronautics, Coding, Engineering
 and Sustainability (ACES) allows students to learn flight science and develop
@@ -125,7 +125,7 @@ between <strong>17 August 2026 </strong>and <strong>28 August 2026.</strong>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
 	<p></p><p style="text-align: center;"><strong><a href="#KEY"> Key dates and essential information</a></strong>
 </p>
-<h3><strong><u>SPORTS AND GAMES</u></strong></h3>
+<h3 id="SPORTS"><strong><u>SPORTS AND GAMES</u></strong></h3>
 
 <h3><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h3>
 <p>We nurture student-athletes with positive character traits, sportsmanship,
@@ -212,7 +212,7 @@ during competitions etc.).</p>
 between<strong> 17 August 2026</strong> and <strong>28 August 2026.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<h3><strong>KEY DATES</strong></h3>
+<h3 id="KEY"><strong>KEY DATES</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
