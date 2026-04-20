@@ -10,7 +10,7 @@ variant: markdown
 One 2027 through the 2026 Direct School Admission – Secondary (DSA-Sec)
 Exercise under the school’s distinctive programmes and talent areas.</p>
 <h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
-<p>We offer DSA-SEC via 2 routes:<strong> <a href="#STEM" rel="noopener noreferrer nofollow" target="_blank">STEM (Aeronautics, Environmental Science, Robotics)</a></strong>and <strong><a href="#SPORTS" rel="noopener noreferrer nofollow" target="_blank">Sports &amp; Games (Floorball - Boys and Girls, Netball, Softball - Boys, Badminton - Boys and Girls).</a></strong>
+<p>We offer DSA-SEC via 2 routes:<strong> <a href="#STEM" rel="noopener noreferrer nofollow" target="_blank">STEM (Aeronautics, Environmental Science, Robotics)</a></strong>and <strong><a href="#SPORTS" rel="noopener noreferrer nofollow" target="_blank">Sports and Games (Floorball - Boys and Girls, Netball, Softball - Boys, Badminton - Boys and Girls).</a></strong>
 </p>
 <h3><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
 <h3><strong>1. STEM: AERONAUTICS</strong></h3>
@@ -269,8 +269,7 @@ to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website –
 <li>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
+and non-academic requirements, and the programmes available to develop the area of talent.</p>
 </li>
 <li>
 <p>Students who are successfully admitted to the school via DSA are required
