@@ -5,12 +5,12 @@ description: ""
 variant: markdown
 ---
 <h3><strong>COMPASSVALE SECONDARY SCHOOL</strong></h3>
-<h3><strong>2026 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</strong></h3>
+<h3 id="TOP"><strong>2026 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</strong></h3>
 <p>We invite interested Primary 6 pupils to apply to join CVSS in Secondary
 One 2027 through the 2026 Direct School Admission – Secondary (DSA-Sec)
 Exercise under the school’s distinctive programmes and talent areas.</p>
 <h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
-<p>We offer DSA-SEC via 2 routes:<strong> <a href="#STEM" rel="noopener noreferrer nofollow" target="_blank">STEM (Aeronautics, Environmental Science, Robotics)</a></strong>and <strong><a href="#SPORTS" rel="noopener noreferrer nofollow" target="_blank">Sports and Games (Floorball - Boys and Girls, Netball, Softball - Boys, Badminton - Boys and Girls).</a></strong>
+<p>We offer DSA-SEC via 2 routes:<strong> <a href="#STEM">STEM (Aeronautics, Environmental Science, Robotics)</a></strong>and <strong><a href="#SPORTS">Sports and Games (Floorball - Boys and Girls, Netball, Softball - Boys, Badminton - Boys and Girls).</a></strong>
 </p>
 <h3><strong><u>SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS (STEM)</u></strong></h3>
 <h3><strong>1. STEM: AERONAUTICS</strong></h3>
@@ -28,7 +28,7 @@ further their interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero1b.jpg">
 </div>
-<p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2026</sup>
+<p></p><p style="text-align: center;"><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2026</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2a.jpg">
@@ -36,7 +36,7 @@ further their interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2b.jpg">
 </div>
-<p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition</sup>
+<p></p><p style="text-align: center;"><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition</sup>
 </p>
 <p>Members of the Aeronautics Club further their interests in the theories
 of flight and drone technology. Students engage in hands-on aeromodelling,
@@ -59,12 +59,12 @@ life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Env1b.jpg">
 </div>
-<p><sup>Students from Eco Leaders Club exploring plastic recycling</sup>
+<p></p><p style="text-align: center;"><sup>Students from Eco Leaders Club exploring plastic recycling</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Env2.jpg">
 </div>
-<p><sup>Students from Eco Leaders Club participating in Every Singaporean A Naturalist Programme</sup>
+<p></p><p style="text-align: center;"><sup>Students from Eco Leaders Club participating in Every Singaporean A Naturalist Programme</sup>
 </p>
 <h3><strong>3. STEM: ROBOTICS</strong></h3>
 <p>Robotics Club members develop critical, adaptive and inventive thinking
@@ -82,8 +82,7 @@ future careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics1.jpg">
 </div>
-<p><sup>Prize winners in the First Lego League Competition 2026</sup>
-</p>
+<p></p><p style="text-align: center;"><sup>Prize winners in the First Lego League Competition 2026</sup></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2a.jpg">
@@ -92,7 +91,7 @@ future careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2b.jpg">
 </div>
-<p><sup>Students from Robotics club preparing for the First Lego League competition 2026</sup>
+<p></p><p style="text-align: center;"><sup>Students from Robotics club preparing for the First Lego League competition 2026</sup>
 </p>
 <p>Join us today and grow your strengths and talents in STEM!</p>
 <h3><strong>SELECTION CRITERIA</strong></h3>
@@ -124,9 +123,10 @@ pictures/videos of themselves during competitions etc.).</p>
 between <strong>17 August 2026 </strong>and <strong>28 August 2026.</strong>
 </p>
 <p>e. The school’s decision is final and there will be no appeal process.</p>
-<p><strong><a href="#K" rel="noopener noreferrer nofollow" target="_blank">Key dates and essential information</a></strong>
+	<p></p><p style="text-align: center;"><strong><a href="#KEY"> Key dates and essential information</a></strong>
 </p>
 <h3><strong><u>SPORTS AND GAMES</u></strong></h3>
+
 <h3><strong>2. SPORTS AND GAMES: BADMINTON (BOYS &amp; GIRLS), FLOORBALL (BOYS &amp; GIRLS), NETBALL (GIRLS ONLY) AND SOFTBALL (BOYS ONLY)</strong></h3>
 <p>We nurture student-athletes with positive character traits, sportsmanship,
 and excellence in sports. We have a team of highly committed teachers and
@@ -148,47 +148,47 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Badminton_1.jpg">
 </div>
-<p><sup>Badminton B Boys in action during the National School Games</sup>
+<p></p><p style="text-align: center;"><sup>Badminton B Boys in action during the National School Games</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Badminton_2.jpg">
 </div>
-<p><sup>Badminton B Girls in action during the National School Games</sup>
+<p></p><p style="text-align: center;"><sup>Badminton B Girls in action during the National School Games</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Floorball_1.jpg">
 </div>
-<p><sup>Floorball C Girls winning the 2025 National School Games Tier 2– 1st Runner-up</sup>
+<p></p><p style="text-align: center;"><sup>Floorball C Girls winning the 2025 National School Games Tier 2– 1st Runner-up</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Floorball_2.jpg">
 </div>
-<p><sup>2026 National School Games Floorball Championship B Boys – Top 16</sup>
+<p></p><p style="text-align: center;"><sup>2026 National School Games Floorball Championship B Boys – Top 16</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Netball_1.jpg">
 </div>
-<p><sup>Netball National School Games 2026 B Division Team – Top 8</sup>
+<p></p><p style="text-align: center;"><sup>Netball National School Games 2026 B Division Team – Top 8</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
 </div>
-<p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
+<p></p><p style="text-align: center;"><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture18.png">
 </div>
-<p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
+<p></p><p style="text-align: center;"><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_1.jpg">
 </div>
-<p><sup>Softball B Div in action in National School Games 2026</sup>
+<p></p><p style="text-align: center;"><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_2.jpg">
 </div>
-<p><sup>Softball B Div in action in National School Games 2026</sup>
+<p></p><p style="text-align: center;"><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
 <h3><strong>SELECTION CRITERIA</strong></h3>
 <p>a. Evidence of talent and passion to develop in competitive Badminton/Floorball/Netball/Softball.</p>
@@ -200,8 +200,7 @@ assessing the potential of the applicants.</p>
 <h3><strong>SELECTION PROCESS</strong></h3>
 <p>a. Please note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer.</p>
-<p>b. Shortlisted applicants will be notified via email by <strong>13 July 2026 </strong>and
-will be required to perform skills-based tasks and attend an interview
+<p>b. Shortlisted applicants will be notified via email by <strong>13 July 2026 </strong>and will be required to perform skills-based tasks and attend an interview
 in Compassvale Secondary School between <strong>15 July 2026</strong> and <strong>14 August 2026.</strong>
 </p>
 <p>c. Applicants may showcase any evidence of their pursuit of passion in
@@ -264,7 +263,7 @@ between<strong> 17 August 2026</strong> and <strong>28 August 2026.</strong>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
 to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website –
-<a href="" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<a href="" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></p>
 </li>
 <li>
 <p>Parents and students are encouraged to choose schools wisely based on
@@ -284,5 +283,5 @@ related to the talent they are selected for from year 1-4.</p>
 in your email)</p>
 </li>
 </ol>
-<p><strong><a href="#TOP" rel="noopener noreferrer nofollow" target="_blank">Back to top</a></strong>
+<p><strong><a href="#TOP">Back to top</a></strong>
 </p>
