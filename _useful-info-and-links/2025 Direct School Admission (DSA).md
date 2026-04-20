@@ -36,7 +36,7 @@ further their interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2b.jpg">
 </div>
-<p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition </sup>
+<p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition</sup>
 </p>
 <p>Members of the Aeronautics Club further their interests in the theories
 of flight and drone technology. Students engage in hands-on aeromodelling,
@@ -173,7 +173,7 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Netball_1.jpg">
 </div>
-<p><sup>Netball National School Games 2026 B Division Team – Top 8 </sup>
+<p><sup>Netball National School Games 2026 B Division Team – Top 8</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
