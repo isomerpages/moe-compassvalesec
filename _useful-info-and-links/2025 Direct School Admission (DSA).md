@@ -31,10 +31,10 @@ further their interests.</p>
 <p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2026</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2a.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2b.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2b.jpg">
 </div>
 <p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition</sup>
 </p>
@@ -54,15 +54,10 @@ life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Girl Student holding plant" src="/images/2025%20DSA/Picture4.jpg">
-</div>
 <p><sup>Students from Eco Leaders Club monitoring the water quality of our hydroponics system</sup>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Env1b.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Env1b.jpg">
 </div>
 <p><sup>Students from Eco Leaders Club exploring plastic recycling</sup>
 </p>
@@ -91,11 +86,11 @@ future careers.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2a.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2b.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2b.jpg">
 </div>
 <p><sup>Students from Robotics club preparing for the First Lego League competition 2026</sup>
 </p>
@@ -176,23 +171,22 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 <p><sup>Netball National School Games 2026 B Division Team – Top 8</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
 </div>
 <p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture18.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture18.png">
 </div>
 <p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_1.jpg">
 </div>
 <p><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_2.jpg">
 </div>
 <p><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
