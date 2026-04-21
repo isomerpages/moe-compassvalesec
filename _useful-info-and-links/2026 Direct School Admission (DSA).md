@@ -54,7 +54,7 @@ life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
 </div>
-<p><sup>Students from Eco Leaders Club monitoring the water quality of our hydroponics system</sup>
+<p></p><p style="text-align: center;"><sup>Students from Eco Leaders Club monitoring the water quality of our hydroponics system</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Env1b.jpg">
