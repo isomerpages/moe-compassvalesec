@@ -92,11 +92,11 @@ future careers.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2a.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2b.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2b.jpg">
 </div>
 <p><sup>Students from Robotics club preparing for the First Lego League competition 2026</sup>
 </p>
@@ -173,7 +173,7 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Floorball_2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Floorball_2.jpg">
 </div>
 <p><sup>2026 National School Games Floorball Championship B Boys – Top 16</sup>
 </p>
@@ -185,23 +185,23 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/netball_replace.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/2026 DSA/netball_replace.jpg">
 </div>
 <p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/softball_replace.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/softball_replace.jpg">
 </div>
 <p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_1.jpg">
 </div>
 <p><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_2.jpg">
 </div>
 <p><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
