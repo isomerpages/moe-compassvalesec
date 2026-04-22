@@ -6,9 +6,7 @@ variant: markdown
 ---
 <h3><strong>COMPASSVALE SECONDARY SCHOOL</strong></h3>
 <h3><strong>2026 DIRECT SCHOOL ADMISSION – SECONDARY (DSA-SEC) EXERCISE</strong></h3>
-<p>We invite interested Primary 6 pupils to apply to join CVSS in Secondary
-One 2027 through the 2026 Direct School Admission – Secondary (DSA-Sec)
-Exercise under the school’s distinctive programmes and talent areas.</p>
+<p>We invite interested Primary 6 pupils to apply to join CVSS in Secondary One 2027 through the 2026 Direct School Admission – Secondary (DSA-Sec) Exercise under the school’s distinctive programmes and talent areas.</p>
 <h3><strong>DSA-SEC TALENTS OFFERED</strong></h3>
 <p>We offer DSA-SEC via 2 routes:<strong> <a href="#STEM" rel="noopener noreferrer nofollow" target="_blank">STEM (Aeronautics, Environmental Science, Robotics)</a></strong>and <strong><a href="#SPORTS" rel="noopener noreferrer nofollow" target="_blank">Sports and Games (Floorball - Boys and Girls, Netball, Softball - Boys, Badminton - Boys and Girls).</a></strong>
 </p>
@@ -27,7 +25,7 @@ further their interests.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero1b.jpg">
-<p><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2026</sup>
+<p style="text-align: center;"><sup>Prize winners in the Singapore Amazing Flying Machines Competition 2026</sup>
 </p>
 </div>
 <p></p>
@@ -37,7 +35,7 @@ further their interests.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Aero2b.jpg">
-<p><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition</sup>
+<p style="text-align: center;"><sup>Students from Aeronautics Club preparing for the Singapore Amazing Flying Machines Competition</sup>
 </p>
 </div>
 <p></p>
@@ -57,7 +55,7 @@ creative problem-solving, making STEM more engaging and relevant to everyday
 life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Student holding the plants" src="/images/2025%20DSA/Picture3.jpg">
-<p><sup>Students from Eco Leaders Club monitoring the water quality of our hydroponics system</sup></p>
+<p style="text-align: center;"><sup>Students from Eco Leaders Club monitoring the water quality of our hydroponics system</sup></p>
 </div>
 <p></p>
 
@@ -65,11 +63,11 @@ life.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Env1b.jpg">
 </div>
 <p></p>
-<p><sup>Students from Eco Leaders Club exploring plastic recycling</sup>
+<p style="text-align: center;"><sup>Students from Eco Leaders Club exploring plastic recycling</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Env2.jpg">
-<p><sup>Students from Eco Leaders Club participating in Every Singaporean A Naturalist Programme</sup>
+<p style="text-align: center;"><sup>Students from Eco Leaders Club participating in Every Singaporean A Naturalist Programme</sup>
 </p></div>
 <p></p>
 <h3><strong>3. STEM: ROBOTICS</strong></h3>
@@ -87,7 +85,7 @@ future careers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics1.jpg">
-<p><sup>Prize winners in the First Lego League Competition 2026</sup></p></div>
+<p style="text-align: center;"><sup>Prize winners in the First Lego League Competition 2026</sup></p></div>
 <p></p>
 
 <p></p>
@@ -97,7 +95,7 @@ future careers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Robotics_2b.jpg">
-<p><sup>Students from Robotics club preparing for the First Lego League competition 2026</sup>
+<p style="text-align: center;"><sup>Students from Robotics club preparing for the First Lego League competition 2026</sup>
 </p></div>
 <p></p>
 <p>Join us today and grow your strengths and talents in STEM!</p>
@@ -153,43 +151,43 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Badminton_1.jpg">
-<p><sup>Badminton B Boys in action during the National School Games</sup></p></div>
+<p style="text-align: center;"><sup>Badminton B Boys in action during the National School Games</sup></p></div>
 <p></p>
 
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Badminton_2.jpg">
-<p><sup>Badminton B Girls in action during the National School Games</sup>
+<p style="text-align: center;"><sup>Badminton B Girls in action during the National School Games</sup>
 </p></div>
 <p></p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Floorball_1.jpg">
-<p><sup>Floorball C Girls winning the 2025 National School Games Tier 2– 1st Runner-up</sup>
+<p style="text-align: center;"><sup>Floorball C Girls winning the 2025 National School Games Tier 2– 1st Runner-up</sup>
 </p></div>
 <p></p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Floorball_2.jpg">
-<p><sup>2026 National School Games Floorball Championship B Boys – Top 16</sup>
+<p style="text-align: center;"><sup>2026 National School Games Floorball Championship B Boys – Top 16</sup>
 </p></div>
 <p></p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Netball_1.jpg">
-<p><sup>Netball National School Games 2026 B Division Team – Top 8</sup>
+<p style="text-align: center;"><sup>Netball National School Games 2026 B Division Team – Top 8</sup>
 </p></div>
 <p></p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture15.jpg">
-<p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup></p></div>
+<p style="text-align: center;"><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup></p></div>
 <p></p>
 
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025%20DSA/Picture18.png">
-<p><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
+<p style="text-align: center;"><sup>Softball C Div Singapore Recreation Club Softball Championship 2025 - 3rd Position</sup>
 </p></div>
 <p></p>
 
@@ -197,11 +195,11 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_1.jpg">
 </div>
 <p></p>
-<p><sup>Softball B Div in action in National School Games 2026</sup>
+<p style="text-align: center;"><sup>Softball B Div in action in National School Games 2026</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/Softball_2.jpg">
-<p><sup>Softball B Div in action in National School Games 2026</sup>
+<p style="text-align: center;"><sup>Softball B Div in action in National School Games 2026</sup>
 </p></div>
 <p></p>
 
