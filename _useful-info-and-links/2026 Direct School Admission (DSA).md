@@ -185,7 +185,7 @@ help prepare our student-athletes physically and mentally for competitions.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 DSA/netball_replace.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2026 DSA/netball_replace.jpg">
 </div>
 <p><sup>Netball Netops Carnival 2025 U17 Team - 3rd Place</sup>
 </p>
