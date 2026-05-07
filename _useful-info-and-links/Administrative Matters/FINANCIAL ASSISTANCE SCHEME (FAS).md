@@ -135,8 +135,11 @@ enquiries on FAS.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/link_icon_svg.jpg">
 </div>
 <p><strong>Form SG – MOE FAS Application</strong>
-<br>Click on the link to submit your application directly to MOE eFAS Portal
-via Form SG</p>
+</p>
+<p></p>
+<p><strong>Click on the link to submit your application directly to MOE eFAS Portal via Form SG</strong>
+<br>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
