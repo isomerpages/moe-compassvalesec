@@ -25,8 +25,12 @@ for School-Based FAS (SBFAS).</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;<strong>1. <u>Ministry of Education FAS (MOE FAS) Income Eligibility</u> (click dropdown arrow below to reveal)</strong>
-</p>
+<p>&nbsp;<strong>1. <u>Ministry of Education FAS (MOE FAS) Income Eligibility</u> </strong>(click
+dropdown arrow below to reveal)</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Income Eligibility Criteria</p>
 <p>Gross Monthly Household Income (GHI) does not exceed:</p>
 <ul data-tight="true" class="tight">
@@ -37,8 +41,7 @@ for School-Based FAS (SBFAS).</p>
 <p>ii. $1,000 per capita</p>
 </li>
 </ul>
-<p>&nbsp;
-<br>Benefits</p>
+<p>&nbsp;Benefits</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>i. 100% subsidy on school and miscellaneous fees</p>
@@ -53,14 +56,19 @@ for School-Based FAS (SBFAS).</p>
 <p>iv. Public transport subsidy</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
-<p><strong>2. <u>School-Based FAS (SBFAS) Income Eligibility Criteria and Benefits</u> </strong>
-<br><strong>(click dropdown arrow below to reveal)</strong>
-</p>
+<p><strong>2. <u>School-Based FAS (SBFAS) Income Eligibility Criteria and Benefits</u> </strong>(click
+dropdown arrow below to reveal)</p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>SBFAS Category A</u></strong>
-</p>
-<p>Income Eligibility Criteria
+<br>Income Eligibility Criteria
 <br>Gross Monthly Household Income (GHI) does not exceed:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,8 +95,7 @@ for School-Based FAS (SBFAS).</p>
 </ul>
 <p></p>
 <p><strong><u>SBFAS Category B</u></strong>
-</p>
-<p>Income Eligibility Criteria
+<br>Income Eligibility Criteria
 <br>Gross Monthly Household Income (GHI) does not exceed:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -98,7 +105,7 @@ for School-Based FAS (SBFAS).</p>
 <p>ii.$1,375 per capita income</p>
 </li>
 </ul>
-<p>&nbsp;Benefits</p>
+<p>Benefits</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>i. 100% subsidy on school and miscellaneous fees</p>
@@ -107,6 +114,9 @@ for School-Based FAS (SBFAS).</p>
 <p>ii. Free textbooks</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
 <p><strong><u>Important Notes</u></strong>
 </p>
@@ -127,76 +137,13 @@ enquiries on FAS.</p>
 <p><strong><u>How to Apply</u></strong>
 <br><strong>Submit via one of the following platforms:</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/link_icon_svg.jpg">
-</div>
-<p><strong>Form SG – MOE FAS Application</strong>
-<br><strong>Click on the link to submit your application directly to MOE eFAS Portal via Form SG </strong>
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
-</div>
-<p><strong>Parents Gateway (PG)</strong>
-<br>Login to PG app &gt; Services &gt; Financial Assistance (eFAS) and submit
-your application</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 FAS/PG_screenshot_FAS.png">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
-</div>
-<p><strong>QR Code – EFAS </strong>
-<br><strong>Application</strong>
-<br>Scan the QR code to access the form easily</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 FAS/QR_code_FAS.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-efasggas"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 FAS/table_with_links_this.png"></a>
 <p><strong><u>What to Expect</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp; Parents will receive an email acknowledgement from MOE HQ upon
-submission of the eFAS application.</p>
+<p>Parents will receive an email acknowledgement from MOE HQ upon submission
+of the eFAS application.</p>
 </li>
 <li>
 <p>FAS processing time takes 3 – 4 weeks.</p>
