@@ -127,7 +127,6 @@ enquiries on FAS.</p>
 <p><strong><u>How to Apply</u></strong>
 <br><strong>Submit via one of the following platforms:</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -141,16 +140,12 @@ enquiries on FAS.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/link_icon_svg.jpg">
 </div>
 <p><strong>Form SG – MOE FAS Application</strong>
-</p>
-<p></p>
-<p>Click on the link to submit your application directly to MOE eFAS Portal
+<br>Click on the link to submit your application directly to MOE eFAS Portal
 via Form SG
 <br>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
