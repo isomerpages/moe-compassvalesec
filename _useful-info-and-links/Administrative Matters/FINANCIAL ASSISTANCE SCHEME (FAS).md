@@ -15,10 +15,16 @@ for School-Based FAS (SBFAS).</p>
 <p><strong><u>Schemes Available</u></strong>
 </p>
 <p>There are 2 types of financial assistance schemes (FAS):</p>
-<p>§&nbsp; Ministry of Education FAS (MOE FAS)</p>
-<p>§&nbsp; School-Based FAS (SBFAS) Category A and Category B
+<ul data-tight="true" class="tight">
+<li>
+<p>Ministry of Education FAS (MOE FAS)</p>
+</li>
+<li>
+<p>School-Based FAS (SBFAS) Category A and Category B
 <br>
 </p>
+</li>
+</ul>
 <p>&nbsp;<strong>1. <u>Ministry of Education FAS (MOE FAS) Income Eligibility</u> (click dropdown arrow below to reveal)</strong>
 </p>
 <p>Income Eligibility Criteria</p>
@@ -137,11 +143,15 @@ enquiries on FAS.</p>
 <p><strong>Form SG – MOE FAS Application</strong>
 </p>
 <p></p>
-<p><strong>Click on the link to submit your application directly to MOE eFAS Portal via Form SG</strong>
+<p>Click on the link to submit your application directly to MOE eFAS Portal
+via Form SG
 <br>
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
