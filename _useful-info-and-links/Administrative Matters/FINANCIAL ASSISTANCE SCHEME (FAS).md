@@ -135,9 +135,7 @@ enquiries on FAS.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/link_icon_svg.jpg">
 </div>
 <p><strong>Form SG – MOE FAS Application</strong>
-</p>
-<p></p>
-<p>Click on the link to submit your application directly to MOE eFAS Portal
+<br>Click on the link to submit your application directly to MOE eFAS Portal
 via Form SG</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -150,42 +148,63 @@ via Form SG</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
 </div>
 <p><strong>Parents Gateway (PG)</strong>
-</p>
-<p></p>
-<p>Login to PG app &gt; Services &gt; Financial Assistance (eFAS) and submit
+<br>Login to PG app &gt; Services &gt; Financial Assistance (eFAS) and submit
 your application</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 FAS/PG_screenshot_FAS.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
 </div>
-<p><strong>QR Code – EFAS Application</strong>
-</p>
-<p>Scan the QR code to access the form easily</p>
+<p><strong>QR Code – EFAS </strong>
+<br><strong>Application</strong>
+<br>Scan the QR code to access the form easily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 FAS/QR_code_FAS.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong><u>What to Expect</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp; Parents will receive an email acknowledgement from MOE HQ upon
+submission of the eFAS application.</p>
+</li>
+<li>
+<p>FAS processing time takes 3 – 4 weeks.</p>
+</li>
+<li>
+<p>Parents who received an email update from MOE HQ on the approval of their
+FAS should wait for a follow-up notification from the school.</p>
+</li>
+<li>
+<p>The school will contact parents via PG to inform them of their application
+outcome and provide details on FAS collection and benefits (if applicable).</p>
+</li>
+</ul>
+<p>&gt;&gt; For more information on the FAS scheme, please refer to MOE’s
+website at&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></strong>&nbsp;or
+contact the school’s General Office at&nbsp;<strong>6881 5047.</strong>
+</p>
 <p></p>
