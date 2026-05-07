@@ -130,6 +130,10 @@ enquiries on FAS.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/link_icon_svg.jpg">
+</div>
 <p><strong>Form SG – MOE FAS Application</strong>
 </p>
 <p></p>
@@ -146,6 +150,11 @@ via Form SG</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
+</div>
 <p><strong>Parents Gateway (PG)</strong>
 </p>
 <p></p>
@@ -154,11 +163,23 @@ your application</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026 FAS/PG_screenshot_FAS.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 FAS/parents_gateway_graphic.jpg">
+</div>
+<p><strong>QR Code – EFAS Application</strong>
+</p>
+<p>Scan the QR code to access the form easily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
