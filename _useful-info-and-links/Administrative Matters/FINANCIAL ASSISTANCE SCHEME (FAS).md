@@ -118,5 +118,53 @@ application.</p>
 enquiries on FAS.</p>
 </li>
 </ul>
+<p><strong><u>How to Apply</u></strong>
+<br><strong>Submit via one of the following platforms:</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Form SG – MOE FAS Application</strong>
+</p>
+<p></p>
+<p>Click on the link to submit your application directly to MOE eFAS Portal
+via Form SG</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parents Gateway (PG)</strong>
+</p>
+<p></p>
+<p>Login to PG app &gt; Services &gt; Financial Assistance (eFAS) and submit
+your application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
