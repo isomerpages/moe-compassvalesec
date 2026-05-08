@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<p><strong><u>MOE Financial Assistance Scheme (MOE FAS)</u></strong>
-</p>
 <p>Eligible Singapore Citizens (SC) can receive financial assistance from
 MOE on fees and other school expenses. All students applying for FAS must
 submit the MOE FAS application online regardless of which FAS scheme they
