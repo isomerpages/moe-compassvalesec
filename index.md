@@ -17,12 +17,23 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
-      title: "2025 O-Level Results Release: Briefing slides"
+      title: 2026 Semester 2 Timetables
+      subtitle: ANNOUNCEMENT
       id: infopic
-      button: Click to view slides
-      url: /o-level-results-release-briefing-slides/
-      image: /images/WhatsApp_Image_2026_01_15_at_10_31_34_AM.jpg
+      button: Click to view them
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/sch_building__values_4Cs.jpg
       alt: Image alt text
+  - infopic:
+      title: Illuminating New Horizons at Compassvale
+      subtitle: An invitation!
+      id: infopic
+      description: WATCH our latest corporate video to learn more about The
+        Compassvale Experience at CVSS, where you'll Realise your Star Within.
+      button: Click to learn more
+      url: /our-programmes/the-compassvale-experience/
+      alt: Image alt text
+      image: /images/Landing Page/corporate_vid_new_2026_screen_capture.png
   - infopic:
       title: Information for 2026 S1 Students & Parents
       id: infopic
@@ -38,42 +49,6 @@ sections:
       image: /images/School_books2.jpg
       alt: Booklist
       description: Booklists for Secondary 1 to 5 levels
-  - infopic:
-      title: 2026 Semester 1 Timetables
-      subtitle: ANNOUNCEMENT
-      id: infopic
-      button: Click to view them
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/sch_building__values_4Cs.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 GCE N-Level Briefing Slides
-      id: infopic
-      button: Click to view
-      url: /2025-n-level-results-briefing/
-      image: /images/Landing Page/n level results edit.png
-      alt: Students holding NLevel Result
-  - infopic:
-      title: Learn, Grow and Lead at Compassvale
-      subtitle: An invitation!
-      id: infopic
-      description: WATCH our newly released corporate video to learn more about The
-        Compassvale Experience at CVSS, where you'll Realise your Star Within.
-      button: Click to learn more
-      url: /our-programmes/the-compassvale-experience/
-      alt: Image alt text
-      image: /images/Landing Page/video_capture_2.jpg
-  - infopic:
-      title: CVSS 25th Anniversary Launch
-      subtitle: Celebration
-      id: infopic
-      description: On 8 Jan, CVSS proudly launched its 25th anniversary celebrations
-        with a light-up ceremony, and staff & students coming together for a
-        ‘CVSS 25’ formation!
-      button: Read more on instagram
-      url: https://www.instagram.com/p/DEj1SjbTjqU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-      alt: Image alt text
-      image: /images/Landing Page/Unity_Formation___students_looking_up_5.png
   - infopic:
       title: Refreshed Learning Spaces @ CVSS
       subtitle: Announcement

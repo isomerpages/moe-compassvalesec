@@ -16,6 +16,6 @@ In Compassvale Secondary School, the main objectives of CCA are to:
 As an integral part of our students’ holistic development, various CCA programmes provide platforms for students to discover their interests and talents outside academic pursuits.
 
 The CCAs offered in CVSS are:
-![](/images/2026%20Distinctive%20Programmes/CCA.png)
+![](/images/2026%20Student%20Development/cca_list_2026.png)
 
 <img src="/images/Combined%20CCA%20Shot%202_cropped.jpg">
