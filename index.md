@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /useful-links/
   - infopic:
+      title: 2026 Semester 2 Timetables
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      button: Click to view them
+      url: https://www.compassvalesec.moe.edu.sg/announcements/
+      image: /images/Landing Page/sch_building__values_4Cs.jpg
+      alt: Image alt text
+  - infopic:
       title: Illuminating New Horizons at Compassvale
       subtitle: An invitation!
       id: infopic
@@ -26,14 +34,6 @@ sections:
       url: /our-programmes/the-compassvale-experience/
       alt: Image alt text
       image: /images/Landing Page/corporate_vid_new_2026_screen_capture.png
-  - infopic:
-      title: 2026 Semester 2 Timetables
-      subtitle: ANNOUNCEMENT
-      id: infopic
-      button: Click to view them
-      url: https://www.compassvalesec.moe.edu.sg/announcements/
-      image: /images/Landing Page/sch_building__values_4Cs.jpg
-      alt: Image alt text
   - infopic:
       title: Information for 2026 S1 Students & Parents
       id: infopic
