@@ -27,7 +27,7 @@ sections:
       alt: Image alt text
       image: /images/Landing Page/corporate_vid_new_2026_screen_capture.png
   - infopic:
-      title: 2026 Semester 1 Timetables
+      title: 2026 Semester 2 Timetables
       subtitle: ANNOUNCEMENT
       id: infopic
       button: Click to view them
