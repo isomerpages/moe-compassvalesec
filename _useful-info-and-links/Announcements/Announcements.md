@@ -11,7 +11,7 @@ variant: markdown
 * [2026 Semester 2 - Sec 1 Timetables](/files/2026%20Timetable/2026_Sem_2_TT_Sec_1.pdf)
 
 * [2026 Semester 2 - Sec 2 Timetables (***updated 26 June 2026)](/files/2026%20Timetable/updated_260626__2026_Sem_2_Sec_2.pdf)
-* [[2026 Semester 2 - Sec 3 Timetables (***updated 26 June 2026)](/files/2026%20Timetable/updated_260626__2026_Sem_2_Sec_3.pdf)
+* [2026 Semester 2 - Sec 3 Timetables (***updated 26 June 2026)](/files/2026%20Timetable/updated_260626__2026_Sem_2_Sec_3.pdf)
 * [2026 Semester 2 - Sec 4/5 Timetables](/files/2026%20Timetable/2026_Sem_2_TT_Sec_4_5.pdf)
 
 
