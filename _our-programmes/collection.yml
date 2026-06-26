@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Anti Bullying Policy.md
       - The Compassvale Experience.md
       - Competency Clusters/.keep
       - Competency Clusters/Languages, Literature and Humanities.md
@@ -32,3 +31,4 @@ collections:
       - Student Development Programmes/Student Leadership.md
       - Student Development Programmes/Co Curricular Activities.md
       - AI Use Policy.md
+      - Anti Bullying Policy.md
