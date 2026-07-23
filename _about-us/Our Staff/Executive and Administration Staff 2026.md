@@ -127,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer</p>
+<p>Lead Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gladelind Koo Wei Ling</p>
@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p>Senior Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Faridah Bte Kayadi</p>
