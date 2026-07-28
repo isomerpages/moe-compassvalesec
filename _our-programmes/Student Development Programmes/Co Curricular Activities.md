@@ -18,4 +18,4 @@ As an integral part of our students’ holistic development, various CCA program
 The CCAs offered in CVSS are:
 ![](/images/2026%20Student%20Development/cca_list_2026.png)
 
-<img src="/images/Combined%20CCA%20Shot%202_cropped.jpg">
+![Photos of students from all CCA](/images/About%20Us%20%20%20Staff/cca%20photo.png)
