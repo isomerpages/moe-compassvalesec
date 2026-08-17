@@ -1,6 +1,6 @@
 ---
-title: Form and Co–Form Teachers 2026
-permalink: /about-us/our-staff/form-co-form-teachers-2026/
+title: Form Teachers 2026
+permalink: /about-us/our-staff/form-teachers-2026/
 description: ""
 third_nav_title: Our Staff
 variant: markdown
@@ -75,7 +75,7 @@ variant: markdown
     <td class="tg-9hzb">1-8</td>
     <td class="tg-dgl5">Mr Sim Chay Whatt <br><i>sim_chay_whatt@moe.edu.sg</i></td>
     <td class="tg-dgl5">Ms Wang Xiaoya<br><i>wang_xiaoya_a@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Ms Chong Zhen Yi <br><i>chong_zhen_yi@schools.gov.sg</i></td>
+    <td class="tg-dgl5">Ms Chong Zhen Yi <br><i>chong_zhen_yi@moe.edu.sg</i></td>
   </tr>
 	 
   <tr>
