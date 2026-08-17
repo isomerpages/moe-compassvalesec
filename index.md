@@ -13,9 +13,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
-        - title: Useful Links
-          description: ""
-          url: /useful-links/
   - infopic:
       title: 2026 Semester 2 Timetables
       subtitle: ANNOUNCEMENT
