@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.compassvalesec.moe.edu.sg/about-us/our-staff/form-co-form-teachers-2026/" rel="noopener noreferrer nofollow" target="_blank">Form / Co-Form Teachers</a>
+<p><a href="https://www.compassvalesec.moe.edu.sg/about-us/our-staff/form-co-form-teachers-2026/" rel="noopener noreferrer nofollow" target="_blank">Form Teachers</a>
 </p>
 </li>
 <li>
