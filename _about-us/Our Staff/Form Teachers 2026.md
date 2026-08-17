@@ -75,7 +75,7 @@ variant: markdown
     <td class="tg-9hzb">1-8</td>
     <td class="tg-dgl5">Mr Sim Chay Whatt <br><i>sim_chay_whatt@moe.edu.sg</i></td>
     <td class="tg-dgl5">Ms Wang Xiaoya<br><i>wang_xiaoya_a@moe.edu.sg  </i></td>
-    <td class="tg-dgl5">Ms Chong Zhen Yi <br><i>chong_zhen_yi@moe.gov.sg</i></td>
+    <td class="tg-dgl5">Ms Chong Zhen Yi <br><i>chong_zhen_yi@moe.edu.sg</i></td>
   </tr>
 	 
   <tr>
